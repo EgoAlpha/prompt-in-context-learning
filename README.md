@@ -258,8 +258,9 @@ Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and 
 # 👨‍👩‍👧‍👦 Contributors
 
 ## Main Contributors
-* [Jizhe Yu]()
+* [Yu Liu]()
 * [Yifei Cao](https://github.com/cyfedu1024)
+* [Jizhe Yu]()
 * [Yuan Yao]()
 * [He Qi]()
 
