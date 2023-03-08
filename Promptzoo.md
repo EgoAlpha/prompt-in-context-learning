@@ -1,1 +1,1 @@
-# ⚡️ For this section are still not shown, we will release and publish in three days, thus please wait for a while and focus your eyes on our github site. 
+# ⚡️ For this section are still not shown. Our work is not finished yet, we will inform you after the official release, please pay attention to our site, at this stage, our project is in the trial period, three to five days after the release, thus please wait for a while and focus your eyes on our github site.
