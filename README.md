@@ -292,12 +292,13 @@ We are willing to communicate with your research team or confirm in variety of f
 # 👨‍👩‍👧‍👦 Contributors
 
 ## Main Contributors
-* [Zhang san](https://martin-danelljan.github.io/)  
-* [Li si](https://goutamgmb.github.io/)
-* [Wang wu](https://2006pmach.github.io/)
+* [Jizhe Yu]()
+* [Yuan Yao]()
+* [He Qi]()
+* [Yifei Cao](https://github.com/cyfedu1024)
 
 ## Guest Contributors
-* [孙尚香](https://liu.se/en/employee/felja34)
+* [No]
 
 <img width="200%" src="./figures/hr.gif" />
 
