@@ -309,3 +309,5 @@ This project is open source and available under the MIT
 <div align="center">
 <img src="./figures/rocket.png"/>
 </div>
+
+ [**Large Language Models Are Reasoning Teachers**](https://doi.org/10.48550/arXiv.2212.10071) 👨‍🎓Namgyu Ho,Laura Schmid,Se-Young Yun 2022![](https://img.shields.io/badge/pub-2022--12--20-green)![](https://img.shields.io/badge/cite-4-red)
