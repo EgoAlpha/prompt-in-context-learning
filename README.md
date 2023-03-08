@@ -251,7 +251,7 @@ This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Question
 
 # 🙏 Acknowledgements
 
-Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up and maintain this community well. More researchers are welcome to join us and make more contributions to the community.] 
+Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up period and maintain this community well. More researchers are welcome to join us and make more contributions to the community.
 
 <img width="200%" src="./figures/hr.gif" />
 
