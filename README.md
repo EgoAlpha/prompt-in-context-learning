@@ -245,15 +245,13 @@ If you find our work helps, please star our project and cite our paper. Thanks a
 
 # ✉️ Contact
 
-This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Questions and discussions are welcome via `cyfedu1024@gmail.com` or `cyfedu1024@163.com`.
-
-We are willing to communicate with your research team or confirm in variety of fields.
+This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Questions and discussions are welcome via `cyfedu1024@gmail.com` or `cyfedu1024@163.com`. We are willing to communicate with your research team or confirm in variety of fields.
 
 <img width="200%" src="./figures/hr.gif" />
 
 # 🙏 Acknowledgements
 
-【Thanks to [EgoAlpha Lab](https://github.com/EgoAlpha) for the help with XXX and [who](https://github.com/xxx) for the help with A工作 and B 工作.】/【Thanks to the XXX modeule.】/ [We use the implemention of XXX from https://xxx.xxx]
+Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up and maintain this community well. More researchers are welcome to join us and make more contributions to the community.] 
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -261,12 +259,13 @@ We are willing to communicate with your research team or confirm in variety of f
 
 ## Main Contributors
 * [Jizhe Yu]()
+* [Yifei Cao](https://github.com/cyfedu1024)
 * [Yuan Yao]()
 * [He Qi]()
-* [Yifei Cao](https://github.com/cyfedu1024)
 
-## Guest Contributors
-* [No]
+
+<!-- ## Guest Contributors
+* [No] -->
 
 <img width="200%" src="./figures/hr.gif" />
 
