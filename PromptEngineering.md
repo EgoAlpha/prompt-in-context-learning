@@ -50,19 +50,19 @@ By following design principle, you can improve the quality and accuracy of the L
 ### Framework
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
 
-- **Context**:  
+- 🕐**Context**:  
   - Context is key when designing a prompt. Make sure to provide enough background information surrounding to the designated task so that the model can understands the situation and generate text that is relevant and accurate. 
 
-- **Instruction**:
+- 🕜**Instruction**:
   - Instruction is crucial as it guides the model on what to do and what is expected of it. It is important to be clear, concise and specific. When dealing with complex reasoning tasks, consider breaking the tasks down into smaller, more manageable steps to help the model understand the task at hand.
 
-- **Relevance**:
+- 🕑**Relevance**:
   - Relevance is essential when specific information needs to be referenced. This information could be links to relevant articles or data, or specific input provided by the user. By utilizing this specific information, the model can tailor its output to be personalized, reliable, and consistent with the user's needs.
 
-- **Constraint**:    
+- 🕝**Constraint**:    
   - Constraint is helpful as guiding LLMs on what it can and cannot do, ultimately leading to more accurate results. This may involve specifying the format of the output, the type of language to be used, or even the length of the output. Additionally, specifying the difficulty level and style can further refine the output.
 
-- **Demonstration**: 
+- 🕒**Demonstration**: 
   - Demonstration is valuable as it allow LLMs to understand what is expected through examples, particularly when instructions alone cannot effectively convey specific details and accuracy. By offering examples of input and output pairs, LLMs can automatically identify patterns and then generate text that is aligned with the user's expectations.
 
 ## 💥 Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt.*
