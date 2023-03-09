@@ -1,8 +1,10 @@
 # 🌠 Prompt Engineering
+
 ## Introduction
+
 Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
 
-**The aforementioned is also applicable to other large generative models, such text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.**
+- The aforementioned is also applicable to other large generative models, such text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.
 
 
 LLMs are trained on vast amounts of text data, allowing them to encode a substantial amount of factual information about the world. Their popularity has surged in recent years due to their ability to generate human-like text, making them ideal for chatbots, virtual assistants, and similar applications. However, it is essential to note that without appropriate prompt engineering, the generated outputs can be unpredictable and potentially result in harmful consequences.
