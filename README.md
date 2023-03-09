@@ -67,8 +67,8 @@ Those whose jobs are replaced by AI automation.
 - [Prompt Engineering](#prompt-engineering)
 - [In-context learning](#in-context-learning)
 - [Multimodal Prompt](#multimodal-prompt)
-- [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
-- [Prompt for Knowledge Graph](#prompt-for-knowledge-graph)
+<!-- - [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
+- [Prompt for Knowledge Graph](#prompt-for-knowledge-graph) -->
 
 ---
 
@@ -229,54 +229,6 @@ Those whose jobs are replaced by AI automation.
 [**Scalable Prompt Generation for Semi-supervised Learning with Language Models**](https://arxiv.org/abs/2302.135402302.09236) 👨‍🎓 
 
 👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈
-
-## Knowledge Augmented Prompts
-
-[**UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning**](https://doi.org/10.18653/v1/2022.acl-long.433) 👨‍🎓Yuning Mao,Lambert Mathias,Rui Hou,Amjad Almahairi,Hao Ma,Jiawei Han,Wen-tau Yih,Madian Khabsa 2021 ![](https://img.shields.io/badge/pub-2021--10--14-green)![](https://img.shields.io/badge/cite-31-red)
-
-[**HETFORMER: Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization**](https://doi.org/10.18653/v1/2021.emnlp-main.13) 👨‍🎓Ye Liu,Jianguo Zhang,Yao Wan,Congying Xia,Lifang He,Philip S. Yu 2021 ![](https://img.shields.io/badge/pub-2021--10--12-green)![](https://img.shields.io/badge/cite-11-red)
-
-[**Can Language Models be Biomedical Knowledge Bases?**](https://doi.org/10.18653/v1/2021.emnlp-main.388) 👨‍🎓Mujeen Sung,Jinhyuk Lee,Sean S. Yi,Minji Jeon,Sungdong Kim,Jaewoo Kang 2021 ![](https://img.shields.io/badge/pub-2021--09--15-green)![](https://img.shields.io/badge/cite-26-red)
-
-[**The SelectGen Challenge: Finding the Best Training Samples for Few-Shot Neural Text Generation**](https://arxiv.org/abs/2302.135402108.06614) 👨‍🎓Ernie Chang,Xiaoyu Shen,Alex Marin,V. Demberg 2021 ![](https://img.shields.io/badge/pub-2021--08--14-green)![](https://img.shields.io/badge/cite-4-red)
-
-[**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) 👨‍🎓Pengfei Liu,Weizhe Yuan,Jinlan Fu,Zhengbao Jiang,Hiroaki Hayashi,Graham Neubig 2021 ![](https://img.shields.io/badge/pub-2021--07--28-green)![](https://img.shields.io/badge/cite-429-red)
-
-[**On Training Instance Selection for Few-Shot Neural Text Generation**](https://doi.org/10.18653/v1/2021.acl-short.2) 👨‍🎓Ernie Chang,Xiaoyu Shen,Hui-Syuan Yeh,V. Demberg 2021 ![](https://img.shields.io/badge/pub-2021--07--07-green)![](https://img.shields.io/badge/cite-15-red)
-
-[**Template-Based Named Entity Recognition Using BART**](https://doi.org/10.18653/v1/2021.findings-acl.161) 👨‍🎓Leyang Cui,Yu Wu,Jian Liu,Sen Yang,Yue Zhang 2021 ![](https://img.shields.io/badge/pub-2021--06--03-green)![](https://img.shields.io/badge/cite-100-red)
-
-[**Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization**](https://doi.org/10.18653/V1/2021.NAACL-MAIN.381) 👨‍🎓Yichen Jiang,Asli Celikyilmaz,P. Smolensky,Paul Soulos,Sudha Rao,H. Palangi,Roland Fernandez,Caitlin Smith,Mohit Bansal,Jianfeng Gao 2021 ![](https://img.shields.io/badge/pub-2021--06--01-green)![](https://img.shields.io/badge/cite-6-red)
-
-[**SciFive: a text-to-text transformer model for biomedical literature**](https://arxiv.org/abs/2302.135402106.03598) 👨‍🎓Long Phan,J. Anibal,Hieu Tran,Shaurya Chanana,Erol Bahadroglu,Alec Peltekian,G. Altan-Bonnet 2021 ![](https://img.shields.io/badge/pub-2021--05--28-green)![](https://img.shields.io/badge/cite-45-red)
-
-[**PTR: Prompt Tuning with Rules for Text Classification**](https://doi.org/10.1016/j.aiopen.2022.11.003) 👨‍🎓Xu Han,Weilin Zhao,Ning Ding,Zhiyuan Liu,Maosong Sun 2021 ![](https://img.shields.io/badge/pub-2021--05--24-green)![](https://img.shields.io/badge/cite-169-red)
-
-👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈
-
-## Prompt for Knowledge Graph
-
-[**UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning**](https://doi.org/10.18653/v1/2022.acl-long.433) 👨‍🎓Yuning Mao,Lambert Mathias,Rui Hou,Amjad Almahairi,Hao Ma,Jiawei Han,Wen-tau Yih,Madian Khabsa 2021 ![](https://img.shields.io/badge/pub-2021--10--14-green)![](https://img.shields.io/badge/cite-31-red)
-
-[**HETFORMER: Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization**](https://doi.org/10.18653/v1/2021.emnlp-main.13) 👨‍🎓Ye Liu,Jianguo Zhang,Yao Wan,Congying Xia,Lifang He,Philip S. Yu 2021 ![](https://img.shields.io/badge/pub-2021--10--12-green)![](https://img.shields.io/badge/cite-11-red)
-
-[**Can Language Models be Biomedical Knowledge Bases?**](https://doi.org/10.18653/v1/2021.emnlp-main.388) 👨‍🎓Mujeen Sung,Jinhyuk Lee,Sean S. Yi,Minji Jeon,Sungdong Kim,Jaewoo Kang 2021 ![](https://img.shields.io/badge/pub-2021--09--15-green)![](https://img.shields.io/badge/cite-26-red)
-
-[**The SelectGen Challenge: Finding the Best Training Samples for Few-Shot Neural Text Generation**](https://arxiv.org/abs/2302.135402108.06614) 👨‍🎓Ernie Chang,Xiaoyu Shen,Alex Marin,V. Demberg 2021 ![](https://img.shields.io/badge/pub-2021--08--14-green)![](https://img.shields.io/badge/cite-4-red)
-
-[**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) 👨‍🎓Pengfei Liu,Weizhe Yuan,Jinlan Fu,Zhengbao Jiang,Hiroaki Hayashi,Graham Neubig 2021 ![](https://img.shields.io/badge/pub-2021--07--28-green)![](https://img.shields.io/badge/cite-429-red)
-
-[**On Training Instance Selection for Few-Shot Neural Text Generation**](https://doi.org/10.18653/v1/2021.acl-short.2) 👨‍🎓Ernie Chang,Xiaoyu Shen,Hui-Syuan Yeh,V. Demberg 2021 ![](https://img.shields.io/badge/pub-2021--07--07-green)![](https://img.shields.io/badge/cite-15-red)
-
-[**Template-Based Named Entity Recognition Using BART**](https://doi.org/10.18653/v1/2021.findings-acl.161) 👨‍🎓Leyang Cui,Yu Wu,Jian Liu,Sen Yang,Yue Zhang 2021 ![](https://img.shields.io/badge/pub-2021--06--03-green)![](https://img.shields.io/badge/cite-100-red)
-
-[**Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization**](https://doi.org/10.18653/V1/2021.NAACL-MAIN.381) 👨‍🎓Yichen Jiang,Asli Celikyilmaz,P. Smolensky,Paul Soulos,Sudha Rao,H. Palangi,Roland Fernandez,Caitlin Smith,Mohit Bansal,Jianfeng Gao 2021 ![](https://img.shields.io/badge/pub-2021--06--01-green)![](https://img.shields.io/badge/cite-6-red)
-
-[**SciFive: a text-to-text transformer model for biomedical literature**](https://arxiv.org/abs/2302.135402106.03598) 👨‍🎓Long Phan,J. Anibal,Hieu Tran,Shaurya Chanana,Erol Bahadroglu,Alec Peltekian,G. Altan-Bonnet 2021 ![](https://img.shields.io/badge/pub-2021--05--28-green)![](https://img.shields.io/badge/cite-45-red)
-
-[**PTR: Prompt Tuning with Rules for Text Classification**](https://doi.org/10.1016/j.aiopen.2022.11.003) 👨‍🎓Xu Han,Weilin Zhao,Ning Ding,Zhiyuan Liu,Maosong Sun 2021 ![](https://img.shields.io/badge/pub-2021--05--24-green)![](https://img.shields.io/badge/cite-169-red)
-
-👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈
 
 <img width="200%" src="./figures/hr.gif" />
 
