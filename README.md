@@ -8,7 +8,7 @@
     </a>
   </div>
 
-**Awesome resources for in-context learning and prompt engineering: Mastery of the latest LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.**
+**Awesome resources for in-context learning and prompt engineering: Mastery of the latest LLMs such as ChatGPT, GPT-3, and FlanT5.**
 
 <img width="200%" src="./figures/hr.gif" />
 
