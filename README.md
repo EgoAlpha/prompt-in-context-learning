@@ -98,7 +98,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list 🔗 for "prompt design"]("https://github.com/EgoAlpha/prompt-in-context-learning/PaperList/PromptDesignList.md")👈
+👉[Complete paper list 🔗 for "prompt design"][new]👈
 
 ### 📌 Automatic Prompt 
 
@@ -341,3 +341,6 @@ This project is open source and available under the MIT
 <div align="center">
 <img src="./figures/rocket.png"/>
 </div>
+
+
+[new]: "https://github.com/EgoAlpha/prompt-in-context-learning/PaperList/PromptDesignList.md"
