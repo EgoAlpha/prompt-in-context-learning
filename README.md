@@ -98,7 +98,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for prompt design]("./PaperList/PromptDesignList.md")👈
+👉[Complete paper list 🔗 for prompt design]("./PaperList/PromptDesignList.md")👈
 
 ### 📌 Automatic Prompt 
 
@@ -124,7 +124,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Automatic Prompt"]("./PaperList/AutomaticPromptList.md")👈
+👉[Complete paper list 🔗 for "Automatic Prompt"]("./PaperList/AutomaticPromptList.md")👈
 
 ### 📌 Chain of Thought
 
@@ -150,7 +150,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Chain of Thought"]("./PaperList/ChainofThoughtList.md")👈
+👉[Complete paper list 🔗 for "Chain of Thought"]("./PaperList/ChainofThoughtList.md")👈
 
 ### 📌 Evaluation & Reliability
 
@@ -176,7 +176,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Evaluation & Reliability"]("./PaperList/EvaluationReliabilityList.md")👈
+👉[Complete paper list 🔗 for "Evaluation & Reliability"]("./PaperList/EvaluationReliabilityList.md")👈
 
 ## In-context Learning
 
@@ -202,7 +202,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "In-context Learning"]("./PaperList/InContextLearningList.md")👈
+👉[Complete paper list 🔗 for "In-context Learning"]("./PaperList/InContextLearningList.md")👈
 
 ## Multimodal Prompt
 
@@ -214,7 +214,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Hard Prompt"]("./PaperList/HardPromptList.md")👈
+👉[Complete paper list 🔗 for "Hard Prompt"]("./PaperList/HardPromptList.md")👈
 
 ### 📌 Soft Prompt/ Continuous Prompt
 
@@ -240,7 +240,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Soft Prompt"]("./PaperList/SoftPromptList.md")👈
+👉[Complete paper list 🔗 for "Soft Prompt"]("./PaperList/SoftPromptList.md")👈
 
 ## Knowledge Augmented Prompts
 
@@ -266,7 +266,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Knowledge Augmented Prompts"]("./PaperList/KnowledgeAugmentedPromptList.md")👈
+👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"]("./PaperList/KnowledgeAugmentedPromptList.md")👈
 
 ## Prompt for Knowledge Graph
 
@@ -292,7 +292,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list for "Prompt for Knowledge Graph"]("./PaperList/PromptKnowledgeGraphList.md")👈
+👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"]("./PaperList/PromptKnowledgeGraphList.md")👈
 
 <img width="200%" src="./figures/hr.gif" />
 
