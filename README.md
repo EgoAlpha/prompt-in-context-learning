@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./figures/egoalpha_logo_compress.jpeg" width="600px">
+<img src="./figures/Prompt-EgoAlpha.svg" width="600px">
 
  <div align="center">
     <a href="https://blog.sunguoqi.com/">
