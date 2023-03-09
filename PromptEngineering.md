@@ -13,19 +13,18 @@ The goal of prompt engineering is to identify an appropriate prompt to be given 
 
 A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraph, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
 
-**For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.**
+> For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.**
 
 After receiving various types of prompts, LLMs have the ability to generate a diverse range of output formats, including completed sentences, question-answers, translations, conversational scripts, and other text generation, all of which have wide-ranging applications and great creative potential. 
 
 Depending on the knowledge and experience acquired from vast amounts of language data during training, LLMs are not just used for chatbot conversations, but also highly effective problem solvers. 
 
-## Hightlight
-To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
+### 💥 Hightlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
 
 ## Design Principle and Framework 
 A good prompt is one that is specific and provides enough context for LLMs to be able to generate a response that is relevant to the task.
 
-## Design principle
+### Design principle
 By following design principle, you can improve the quality and accuracy of the LLM’s responses and enhance the overall user experience.
 
 - Be clear and specific: The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt as this can lead to unclear or irrelevant responses.
@@ -39,7 +38,7 @@ By following design principle, you can improve the quality and accuracy of the L
 -	Use appropriate formatting: Use appropriate formatting such as bullet points, numbered lists, or bold text to highlight key information in the prompt. This can help the model understand the structure and organization of the prompt.
 -	Test and refine: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
 
-## Framework
+### Framework
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
 
 - **Context**:  
@@ -57,7 +56,7 @@ We propose a framework for prompt design that consists of five key components: c
 - **Demonstration**: 
   - Demonstration is valuable as it allow LLMs to understand what is expected through examples, particularly when instructions alone cannot effectively convey specific details and accuracy. By offering examples of input and output pairs, LLMs can automatically identify patterns and then generate text that is aligned with the user's expectations.
 
-*Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt.*
+## 💥 Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt.*
 
 
 
