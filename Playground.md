@@ -51,7 +51,7 @@
 | ---- | ---- | ----  | ---- | ---- |----|----|
 | GPT-4 | Unreleased | OpenAI | **Unreleased** | **TBA**|-/-|Unreleased|
 | Bard | Encoder-Decoder | GoogleAI |Unreleased| -|-/-|Unreleased|
-| MOSS| Decoder | Fudan University | [🔗](https://moss.fastnlp.top/) | 20|[Paper]()/ [Code](https://github.com/txsun1997/MOSS)|Feb-23|
+| MOSS| Decoder | Fudan University | [🔗](https://moss.fastnlp.top/) | 20|-/ [Code](https://github.com/txsun1997/MOSS)|Feb-23|
 |FLAME | Encoder-Decoder | Microsoft | [🔗](https://www.t🔗gister.com/2023/02/04/microsoft_excel_ai/)| 0.06|[Paper](https://arxiv.org/abs/2301.13779)/-|Jan-23|
 | Med-PaLM | Encoder | Google & DeepMind | [🔗](https://gpt3demo.com/apps/med-palm) | 540|[Paper](https://arxiv.org/abs/2212.13138)/-|Dec-22|
 | GLaM | Encoder | Google Inc | [🔗](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html) | 1200|[Paper](https://arxiv.org/abs/2112.06905)/-|Dec-22|
