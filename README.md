@@ -96,9 +96,7 @@ Those whose jobs are replaced by AI automation.
 
 [**PTR: Prompt Tuning with Rules for Text Classification**](https://doi.org/10.1016/j.aiopen.2022.11.003) 👨‍🎓Xu Han,Weilin Zhao,Ning Ding,Zhiyuan Liu,Maosong Sun 2021 ![](https://img.shields.io/badge/pub-2021--05--24-green)![](https://img.shields.io/badge/cite-169-red)
 
-
-
------------------------------------------👉[Complete paper list 🔗 for "prompt design"](./PaperList/PromptDesignList.md)👈--------------------------------------------------
+------------------------------------------ 👉[Complete paper list 🔗 for "prompt design"](./PaperList/PromptDesignList.md)👈--------------------------------------------------
 
 ### 📌 Automatic Prompt 
 
