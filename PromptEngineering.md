@@ -28,6 +28,8 @@ Depending on the knowledge and experience acquired from vast amounts of language
 
 ### 💥 Hightlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
 
+<img width="200%" src="./figures/hr.gif" />
+
 ## Design Principle and Framework 
 A good prompt is one that is specific and provides enough context for LLMs to be able to generate a response that is relevant to the task.
 
