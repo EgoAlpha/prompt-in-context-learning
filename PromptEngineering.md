@@ -1,5 +1,12 @@
 # 🌠 Prompt Engineering
 
+# Table Of Contents
+
+- [Introduction](# introduction)
+- [Design Principle and Framework](# design-principle-and-framework)
+
+<img width="200%" src="./figures/hr.gif" />
+
 ## Introduction
 
 Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
