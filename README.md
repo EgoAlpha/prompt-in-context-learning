@@ -194,7 +194,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-------------------------------------------👉[Complete paper list 🔗 for "In-context Learning"](./PaperList/InContextLearningList.md)👈------------------------------------------
+-----------------------------------------------👉[Complete paper list 🔗 for "In-context Learning"](./PaperList/InContextLearningList.md)👈-------------------------------------------------
 
 ## Multimodal Prompt
 
@@ -204,7 +204,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://api.semanticscholar.org/123191916) 👨‍🎓Yuxin Wen,Neel Jain,John Kirchenbauer,Micah Goldblum,Jonas Geiping,T. Goldstein 2023 
 
-------------------------------------------👉[Complete paper list 🔗 for "Hard Prompt"](./PaperList/HardPromptList.md)👈------------------------------------------
+--------------------------------------------👉[Complete paper list 🔗 for "Hard Prompt"](./PaperList/HardPromptList.md)👈------------------------------------------------------
 
 ### 📌 Soft Prompt/ Continuous Prompt
 
@@ -228,7 +228,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Scalable Prompt Generation for Semi-supervised Learning with Language Models**](https://arxiv.org/abs/2302.135402302.09236) 👨‍🎓 
 
-------------------------------------------👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈------------------------------------------
+-----------------------------------------------👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈----------------------------------------------
 
 ## Knowledge Augmented Prompts
 
@@ -252,7 +252,7 @@ Those whose jobs are replaced by AI automation.
 
 [**PTR: Prompt Tuning with Rules for Text Classification**](https://doi.org/10.1016/j.aiopen.2022.11.003) 👨‍🎓Xu Han,Weilin Zhao,Ning Ding,Zhiyuan Liu,Maosong Sun 2021 ![](https://img.shields.io/badge/pub-2021--05--24-green)![](https://img.shields.io/badge/cite-169-red)
 
-------------------------------------------👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈------------------------------------------
+------------------------------------------👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈---------------------------------------
 
 ## Prompt for Knowledge Graph
 
