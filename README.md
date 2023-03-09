@@ -98,7 +98,7 @@ Those whose jobs are replaced by AI automation.
 
 
 
-👉[Complete paper list 🔗 for "prompt design"](./PaperList/PromptDesignList.md)👈
+------------------------👉[Complete paper list 🔗 for "prompt design"](./PaperList/PromptDesignList.md)👈------------------------
 
 ### 📌 Automatic Prompt 
 
