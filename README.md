@@ -25,7 +25,7 @@
   <a href="#papers📜">📝 Papers</a> |
   <a href="./Playground.md">⚡️  Playground</a> |
   <a href="./PromptEngineering.md">🛠 Prompt Engineering</a> |
-  <a href="./chatgptprompt.md">🌍 ChatGPT Prompt</a> 
+  <a href="./chatgptprompt.md">🌍 ChatGPT Prompts</a> 
 </p>
 </div>
 
