@@ -8,7 +8,7 @@
     </a>
   </div>
 
-**An Open-Source Enfineering Guide for Prompt-in-context-learning from EgoAlpha Lab.**
+**An Open-Source Engineering Guide for prompt-in-context-learning from EgoAlpha Lab.**
 
 <img width="200%" src="./figures/hr.gif" />
 
