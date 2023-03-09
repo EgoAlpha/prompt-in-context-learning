@@ -8,7 +8,7 @@
     </a>
   </div>
 
-**An Open-Source Engineering Guide for Prompt-in-context-learning from EgoAlpha Lab.**
+**Awesome resources for in-context learning and prompt engineering: Mastery of the latest LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.**
 
 <img width="200%" src="./figures/hr.gif" />
 
