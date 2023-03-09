@@ -1,5 +1,3 @@
 # 📄 Automatic Prompt
 
 ## Paper List
-
-
