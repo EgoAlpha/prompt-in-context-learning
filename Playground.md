@@ -45,7 +45,7 @@
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 😣 *The following table show that only papers are included, and the related models and codes are not open-source till now.*
+## 😣 *The following table show that the related models and codes are not open-source till now.*
 
 | Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
 | ---- | ---- | ----  | ---- | ---- |----|----|
