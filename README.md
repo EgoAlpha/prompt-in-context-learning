@@ -25,7 +25,7 @@
 </h4>
 
 <p align="center">
-  <a href="#papers📜">📝 Papers</a> |
+  <a href="#📜-papers">📝 Papers</a> |
   <a href="./Playground.md">⚡️  Playground</a> |
   <a href="./PromptEngineering.md">🛠 Prompt Engineering</a> |
   <a href="./chatgptprompt.md">🌍 ChatGPT Prompt</a> 
