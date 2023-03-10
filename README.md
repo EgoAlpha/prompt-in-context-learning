@@ -170,11 +170,7 @@ Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and 
 * [Jizhe Yu]()
 * [Yuan Yao]()
 * [He Qi]()
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EgoAlpha&theme=ocean-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-</div>
 <!-- ## Guest Contributors
 * [No] -->
 
