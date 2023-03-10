@@ -39,6 +39,7 @@
 
 <!-- ![Build](https://img.shields.io/appveyor/build/gruntjs/grunt) -->
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EgoAlpha.visitor-badge)
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 </div>
 
