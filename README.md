@@ -171,6 +171,10 @@ Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and 
 * [Yuan Yao]()
 * [He Qi]()
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EgoAlpha&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- ## Guest Contributors
 * [No] -->
