@@ -63,9 +63,9 @@ Those whose jobs are replaced by AI automation.
 # 📢 News
 
 - **[2023.3.9]** GPT-4 is coming next week and it will be multimodal,announced by OpenAI.
-- **[2023.3.8]** Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
-- **[2023.3.7]** Larger language models do in-context learning differently
-- **[2023.3.6]** Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning
+- **[2023.3.8]** [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+- **[2023.3.7]** [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846)
+- **[2023.3.6]** [Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2303.02861)
 
 
 <img width="200%" src="./figures/hr.gif" />
