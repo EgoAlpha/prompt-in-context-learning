@@ -9,7 +9,7 @@
 
 |   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
 | ---- | ---- | ----  | ---- | ---- |----|----|
-| ChatGPT | Decoder| OpenAI | [🔗](https://chat.openai.com) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|Nov-22|
+| ChatGPT | Decoder| OpenAI | [🔗](https://platform.openai.com/playground) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|Nov-22|
 | GPT-JT | Decoder | Together | [🔗](https://huggingface.co/spaces/togethercomputer/GPT-JT) | 6 |-/[Code](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)|Nov-22|
 | Flan-T5 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-t5-xxl?text=Please+answer+the+following+question+What+is+the+boiling+point+of+Nitrogen%3F) | 11|[Paper](https://arxiv.org/abs/2210.11416)/[Code](https://huggingface.co/google/flan-t5-xxl/tree/main)|Oct-22|
 | Flan-UL2 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-ul2#citation) | 20|[Paper](https://arxiv.org/pdf/2205.05131v1.pdf)/[Code](https://github.com/google-research/google-research/tree/master/ul2)|Oct-22|
@@ -18,7 +18,7 @@
 | BLOOM(tr11-176B-ml) | Decoder | BigScience | [🔗](https://huggingface.co/spaces/huggingface/bloom_demo) | 176|-/[Code](https://github.com/bigscience-workshop/bigscience/tree/master/train/tr11-176B-ml)|Jul-22|
 | CodeT5 | Encoder-Decoder | Salesforce Research Asia | [🔗](https://huggingface.co/Salesforce/codet5-base) | small:0.06,base:0.22|[Paper](https://arxiv.org/abs/2109.00859)/-|Mar-22|
 | ERNIE3.0 | Encoder-Decoder | Baidu | [🔗](https://huggingface.co/swtx/ernie-3.0-base-chinese) | 10|[Paper](https://arxiv.org/abs/2112.12731)/-|Dec-21|
-| CodeX | Decoder | OpenAI | **[🔗](Playground)** | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|Aug-21|
+| CodeX | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|Aug-21|
 | GPT-3 | Decoder | OpenAI | [🔗](https://huggingface.co/models?sort=downloads&search=gpt3) | 175|[Paper](https://arxiv.org/abs/2005.14165)/-|May-20|
 | T5 | Encoder-Decoder | Google | [🔗](https://huggingface.co/t5-base)** | 11|[Paper](https://arxiv.org/abs/1910.10683)/-|Oct-19|
 | RoBERTa | Encoder | MetaAI | [🔗](https://huggingface.co/xlm-roberta-base) | 0.355|[Paper](https://arxiv.org/abs/1907.11692)/-|Jul-19|
