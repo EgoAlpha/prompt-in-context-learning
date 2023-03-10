@@ -36,7 +36,7 @@
 
 <!-- ![Build](https://img.shields.io/appveyor/build/gruntjs/grunt) -->
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 </div>
 
