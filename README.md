@@ -170,11 +170,7 @@ Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and 
 * [Jizhe Yu]()
 * [Yuan Yao]()
 * [He Qi]()
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-</div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EgoAlpha&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EgoAlpha&hide_border=true&border_radius=&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!-- ## Guest Contributors
 * [No] -->
