@@ -36,16 +36,16 @@ A good prompt is one that is specific and provides enough context for LLMs to be
 ### Design principle
 By following design principle, you can improve the quality and accuracy of the LLM’s responses and enhance the overall user experience.
 
-- Be clear and specific: The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt as this can lead to unclear or irrelevant responses.
--	Provide context: The prompt should provide enough context for the model to understand the task and generate a relevant response. This can include relevant background information, examples, or constraints.
--	Use natural language: Write the prompt in a natural and conversational style that the model can understand and respond to. Avoid using complex or technical language that may confuse the model.
--	Be concise: Keep the prompt concise and to the point. Avoid unnecessary details or information that may distract the model from the task at hand.
--	Avoid complex sentence structure: Using complex sentence structures can confuse the model, leading to poorly generated output. Using simple sentences and straightforward language makes it easier for the model to understand and generate the desired output.
--	Avoid ambiguity: Ensure that the prompt is specific and avoids ambiguity. Avoid using words with multiple meanings or phrases that can be interpreted in different ways.
--	Use keywords: Use keywords in the prompt that are relevant to the topic of the conversation. This helps the chatbot to understand the context and respond appropriately.
--	Consider the intended audience: Consider the intended audience for the generated responses and tailor the prompts accordingly. Use appropriate language, terminology, and examples that the audience is likely to understand and relate to.
--	Use appropriate formatting: Use appropriate formatting such as bullet points, numbered lists, or bold text to highlight key information in the prompt. This can help the model understand the structure and organization of the prompt.
--	Test and refine: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
+- **Be clear and specific**: The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt as this can lead to unclear or irrelevant responses.
+-	**Provide context**: The prompt should provide enough context for the model to understand the task and generate a relevant response. This can include relevant background information, examples, or constraints.
+-	**Use natural language**: Write the prompt in a natural and conversational style that the model can understand and respond to. Avoid using complex or technical language that may confuse the model.
+-	**Be concise**: Keep the prompt concise and to the point. Avoid unnecessary details or information that may distract the model from the task at hand.
+-	**Avoid complex sentence structure**: Using complex sentence structures can confuse the model, leading to poorly generated output. Using simple sentences and straightforward language makes it easier for the model to understand and generate the desired output.
+-	**Avoid ambiguity**: Ensure that the prompt is specific and avoids ambiguity. Avoid using words with multiple meanings or phrases that can be interpreted in different ways.
+-	**Use keywords**: Use keywords in the prompt that are relevant to the topic of the conversation. This helps the chatbot to understand the context and respond appropriately.
+-	**Consider the intended audience**: Consider the intended audience for the generated responses and tailor the prompts accordingly. Use appropriate language, terminology, and examples that the audience is likely to understand and relate to.
+-	**Use appropriate formatting**: Use appropriate formatting such as bullet points, numbered lists, or bold text to highlight key information in the prompt. This can help the model understand the structure and organization of the prompt.
+-	**Test and refine**: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
 
 ### Framework
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
