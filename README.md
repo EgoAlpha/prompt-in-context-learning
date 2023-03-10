@@ -36,6 +36,7 @@
 
 <!-- ![Build](https://img.shields.io/appveyor/build/gruntjs/grunt) -->
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 </div>
 
@@ -61,7 +62,11 @@ Those whose jobs are replaced by AI automation.
 
 # 📢 News
 
-- **[2023.3.4]** We establish this project that is organised by professor Yu Liu from EgoAlpha Lab.
+- **[2023.3.4]** 
+- **[2023.3.6]**
+- **[2023.3.7]** 
+- **[2023.3.8]**
+
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -257,15 +262,15 @@ Those whose jobs are replaced by AI automation.
 
 👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈 -->
 
-<img width="200%" src="./figures/hr.gif" />
+<!-- <img width="200%" src="./figures/hr.gif" /> -->
 
-# 🎓 Citation
+<!-- # 🎓 Citation
 
 If you find our work helps, please star our project and cite our paper. Thanks a lot!
 
 ```
 综述论文可以放在这个位置
-```
+``` -->
 <img width="200%" src="./figures/hr.gif" />
 
 # ✉️ Contact
@@ -280,22 +285,22 @@ We are willing to communicate with your research team or confirm in variety of f
 
 Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up period and maintain this community well. More researchers are welcome to join us and make more contributions to the community.
 
-<img width="200%" src="./figures/hr.gif" />
+<!-- <img width="200%" src="./figures/hr.gif" /> -->
 
-# 👨‍👩‍👧‍👦 Contributors
+<!-- # 👨‍👩‍👧‍👦 Contributors
 
 ## Main Contributors
 * [Yu Liu]()
 * [Yifei Cao](https://github.com/cyfedu1024)
 * [Jizhe Yu]()
 * [Yuan Yao]()
-* [He Qi]()
+* [He Qi]() -->
 
 
 <!-- ## Guest Contributors
 * [No] -->
 
-<img width="200%" src="./figures/hr.gif" />
+<!-- <img width="200%" src="./figures/hr.gif" />
 
 # 📔 License
 
@@ -303,4 +308,4 @@ This project is open source and available under the MIT
 
 <div align="center">
 <img src="./figures/rocket.png"/>
-</div>
+</div> -->
