@@ -9,7 +9,7 @@
   </div>
  <div align="center"> -->
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&color=6AF755&background=FCFCFF00&center=true&vCenter=true&width=435&lines=Hello!+Human%2C+Are+You+Ready%3F;Welcome+to+my+world!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=500&color=6AF755&background=FCFCFF00&center=true&vCenter=true&width=435&lines=Hello!+Human%2C+Are+You+Ready%3F;Welcome+to+my+world!)](https://git.io/typing-svg)
  </div>
 
 **An Open-Source Engineering Guide for Prompt-in-context-learning from EgoAlpha Lab.**
