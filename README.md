@@ -45,7 +45,7 @@
 
 The resources include:
 
-*🎉[Papers](#papers📜)🎉*:  The latest papers about in-context learning or prompt engineering. 
+*🎉[Papers](#📜-papers)🎉*:  The latest papers about in-context learning or prompt engineering. 
 
 *🎉[Playground](./Playground.md)🎉*:  Large language models that enable prompt experimentation. 
 
@@ -70,7 +70,7 @@ Those whose jobs are replaced by AI automation.
 
 <img width="200%" src="./figures/hr.gif" />
 
-# Papers📜
+# 📜 Papers
 
 - [Prompt Engineering](#prompt-engineering)
 - [In-context learning](#in-context-learning)
