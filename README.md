@@ -62,10 +62,10 @@ Those whose jobs are replaced by AI automation.
 
 # 📢 News
 
-- **[2023.3.4]** 
-- **[2023.3.6]**
-- **[2023.3.7]** 
-- **[2023.3.8]**
+- **[2023.3.9]** GPT-4 is coming next week and it will be multimodal,announced by OpenAI.
+- **[2023.3.8]** Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- **[2023.3.7]** Larger language models do in-context learning differently
+- **[2023.3.6]** Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning
 
 
 <img width="200%" src="./figures/hr.gif" />
@@ -275,15 +275,16 @@ If you find our work helps, please star our project and cite our paper. Thanks a
 
 # ✉️ Contact
 
-This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Questions and discussions are welcome via `cyfedu1024@gmail.com` or `cyfedu1024@163.com`.
+This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Questions and discussions are welcome via `helloegoalpha@gmail.com`.
 
-We are willing to communicate with your research team or confirm in variety of fields.
+We are willing to engage in discussions with friends from the academic and industrial communities, and explore the latest developments in prompt engineering and in-context learning together.
 
 <img width="200%" src="./figures/hr.gif" />
 
 # 🙏 Acknowledgements
 
-Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up period and maintain this community well. More researchers are welcome to join us and make more contributions to the community.
+Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up period and maintain this community well. We also would like to express our sincere gratitude to the authors of the relevant resources. Your efforts have broadened our horizons and enabled us to perceive a more wonderful world.
+
 
 <!-- <img width="200%" src="./figures/hr.gif" /> -->
 
