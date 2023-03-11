@@ -287,18 +287,11 @@ We are willing to engage in discussions with friends from the academic and indus
 Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up period and maintain this community well. We also would like to express our sincere gratitude to the authors of the relevant resources. Your efforts have broadened our horizons and enabled us to perceive a more wonderful world.
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Github Page</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-      <p>This is a paragraph</p>
-</body>
-</html>
+<div style="line-weight:0.2em;">
 
+[*Large Language Models Are Reasoning Teachers*](https://doi.org/10.48550/arXiv.2212.10071)（**Dec-22**  ncjsdnjcns    
+
+</head>
 
 <!-- <img width="200%" src="./figures/hr.gif" /> -->
 
