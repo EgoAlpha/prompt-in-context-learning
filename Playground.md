@@ -9,6 +9,7 @@
 
 |   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
 | ---- | ---- | ----  | ---- | ---- |----|----|
+| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Code](https://github.com/togethercomputer/OpenChatKit)|Mar-23|
 | ChatGPT | Decoder| OpenAI | [🔗](https://platform.openai.com/playground) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|Nov-22|
 | GPT-JT | Decoder | Together | [🔗](https://huggingface.co/spaces/togethercomputer/GPT-JT) | 6 |-/[Code](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)|Nov-22|
 | Flan-T5 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-t5-xxl?text=Please+answer+the+following+question+What+is+the+boiling+point+of+Nitrogen%3F) | 11|[Paper](https://arxiv.org/abs/2210.11416)/[Code](https://huggingface.co/google/flan-t5-xxl/tree/main)|Oct-22|
