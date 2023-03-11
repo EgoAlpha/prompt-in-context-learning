@@ -1,7 +1,7 @@
 # 🔥 Playground
 > **Prompt Engineering aims to carefully curate input prompts that can extract the best possible results from Large language models(LLMs).** 
 
-### 🌀 As a prominent example of LLMs, ChatGPT has received widespread attention and skyrocketed in popularity. Nonetheless, in recent years, a significant number of LLMs have emerged, typically several tens of gigabytes in size and trained on massive amounts of textual data. Therefore, there are several alternatives available that we can use to practice prompt techniques using these models.
+### 🌀 <font size=6>A</font>s a prominent example of LLMs, ChatGPT has received widespread attention and skyrocketed in popularity. Nonetheless, in recent years, a significant number of LLMs have emerged, typically several tens of gigabytes in size and trained on massive amounts of textual data. Therefore, there are several alternatives available that we can use to practice prompt techniques using these models.
 
 <img width="200%" src="./figures/hr.gif" />
 
