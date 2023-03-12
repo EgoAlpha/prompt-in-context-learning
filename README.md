@@ -1,17 +1,34 @@
 <div align="center">
 
 
+
 <img src="./figures/Prompt-EgoAlpha_white.svg" width="600px">
+
+
 
  <div align="center">
 
+     
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=500&color=8D589A&background=FCFCFF00&center=true&vCenter=true&width=500&lines=Hello!+Human%2C+Are+You+Ready%3F;Welcome+to+my+world!)]()
+
+     
 
  </div>
 
+
+
+
+
+
+
 **An Open-Source Engineering Guide for Prompt-in-context-learning from EgoAlpha Lab.**
 
+
+
 <img width="200%" src="./figures/hr.gif" />
+
+
 
 <!-- <h3 align="center">
 
@@ -20,24 +37,38 @@
 </h3> -->
 
 <h4 align="center">
+
     <p>
+
         <a href="./README.md">English</a> |
+
         <a href="./chatgptprompt_zh.md">简体中文</a>
+
     <p>
+
 </h4>
+
+
 
 <p align="center">
 
   <a href="#📜-papers">📝 Papers</a> |
+
   <a href="./Playground.md">⚡️  Playground</a> |
+
   <a href="./PromptEngineering.md">🛠 Prompt Engineering</a> |
+
   <a href="./chatgptprompt.md">🌍 ChatGPT Prompt</a> 
 
 </p>
 
 </div>
 
+
+
 <div align="center">
+
+
 
 <!-- ![Build](https://img.shields.io/appveyor/build/gruntjs/grunt) -->
 
@@ -49,21 +80,39 @@
 
 </div>
 
+
+
+
+
 > **⭐️ Shining ⭐️:** This is fresh, daily-updated resources for in-context learning and prompt engineering. As Artificial General Intelligence (AGI) is approaching, let’s take action and become a super learner so as to position ourselves at the forefront of this exciting era and strive for personal and professional greatness.
+
+
 
 The resources include:
 
+
+
 *🎉[Papers](#📜-papers)🎉*:  The latest papers about in-context learning or prompt engineering. 
+
+
 
 *🎉[Playground](./Playground.md)🎉*:  Large language models that enable prompt experimentation. 
 
+
+
 *🎉[Prompt Engineering](./PromptEngineering.md)🎉*: Prompt techniques for leveraging large language models. 
 
+
+
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
+
+
 
 In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): Those who enhance their abilities through the use of AI; 
 
 Those whose jobs are replaced by AI automation.
+
+
 
 ```
 
@@ -71,7 +120,11 @@ Those whose jobs are replaced by AI automation.
 
 ```  
 
+
+
 # 📢 News
+
+
 
 - **[2023.3.10]** [Announcing OpenChatKit by Together](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
@@ -83,9 +136,15 @@ Those whose jobs are replaced by AI automation.
 
 - **[2023.3.6]** [Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2303.02861)
 
+
+
 <img width="200%" src="./figures/hr.gif" />
 
+
+
 # 📜 Papers
+
+
 
 - [Prompt Engineering](#prompt-engineering)
 
@@ -97,196 +156,221 @@ Those whose jobs are replaced by AI automation.
 
 - [Prompt for Knowledge Graph](#prompt-for-knowledge-graph) -->
 
+
+
 ---
+
+
 
 ## Prompt Engineering
 
+
+
 ### 📌 Prompt Design
 
-<div style="line-height:1em;">
 
-[**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**Mar-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**](https://doi.org/10.48550/arXiv.2303.00733) （**Mar-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**](https://doi.org/10.48550/arXiv.2303.00815) （**Mar-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**EvoPrompting: Language Models for Code-Level Neural Architecture Search**](https://doi.org/10.48550/arXiv.2302.14838) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**Language Model Crossover: Variation through Few-Shot Prompting**](https://doi.org/10.48550/arXiv.2302.12170) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-1-red)
-
-[**More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models**](https://doi.org/10.48550/arXiv.2302.12173) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**How Does In-Context Learning Help Prompt Tuning?**](https://doi.org/10.48550/arXiv.2302.11521) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-1-red)
-
-[**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**](https://doi.org/10.48550/arXiv.2302.08961) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-[**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**](https://doi.org/10.48550/arXiv.2302.08043) （**Feb-23**）
-
-![](https://img.shields.io/badge/cite-0-red)
-
-</div>
-
-👉[Complete paper list 🔗 for prompt design](./PaperList/PromptDesignList.md)👈
-
-### 📌 Automatic Prompt 
 
 <div style="line-height:0.2em;">
 
-[**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**Feb-23**）
+
+
+[**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**2023.03.01**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Guiding Large Language Models via Directional Stimulus Prompting**](https://doi.org/10.48550/arXiv.2302.11520) （**Feb-23**）
+[**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**](https://doi.org/10.48550/arXiv.2303.00733) （**2023.03.01**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Evaluating the Robustness of Discrete Prompts**](https://doi.org/10.48550/arXiv.2302.05619) （**Feb-23**）
+[**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**](https://doi.org/10.48550/arXiv.2303.00815) （**2023.03.01**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**Feb-23**）
+[**EvoPrompting: Language Models for Code-Level Neural Architecture Search**](https://doi.org/10.48550/arXiv.2302.14838) （**2023.02.28**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**Language Model Crossover: Variation through Few-Shot Prompting**](https://doi.org/10.48550/arXiv.2302.12170) （**2023.02.23**）
+
+![](https://img.shields.io/badge/cite-1-red)
+
+[**More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models**](https://doi.org/10.48550/arXiv.2302.12173) （**2023.02.23**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**How Does In-Context Learning Help Prompt Tuning?**](https://doi.org/10.48550/arXiv.2302.11521) （**2023.02.22**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
+
+![](https://img.shields.io/badge/cite-1-red)
+
+[**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**](https://doi.org/10.48550/arXiv.2302.08961) （**2023.02.17**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**](https://doi.org/10.48550/arXiv.2302.08043) （**2023.02.16**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+
+</div>
+
+
+👉[Complete paper list 🔗 for prompt design](./PaperList/PromptDesignList.md)👈
+
+
+
+### 📌 Automatic Prompt 
+
+
+
+<div style="line-height:0.2em;">
+
+
+
+[**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**Guiding Large Language Models via Directional Stimulus Prompting**](https://doi.org/10.48550/arXiv.2302.11520) （**2023.02.22**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**Evaluating the Robustness of Discrete Prompts**](https://doi.org/10.48550/arXiv.2302.05619) （**2023.02.11**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**2023.02.07**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language**](https://doi.org/10.1145/3545945.3569823) （**Oct-22**）
-
-![](https://img.shields.io/badge/cite-5-red)
-
-[**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**Oct-22**）
+[**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
 ![](https://img.shields.io/badge/cite-23-red)
 
-[**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**Jan-21**）
+[**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
 
 ![](https://img.shields.io/badge/cite-642-red)
 
-[**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**Oct-20**）
+[**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
 
 ![](https://img.shields.io/badge/cite-136-red)
 
-[**Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**](https://doi.org/10.5282/UBM/EPUB.74034) （**Oct-20**）
+[**Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**](https://doi.org/10.5282/UBM/EPUB.74034) （**2020.10.26**）
 
 ![](https://img.shields.io/badge/cite-84-red)
 
-[**How Can We Know What Language Models Know?**](https://doi.org/10.1162/tacl_a_00324) （**Nov-19**）
-
-![](https://img.shields.io/badge/cite-423-red)
 
 </div>
 
 
 👉[Complete paper list 🔗 for "Automatic Prompt"](./PaperList/AutomaticPromptList.md)👈
 
+
+
 ### 📌 Chain of Thought
+
+
 
 <div style="line-height:0.2em;">
 
-[**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**](https://doi.org/10.48550/arXiv.2302.00618) （**Feb-23**）
+
+
+[**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**](https://doi.org/10.48550/arXiv.2302.00618) （**2023.02.01**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**Large Language Models Are Reasoning Teachers**](https://doi.org/10.48550/arXiv.2212.10071) （**Dec-22**）
+[**Large Language Models Are Reasoning Teachers**](https://doi.org/10.48550/arXiv.2212.10071) （**2022.12.20**）
 
 ![](https://img.shields.io/badge/cite-5-red)
 
-[**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**Dec-22**）
+[**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**2022.12.16**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**Nov-22**）
+[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
 
 ![](https://img.shields.io/badge/cite-5-red)
 
-[**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**Oct-22**）
+[**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
 
 ![](https://img.shields.io/badge/cite-27-red)
 
-[**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**Oct-22**）
+[**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**2022.10.17**）
 
 ![](https://img.shields.io/badge/cite-9-red)
 
-[**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**Oct-22**）
+[**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
 ![](https://img.shields.io/badge/cite-23-red)
 
-[**Measuring and Narrowing the Compositionality Gap in Language Models**](https://doi.org/10.48550/arXiv.2210.03350) （**Oct-22**）
+[**Measuring and Narrowing the Compositionality Gap in Language Models**](https://doi.org/10.48550/arXiv.2210.03350) （**2022.10.07**）
 
 ![](https://img.shields.io/badge/cite-27-red)
 
-[**Language Models are Multilingual Chain-of-Thought Reasoners**](https://doi.org/10.48550/arXiv.2210.03057) （**Oct-22**）
+[**Language Models are Multilingual Chain-of-Thought Reasoners**](https://doi.org/10.48550/arXiv.2210.03057) （**2022.10.06**）
 
 ![](https://img.shields.io/badge/cite-21-red)
 
-[**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**](https://doi.org/10.48550/arXiv.2210.02406) （**Oct-22**）
+[**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**](https://doi.org/10.48550/arXiv.2210.02406) （**2022.10.05**）
 
 ![](https://img.shields.io/badge/cite-25-red)
 
+
 </div>
+
 
 👉[Complete paper list 🔗 for "Chain of Thought"](./PaperList/ChainofThoughtList.md)👈
 
+
+
 ### 📌 Evaluation & Reliability
+
+
 
 <div style="line-height:0.2em;">
 
-[**Evaluating the Robustness of Discrete Prompts**](https://doi.org/10.48550/arXiv.2302.05619) （**Feb-23**）
+
+
+[**Evaluating the Robustness of Discrete Prompts**](https://doi.org/10.48550/arXiv.2302.05619) （**2023.02.11**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Controlling for Stereotypes in Multimodal Language Model Evaluation**](https://doi.org/10.48550/arXiv.2302.01582) （**Feb-23**）
+[**Controlling for Stereotypes in Multimodal Language Model Evaluation**](https://doi.org/10.48550/arXiv.2302.01582) （**2023.02.03**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://doi.org/10.48550/arXiv.2302.00093) （**Jan-23**）
+[**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://doi.org/10.48550/arXiv.2302.00093) （**2023.01.31**）
 
 ![](https://img.shields.io/badge/cite-3-red)
 
-[**Emergent Analogical Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2212.09196) （**Dec-22**）
+[**Emergent Analogical Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2212.09196) （**2022.12.19**）
 
 ![](https://img.shields.io/badge/cite-5-red)
 
-[**Discovering Language Model Behaviors with Model-Written Evaluations**](https://doi.org/10.48550/arXiv.2212.09251) （**Dec-22**）
+[**Discovering Language Model Behaviors with Model-Written Evaluations**](https://doi.org/10.48550/arXiv.2212.09251) （**2022.12.19**）
 
 ![](https://img.shields.io/badge/cite-6-red)
 
-[**Constitutional AI: Harmlessness from AI Feedback**](https://doi.org/10.48550/arXiv.2212.08073) （**Dec-22**）
+[**Constitutional AI: Harmlessness from AI Feedback**](https://doi.org/10.48550/arXiv.2212.08073) （**2022.12.15**）
 
 ![](https://img.shields.io/badge/cite-15-red)
 
-[**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08061) （**Dec-22**）
+[**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08061) （**2022.12.15**）
 
 ![](https://img.shields.io/badge/cite-1-red)
 
-[**Refining Semantic Similarity of Paraphasias Using a Contextual Language Model.**](https://doi.org/10.1044/2022_jslhr-22-00277) （**Dec-22**）
+[**Refining Semantic Similarity of Paraphasias Using a Contextual Language Model.**](https://doi.org/10.1044/2022_jslhr-22-00277) （**2022.12.09**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**Nov-22**）
+[**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**2022.11.25**）
 
 ![](https://img.shields.io/badge/cite-3-red)
 
-[**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**Nov-22**）
+[**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
 
 ![](https://img.shields.io/badge/cite-21-red)
 
@@ -306,43 +390,43 @@ Those whose jobs are replaced by AI automation.
 
 
 
-[**Bounding the Capabilities of Large Language Models in Open Text Generation with Prompt Constraints**](https://doi.org/10.48550/arXiv.2302.09185) （**Feb-23**）
+[**Bounding the Capabilities of Large Language Models in Open Text Generation with Prompt Constraints**](https://doi.org/10.48550/arXiv.2302.09185) （**2023.02.17**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/arXiv.2301.11916) （**Jan-23**）
+[**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/arXiv.2301.11916) （**2023.01.27**）
 
 ![](https://img.shields.io/badge/cite-1-red)
 
-[**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**](https://doi.org/10.48550/arXiv.2212.12017) （**Dec-22**）
+[**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**](https://doi.org/10.48550/arXiv.2212.12017) （**2022.12.22**）
 
 ![](https://img.shields.io/badge/cite-9-red)
 
-[**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**Dec-22**）
+[**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**2022.12.21**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**Self-adaptive In-context Learning**](https://doi.org/10.48550/arXiv.2212.10375) （**Dec-22**）
+[**Self-adaptive In-context Learning**](https://doi.org/10.48550/arXiv.2212.10375) （**2022.12.20**）
 
 ![](https://img.shields.io/badge/cite-3-red)
 
-[**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450) （**Dec-22**）
+[**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450) （**2022.12.20**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**Dec-22**）
+[**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**2022.12.19**）
 
 ![](https://img.shields.io/badge/cite-7-red)
 
-[**Structured Prompting: Scaling In-Context Learning to 1, 000 Examples**](https://doi.org/10.48550/arXiv.2212.06713) （**Dec-22**）
+[**Structured Prompting: Scaling In-Context Learning to 1, 000 Examples**](https://doi.org/10.48550/arXiv.2212.06713) （**2022.12.13**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**Nov-22**）
+[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
 
 ![](https://img.shields.io/badge/cite-5-red)
 
-[**Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning**](https://doi.org/10.48550/arXiv.2211.03044) （**Nov-22**）
+[**Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning**](https://doi.org/10.48550/arXiv.2211.03044) （**2022.11.06**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
@@ -366,13 +450,37 @@ Those whose jobs are replaced by AI automation.
 
 
 
-[**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**Feb-23**）
+[**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**2023.02.07**）
 
 ![](https://img.shields.io/badge/cite-2-red)
 
-[**RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning**](https://doi.org/10.48550/arXiv.2205.12548) （**May-22**）
+[**SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning**](https://doi.org/10.48550/arXiv.2212.10929) （**2022.12.21**）
+
+![](https://img.shields.io/badge/cite-1-red)
+
+[**RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning**](https://doi.org/10.48550/arXiv.2205.12548) （**2022.05.25**）
 
 ![](https://img.shields.io/badge/cite-25-red)
+
+[**Personalized Prompt Learning for Explainable Recommendation**](https://arxiv.org/abs/2202.07371) （**2022.02.15**）
+
+![](https://img.shields.io/badge/cite-10-red)
+
+[**Instance-aware Prompt Learning for Language Understanding and Generation**](https://arxiv.org/abs/2201.07126) （**2022.01.18**）
+
+![](https://img.shields.io/badge/cite-10-red)
+
+[**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) （**2021.07.28**）
+
+![](https://img.shields.io/badge/cite-444-red)
+
+[**PromptAttack: Prompt-based Attack for Language Models via Gradient Search**](https://api.semanticscholar.org/251269b9e16ab1da20cb57a669b2bfdbd0d1cd72) 
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**ADEPT: A DEbiasing PrompT Framework**](https://api.semanticscholar.org/1abd4fa45ce20175452aa238870db2aebe9c0fe0) 
+
+![](https://img.shields.io/badge/cite-0-red)
 
 
 </div>
@@ -390,43 +498,43 @@ Those whose jobs are replaced by AI automation.
 
 
 
-[**Dr ChatGPT, tell me what I want to hear: How prompt knowledge impacts health answer correctness**](https://doi.org/10.48550/arXiv.2302.13793) （**Feb-23**）
+[**Dr ChatGPT, tell me what I want to hear: How prompt knowledge impacts health answer correctness**](https://doi.org/10.48550/arXiv.2302.13793) （**2023.02.23**）
 
 ![](https://img.shields.io/badge/cite-1-red)
 
-[**How Does In-Context Learning Help Prompt Tuning?**](https://doi.org/10.48550/arXiv.2302.11521) （**Feb-23**）
+[**How Does In-Context Learning Help Prompt Tuning?**](https://doi.org/10.48550/arXiv.2302.11521) （**2023.02.22**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Scalable Prompt Generation for Semi-supervised Learning with Language Models**](https://doi.org/10.48550/arXiv.2302.09236) （**Feb-23**）
+[**Scalable Prompt Generation for Semi-supervised Learning with Language Models**](https://doi.org/10.48550/arXiv.2302.09236) （**2023.02.18**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**](https://doi.org/10.48550/arXiv.2302.08958) （**Feb-23**）
+[**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**](https://doi.org/10.48550/arXiv.2302.08958) （**2023.02.17**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains**](https://doi.org/10.48550/arXiv.2302.06868) （**Feb-23**）
+[**SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains**](https://doi.org/10.48550/arXiv.2302.06868) （**2023.02.14**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning**](https://doi.org/10.48550/arXiv.2301.10915) （**Jan-23**）
+[**Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning**](https://doi.org/10.48550/arXiv.2301.10915) （**2023.01.26**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning**](https://doi.org/10.48550/arXiv.2212.10929) （**Dec-22**）
+[**Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?**](https://doi.org/10.48550/arXiv.2212.10539) （**2022.12.20**）
 
 ![](https://img.shields.io/badge/cite-1-red)
 
-[**Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?**](https://doi.org/10.48550/arXiv.2212.10539) （**Dec-22**）
-
-![](https://img.shields.io/badge/cite-1-red)
-
-[**Controlled Text Generation using T5 based Encoder-Decoder Soft Prompt Tuning and Analysis of the Utility of Generated Text in AI**](https://doi.org/10.48550/arXiv.2212.02924) （**Dec-22**）
+[**Controlled Text Generation using T5 based Encoder-Decoder Soft Prompt Tuning and Analysis of the Utility of Generated Text in AI**](https://doi.org/10.48550/arXiv.2212.02924) （**2022.12.06**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
-[**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://doi.org/10.48550/arXiv.2211.10681) （**Nov-22**）
+[**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://doi.org/10.48550/arXiv.2211.10681) （**2022.11.19**）
+
+![](https://img.shields.io/badge/cite-0-red)
+
+[**FPT: Improving Prompt Tuning Efficiency via Progressive Training**](https://doi.org/10.48550/arXiv.2211.06840) （**2022.11.13**）
 
 ![](https://img.shields.io/badge/cite-0-red)
 
@@ -482,15 +590,27 @@ If you find our work helps, please star our project and cite our paper. Thanks a
 
 <!-- <img width="200%" src="./figures/hr.gif" /> -->
 
+
+
 # ✉️ Contact
+
+
 
 This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Questions and discussions are welcome via `helloegoalpha@gmail.com`.
 
+
+
 We are willing to engage in discussions with friends from the academic and industrial communities, and explore the latest developments in prompt engineering and in-context learning together.
+
+
 
 <img width="200%" src="./figures/hr.gif" />
 
+
+
 # 🙏 Acknowledgements
+
+
 
 Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and other workers who participated in this repo. We will improve the project in the follow-up period and maintain this community well. We also would like to express our sincere gratitude to the authors of the relevant resources. Your efforts have broadened our horizons and enabled us to perceive a more wonderful world.
 
