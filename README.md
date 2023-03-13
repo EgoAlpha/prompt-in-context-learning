@@ -86,17 +86,54 @@ Those whose jobs are replaced by AI automation.
 
 # 📜 Papers
 
+- [Survey](#Survey)
+
 - [Prompt Engineering](#prompt-engineering)
 
 - [In-context learning](#in-context-learning)
 
 - [Multimodal Prompt](#multimodal-prompt)
 
+- [Prompt Application](#prompt-application)
+
 <!-- - [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
 
 - [Prompt for Knowledge Graph](#prompt-for-knowledge-graph) -->
 
 ---
+
+## Survey
+
+<div style="line-height:0.2em;">
+
+
+
+[**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**2022.12.19**）
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-166-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+
+[**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682) （**2022.06.15**）
+
+![](https://img.shields.io/badge/Citations-151-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
+
+[**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) （**2021.07.28**）
+
+![](https://img.shields.io/badge/Citations-444-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/mingkaid/rl-prompt)
+
+[**Towards Reasoning in Large Language Models: A Survey**](https://api.semanticscholar.org/3ee9c65366efbb17adf370c39f20dbef60d53670) 
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**a survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Augmented Language Models: a Survey**](https://api.semanticscholar.org/2029349c55c1dba3493c5b3bd25152f18ba21ae2) 
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+
+</div>
 
 ## Prompt Engineering
 
@@ -349,7 +386,79 @@ Those whose jobs are replaced by AI automation.
 
 ## Multimodal Prompt
 
-### 📌 Hard Prompt/ Discrete Prompt
+<div style="line-height:0.2em;">
+
+
+
+[**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
+
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+
+[**Learning to Prompt for Vision-Language Models**](https://doi.org/10.1007/s11263-022-01653-1) （**2022.09.01**）
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-397-red)  [![](https://img.shields.io/badge/Github%20Stars-762-blue)](https://github.com/kaiyangzhou/coop)
+
+[**Visual Prompt Tuning**](https://doi.org/10.48550/arXiv.2203.12119) （**2022.03.23**）
+
+![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
+
+
+</div>
+
+👉[Complete paper list 🔗 for "Multimodal Prompt"](./PaperList/MultimodalPromptList.md)👈
+
+## Prompt Application
+
+<div style="line-height:0.2em;">
+
+
+
+[**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**](https://doi.org/10.48550/arXiv.2303.00733) （**2023.03.01**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**](https://doi.org/10.48550/arXiv.2303.00815) （**2023.03.01**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**EvoPrompting: Language Models for Code-Level Neural Architecture Search**](https://doi.org/10.48550/arXiv.2302.14838) （**2023.02.28**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models**](https://doi.org/10.48550/arXiv.2302.12173) （**2023.02.23**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/greshake/lm-safety)
+
+[**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**](https://doi.org/10.48550/arXiv.2302.08961) （**2023.02.17**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**LabelPrompt: Effective Prompt-based Learning for Relation Classification**](https://doi.org/10.48550/arXiv.2302.08068) （**2023.02.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition**](https://doi.org/10.48550/arXiv.2302.08102) （**2023.02.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Prompting for Multimodal Hateful Meme Classification**](https://doi.org/10.48550/arXiv.2302.04156) （**2023.02.08**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Learning to Transfer Prompts for Text Generation**](https://doi.org/10.48550/arXiv.2205.01543) （**2022.05.03**）
+
+![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/rucaibox/transfer-prompts-for-text-generation)
+
+[**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**](https://doi.org/10.48550/arXiv.2203.09101) （**2022.03.17**）
+
+![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-86-blue)](https://github.com/declare-lab/relationprompt)
+
+
+</div>
+
+👉[Complete paper list 🔗 for "Prompt Application"](./PaperList/promptapplication.md)👈
+
+<!-- ### 📌 Hard Prompt/ Discrete Prompt
 
 <div style="line-height:0.2em;">
 
@@ -437,7 +546,7 @@ Those whose jobs are replaced by AI automation.
 
 </div>
 
-👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈
+👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈 -->
 
 <!-- ## Knowledge Augmented Prompts
 
