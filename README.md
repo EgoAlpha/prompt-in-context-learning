@@ -72,6 +72,8 @@ Those whose jobs are replaced by AI automation.
 
 # 📢 News
 
+- **[2023.3.13]** [LLaMA has been fine-tuned by Stanford](https://github.com/tatsu-lab/stanford_alpaca)
+
 - **[2023.3.10]** [Announcing OpenChatKit by Together](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
 - **[2023.3.9]**  GPT-4 is coming next week and it will be multimodal,announced by OpenAI.
