@@ -135,6 +135,8 @@ Those whose jobs are replaced by AI automation.
 
 </div>
 
+👉[Complete paper list 🔗 for "Survey"](./PaperList/survey.md)👈
+
 ## Prompt Engineering
 
 ### 📌 Prompt Design
@@ -186,7 +188,7 @@ Those whose jobs are replaced by AI automation.
 
 </div>
 
-👉[Complete paper list 🔗 for prompt design](./PaperList/PromptDesignList.md)👈
+👉[Complete paper list 🔗 for "Prompt Design"](./PaperList/PromptDesignList.md)👈
 
 ### 📌 Automatic Prompt 
 
