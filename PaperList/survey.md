@@ -9,7 +9,7 @@
 
 <font color="gray">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/cite-7-red)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-166-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
 ---
 
@@ -17,7 +17,7 @@
 
 <font color="gray">Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/cite-151-red)
+![](https://img.shields.io/badge/Citations-151-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
 
 ---
 
@@ -25,7 +25,7 @@
 
 <font color="gray">Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, etc .  - 【ACM Computing Surveys】</font>
 
-![](https://img.shields.io/badge/cite-444-red)
+![](https://img.shields.io/badge/Citations-444-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/mingkaid/rl-prompt)
 
 ---
 
@@ -33,7 +33,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -41,7 +41,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -49,7 +49,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>

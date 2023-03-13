@@ -9,7 +9,7 @@
 
 <font color="gray">Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, G. Karypis, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/cite-4-red)
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
 
 ---
 
@@ -17,7 +17,7 @@
 
 <font color="gray">Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu </font>
 
-![](https://img.shields.io/badge/cite-1-red)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-397-red)  [![](https://img.shields.io/badge/Github%20Stars-762-blue)](https://github.com/kaiyangzhou/coop)
 
 ---
 
@@ -25,7 +25,7 @@
 
 <font color="gray">Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, S. Belongie, etc .  - 【European Conference on Computer Vision】</font>
 
-![](https://img.shields.io/badge/cite-102-red)
+![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
 
 ---
 
@@ -33,7 +33,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -41,7 +41,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -49,7 +49,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -57,7 +57,7 @@
 
 
 
-![](https://img.shields.io/badge/cite-0-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
