@@ -60,8 +60,8 @@ The resources include:
 
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
 
-In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): Those who enhance their abilities through the use of AI; 
-
+In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): 
+Those who enhance their abilities through the use of AI; 
 Those whose jobs are replaced by AI automation.
 
 ```
