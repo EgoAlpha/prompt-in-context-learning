@@ -5,11 +5,35 @@
 <div style="line-height:0.2em;">
 
 
+[**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671) （**2023.03.08**）
+
+<font color="gray">Chenfei Wu, Sheng-Kai Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
 <font color="gray">Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, G. Karypis, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+
+---
+
+[**CoHOZ**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
+
+<font color="gray">Ning Liao, Yifeng Liu, Li Xiaobo, Chenyi Lei, Guoxin Wang, etc .  - 【Proceedings of the 30th ACM International Conference on Multimedia】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**VIMA: General Robot Manipulation with Multimodal Prompts**](https://doi.org/10.48550/arXiv.2210.03094) （**2022.10.06**）
+
+<font color="gray">Yunfan Jiang, Agrim Gupta, Zichen Zhang, Guanzhi Wang, Yongqiang Dou, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-15-green)
 
 ---
 
@@ -29,33 +53,17 @@
 
 ---
 
-[**CoHOZ: Contrastive Multimodal Prompt Tuning for Hierarchical Open-set Zero-shot Recognition**](https://doi.org/10.1145/3503161.3548021) 
+[**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884) （**2021.06.25**）
 
+<font color="gray">Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. Eslami, Oriol Vinyals, etc .  - 【Neural Information Processing Systems】</font>
 
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Multimodal Few-Shot Learning with Frozen Language Models**](https://api.semanticscholar.org/01b5412f3d17e90e09226d7c40ad4d4468a1414d) 
-
-
-
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-173-green)
 
 ---
 
-[**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://api.semanticscholar.org/7231a4cc87e6a9c6c1a800662c9beea1eaca52e7) 
+[**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://doi.org/10.2139/ssrn.4347542) 
 
-
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**VIMA: General Robot Manipulation with Multimodal Prompts**](https://api.semanticscholar.org/d68c8db0e1b8b7f1e6c44393e0a425daa44a16c7) 
-
-
+<font color="gray">Ye Jiang, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, etc .  - 【SSRN Electronic Journal】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

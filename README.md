@@ -122,9 +122,9 @@ Those whose jobs are replaced by AI automation.
 
 [**Towards Reasoning in Large Language Models: A Survey**](https://api.semanticscholar.org/3ee9c65366efbb17adf370c39f20dbef60d53670) 
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-195-blue)](https://github.com/jeffhj/lm-reasoning)
 
-[**a survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
+[**A survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -392,9 +392,21 @@ Those whose jobs are replaced by AI automation.
 
 
 
+[**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671) （**2023.03.08**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
 ![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+
+[**CoHOZ**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**VIMA: General Robot Manipulation with Multimodal Prompts**](https://doi.org/10.48550/arXiv.2210.03094) （**2022.10.06**）
+
+![](https://img.shields.io/badge/Citations-15-green)
 
 [**Learning to Prompt for Vision-Language Models**](https://doi.org/10.1007/s11263-022-01653-1) （**2022.09.01**）
 
@@ -403,6 +415,14 @@ Those whose jobs are replaced by AI automation.
 [**Visual Prompt Tuning**](https://doi.org/10.48550/arXiv.2203.12119) （**2022.03.23**）
 
 ![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
+
+[**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884) （**2021.06.25**）
+
+![](https://img.shields.io/badge/Citations-173-green)
+
+[**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://doi.org/10.2139/ssrn.4347542) 
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
