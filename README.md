@@ -86,17 +86,25 @@ Those whose jobs are replaced by AI automation.
 
 # 📜 Papers
 
+- [Survey](#survey)
+
 - [Prompt Engineering](#prompt-engineering)
 
 - [In-context learning](#in-context-learning)
 
 - [Multimodal Prompt](#multimodal-prompt)
 
+- [Prompt Application]()
+
 <!-- - [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
 
 - [Prompt for Knowledge Graph](#prompt-for-knowledge-graph) -->
 
 ---
+
+## Survey
+
+
 
 ## Prompt Engineering
 
@@ -454,6 +462,8 @@ Those whose jobs are replaced by AI automation.
 // __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
 
 👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈 -->
+
+## Prompt Application
 
 <img width="200%" src="./figures/hr.gif" />
 
