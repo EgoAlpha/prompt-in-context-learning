@@ -37,7 +37,7 @@
 
 ---
 
-[**a survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
+[**A survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
 
 
 
