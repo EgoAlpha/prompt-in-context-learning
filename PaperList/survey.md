@@ -9,7 +9,7 @@
 
 <font color="gray">Grégoire Mialon, Roberto Dessì, M. Lomeli, Christoforos Nalmpantis, Ramakanth Pasunuru, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-794-blue)](https://github.com/KaiyangZhou/Dassl.pytorch)
+![](https://img.shields.io/badge/Citations-4-green)  
 
 ---
 
@@ -41,7 +41,7 @@
 
 <font color="gray">Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-156-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
+![](https://img.shields.io/badge/Citations-156-green)  
 
 ---
 
@@ -49,7 +49,7 @@
 
 <font color="gray">Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, etc .  - 【ACM Computing Surveys】</font>
 
-![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/mingkaid/rl-prompt)
+![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  
 
 
 </div>
