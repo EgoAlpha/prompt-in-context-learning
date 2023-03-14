@@ -19,12 +19,12 @@
 
 </h3> -->
 
-<h4 align="center">
+<!-- <h4 align="center">
     <p>
         <a href="./README.md">English</a> |
         <a href="./chatgptprompt_zh.md">简体中文</a>
     <p>
-</h4>
+</h4> -->
 
 <p align="center">
 
@@ -60,8 +60,8 @@ The resources include:
 
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
 
-In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): 
-Those who enhance their abilities through the use of AI; 
+In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): Those who enhance their abilities through the use of AI; 
+
 Those whose jobs are replaced by AI automation.
 
 ```
@@ -71,8 +71,6 @@ Those whose jobs are replaced by AI automation.
 ```  
 
 # 📢 News
-
-- **[2023.3.13]** [LLaMA has been fine-tuned by Stanford](https://github.com/tatsu-lab/stanford_alpaca)
 
 - **[2023.3.10]** [Announcing OpenChatKit by Together](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
@@ -112,7 +110,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**2022.12.19**）
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-166-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-169-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
 [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682) （**2022.06.15**）
 
@@ -128,11 +126,11 @@ Those whose jobs are replaced by AI automation.
 
 [**A survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-334-blue)](https://github.com/dqxiu/icl_paperlist)
 
 [**Augmented Language Models: a Survey**](https://api.semanticscholar.org/2029349c55c1dba3493c5b3bd25152f18ba21ae2) 
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-794-blue)](https://github.com/KaiyangZhou/Dassl.pytorch)
 
 
 </div>
@@ -220,7 +218,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
 
-![](https://img.shields.io/badge/Citations-642-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-703-red)  [![](https://img.shields.io/badge/Github%20Stars-630-blue)](https://github.com/princeton-nlp/LM-BFF)
+![](https://img.shields.io/badge/Citations-642-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-704-red)  [![](https://img.shields.io/badge/Github%20Stars-631-blue)](https://github.com/princeton-nlp/LM-BFF)
 
 [**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
 
@@ -267,7 +265,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
-![](https://img.shields.io/badge/Citations-23-green)  [![](https://img.shields.io/badge/Github%20Stars-287-blue)](https://github.com/amazon-research/auto-cot)
+![](https://img.shields.io/badge/Citations-23-green)  [![](https://img.shields.io/badge/Github%20Stars-288-blue)](https://github.com/amazon-research/auto-cot)
 
 [**Measuring and Narrowing the Compositionality Gap in Language Models**](https://doi.org/10.48550/arXiv.2210.03350) （**2022.10.07**）
 
@@ -396,7 +394,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671) （**2023.03.08**）
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-111-red)  [![](https://img.shields.io/badge/Github%20Stars-13.9k-blue)](https://github.com/microsoft/visual-chatgpt)
 
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
@@ -408,11 +406,11 @@ Those whose jobs are replaced by AI automation.
 
 [**VIMA: General Robot Manipulation with Multimodal Prompts**](https://doi.org/10.48550/arXiv.2210.03094) （**2022.10.06**）
 
-![](https://img.shields.io/badge/Citations-15-green)
+![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-75-blue)](https://github.com/vimalabs/VIMABench)
 
 [**Learning to Prompt for Vision-Language Models**](https://doi.org/10.1007/s11263-022-01653-1) （**2022.09.01**）
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-397-red)  [![](https://img.shields.io/badge/Github%20Stars-762-blue)](https://github.com/kaiyangzhou/coop)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-399-red)  [![](https://img.shields.io/badge/Github%20Stars-762-blue)](https://github.com/kaiyangzhou/coop)
 
 [**Visual Prompt Tuning**](https://doi.org/10.48550/arXiv.2203.12119) （**2022.03.23**）
 
@@ -420,7 +418,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884) （**2021.06.25**）
 
-![](https://img.shields.io/badge/Citations-173-green)
+![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-401-red)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/ivonajdenkoska/multimodal-meta-learn)
 
 [**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://doi.org/10.2139/ssrn.4347542) 
 
@@ -451,7 +449,7 @@ Those whose jobs are replaced by AI automation.
 
 [**More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models**](https://doi.org/10.48550/arXiv.2302.12173) （**2023.02.23**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/greshake/lm-safety)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-351-blue)](https://github.com/greshake/lm-safety)
 
 [**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**](https://doi.org/10.48550/arXiv.2302.08961) （**2023.02.17**）
 
@@ -502,7 +500,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Personalized Prompt Learning for Explainable Recommendation**](https://arxiv.org/abs/2202.07371) （**2022.02.15**）
 
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/lileipisces/pepler)
+![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-13-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/lileipisces/pepler)
 
 [**Instance-aware Prompt Learning for Language Understanding and Generation**](https://arxiv.org/abs/2201.07126) （**2022.01.18**）
 
