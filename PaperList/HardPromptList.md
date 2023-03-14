@@ -33,7 +33,7 @@
 
 <font color="gray">Lei Li, Yongfeng Zhang, Li Chen .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/lileipisces/pepler)
+![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-13-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/lileipisces/pepler)
 
 ---
 

@@ -9,7 +9,7 @@
 
 <font color="gray">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-166-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-169-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
 ---
 
@@ -33,7 +33,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-195-blue)](https://github.com/jeffhj/lm-reasoning)
 
 ---
 
@@ -41,7 +41,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-334-blue)](https://github.com/dqxiu/icl_paperlist)
 
 ---
 
@@ -49,7 +49,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-794-blue)](https://github.com/KaiyangZhou/Dassl.pytorch)
 
 
 </div>

@@ -9,7 +9,7 @@
 
 <font color="gray">Chenfei Wu, Sheng-Kai Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-111-red)  [![](https://img.shields.io/badge/Github%20Stars-13.9k-blue)](https://github.com/microsoft/visual-chatgpt)
 
 ---
 
@@ -33,7 +33,7 @@
 
 <font color="gray">Yunfan Jiang, Agrim Gupta, Zichen Zhang, Guanzhi Wang, Yongqiang Dou, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-15-green)
+![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-75-blue)](https://github.com/vimalabs/VIMABench)
 
 ---
 
@@ -41,7 +41,7 @@
 
 <font color="gray">Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu </font>
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-397-red)  [![](https://img.shields.io/badge/Github%20Stars-762-blue)](https://github.com/kaiyangzhou/coop)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-399-red)  [![](https://img.shields.io/badge/Github%20Stars-762-blue)](https://github.com/kaiyangzhou/coop)
 
 ---
 
@@ -57,7 +57,7 @@
 
 <font color="gray">Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. Eslami, Oriol Vinyals, etc .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-173-green)
+![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-401-red)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/ivonajdenkoska/multimodal-meta-learn)
 
 ---
 

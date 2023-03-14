@@ -129,7 +129,7 @@
 
 <font color="gray">Jiacheng Liu, Alisa Liu, Ximing Lu, S. Welleck, Peter West, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-36-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-125-red)  [![](https://img.shields.io/badge/Github%20Stars-33-blue)](https://github.com/liujch1998/gkp)
+![](https://img.shields.io/badge/Citations-36-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-126-red)  [![](https://img.shields.io/badge/Github%20Stars-33-blue)](https://github.com/liujch1998/gkp)
 
 ---
 
@@ -137,7 +137,7 @@
 
 <font color="gray">Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, etc .  - 【International Conference on Learning Representations】</font>
 
-![](https://img.shields.io/badge/Citations-378-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-408-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/bigscience-workshop/promptsource)
+![](https://img.shields.io/badge/Citations-378-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-409-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/bigscience-workshop/promptsource)
 
 ---
 
@@ -185,7 +185,7 @@
 
 <font color="gray">Brian Lester, Rami Al-Rfou, Noah Constant .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-685-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-714-red)  [![](https://img.shields.io/badge/Github%20Stars-362-blue)](https://github.com/google-research/prompt-tuning)
+![](https://img.shields.io/badge/Citations-685-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-715-red)  [![](https://img.shields.io/badge/Github%20Stars-362-blue)](https://github.com/google-research/prompt-tuning)
 
 ---
 
@@ -201,7 +201,7 @@
 
 <font color="gray">Laria Reynolds, Kyle McDonell .  - 【CHI Extended Abstracts】</font>
 
-![](https://img.shields.io/badge/Citations-147-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-168-red)
+![](https://img.shields.io/badge/Citations-147-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-169-red)
 
 ---
 
@@ -209,7 +209,7 @@
 
 <font color="gray">Tianyu Gao, Adam Fisch, Danqi Chen .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-642-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-703-red)  [![](https://img.shields.io/badge/Github%20Stars-630-blue)](https://github.com/princeton-nlp/LM-BFF)
+![](https://img.shields.io/badge/Citations-642-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-704-red)  [![](https://img.shields.io/badge/Github%20Stars-631-blue)](https://github.com/princeton-nlp/LM-BFF)
 
 ---
 
@@ -217,7 +217,7 @@
 
 <font color="gray">J. Oppenlaender .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-6.4k-blue)](https://github.com/compvis/latent-diffusion)
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-6.5k-blue)](https://github.com/compvis/latent-diffusion)
 
 ---
 

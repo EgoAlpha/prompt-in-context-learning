@@ -145,7 +145,7 @@
 
 <font color="gray">Ya-Ming Shen, Lijie Wang, Ying Chen, Xinyan Xiao, Jing Liu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-452-blue)](https://github.com/michiyasunaga/qagnn)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-453-blue)](https://github.com/michiyasunaga/qagnn)
 
 ---
 
@@ -185,7 +185,7 @@
 
 <font color="gray">Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-60-green)  [![](https://img.shields.io/badge/Github%20Stars-513-blue)](https://github.com/anthropics/hh-rlhf)
+![](https://img.shields.io/badge/Citations-60-green)  [![](https://img.shields.io/badge/Github%20Stars-525-blue)](https://github.com/anthropics/hh-rlhf)
 
 ---
 
@@ -193,7 +193,7 @@
 
 <font color="gray">Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-426-green)  [![](https://img.shields.io/badge/Github%20Stars-849-blue)](https://github.com/openai/following-instructions-human-feedback)
+![](https://img.shields.io/badge/Citations-426-green)  [![](https://img.shields.io/badge/Github%20Stars-852-blue)](https://github.com/openai/following-instructions-human-feedback)
 
 ---
 
@@ -209,7 +209,7 @@
 
 <font color="gray">Karl Cobbe, V. Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-105-red)  [![](https://img.shields.io/badge/Github%20Stars-319-blue)](https://github.com/openai/grade-school-math)
+![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-105-red)  [![](https://img.shields.io/badge/Github%20Stars-321-blue)](https://github.com/openai/grade-school-math)
 
 ---
 
@@ -225,7 +225,7 @@
 
 <font color="gray">Albert Webson, Ellie Pavlick .  - 【North American Chapter of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-69-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-132-red)  [![](https://img.shields.io/badge/Github%20Stars-67-blue)](https://github.com/awebson/prompt_semantics)
+![](https://img.shields.io/badge/Citations-69-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-133-red)  [![](https://img.shields.io/badge/Github%20Stars-67-blue)](https://github.com/awebson/prompt_semantics)
 
 ---
 
@@ -257,7 +257,7 @@
 
 <font color="gray">Tony Zhao, Eric Wallace, Shi Feng, D. Klein, Sameer Singh .  - 【International Conference on Machine Learning】</font>
 
-![](https://img.shields.io/badge/Citations-281-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-294-red)  [![](https://img.shields.io/badge/Github%20Stars-241-blue)](https://github.com/tonyzhaozh/few-shot-learning)
+![](https://img.shields.io/badge/Citations-281-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-295-red)  [![](https://img.shields.io/badge/Github%20Stars-242-blue)](https://github.com/tonyzhaozh/few-shot-learning)
 
 ---
 
@@ -265,7 +265,7 @@
 
 <font color="gray">Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi .  - 【International Conference on Learning Representations】</font>
 
-![](https://img.shields.io/badge/Citations-1644-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-758-red)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/Tiiiger/bert_score)
+![](https://img.shields.io/badge/Citations-1644-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-759-red)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/Tiiiger/bert_score)
 
 
 </div>
