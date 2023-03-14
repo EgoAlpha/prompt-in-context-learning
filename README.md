@@ -72,6 +72,8 @@ Those whose jobs are replaced by AI automation.
 
 # 📢 News
 
+- **[2023.3.13]** [LLaMA has been fine-tuned by Stanford](https://github.com/tatsu-lab/stanford_alpaca)
+
 - **[2023.3.10]** [Announcing OpenChatKit by Together](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
 - **[2023.3.9]**  GPT-4 is coming next week and it will be multimodal,announced by OpenAI.
@@ -108,25 +110,9 @@ Those whose jobs are replaced by AI automation.
 
 
 
-[**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**2022.12.19**）
-
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-169-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
-
 [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682) （**2022.06.15**）
 
-![](https://img.shields.io/badge/Citations-151-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
-
-[**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) （**2021.07.28**）
-
-![](https://img.shields.io/badge/Citations-444-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/mingkaid/rl-prompt)
-
-[**Towards Reasoning in Large Language Models: A Survey**](https://api.semanticscholar.org/3ee9c65366efbb17adf370c39f20dbef60d53670) 
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-195-blue)](https://github.com/jeffhj/lm-reasoning)
-
-[**A survey for in-context learning**](https://doi.org/10.48550/arXiv.2301.00234) 
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-334-blue)](https://github.com/dqxiu/icl_paperlist)
+![](https://img.shields.io/badge/Citations-156-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
 
 [**Augmented Language Models: a Survey**](https://api.semanticscholar.org/2029349c55c1dba3493c5b3bd25152f18ba21ae2) 
 
@@ -145,29 +131,13 @@ Those whose jobs are replaced by AI automation.
 
 
 
-[**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**](https://doi.org/10.48550/arXiv.2302.08043) （**2023.02.16**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1.7k-blue)](https://github.com/zjunlp/DeepKE/tree/main/example/ner/few-shot)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.7k-blue)](https://github.com/zjunlp/DeepKE/tree/main/example/ner/few-shot)
 
 [**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/hkunlp/batch-prompting)
-
-[**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
-
-![](https://img.shields.io/badge/Citations-8-green)
 
 [**Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding**](https://doi.org/10.48550/arXiv.2210.08536) （**2022.10.16**）
 
@@ -175,7 +145,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
 
-![](https://img.shields.io/badge/Citations-15-green)
+![](https://img.shields.io/badge/Citations-16-green)
 
 [**Interactive and Visual Prompt Engineering for Ad-hoc Task Adaptation with Large Language Models**](https://doi.org/10.1109/TVCG.2022.3209479) （**2022.08.16**）
 
@@ -184,6 +154,22 @@ Those whose jobs are replaced by AI automation.
 [**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
 
 ![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)  [![](https://img.shields.io/badge/Github%20Stars-132-blue)](https://github.com/shuyanzhou/docprompting)
+
+[**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
+
+![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-48-red)
+
+[**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
+
+![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-147-red)  [![](https://img.shields.io/badge/Github%20Stars-2.4k-blue)](https://github.com/salesforce/CodeGen)
+
+[**PTR: Prompt Tuning with Rules for Text Classification**](https://doi.org/10.1016/j.aiopen.2022.11.003) （**2021.05.24**）
+
+![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-226-red)  [![](https://img.shields.io/badge/Github%20Stars-127-blue)](https://github.com/thunlp/PTR)
+
+[**PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains**](https://doi.org/10.1162/tacl_a_00468) （**2021.02.24**）
+
+![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)  [![](https://img.shields.io/badge/Github%20Stars-44-blue)](https://github.com/eyalbd2/PADA)
 
 
 </div>
@@ -196,10 +182,6 @@ Those whose jobs are replaced by AI automation.
 
 
 
-[**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Guiding Large Language Models via Directional Stimulus Prompting**](https://doi.org/10.48550/arXiv.2302.11520) （**2023.02.22**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -208,17 +190,9 @@ Those whose jobs are replaced by AI automation.
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/livnlp/prompt-robustness)
 
-[**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**2023.02.07**）
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-360-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
-
-[**The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning**](https://arxiv.org/abs/2205.03401) （**2022.05.06**）
-
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-26-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/xiye17/textualexplincontext)
-
 [**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
 
-![](https://img.shields.io/badge/Citations-642-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-704-red)  [![](https://img.shields.io/badge/Github%20Stars-631-blue)](https://github.com/princeton-nlp/LM-BFF)
+![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-704-red)  [![](https://img.shields.io/badge/Github%20Stars-631-blue)](https://github.com/princeton-nlp/LM-BFF)
 
 [**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
 
@@ -226,7 +200,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**](https://doi.org/10.5282/UBM/EPUB.74034) （**2020.10.26**）
 
-![](https://img.shields.io/badge/Citations-84-green)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/timoschick/pet)
+![](https://img.shields.io/badge/Citations-85-green)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/timoschick/pet)
 
 
 </div>
@@ -239,9 +213,17 @@ Those whose jobs are replaced by AI automation.
 
 
 
+[**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
+
+![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+
 [**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**](https://doi.org/10.48550/arXiv.2302.00618) （**2023.02.01**）
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+[**Faithful Chain-of-Thought Reasoning**](https://doi.org/10.48550/arXiv.2301.13379) （**2023.01.31**）
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-36-blue)](https://github.com/veronica320/faithful-cot)
 
 [**Large Language Models Are Reasoning Teachers**](https://doi.org/10.48550/arXiv.2212.10071) （**2022.12.20**）
 
@@ -261,23 +243,15 @@ Those whose jobs are replaced by AI automation.
 
 [**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
 
-![](https://img.shields.io/badge/Citations-27-green)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/suzgunmirac/big-bench-hard)
+![](https://img.shields.io/badge/Citations-29-green)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/suzgunmirac/big-bench-hard)
 
 [**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
-![](https://img.shields.io/badge/Citations-23-green)  [![](https://img.shields.io/badge/Github%20Stars-288-blue)](https://github.com/amazon-research/auto-cot)
+![](https://img.shields.io/badge/Citations-24-green)  [![](https://img.shields.io/badge/Github%20Stars-288-blue)](https://github.com/amazon-research/auto-cot)
 
 [**Measuring and Narrowing the Compositionality Gap in Language Models**](https://doi.org/10.48550/arXiv.2210.03350) （**2022.10.07**）
 
-![](https://img.shields.io/badge/Citations-27-green)  [![](https://img.shields.io/badge/Github%20Stars-163-blue)](https://github.com/ofirpress/self-ask)
-
-[**Language Models are Multilingual Chain-of-Thought Reasoners**](https://doi.org/10.48550/arXiv.2210.03057) （**2022.10.06**）
-
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/google-research/url-nlp)
-
-[**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**](https://doi.org/10.48550/arXiv.2210.02406) （**2022.10.05**）
-
-![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/allenai/decomp)
+![](https://img.shields.io/badge/Citations-28-green)  [![](https://img.shields.io/badge/Github%20Stars-163-blue)](https://github.com/ofirpress/self-ask)
 
 
 </div>
@@ -302,10 +276,6 @@ Those whose jobs are replaced by AI automation.
 
 ![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/alexa/places)
 
-[**Controlling for Stereotypes in Multimodal Language Model Evaluation**](https://doi.org/10.48550/arXiv.2302.01582) （**2023.02.03**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://doi.org/10.48550/arXiv.2302.00093) （**2023.01.31**）
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/google-research-datasets/gsm-ic)
@@ -316,19 +286,23 @@ Those whose jobs are replaced by AI automation.
 
 [**Discovering Language Model Behaviors with Model-Written Evaluations**](https://doi.org/10.48550/arXiv.2212.09251) （**2022.12.19**）
 
-![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-101-blue)](https://github.com/anthropics/evals)
-
-[**Constitutional AI: Harmlessness from AI Feedback**](https://doi.org/10.48550/arXiv.2212.08073) （**2022.12.15**）
-
-![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-101-blue)](https://github.com/anthropics/evals)
 
 [**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08061) （**2022.12.15**）
 
-![](https://img.shields.io/badge/Citations-1-green)
+![](https://img.shields.io/badge/Citations-2-green)
 
 [**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**2022.11.25**）
 
 ![](https://img.shields.io/badge/Citations-3-green)
+
+[**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
+
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
+
+[**Large Language Models with Controllable Working Memory**](https://doi.org/10.48550/arXiv.2211.05110) （**2022.11.09**）
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-238-blue)](https://github.com/golosio/annabell)
 
 
 </div>
@@ -357,29 +331,29 @@ Those whose jobs are replaced by AI automation.
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/salt-nlp/bound-cap-llm)
 
-[**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/arXiv.2301.11916) （**2023.01.27**）
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/wangxinyilinda/concept-based-demonstration-selection)
-
-[**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**](https://doi.org/10.48550/arXiv.2212.12017) （**2022.12.22**）
-
-![](https://img.shields.io/badge/Citations-9-green)
-
-[**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**2022.12.21**）
-
-![](https://img.shields.io/badge/Citations-2-green)
-
-[**Self-adaptive In-context Learning**](https://doi.org/10.48550/arXiv.2212.10375) （**2022.12.20**）
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/shark-nlp/self-adaptive-icl)
-
-[**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450) （**2022.12.20**）
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-76-blue)](https://github.com/blazejosinski/lm_nav)
-
 [**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+[**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**2022.10.17**）
+
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-47-blue)](https://github.com/noviscl/gpt3-reliability)
+
+[**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
+
+![](https://img.shields.io/badge/Citations-29-green)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/suzgunmirac/big-bench-hard)
+
+[**Complexity-Based Prompting for Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2210.00720) （**2022.10.03**）
+
+![](https://img.shields.io/badge/Citations-18-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/allenai/decomp)
+
+[**Rationale-Augmented Ensembles in Language Models**](https://doi.org/10.48550/arXiv.2207.00747) （**2022.07.02**）
+
+![](https://img.shields.io/badge/Citations-26-green)
 
 
 </div>
@@ -398,7 +372,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
-![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
 
 [**CoHOZ**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
 
@@ -414,13 +388,17 @@ Those whose jobs are replaced by AI automation.
 
 [**Visual Prompt Tuning**](https://doi.org/10.48550/arXiv.2203.12119) （**2022.03.23**）
 
-![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
+![](https://img.shields.io/badge/Citations-104-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
 
 [**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884) （**2021.06.25**）
 
 ![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-401-red)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/ivonajdenkoska/multimodal-meta-learn)
 
 [**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://doi.org/10.2139/ssrn.4347542) 
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**](https://api.semanticscholar.org/8b32aa33601514976d88fabcb060a5cd38d34006) 
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -465,15 +443,15 @@ Those whose jobs are replaced by AI automation.
 
 [**Prompting for Multimodal Hateful Meme Classification**](https://doi.org/10.48550/arXiv.2302.04156) （**2023.02.08**）
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-1-green)
 
-[**Learning to Transfer Prompts for Text Generation**](https://doi.org/10.48550/arXiv.2205.01543) （**2022.05.03**）
+[**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**](https://doi.org/10.48550/arXiv.2203.01543) （**2022.03.03**）
 
-![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/rucaibox/transfer-prompts-for-text-generation)
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-56-blue)](https://github.com/dayyass/QaNER)
 
-[**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**](https://doi.org/10.48550/arXiv.2203.09101) （**2022.03.17**）
+[**LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting**](https://arxiv.org/abs/2109.00720) （**2021.08.31**）
 
-![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-86-blue)](https://github.com/declare-lab/relationprompt)
+![](https://img.shields.io/badge/Citations-9-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
 
 
 </div>
@@ -502,18 +480,6 @@ Those whose jobs are replaced by AI automation.
 
 ![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-13-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/lileipisces/pepler)
 
-[**Instance-aware Prompt Learning for Language Understanding and Generation**](https://arxiv.org/abs/2201.07126) （**2022.01.18**）
-
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/jinfeihu-stan/ipl)
-
-[**PromptAttack: Prompt-based Attack for Language Models via Gradient Search**](https://api.semanticscholar.org/251269b9e16ab1da20cb57a669b2bfdbd0d1cd72) 
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**ADEPT: A DEbiasing PrompT Framework**](https://api.semanticscholar.org/1abd4fa45ce20175452aa238870db2aebe9c0fe0) 
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/EmpathYang/ADEPT)
-
 
 </div>
 
@@ -530,10 +496,6 @@ Those whose jobs are replaced by AI automation.
 ![](https://img.shields.io/badge/Citations-1-green)
 
 [**How Does In-Context Learning Help Prompt Tuning?**](https://doi.org/10.48550/arXiv.2302.11521) （**2023.02.22**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Scalable Prompt Generation for Semi-supervised Learning with Language Models**](https://doi.org/10.48550/arXiv.2302.09236) （**2023.02.18**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -557,13 +519,17 @@ Those whose jobs are replaced by AI automation.
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://doi.org/10.48550/arXiv.2211.10681) （**2022.11.19**）
+[**Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning**](https://doi.org/10.48550/arXiv.2210.12587) （**2022.10.23**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/forest-art/dfsp)
+![](https://img.shields.io/badge/Citations-0-green)
 
-[**FPT: Improving Prompt Tuning Efficiency via Progressive Training**](https://doi.org/10.48550/arXiv.2211.06840) （**2022.11.13**）
+[**XPrompt: Exploring the Extreme of Prompt Tuning**](https://doi.org/10.48550/arXiv.2210.04457) （**2022.10.10**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/thunlp/fastprompttuning)
+![](https://img.shields.io/badge/Citations-2-green)
+
+[**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**](https://doi.org/10.48550/arXiv.2210.04726) （**2022.10.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>

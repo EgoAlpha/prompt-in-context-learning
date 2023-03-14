@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Larger language models do in-context learning differently**](https://arxiv.org/abs/2303.03846) （**2023.03.07**）
+
+<font color="gray">Jerry W. Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/mattf1n/lm-intervention)
+
+---
+
 [**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**2023.03.01**）
 
 <font color="gray">Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, etc .  - 【ArXiv】</font>
