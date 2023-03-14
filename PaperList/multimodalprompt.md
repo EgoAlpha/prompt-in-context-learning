@@ -13,15 +13,23 @@
 
 ---
 
+[**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**](https://arxiv.org/abs/2303.02861) （**2023.03.06**）
+
+<font color="gray">Zhen Wang, R. Panda, Leonid Karlinsky, R. Feris, Huan Sun, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
 <font color="gray">Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, G. Karypis, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
 
 ---
 
-[**CoHOZ**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
+[**CoHOZ: Contrasive Multimodal prompt Tuning for Hierarchical Open-set Zero-shot Recognition**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
 
 <font color="gray">Ning Liao, Yifeng Liu, Li Xiaobo, Chenyi Lei, Guoxin Wang, etc .  - 【Proceedings of the 30th ACM International Conference on Multimedia】</font>
 
@@ -49,7 +57,7 @@
 
 <font color="gray">Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, S. Belongie, etc .  - 【European Conference on Computer Vision】</font>
 
-![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
+![](https://img.shields.io/badge/Citations-104-green)  [![](https://img.shields.io/badge/Github%20Stars-350-blue)](https://github.com/KMnP/vpt)
 
 ---
 

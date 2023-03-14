@@ -19,12 +19,12 @@
 
 </h3> -->
 
-<!-- <h4 align="center">
+<h4 align="center">
     <p>
         <a href="./README.md">English</a> |
         <a href="./chatgptprompt_zh.md">简体中文</a>
     <p>
-</h4> -->
+</h4>
 
 <p align="center">
 
