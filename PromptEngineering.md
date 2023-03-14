@@ -65,7 +65,7 @@ We propose a framework for prompt design that consists of five key components: c
 - 🕒**Demonstration**: 
   - Demonstration is valuable as it allow LLMs to understand what is expected through examples, particularly when instructions alone cannot effectively convey specific details and accuracy. By offering examples of input and output pairs, LLMs can automatically identify patterns and then generate text that is aligned with the user's expectations.
 
-## 💥 Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt.*
+## 💥 Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt.
 
 
 
