@@ -110,13 +110,29 @@ Those whose jobs are replaced by AI automation.
 
 
 
+[**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842) （**2023.02.15**）
+
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-794-blue)](https://github.com/KaiyangZhou/Dassl.pytorch)
+
+[**A Survey for In-context Learning**](https://doi.org/10.48550/arXiv.2301.00234) （**2022.12.31**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-334-blue)](https://github.com/dqxiu/icl_paperlist)
+
+[**Towards Reasoning in Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2212.10403) （**2022.12.20**）
+
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-195-blue)](https://github.com/jeffhj/lm-reasoning)
+
+[**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**2022.12.19**）
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-169-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+
 [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682) （**2022.06.15**）
 
 ![](https://img.shields.io/badge/Citations-156-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
 
-[**Augmented Language Models: a Survey**](https://api.semanticscholar.org/2029349c55c1dba3493c5b3bd25152f18ba21ae2) 
+[**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) （**2021.07.28**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-794-blue)](https://github.com/KaiyangZhou/Dassl.pytorch)
+![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/mingkaid/rl-prompt)
 
 
 </div>
@@ -370,11 +386,15 @@ Those whose jobs are replaced by AI automation.
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-111-red)  [![](https://img.shields.io/badge/Github%20Stars-13.9k-blue)](https://github.com/microsoft/visual-chatgpt)
 
+[**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**](https://arxiv.org/abs/2303.02861) （**2023.03.06**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
 ![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
 
-[**CoHOZ**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
+[**CoHOZ: Contrasive Multimodal prompt Tuning for Hierarchical Open-set Zero-shot Recognition**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -395,10 +415,6 @@ Those whose jobs are replaced by AI automation.
 ![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-401-red)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/ivonajdenkoska/multimodal-meta-learn)
 
 [**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://doi.org/10.2139/ssrn.4347542) 
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**](https://api.semanticscholar.org/8b32aa33601514976d88fabcb060a5cd38d34006) 
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
