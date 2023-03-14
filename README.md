@@ -112,7 +112,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842) （**2023.02.15**）
 
-![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-794-blue)](https://github.com/KaiyangZhou/Dassl.pytorch)
+![](https://img.shields.io/badge/Citations-4-green) 
 
 [**A Survey for In-context Learning**](https://doi.org/10.48550/arXiv.2301.00234) （**2022.12.31**）
 
@@ -120,19 +120,19 @@ Those whose jobs are replaced by AI automation.
 
 [**Towards Reasoning in Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2212.10403) （**2022.12.20**）
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-195-blue)](https://github.com/jeffhj/lm-reasoning)
+![](https://img.shields.io/badge/Citations-5-green) 
 
 [**Reasoning with Language Model Prompting: A Survey**](https://doi.org/10.48550/arXiv.2212.09597) （**2022.12.19**）
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-169-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+![](https://img.shields.io/badge/Citations-7-green)  
 
 [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682) （**2022.06.15**）
 
-![](https://img.shields.io/badge/Citations-156-green)  [![](https://img.shields.io/badge/Github%20Stars-755-blue)](https://github.com/zhaoolee/garss)
+![](https://img.shields.io/badge/Citations-156-green)  
 
 [**Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**](https://doi.org/10.1145/3560815) （**2021.07.28**）
 
-![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/mingkaid/rl-prompt)
+![](https://img.shields.io/badge/Citations-462-green)  
 
 
 </div>
@@ -149,7 +149,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.7k-blue)](https://github.com/zjunlp/DeepKE/tree/main/example/ner/few-shot)
+![](https://img.shields.io/badge/Citations-2-green) 
 
 [**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
 
@@ -177,7 +177,7 @@ Those whose jobs are replaced by AI automation.
 
 [**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
 
-![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-147-red)  [![](https://img.shields.io/badge/Github%20Stars-2.4k-blue)](https://github.com/salesforce/CodeGen)
+![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-147-red)  
 
 [**PTR: Prompt Tuning with Rules for Text Classification**](https://doi.org/10.1016/j.aiopen.2022.11.003) （**2021.05.24**）
 
