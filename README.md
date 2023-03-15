@@ -74,7 +74,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.3.14]** 💥 Announcing [PaLM](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html) API by Google.
 
-- **[2023.3.14]** 💥 Announcing [GPT4](https://openai.com/product/gpt-4) by OpenAI from Microsoft.
+- **[2023.3.14]** 💥 Announcing [GPT4](https://openai.com/product/gpt-4) by OpenAI from Microsoft. **[Paper🔗](https://cdn.openai.com/papers/gpt-4.pdf)**
 
 - **[2023.3.13]** [LLaMA has been fine-tuned by Stanford](https://github.com/tatsu-lab/stanford_alpaca)
 
