@@ -48,8 +48,6 @@ By following design principle, you can improve the quality and accuracy of the L
 -	**Use appropriate formatting**: Use appropriate formatting such as bullet points, numbered lists, or bold text to highlight key information in the prompt. This can help the model understand the structure and organization of the prompt.
 -	**Test and refine**: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
 
----
-
 ### Framework
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
 
