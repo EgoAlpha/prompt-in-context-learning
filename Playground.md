@@ -19,6 +19,7 @@
 | CodeGeeX | Decoder | Tsinghua | [🔗](https://huggingface.co/spaces/THUDM/CodeGeeX) | 13 | -/[Code](https://github.com/THUDM/CodeGeeX)|Sep-22|
 | GLM-130B | Encoder-Decoder | Tsinghua & Zhipu | [🔗](https://huggingface.co/spaces/THUDM/GLM-130B) | 130 |[Paper](https://arxiv.org/abs/2210.02414)/[Code](https://huggingface.co/spaces/THUDM/GLM-130B)|Aug-22|
 | BLOOM(tr11-176B-ml) | Decoder | BigScience | [🔗](https://huggingface.co/spaces/huggingface/bloom_demo) | 176|-/[Code](https://github.com/bigscience-workshop/bigscience/tree/master/train/tr11-176B-ml)|Jul-22|
+| PaLM | Decoder | Google Research | [🔗](https://cloud.google.com/vertex-ai) | 540|[Paper](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)/-|Apr-22|
 | CodeT5 | Encoder-Decoder | Salesforce Research Asia | [🔗](https://huggingface.co/Salesforce/codet5-base) | small:0.06,base:0.22|[Paper](https://arxiv.org/abs/2109.00859)/-|Mar-22|
 | ERNIE3.0 | Encoder-Decoder | Baidu | [🔗](https://huggingface.co/swtx/ernie-3.0-base-chinese) | 10|[Paper](https://arxiv.org/abs/2112.12731)/-|Dec-21|
 | CodeX | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|Aug-21|
@@ -61,7 +62,6 @@
 | Sparrow | Decoder | DeepMind | [🔗](https://www.deepmind.com/blog/building-safer-dialogue-agents) | 70|[Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Authors-Notes/sparrow/sparrow-final.pdf)/-|Sep-22|
 | PaLI | Encoder-Decoder | Google | [🔗](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html) | 17|[Paper](https://arxiv.org/abs/2209.06794)/-|Sep-22|
 | Gato(Cat) | Encoder-Decoder | DeepMind | [🔗](https://www.deepmind.com/blog/a-generalist-agent) | 1|[Paper](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)/-|May-22|
-| PaLM | Decoder | Google Research | [🔗](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html) | 540|[Paper](https://storage.googleapis.com/pathways-language-model/PaLM-paper.pdf)/-|Apr-22|
 | Chinchilla | Encoder | DeepMind | [🔗](https://deepmind.github.io/dramatron/details.html) | 70|[Paper](https://arxiv.org/abs/2203.15556)/-|Mar-22|
 | Gopher | Encoder  | DeepMind | [🔗](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) | 280|[Paper](https://arxiv.org/abs/2112.11446)/-|Dec-21|
 | LaMDA | Decoder | GoogleAI |[🔗](https://www.youtube.com/watch?v=aUSSfo5nCdM)| 137|[Paper](https://arxiv.org/abs/2201.08239)/-|Jun-21|
