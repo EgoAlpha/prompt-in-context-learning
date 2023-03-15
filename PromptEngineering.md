@@ -4,7 +4,6 @@
 
 - [Introduction](#introduction)
 - [Design Principle and Framework](#design-principle-and-framework)
-- [Prompt Techniques]()
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -48,6 +47,8 @@ By following design principle, you can improve the quality and accuracy of the L
 -	**Use appropriate formatting**: Use appropriate formatting such as bullet points, numbered lists, or bold text to highlight key information in the prompt. This can help the model understand the structure and organization of the prompt.
 -	**Test and refine**: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
 
+---
+
 ### Framework
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
 
@@ -72,7 +73,8 @@ Usually, 'instruction' or 'demonstration' can both be used to convey our intent 
 
 At the beginning of the prompt, we can directly write the content to express the intent of the instruction, without having to explicitly use the words 'instruction' or 'demonstration'.  
 
-## 👁️ **[Prompt example]**:
+👁️ **[Prompt example]**:
+
 ```Write a 500-word short story that incorporates the theme of discovering hidden talents. Ensure that your story has a clear beginning, middle, and end, and that the characters are well-rounded and believable.``` 
 
 ```[Context]: You are tasked with writing a short story about a character who suddenly discovers a hidden talent they never knew they possessed. The story should have a clear plot and well-developed characters.```
@@ -87,30 +89,34 @@ Output:
   Emily had always considered herself an average person. She went to work, came home, and spent her evenings watching TV or scrolling through social media. But on this particular day, something changed. 
   As she walked home from work, she noticed a group of people gathered around a street performer. 
   Curiosity piqued, she pushed her way through the crowd to see what was happening. The performer was a young man playing a guitar, his fingers moving expertly over the strings. 
-  Emily found herself drawn in by the music, the melody taking her to a place she had never been before. As the song ended, the performer looked up and met Emily's gaze. He smiled and gestured for her to come closer.
-  Emily hesitated, feeling self-conscious, but something about the performer's smile made her feel welcome. She moved closer, and the performer handed her his guitar."Play something," he said, encouragingly. Emily shook her head. "I don't know how," she replied. "Everyone has music inside them," the performer said. "Just let it out."Emily looked down at the guitar in her hands, feeling a sense of unease. She had never played an instrument before, and the thought of making a fool of herself in front of this crowd was daunting. But as she looked up, she saw the performer nodding at her, encouraging her to give it a try. Taking a deep breath, Emily placed her fingers on the strings and began to strum. 
-  To her surprise, a melody began to form. She felt the music flowing through her, the notes coming easily as if they had been waiting to be released all along. The crowd around her cheered, and Emily felt a sense of pride swell inside her. She had discovered a talent she never knew she possessed. From that moment on, she spent every spare moment practicing, determined to hone her skills and see where this new passion could take her. Months passed, and Emily found herself playing at local bars and coffee shops, her talent drawing in crowds of people eager to hear her music. 
-  She had never felt so alive, and every time she played, she felt a sense of fulfillment and purpose that she had never experienced before. One day, a music producer heard her play and offered her a record deal. Emily couldn't believe it - this was everything she had ever dreamed of. She signed the contract and began working on her first album. As her music career took off, Emily looked back on that chance encounter with the street performer and realized that it had changed her life forever. 
+  Emily found herself drawn in by the music, the melody taking her to a place she had never been before. As the song ended, the performer looked up and met Emily's gaze. 
+  He smiled and gestured for her to come closer.Emily hesitated, feeling self-conscious, but something about the performer's smile made her feel welcome. 
+  She moved closer, and the performer handed her his guitar."Play something," he said, encouragingly. Emily shook her head. "I don't know how," she replied. "Everyone has music inside them," the performer said. "Just let it out."Emily looked down at the guitar in her hands, feeling a sense of unease. 
+  She had never played an instrument before, and the thought of making a fool of herself in front of this crowd was daunting. But as she looked up, she saw the performer nodding at her, encouraging her to give it a try. 
+  Taking a deep breath, Emily placed her fingers on the strings and began to strum. To her surprise, a melody began to form. She felt the music flowing through her, the notes coming easily as if they had been waiting to be released all along. 
+  The crowd around her cheered, and Emily felt a sense of pride swell inside her. She had discovered a talent she never knew she possessed. From that moment on, she spent every spare moment practicing, determined to hone her skills and see where this new passion could take her. 
+  Months passed, and Emily found herself playing at local bars and coffee shops, her talent drawing in crowds of people eager to hear her music. 
+  She had never felt so alive, and every time she played, she felt a sense of fulfillment and purpose that she had never experienced before. One day, a music producer heard her play and offered her a record deal. 
+  Emily couldn't believe it - this was everything she had ever dreamed of. She signed the contract and began working on her first album. 
+  As her music career took off, Emily looked back on that chance encounter with the street performer and realized that it had changed her life forever. 
   She had discovered a hidden talent she never knew she possessed, and it had brought her more happiness and fulfillment than she could ever have imagined.
 ```
 
 I like this story:  Unleash Your Hidden Talent! 
 
-## 👁️ **[Prompt example]**:
+👁️ **[Prompt example]**:
 
-Circulation revenue has increased by 5% in Finland. 
-Positive 
-Panostaja did not disclose the purchase price. 
-  Neutral 
-Paying off the national debt will be extremely painful. 
-  Negative 
-The acquisition will have an immediate positive impact.
-  ???
+```Circulation revenue has increased by 5% in Finland. [Positive]``` 
+```Panostaja did not disclose the purchase price. [Neutral]```
+```Paying off the national debt will be extremely painful. [Negative]``` 
+```The acquisition will have an immediate positive impact. [???]```
 
 ```
 Output:  
 Neutral
 ```
+
+--- 
 
 ### Prompt Techniques
 
@@ -118,75 +124,70 @@ Neutral
 
 Prompt-based approaches offer a powerful and flexible tool for resolving a wide range of NLP tasks.  We can complete the task by expressing ourselves in natural language, so there's no need to adhere to a specific format. 
 
-Sentiment Analysis: LLMs can be trained to identify the sentiment expressed in a piece of text, such as positive, negative, or neutral. This can be useful for analyzing customer feedback, social media posts, and product reviews.
+**Sentiment Analysis**: LLMs can be trained to identify the sentiment expressed in a piece of text, such as positive, negative, or neutral. This can be useful for analyzing customer feedback, social media posts, and product reviews.
 
 👁️ **[Prompt example]**: 
 
-Analyze the sentiment of the following text:
+```Analyze the sentiment of the following text:```
 
-Text:  'I absolutely loved the movie! The acting was fantastic and the plot kept me engaged throughout the entire film.'
+```Text:  'I absolutely loved the movie! The acting was fantastic and the plot kept me engaged throughout the entire film.'```
 
-Entity Recognition: 
-LLMs can identify entities in a text, such as people, places, organizations, and products. This can be used for named entity recognition in various domains, such as news articles or legal documents.
-
-👁️ **[Prompt example]**:
-
-Analyze the following paragraph and identify all the people, places, and organizations mentioned in the text, and then output the results in json format. 
-
-Text: 'The Apple event took place at the Steve Jobs Theater in Cupertino, California. Tim Cook, the CEO of Apple, introduced the new iPhone 13, which will be available for pre-order starting next week. The phone comes in several colors and features a faster processor and longer battery life.'
-
-Relation Extraction
-LLMs can also extract relationships between entities in a piece of text, such as identifying that a person is the CEO of a company or that a product is made by a certain brand. This can be useful for tasks such as knowledge graph construction, where the relationships between entities are important for understanding the domain.
+**Entity Recognition**: LLMs can identify entities in a text, such as people, places, organizations, and products. This can be used for named entity recognition in various domains, such as news articles or legal documents.
 
 👁️ **[Prompt example]**:
 
-Analyze the following sentence and extract the relationship between two entities, and then output the results in JSON format.  
+```Analyze the following paragraph and identify all the people, places, and organizations mentioned in the text, and then output the results in json format. ```
 
-Text: 'Elon Musk founded SpaceX in 2002 with the goal of reducing space transportation costs and enabling the colonization of Mars.' 
+```Text: 'The Apple event took place at the Steve Jobs Theater in Cupertino, California. Tim Cook, the CEO of Apple, introduced the new iPhone 13, which will be available for pre-order starting next week. The phone comes in several colors and features a faster processor and longer battery life.'```
 
-Text Summarization: 
-LLMs can also be used for text summarization, where they can automatically generate a summary of a longer piece of text, such as an article or report. This can be useful for quickly understanding the key points of a document without having to read the entire thing.
+**Relation Extraction**: LLMs can also extract relationships between entities in a piece of text, such as identifying that a person is the CEO of a company or that a product is made by a certain brand. This can be useful for tasks such as knowledge graph construction, where the relationships between entities are important for understanding the domain.
+
+👁️ **[Prompt example]**:
+
+```Analyze the following sentence and extract the relationship between two entities, and then output the results in JSON format.```  
+
+```Text: 'Elon Musk founded SpaceX in 2002 with the goal of reducing space transportation costs and enabling the colonization of Mars.'``` 
+
+**Text Summarization**: LLMs can also be used for text summarization, where they can automatically generate a summary of a longer piece of text, such as an article or report. This can be useful for quickly understanding the key points of a document without having to read the entire thing.
 
 👁️ **[Prompt example]**: 
 
-Summarize the following paragraph:  {Paste your paragraph}
+```Summarize the following paragraph:  {Paste your paragraph}```
 
-Text Classification: 
-LLMs can classify text into predefined categories, such as classifying news articles into different topics or categorizing customer inquiries into different types. This can be useful for tasks such as content moderation, where incoming text needs to be classified quickly and accurately.
-Prompt Example: 
+**Text Classification**: LLMs can classify text into predefined categories, such as classifying news articles into different topics or categorizing customer inquiries into different types. This can be useful for tasks such as content moderation, where incoming text needs to be classified quickly and accurately.
 
-Classify the following keyword list in groups based on their search intent, whether commercial, transactional or informational: {Paste your keywords}
+👁️ **[Prompt example]**: 
 
-Text Clustering: 
+```Classify the following keyword list in groups based on their search intent, whether commercial, transactional or informational: {Paste your keywords}```
 
-LLMs can group similar texts together based on their content or features. This feature can be useful in tasks such as data mining, topic modeling, and customer segmentation.
+**Text Clustering**: LLMs can group similar texts together based on their content or features. This feature can be useful in tasks such as data mining, topic modeling, and customer segmentation.
 
 👁️ **[Prompt example]**:  
 
-Cluster the following set of news articles into distinct groups based on their content: "Tesla's electric car sales continue to soar despite the pandemic" 
-"New study suggests coffee consumption may lower risk of heart disease" 
-"The latest iPhone model features a larger screen and improved camera" 
-"COVID-19 cases surge in India, overwhelming healthcare system" 
-"Amazon announces plans to build a new fulfillment center in Texas"
- "Scientists discover new species of bird in the Amazon rainforest"
- "Global climate change conference to be held in Paris next month" 
-"Starbucks introduces plant-based milk options in all U.S. stores"
+```Cluster the following set of news articles into distinct groups based on their content: "Tesla's electric car sales continue to soar despite the pandemic"``` 
 
-Machine Translation: 
-LLMs can be used for machine translation, where they can translate text from one language to another. This can be useful for businesses that operate globally, as well as for individuals who need to communicate with people who speak different languages.
-Prompt example:  
+```"New study suggests coffee consumption may lower risk of heart disease"``` 
 
-Translate the following paragraph into Chinese. {Paste your paragraph}
+```"The latest iPhone model features a larger screen and improved camera"```
+
+```"COVID-19 cases surge in India, overwhelming healthcare system" ```
+
+```"Amazon announces plans to build a new fulfillment center in Texas"```
+
+```"Scientists discover new species of bird in the Amazon rainforest"```
+
+```"Global climate change conference to be held in Paris next month"``` 
+
+```"Starbucks introduces plant-based milk options in all U.S. stores"```
+
+**Machine Translation**: LLMs can be used for machine translation, where they can translate text from one language to another. This can be useful for businesses that operate globally, as well as for individuals who need to communicate with people who speak different languages.
+
+👁️ **[Prompt example]**
+```Translate the following paragraph into Chinese. {Paste your paragraph}```
 
 
-Question Answering: 
-
-LLMs can be used for question answering, where they can read a passage of text and answer questions about it. This can be useful for applications such as customer support, where customers can ask questions and receive quick, accurate answers.
+**Question Answering**: LLMs can be used for question answering, where they can read a passage of text and answer questions about it. This can be useful for applications such as customer support, where customers can ask questions and receive quick, accurate answers.
 
 👁️ **[Prompt example]**:  
 
-The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers. It is located in the Coral Sea, off the coast of Australia. The reef is home to a diverse range of marine life, including over 1,500 species of fish, 600 types of coral, and numerous other species. What is the Great Barrier Reef and where is it located?
-
-
-
-
+```The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers. It is located in the Coral Sea, off the coast of Australia. The reef is home to a diverse range of marine life, including over 1,500 species of fish, 600 types of coral, and numerous other species. What is the Great Barrier Reef and where is it located?```
