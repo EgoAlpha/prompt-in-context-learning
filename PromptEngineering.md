@@ -165,7 +165,9 @@ Prompt-based approaches offer a powerful and flexible tool for resolving a wide 
 
 👁️ **[Prompt example]**:  
 
-```Cluster the following set of news articles into distinct groups based on their content: "Tesla's electric car sales continue to soar despite the pandemic"``` 
+```Cluster the following set of news articles into distinct groups based on their content:``` 
+
+```"Tesla's electric car sales continue to soar despite the pandemic"``` 
 
 ```"New study suggests coffee consumption may lower risk of heart disease"``` 
 
@@ -184,6 +186,7 @@ Prompt-based approaches offer a powerful and flexible tool for resolving a wide 
 **Machine Translation**: LLMs can be used for machine translation, where they can translate text from one language to another. This can be useful for businesses that operate globally, as well as for individuals who need to communicate with people who speak different languages.
 
 👁️ **[Prompt example]**
+
 ```Translate the following paragraph into Chinese. {Paste your paragraph}```
 
 
