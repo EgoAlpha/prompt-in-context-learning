@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [Design Principle and Framework](#design-principle-and-framework)
+- [Prompt Techniques](#prompt-techniques)
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -116,9 +117,9 @@ Output:
 Neutral
 ```
 
---- 
+<img width="200%" src="./figures/hr.gif" />
 
-### Prompt Techniques
+## Prompt Techniques
 
 #### Basic prompting
 
