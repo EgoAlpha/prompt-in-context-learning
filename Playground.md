@@ -10,7 +10,7 @@
 |   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
 | ---- | ---- | ----  | ---- | ---- |----|----|
 | GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|Mar-14|
-| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Code](https://github.com/togethercomputer/OpenChatKit)|Mar-23|
+| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Code](https://github.com/togethercomputer/OpenChatKit)|Mar-13|
 | Alpaca | Decoder| Stanford | [🔗](https://alpaca-ai-custom1.ngrok.io/) | 7 |-/[Code](https://github.com/tatsu-lab/stanford_alpaca)|Mar-13|
 | ChatGPT | Decoder| OpenAI | [🔗](https://platform.openai.com/playground) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|Nov-22|
 | GPT-JT | Decoder | Together | [🔗](https://huggingface.co/spaces/togethercomputer/GPT-JT) | 6 |-/[Code](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)|Nov-22|
