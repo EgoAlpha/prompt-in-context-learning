@@ -43,13 +43,56 @@ ChatGPT can act as a tutor or teaching assistant whether you're trying to learn 
    
     - 👁️ **[Prompt example]**:```Can you help me identify any syntax errors in this JavaScript code?```
 
-- **Code optimization**: Chat GPT can suggest ways to optimize code, which can be helpful for beginners who are trying to write efficient programs.
+- **Code optimization**: ChatGPT can suggest ways to optimize code, which can be helpful for beginners who are trying to write efficient programs.
     
     - 👁️ **[Prompt example]**:```I have a Python program that takes a long time to execute. Can you suggest ways to optimize it and improve its performance?```
 
-- **Interactive examples**: Chat GPT can provide interactive examples that allow beginners to experiment with different coding concepts and see how they work in real-time.
+- **Interactive examples**: ChatGPT can provide interactive examples that allow beginners to experiment with different coding concepts and see how they work in real-time.
     
     - 👁️ **[Prompt example]**:```Can you provide an interactive example in JavaScript that demonstrates how to use loops to iterate over an array and perform an action on each element? ```
+
+### Learning Cooking
+
+
+- **Recipe suggestions**: ChatGPT can suggest recipes based on ingredients, cuisine, and cooking time. It can also provide alternatives and variations of the same recipe to cater to different preferences.
+    
+    - 👁️ **[Prompt example]**:```I have some leftover chicken and bell peppers. Can you suggest a recipe that incorporates these ingredients? ```
+
+- **Ingredient substitutions**: If you're missing a particular ingredient, Chat GPT can suggest substitutes that can be used instead. This can be useful in a pinch or for accommodating dietary restrictions.
+
+    - 👁️ **[Prompt example]**:```I don't have any eggs in my kitchen. Can you suggest a substitute for eggs in baking? ```
+
+- **Cooking tips**: Chat GPT can provide helpful cooking tips and tricks, such as how to properly season a dish, how to prepare ingredients, and how to adjust cooking times and temperatures.
+
+    - 👁️ **[Prompt example]**:```Can you provide some tips for cooking the perfect steak?```
+
+- **Meal planning**: Chat GPT can suggest meal plans based on dietary needs and preferences, and can help you create a grocery list based on the recipes you choose.
+
+    - 👁️ **[Prompt example]**:```Can you suggest a meal plan for a week that's vegetarian and high in protein?```
+
+- **Cooking terminology**: Chat GPT can explain cooking terminology and techniques that may be unfamiliar, helping to demystify the cooking process and make it more accessible.
+
+    - 👁️ **[Prompt example]**:```I'm new to cooking and I'm not sure what it means to "blanch" vegetables. Can you explain this cooking term?```
+
+- **Nutritional information**: Chat GPT can provide nutritional information for recipes, such as calorie count, macronutrient breakdown, and allergen warnings.
+
+    - 👁️ **[Prompt example]**:```I need to know the nutritional info of this recipes, tell me the details as you can```
+
+- **Ingredient pairing**: Chat GPT can suggest ingredient pairings based on complementary flavors and textures, helping you to create well-balanced dishes.
+
+    - 👁️ **[Prompt example]**:```Can you provide me with the nutritional information for a recipe that includes chicken, brown rice, and mixed vegetables? Please include calorie count, macronutrient breakdown, and any allergen warnings.```
+
+- **Cooking equipment**: Chat GPT can recommend cooking equipment and tools for specific recipes or techniques, such as a mandoline for slicing vegetables thinly or a sous-vide machine for precision cooking.
+
+    - 👁️ **[Prompt example]**:```I want to make homemade pasta from scratch. Can you recommend the necessary cooking equipment and tools I will need for this task?```
+
+- **Regional cuisine**: Chat GPT can introduce you to new and diverse regional cuisines, and provide information about their history, ingredients, and preparation methods.
+
+    - 👁️ **[Prompt example]**:```I'm interested in exploring regional cuisines from South America. Can you recommend some traditional dishes from this region, and provide information on their history and ingredients?```
+
+- **Food safety**: Chat GPT can provide information on food safety, such as how to properly store and handle food, and how to avoid cross-contamination.
+
+    - 👁️ **[Prompt example]**:```I am hosting a barbecue this weekend and want to make sure that I am handling and storing the food properly. Can you provide me with some food safety tips and guidelines that I should follow to ensure that my guests do not get sick?```
 
 ## 🙋 Assist in our work
 
@@ -97,6 +140,32 @@ ChatGPT can become your own personal assistant that can aiding in our work, mana
 
     - 👁️ **[Prompt example]**:```Generate a test case for a Python function that checks if an image is correctly classified as a cat or a dog.```
 
+### Aid in making videos
+
+- **Idea generation**: One of the key features of Chat GPT is its ability to generate high-quality content. You can use this feature to come up with new video ideas or even generate entire scripts for your YouTube channel. Simply provide the model with some prompts or keywords, and it will generate content based on them.
+
+    - 👁️ **[Prompt example]**:```As a YouTube content creator, you're always looking for fresh ideas to engage your audience. Use Chat GPT's content generation feature to come up with new video ideas. Simply enter a few keywords related to your niche, and let the model do the rest. Share some of the generated ideas! The keywords:  {paste your keywords }```
+
+- **Transcript generation**: Chat GPT can generate scripts for videos, making it easy to plan the content and structure of your video.
+
+    - 👁️ **[Prompt example]**:```Generate a video transcript for a cooking tutorial that teaches viewers how to make a vegan lasagna from scratch. The transcript should include step-by-step instructions, ingredient lists, and cooking times for each step. It should also highlight any special techniques or tips for making a delicious vegan lasagna, and provide alternative ingredient options for viewers with dietary restrictions.```
+
+- **Audience engagement**: Chat GPT can also help you engage with your audience more effectively. You can use it to generate responses to comments, questions, or feedback on your videos. This will help you save time and respond to your audience in a more personalized way.
+
+    - 👁️ **[Prompt example]**:```As a content creator, you have just posted a new video on your social media platform and your audience has started to leave comments and feedback. Use Chat GPT to generate personalized responses to engage with your audience and show them that you value their input.```
+
+- **Content optimization**: Chat GPT can analyze your existing content and provide insights on how to optimize it for better engagement and discoverability. You can use its recommendations to improve your video titles, descriptions, tags, and even the content itself.
+
+    - 👁️ **[Prompt example]**:```You're a content creator who wants to improve the engagement and discoverability of your videos. Use Chat GPT to analyze your existing content and provide insights on how to optimize it. Incorporate its recommendations to improve your video titles, descriptions, tags, and content to better reach and engage your target audience. Your existing content: {paste your video transcript}```
+
+- **Trend analysis**: Chat GPT can also help you stay on top of the latest trends and topics in your niche. It can analyze social media and news feeds to identify popular topics and generate content ideas based on them.
+
+    - 👁️ **[Prompt example]**:```As a content creator in your niche, it's important to stay up-to-date with the latest trends and topics to keep your content relevant and engaging. Use Chat GPT to analyze social media and news feeds, and generate content ideas based on the popular trends and topics in your niche. Your niche is about {provide some keywords}```
+
+- **Thumbnail generation**: Chat GPT can help you generate eye-catching thumbnails for your videos that are more likely to attract clicks and views. It can analyze your video content and suggest visual elements that are likely to be attention-grabbing.
+
+    - 👁️ **[Prompt example]**:```Create an attention-grabbing thumbnail for a video. The transcript of the video is as follows. {paste your transcript} ```
+
 ## 💥 Enrich our experience
 
 ChatGPT can provide personalized responses, taking into account their unique background, experience, and needs. This can help increase the user's experience by providing them with customized advice and guidance.
@@ -142,3 +211,50 @@ ChatGPT can provide personalized responses, taking into account their unique bac
 - **Interview etiquette**: Chat GPT can offer guidance on appropriate interview etiquette, such as how to dress, arrive on time, and greet the interviewer. The AI can also provide tips on body language, eye contact, and other nonverbal cues that can impact the user's performance.
 
     - 👁️ **[Prompt example]**:```What are some tips for dressing appropriately for a job interview?```
+
+### Speech
+
+- **Speech Writing**: Chat GPT can help us brainstorm and develop ideas for our speeches. It can also provide suggestions for organizing our thoughts and structuring our speech.
+
+    - 👁️ **[Round1 Prompt example]**:```I need help with speech on a friend’s wedding. Please prompt me some questions to create the speech.```
+
+    - ```Answer these questions based on your own circumstances.```
+    - 👁️ **[Round2 Prompt example]**:```{Paste your answers} Write a best man speech based on the above.  Make it heartfelt and funny.```
+
+- **Speech Analysis**: Chat GPT can analyze our speech patterns and provide personalized insights into our strengths and weaknesses as a speaker. This can help us develop a targeted approach to improving their speech delivery.
+
+    - 👁️ **[Prompt example]**:```Analyze the speech and provide feedback on my speaking style, including areas of strength and areas for improvement. Based on this analysis, what steps should be taken to improve my speaking skills in the future? My speech is : {Paste your speech}```
+
+- **Audience Analysis**: Chat GPT can help us tailor their speech to our intended audience. It can provide insights into the interests and preferences of the target audience and suggest ways to connect with them.
+
+    - 👁️ **[Prompt example]**:```Imagine you are giving a presentation about a new product to a group of potential investors. The investors are all tech-savvy individuals with a background in finance. How would you tailor your speech to appeal to this audience? Based on the audience analysis, what insights and suggestions do you have for connecting with this audience effectively? Your speech is:  {Paste your speech}```
+
+- **Humor**: Chat GPT can help us incorporate humor into your speech, making it more engaging and memorable.
+
+    - 👁️ **[Prompt example]**:```Please incorporate humor into my speech, making it more engaging and memorable. My speech is: {Paste your speech}```
+
+- **Analogies and Metaphors**: Chat GPT can teach us how to use analogies and metaphors to convey complex ideas in a simple and relatable way.
+
+    - 👁️ **[Prompt example]**:```Please incorporate Analogies and Metaphors into my speech, making it more understandable. My speech is: {Paste your speech}```
+
+- **Interactive Conversations**: Chat GPT can engage us in interactive conversations, allowing us to practice our speech in a natural and relaxed environment.
+
+    - 👁️ **[Prompt example]**:```In my presentation simulation, I will be taking questions from the audience as they may arise. The audience will have the opportunity to ask and I will provide answers. My speech is: {Paste your speech}```
+
+- **Confidence Building**: Chat GPT can help us build our confidence in speaking, providing positive feedback and encouragement to help us overcome our fears and anxieties.
+
+    - 👁️ **[Prompt example]**:```I am feeling nervous about public speaking and would like some encouragement and positive feedback to help build my confidence. Please guide me through my fears and anxieties.```
+
+- **Public Speaking Tips**: Chat GPT can provide us with tips and strategies for successful public speaking, such as how to engage the audience, how to use body language effectively, and how to handle nervousness.
+
+    - 👁️ **[Prompt example]**:```Please provide me with tips and strategies for successful public speaking```
+
+- **Vocabulary Building**: Chat GPT can suggest new words and phrases to incorporate into our speech, and provide definitions and examples to help us understand and use them correctly.
+
+    - 👁️ **[Prompt example]**:```Please suggest me some new words and phrases to incorporate into my speech. My speech is: {Paste your speech}```
+
+- **Grammar and Syntax Assistance**: Chat GPT can help us ensure our speech is grammatically correct and well-structured. It can provide feedback on sentence structure, word choice, and other grammatical elements.
+
+    - 👁️ **[Prompt example]**:```Please provide feedback on the sentence structure, word choice, and other grammatical    elements. My speech is: {Paste your speech}```
+
+
