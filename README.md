@@ -72,7 +72,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 
-- **[2023.3.16]** 💥 Baidu announcing the LLM named ["文心一言"(ERNIE3.0 + PLATO)](https://yiyan.baidu.com/welcome) 
+- **[2023.3.17]** [Microsoft 365 Copilot released. Word, Excel, PowerPoint, Outlook powered by LLMs.](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+
+- **[2023.3.16]**  Baidu announcing the LLM named ["文心一言"(ERNIE3.0 + PLATO)](https://yiyan.baidu.com/welcome) 
 
 - **[2023.3.15]** Two Breaking News:
     -  Announcing [GPT4](https://openai.com/product/gpt-4) by OpenAI from Microsoft. **[Paper🔗](https://cdn.openai.com/papers/gpt-4.pdf)**
