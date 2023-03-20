@@ -98,6 +98,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📜 Papers
 
+> You can directly click on the title to jump to the corresponding PDF link location
+
 - [Survey](#Survey)
 
 - [Prompt Engineering](#prompt-engineering)
