@@ -72,7 +72,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 
-- **[2023.3.19]** 💥 Kai-Fu Lee  announcing the formation of the Chinese version of ChatGPT company: "Project AI 2.0"
+- **[2023.3.20]** 💥 Langboat announcing the MChat llm model.
+- **[2023.3.19]** Kai-Fu Lee  announcing the formation of the Chinese version of ChatGPT company: "Project AI 2.0"
 
 - **[2023.3.17]** [Microsoft 365 Copilot released. Word, Excel, PowerPoint, Outlook powered by LLMs.](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 
@@ -110,7 +111,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - [Prompt Application](#prompt-application)
 
-- [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
+- [Foundation Models](#foundation-models)
 
 ---
 
@@ -226,11 +227,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
 
-![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-705-red)  [![](https://img.shields.io/badge/Github%20Stars-634-blue)](https://github.com/princeton-nlp/LM-BFF)
+![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-708-red)  [![](https://img.shields.io/badge/Github%20Stars-636-blue)](https://github.com/princeton-nlp/LM-BFF)
 
 [**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
 
-![](https://img.shields.io/badge/Citations-136-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-476-red)
+![](https://img.shields.io/badge/Citations-136-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-477-red)
 
 [**Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**](https://doi.org/10.5282/UBM/EPUB.74034) （**2020.10.26**）
 
@@ -253,7 +254,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
-![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.1k-blue)](https://github.com/amazon-science/mm-cot)
 
 [**Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**](https://doi.org/10.48550/arXiv.2302.00618) （**2023.02.01**）
 
@@ -285,12 +286,19 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
-![](https://img.shields.io/badge/Citations-24-green)  [![](https://img.shields.io/badge/Github%20Stars-296-blue)](https://github.com/amazon-research/auto-cot)
+![](https://img.shields.io/badge/Citations-24-green)  [![](https://img.shields.io/badge/Github%20Stars-311-blue)](https://github.com/amazon-research/auto-cot)
 
 
 </div>
 
 👉[Complete paper list 🔗 for "Chain of Thought"](./PaperList/ChainofThoughtList.md)👈
+
+### 📌 Knowledge Augmented Prompts
+
+// __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
+
+👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈
+
 
 ### 📌 Evaluation & Reliability
 
@@ -402,7 +410,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671) （**2023.03.08**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-163-red)  [![](https://img.shields.io/badge/Github%20Stars-21.3k-blue)](https://github.com/microsoft/visual-chatgpt)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-193-red)  [![](https://img.shields.io/badge/Github%20Stars-22.6k-blue)](https://github.com/microsoft/visual-chatgpt)
 
 [**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**](https://arxiv.org/abs/2303.02861) （**2023.03.06**）
 
@@ -485,12 +493,23 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting**](https://arxiv.org/abs/2109.00720) （**2021.08.31**）
 
-![](https://img.shields.io/badge/Citations-9-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
+![](https://img.shields.io/badge/Citations-9-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-22-red)
 
 
 </div>
 
 👉[Complete paper list 🔗 for "Prompt Application"](./PaperList/promptapplication.md)👈
+
+## Foundation Models
+
+<div style="line-height:0.2em;">
+
+
+
+
+</div>
+
+👉[Complete paper list 🔗 for "Foundation Models"](./PaperList/foundationmodels.md)👈
 
 <!-- ### 📌 Hard Prompt/ Discrete Prompt
 
@@ -516,7 +535,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning**](https://doi.org/10.48550/arXiv.2205.12548) （**2022.05.25**）
 
-![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-147-blue)](https://github.com/mingkaid/rl-prompt)
+![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-153-blue)](https://github.com/mingkaid/rl-prompt)
 
 [**Personalized Prompt Learning for Explainable Recommendation**](https://arxiv.org/abs/2202.07371) （**2022.02.15**）
 
@@ -582,17 +601,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈 -->
 
-## Knowledge Augmented Prompts
-
-// __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
-
-👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈
-
 <!-- ## Prompt for Knowledge Graph
 
 // __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
 
-👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈 --> -->
+👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈 --> 
 
 <img width="200%" src="./figures/hr.gif" />
 
