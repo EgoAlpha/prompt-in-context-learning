@@ -1,4 +1,4 @@
-# 📄 Evaluation and Reliability
+# 📄 Foundation Models
 
 ## Paper List
 
