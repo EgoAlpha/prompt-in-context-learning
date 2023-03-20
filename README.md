@@ -188,7 +188,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
 
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
@@ -282,7 +282,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**2022.10.17**）
 
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-47-blue)](https://github.com/noviscl/gpt3-reliability)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-48-blue)](https://github.com/noviscl/gpt3-reliability)
 
 [**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
@@ -295,7 +295,52 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ### 📌 Knowledge Augmented Prompts
 
-// __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
+<div style="line-height:0.2em;">
+
+
+
+[**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+[**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**](https://doi.org/10.48550/arXiv.2302.08043) （**2023.02.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+[**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/hkunlp/batch-prompting)
+
+[**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
+
+![](https://img.shields.io/badge/Citations-16-green)
+
+[**Interactive and Visual Prompt Engineering for Ad-hoc Task Adaptation with Large Language Models**](https://doi.org/10.1109/TVCG.2022.3209479) （**2022.08.16**）
+
+![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-23-red)
+
+[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
+
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
+
+[**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
+
+![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-49-red)
+
+[**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
+
+![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-148-red)
+
+
+</div>
 
 👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈
 
@@ -418,7 +463,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
-![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/amazon-science/mm-cot)
+![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.1k-blue)](https://github.com/amazon-science/mm-cot)
 
 [**CoHOZ: Contrasive Multimodal prompt Tuning for Hierarchical Open-set Zero-shot Recognition**](https://doi.org/10.1145/3503161.3548021) （**2022.10.10**）
 
@@ -469,7 +514,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models**](https://doi.org/10.48550/arXiv.2302.12173) （**2023.02.23**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-360-blue)](https://github.com/greshake/lm-safety)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-372-blue)](https://github.com/greshake/lm-safety)
 
 [**Grimm in Wonderland: Prompt Engineering with Midjourney to Illustrate Fairytales**](https://doi.org/10.48550/arXiv.2302.08961) （**2023.02.17**）
 
@@ -519,7 +564,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**2023.02.07**）
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-364-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-365-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
 
 [**SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning**](https://doi.org/10.48550/arXiv.2212.10929) （**2022.12.21**）
 
