@@ -72,7 +72,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 
-- **[2023.3.17]** 💥  [Microsoft 365 Copilot released. Word, Excel, PowerPoint, Outlook powered by LLMs.](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+- **[2023.3.19]** 💥 Kai-Fu Lee  announcing the formation of the Chinese version of ChatGPT company: "Project AI 2.0"
+
+- **[2023.3.17]** [Microsoft 365 Copilot released. Word, Excel, PowerPoint, Outlook powered by LLMs.](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 
 - **[2023.3.16]**  Baidu announcing the LLM named ["文心一言"(ERNIE3.0 + PLATO)](https://yiyan.baidu.com/welcome) 
 
@@ -106,9 +108,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - [Prompt Application](#prompt-application)
 
-<!-- - [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
+- [Knowledge Augmented Prompts](#knowledge-augmented-prompts)
 
-- [Prompt for Knowledge Graph](#prompt-for-knowledge-graph) -->
+<!-- - [Prompt for Knowledge Graph](#prompt-for-knowledge-graph)  -->
 
 ---
 
@@ -560,17 +562,15 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 👉[Complete paper list 🔗 for "Soft Prompt"](./PaperList/SoftPromptList.md)👈 -->
 
-<!-- ## Knowledge Augmented Prompts
-
-// __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
+## Knowledge Augmented Prompts
 
 👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈
 
-## Prompt for Knowledge Graph
+<!-- ## Prompt for Knowledge Graph
 
 // __PAPER_LIST__:{field:'Prompt Design',size:10,state:'corrected',type:'lite'}
 
-👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈 -->
+👉[Complete paper list 🔗 for "Prompt for Knowledge Graph"](./PaperList/PromptKnowledgeGraphList.md)👈  -->
 
 <img width="200%" src="./figures/hr.gif" />
 
