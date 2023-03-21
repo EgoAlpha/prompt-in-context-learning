@@ -72,6 +72,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 
+- **[2023.3.21]** 🔥🔥🔥[Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
+
 - **[2023.3.20]** 💥 OpenAI’s new paper looks at the economical impact of LLMs+Labor Market.[GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf) 
 
 - **[2023.3.17]** [Microsoft 365 Copilot released. Word, Excel, PowerPoint, Outlook powered by LLMs.](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
