@@ -176,7 +176,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/hkunlp/batch-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/hkunlp/batch-prompting)
 
 [**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
 
@@ -192,7 +192,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
-![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-49-red)
+![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
 
 [**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
 
@@ -317,7 +317,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/hkunlp/batch-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/hkunlp/batch-prompting)
 
 [**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
 
@@ -333,7 +333,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
-![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-49-red)
+![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
 
 [**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
 
@@ -475,7 +475,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Learning to Prompt for Vision-Language Models**](https://doi.org/10.1007/s11263-022-01653-1) （**2022.09.01**）
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-402-red)  [![](https://img.shields.io/badge/Github%20Stars-766-blue)](https://github.com/kaiyangzhou/coop)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-405-red)  [![](https://img.shields.io/badge/Github%20Stars-768-blue)](https://github.com/kaiyangzhou/coop)
 
 [**Visual Prompt Tuning**](https://doi.org/10.48550/arXiv.2203.12119) （**2022.03.23**）
 
@@ -550,6 +550,46 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Meet in the Middle: A New Pre-training Paradigm**](https://doi.org/10.48550/arXiv.2303.07295) （**2023.03.13**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**High-throughput Generative Inference of Large Language Models with a Single GPU**](https://doi.org/10.48550/arXiv.2303.06865) （**2023.03.13**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-7.0k-blue)](https://github.com/fminference/flexgen)
+
+[**Stabilizing Transformer Training by Preventing Attention Entropy Collapse**](https://doi.org/10.48550/arXiv.2303.06296) （**2023.03.11**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**An Overview on Language Models: Recent Developments and Outlook**](https://doi.org/10.48550/arXiv.2303.05759) （**2023.03.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Foundation Models for Decision Making: Problems, Methods, and Opportunities**](https://doi.org/10.48550/arXiv.2303.04129) （**2023.03.07**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**](https://doi.org/10.48550/arXiv.2303.04245) （**2023.03.07**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**LLaMA: Open and Efficient Foundation Language Models**](https://doi.org/10.48550/arXiv.2302.13971) （**2023.02.27**）
+
+![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-12.7k-blue)](https://github.com/facebookresearch/llama)
+
+[**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://doi.org/10.48550/arXiv.2212.10560) （**2022.12.20**）
+
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-672-blue)](https://github.com/yizhongw/self-instruct)
+
+[**PaLM: Scaling Language Modeling with Pathways**](https://arxiv.org/abs/2204.02311) （**2022.04.05**）
+
+![](https://img.shields.io/badge/Citations-645-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-683-red)  [![](https://img.shields.io/badge/Github%20Stars-664-blue)](https://github.com/lucidrains/CoCa-pytorch)
+
+[**LoRA: Low-Rank Adaptation of Large Language Models**](https://arxiv.org/abs/2106.09685) （**2021.06.17**）
+
+![](https://img.shields.io/badge/Citations-244-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-299-red)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/microsoft/LoRA)
 
 
 </div>
