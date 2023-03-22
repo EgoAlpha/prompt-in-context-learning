@@ -72,7 +72,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 
-- **[2023.3.22]**💥[GitHub launches Copilot X, aiming at the future of AI-powered software development](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) 
+- **[2023.3.22]** [GitHub launches Copilot X, aiming at the future of AI-powered software development.](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) 
 
 - **[2023.3.21]** [Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
 
