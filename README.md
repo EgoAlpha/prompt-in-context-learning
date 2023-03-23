@@ -171,6 +171,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/hkunlp/batch-prompting)
 
+[**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
+
+![](https://img.shields.io/badge/Citations-9-green)
+
 [**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
 
 ![](https://img.shields.io/badge/Citations-16-green)
@@ -186,10 +190,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
 ![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
-
-[**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
-
-![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-148-red)
 
 
 </div>
@@ -312,6 +312,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/hkunlp/batch-prompting)
 
+[**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
+
+![](https://img.shields.io/badge/Citations-9-green)
+
 [**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
 
 ![](https://img.shields.io/badge/Citations-16-green)
@@ -327,10 +331,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
 ![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
-
-[**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
-
-![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-148-red)
 
 
 </div>
@@ -446,13 +446,33 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition**](https://arxiv.org/abs/2303.11313) （**2023.03.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-62-blue)](https://github.com/deeptibhegde/clip-goes-3d)
+
+[**Visual Prompt Multi-Modal Tracking**](https://arxiv.org/abs/2303.10826) （**2023.03.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/jiawen-zhu/vipt)
+
+[**Audio Visual Language Maps for Robot Navigation**](https://doi.org/10.48550/arXiv.2303.07522) （**2023.03.13**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671) （**2023.03.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-193-red)  [![](https://img.shields.io/badge/Github%20Stars-22.6k-blue)](https://github.com/microsoft/visual-chatgpt)
 
+[**Multimodal Parameter-Efficient Few-Shot Class Incremental Learning**](https://doi.org/10.48550/arXiv.2303.04751) （**2023.03.08**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**](https://arxiv.org/abs/2303.02861) （**2023.03.06**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+
+[**Multimodal Prompting with Missing Modalities for Visual Recognition**](https://doi.org/10.48550/arXiv.2303.03369) （**2023.03.06**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-21-blue)](https://github.com/yilunlee/missing_aware_prompts)
 
 [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
 
@@ -465,22 +485,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**VIMA: General Robot Manipulation with Multimodal Prompts**](https://doi.org/10.48550/arXiv.2210.03094) （**2022.10.06**）
 
 ![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-76-blue)](https://github.com/vimalabs/VIMABench)
-
-[**Learning to Prompt for Vision-Language Models**](https://doi.org/10.1007/s11263-022-01653-1) （**2022.09.01**）
-
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-405-red)  [![](https://img.shields.io/badge/Github%20Stars-768-blue)](https://github.com/kaiyangzhou/coop)
-
-[**Visual Prompt Tuning**](https://doi.org/10.48550/arXiv.2203.12119) （**2022.03.23**）
-
-![](https://img.shields.io/badge/Citations-104-green)  [![](https://img.shields.io/badge/Github%20Stars-359-blue)](https://github.com/KMnP/vpt)
-
-[**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884) （**2021.06.25**）
-
-![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-405-red)
-
-[**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**](https://doi.org/10.2139/ssrn.4347542) 
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
