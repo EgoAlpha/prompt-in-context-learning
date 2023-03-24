@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
+
+<font color="gray">Yiren Liu, H. Kilicoglu .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**REPLUG: Retrieval-Augmented Black-Box Language Models**](https://doi.org/10.48550/arXiv.2301.12652) （**2023.01.30**）
 
 <font color="gray">Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, etc .  - 【ArXiv】</font>
@@ -17,7 +25,15 @@
 
 <font color="gray">Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-672-blue)](https://github.com/yizhongw/self-instruct)
+
+---
+
+[**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**2022.12.16**）
+
+<font color="gray">Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric P. Xing .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 
@@ -41,7 +57,7 @@
 
 <font color="gray">Zhichao Yang, Shufan Wang, Bhanu Pratap Singh Rawat, Avijit Mitra, Hong Yu .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/whaleloops/KEPT)
 
 ---
 
@@ -50,6 +66,14 @@
 <font color="gray">Keqing He, Jingang Wang, Chaobo Sun, Wei Wu .  - 【International Conference on Information and Knowledge Management】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
+
+---
+
+[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
+
+<font color="gray">Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, etc </font>
+
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
 
 ---
 
@@ -89,7 +113,7 @@
 
 <font color="gray">Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang .  - 【ACM Conference on Recommender Systems】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)
+![](https://img.shields.io/badge/Citations-22-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-52-red)  [![](https://img.shields.io/badge/Github%20Stars-78-blue)](https://github.com/jeykigung/P5)
 
 ---
 
@@ -97,7 +121,7 @@
 
 <font color="gray">Zihan Liu, M. Patwary, R. Prenger, Shrimai Prabhumoye, Wei Ping, etc .  - 【Findings】</font>
 
-![](https://img.shields.io/badge/Citations-12-green)
+![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-4.1k-blue)](https://github.com/NVIDIA/Megatron-LM)
 
 ---
 
@@ -153,7 +177,7 @@
 
 <font color="gray">Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, etc .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-551-green)
+![](https://img.shields.io/badge/Citations-551-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-670-red)  [![](https://img.shields.io/badge/Github%20Stars-85.8k-blue)](https://github.com/huggingface/transformers)
 
 ---
 
@@ -161,7 +185,7 @@
 
 <font color="gray">Kelvin Guu, Kenton Lee, Z. Tung, Panupong Pasupat, Ming-Wei Chang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-542-green)
+![](https://img.shields.io/badge/Citations-542-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-821-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/google-research/language/tree/master/language/realm)
 
 ---
 
@@ -176,6 +200,14 @@
 [**Prompt as a Knowledge Probe for Chinese Spelling Check**](https://doi.org/10.1007/978-3-031-10989-8_41) 
 
 <font color="gray">Kun Peng, Nannan Sun, Jiahao Cao, Rui Liu, Jiaqian Ren, etc .  - 【Knowledge Science, Engineering and Management】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classiﬁcation Rolling Review submission**](https://api.semanticscholar.org/80366efe644f9fa5d1e89775eb7cb135ca46582f) 
+
+
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

@@ -2,6 +2,10 @@
 
 ## Paper List
 
+# 📄 Prompt Application
+
+## Paper List
+
 <div style="line-height:0.2em;">
 
 
@@ -33,7 +37,7 @@
 
 <font color="gray">Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, C. Endres, Thorsten Holz, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-351-blue)](https://github.com/greshake/lm-safety)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-372-blue)](https://github.com/greshake/lm-safety)
 
 ---
 
@@ -65,23 +69,7 @@
 
 <font color="gray">Rui Cao, R. Lee, Wen-Haw Chong, Jing Jiang .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Learning to Transfer Prompts for Text Generation**](https://doi.org/10.48550/arXiv.2205.01543) （**2022.05.03**）
-
-<font color="gray">Junyi Li, Tianyi Tang, J. Nie, Ji-rong Wen, Wayne Xin Zhao .  - 【North American Chapter of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/rucaibox/transfer-prompts-for-text-generation)
-
----
-
-[**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**](https://doi.org/10.48550/arXiv.2203.09101) （**2022.03.17**）
-
-<font color="gray">Yew Ken Chia, Lidong Bing, Soujanya Poria, Luo Si .  - 【Findings】</font>
-
-![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-86-blue)](https://github.com/declare-lab/relationprompt)
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -93,35 +81,19 @@
 
 ---
 
-[**PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts**](https://doi.org/10.18653/v1/2022.acl-demo.9) （**2022.02.02**）
-
-<font color="gray">Stephen H. Bach, Victor Sanh, Zheng Xin Yong, Albert Webson, Colin Raffel, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-54-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/bigscience-workshop/promptsource)
-
----
-
-[**Few-Shot Bot: Prompt-Based Learning for Dialogue Systems**](https://arxiv.org/abs/2110.08118) （**2021.10.15**）
-
-<font color="gray">Andrea Madotto, Zhaojiang Lin, Genta Indra Winata, Pascale Fung .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-24-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-58-red)  [![](https://img.shields.io/badge/Github%20Stars-616-blue)](https://github.com/tunib-ai/parallelformers)
-
----
-
-[**SentiPrompt: Sentiment Knowledge Enhanced Prompt-Tuning for Aspect-Based Sentiment Analysis**](https://arxiv.org/abs/2109.08306) （**2021.09.17**）
-
-<font color="gray">Chengxi Li, Feiyu Gao, Jiajun Bu, Lu Xu, Xiang Chen, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-19-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-55-red)
-
----
-
 [**LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting**](https://arxiv.org/abs/2109.00720) （**2021.08.31**）
 
 <font color="gray">Xiang Chen, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, etc .  - 【International Conference on Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
+![](https://img.shields.io/badge/Citations-9-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-22-red)
+
+---
+
+[**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
+
+<font color="gray">Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, H. Michalewski, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-148-red)
 
 ---
 
@@ -129,7 +101,7 @@
 
 <font color="gray">Xiang Chen, Ningyu Zhang, Ningyu Zhang, Xin Xie, Shumin Deng, etc .  - 【The Web Conference】</font>
 
-![](https://img.shields.io/badge/Citations-86-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-155-red)  [![](https://img.shields.io/badge/Github%20Stars-153-blue)](https://github.com/zjunlp/KnowPrompt)
+![](https://img.shields.io/badge/Citations-86-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-156-red)  [![](https://img.shields.io/badge/Github%20Stars-156-blue)](https://github.com/zjunlp/KnowPrompt)
 
 ---
 
@@ -141,5 +113,7 @@
 
 
 </div>
+
+# CONTINUE...
 
 # CONTINUE...

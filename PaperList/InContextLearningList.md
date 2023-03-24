@@ -77,14 +77,6 @@
 
 ---
 
-[**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**2022.10.17**）
-
-<font color="gray">Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-48-blue)](https://github.com/noviscl/gpt3-reliability)
-
----
-
 [**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
 
 <font color="gray">Mirac Suzgun, Nathan Scales, Nathanael Scharli, Sebastian Gehrmann, Yi Tay, etc .  - 【ArXiv】</font>
@@ -130,6 +122,14 @@
 <font color="gray">Andrew Kyle Lampinen, I. Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
 ![](https://img.shields.io/badge/Citations-61-green)
+
+---
+
+[**Self-Consistency Improves Chain of Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2203.11171) （**2022.03.21**）
+
+<font color="gray">Xuezhi Wang, Jason Wei, D. Schuurmans, Quoc Le, E. Chi, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-133-green)
 
 ---
 
@@ -197,14 +197,6 @@
 
 ---
 
-[**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
-
-<font color="gray">Tianyu Gao, Adam Fisch, Danqi Chen .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-708-red)  [![](https://img.shields.io/badge/Github%20Stars-636-blue)](https://github.com/princeton-nlp/LM-BFF)
-
----
-
 [**Few-Shot Text Generation with Pattern-Exploiting Training**](https://arxiv.org/abs/2012.11926) （**2020.12.22**）
 
 <font color="gray">Timo Schick, Hinrich Schütze .  - 【ArXiv】</font>
@@ -218,14 +210,6 @@
 <font color="gray">Fabio Petroni, Tim Rocktäschel, Patrick Lewis, A. Bakhtin, Yuxiang Wu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
 ![](https://img.shields.io/badge/Citations-1038-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.1k-red)  [![](https://img.shields.io/badge/Github%20Stars-1.0k-blue)](https://github.com/facebookresearch/LAMA)
-
----
-
-[**Language Models are Unsupervised Multitask Learners**](https://api.semanticscholar.org/9405cc0d6169988371b2755e573cc28650d14dfe) 
-
-<font color="gray">Alec Radford, Jeff Wu, Rewon Child, D. Luan, Dario Amodei, etc </font>
-
-![](https://img.shields.io/badge/Citations-8935-green)  [![](https://img.shields.io/badge/Github%20Stars-8.0k-blue)](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/language_model/gpt)
 
 
 </div>

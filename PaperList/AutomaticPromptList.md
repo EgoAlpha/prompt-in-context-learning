@@ -37,6 +37,14 @@
 
 ---
 
+[**STaR: Bootstrapping Reasoning With Reasoning**](https://doi.org/10.48550/arXiv.2203.14465) （**2022.03.28**）
+
+<font color="gray">E. Zelikman, Yuhuai Wu, Noah D. Goodman .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-56-green)
+
+---
+
 [**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
 
 <font color="gray">Tianyu Gao, Adam Fisch, Danqi Chen .  - 【Annual Meeting of the Association for Computational Linguistics】</font>

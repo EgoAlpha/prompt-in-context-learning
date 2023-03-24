@@ -161,10 +161,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
 
 ![](https://img.shields.io/badge/Citations-2-green)
@@ -185,13 +181,17 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-23-red)
 
-[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
+[**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
+![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
 ![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
+
+[**PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains**](https://doi.org/10.1162/tacl_a_00468) （**2021.02.24**）
+
+![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)  [![](https://img.shields.io/badge/Github%20Stars-44-blue)](https://github.com/eyalbd2/PADA)
 
 
 </div>
@@ -220,6 +220,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-365-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
 
+[**STaR: Bootstrapping Reasoning With Reasoning**](https://doi.org/10.48550/arXiv.2203.14465) （**2022.03.28**）
+
+![](https://img.shields.io/badge/Citations-56-green)
+
 [**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
 
 ![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-708-red)  [![](https://img.shields.io/badge/Github%20Stars-636-blue)](https://github.com/princeton-nlp/LM-BFF)
@@ -227,6 +231,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
 
 ![](https://img.shields.io/badge/Citations-136-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-477-red)
+
+[**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
+
+![](https://img.shields.io/badge/Citations-137-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-477-red)
 
 [**Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**](https://doi.org/10.5282/UBM/EPUB.74034) （**2020.10.26**）
 
@@ -242,6 +250,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 [**Active Prompting with Chain-of-Thought for Large Language Models**](https://doi.org/10.48550/arXiv.2302.12246) （**2023.02.23**）
 
@@ -263,21 +275,17 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-5-green)
 
-[**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**2022.12.16**）
-
-![](https://img.shields.io/badge/Citations-2-green)
-
 [**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
 
 ![](https://img.shields.io/badge/Citations-5-green)
 
+[**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
+
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
+
 [**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
 
 ![](https://img.shields.io/badge/Citations-29-green)  [![](https://img.shields.io/badge/Github%20Stars-66-blue)](https://github.com/suzgunmirac/big-bench-hard)
-
-[**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**2022.10.17**）
-
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-48-blue)](https://github.com/noviscl/gpt3-reliability)
 
 [**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493) （**2022.10.07**）
 
@@ -302,10 +310,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
 
 ![](https://img.shields.io/badge/Citations-2-green)
@@ -326,13 +330,17 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-23-red)
 
-[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
+[**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
+![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
 [**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
 
 ![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
+
+[**PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains**](https://doi.org/10.1162/tacl_a_00468) （**2021.02.24**）
+
+![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)  [![](https://img.shields.io/badge/Github%20Stars-44-blue)](https://github.com/eyalbd2/PADA)
 
 
 </div>
@@ -586,9 +594,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-645-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-683-red)  [![](https://img.shields.io/badge/Github%20Stars-664-blue)](https://github.com/lucidrains/CoCa-pytorch)
 
-[**LoRA: Low-Rank Adaptation of Large Language Models**](https://arxiv.org/abs/2106.09685) （**2021.06.17**）
+[**Training language models to follow instructions with human feedback**](https://doi.org/10.48550/arXiv.2203.02155) （**2022.03.04**）
 
-![](https://img.shields.io/badge/Citations-244-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-299-red)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/microsoft/LoRA)
+![](https://img.shields.io/badge/Citations-444-green)  [![](https://img.shields.io/badge/Github%20Stars-865-blue)](https://github.com/openai/following-instructions-human-feedback)
 
 
 </div>

@@ -41,7 +41,7 @@
 
 <font color="gray">Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/google-research-datasets/gsm-ic)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/google-research-datasets/gsm-ic)
 
 ---
 
@@ -49,7 +49,7 @@
 
 <font color="gray">Taylor W. Webb, K. Holyoak, Hongjing Lu .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/taylorwwebb/emergent_analogies_llm)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/taylorwwebb/emergent_analogies_llm)
 
 ---
 
@@ -57,15 +57,7 @@
 
 <font color="gray">Ethan Perez, Sam Ringer, Kamilė Lukošiūtė, Karina Nguyen, Edwin Chen, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-101-blue)](https://github.com/anthropics/evals)
-
----
-
-[**Constitutional AI: Harmlessness from AI Feedback**](https://doi.org/10.48550/arXiv.2212.08073) （**2022.12.15**）
-
-<font color="gray">Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, John Kernion, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-109-blue)](https://github.com/anthropics/evals)
 
 ---
 
@@ -73,7 +65,7 @@
 
 <font color="gray">Omar Shaikh, Hongxin Zhang, William B. Held, Michael Bernstein, Diyi Yang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 
@@ -89,15 +81,7 @@
 
 <font color="gray">Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
-
----
-
-[**Holistic Evaluation of Language Models**](https://doi.org/10.48550/arXiv.2211.09110) （**2022.11.16**）
-
-<font color="gray">Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-33-green)  [![](https://img.shields.io/badge/Github%20Stars-337-blue)](https://github.com/stanford-crfm/helm)
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
 
 ---
 
@@ -105,7 +89,7 @@
 
 <font color="gray">Daliang Li, A. Rawat, M. Zaheer, Xin Wang, M. Lukasik, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-238-blue)](https://github.com/golosio/annabell)
+![](https://img.shields.io/badge/Citations-3-green)
 
 ---
 
@@ -117,27 +101,11 @@
 
 ---
 
-[**Can language models handle recursively nested grammatical structures? A case study on comparing models and humans**](https://doi.org/10.48550/arXiv.2210.15303) （**2022.10.27**）
-
-<font color="gray">Andrew Kyle Lampinen .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-3-green)
-
----
-
 [**Prompting GPT-3 To Be Reliable**](https://doi.org/10.48550/arXiv.2210.09150) （**2022.10.17**）
 
 <font color="gray">Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-47-blue)](https://github.com/noviscl/gpt3-reliability)
-
----
-
-[**Ask Me Anything: A simple strategy for prompting language models**](https://doi.org/10.48550/arXiv.2210.02441) （**2022.10.05**）
-
-<font color="gray">Simran Arora, A. Narayan, Mayee F. Chen, Laurel J. Orr, Neel Guha, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-388-blue)](https://github.com/hazyresearch/ama_prompting)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-48-blue)](https://github.com/noviscl/gpt3-reliability)
 
 ---
 
@@ -145,7 +113,7 @@
 
 <font color="gray">Ya-Ming Shen, Lijie Wang, Ying Chen, Xinyan Xiao, Jing Liu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-453-blue)](https://github.com/michiyasunaga/qagnn)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -157,14 +125,6 @@
 
 ---
 
-[**Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing**](https://doi.org/10.48550/arXiv.2205.12253) （**2022.05.24**）
-
-<font color="gray">Linlu Qiu, Peter Shaw, Panupong Pasupat, Tianze Shi, Jonathan Herzig, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-11-green)
-
----
-
 [**Toxicity Detection with Generative Prompt-based Inference**](https://doi.org/10.48550/arXiv.2205.12390) （**2022.05.24**）
 
 <font color="gray">Yau-Shian Wang, Y. Chang .  - 【ArXiv】</font>
@@ -173,11 +133,11 @@
 
 ---
 
-[**Prototypical Calibration for Few-shot Learning of Language Models**](https://doi.org/10.48550/arXiv.2205.10183) （**2022.05.20**）
+[**The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning**](https://arxiv.org/abs/2205.03401) （**2022.05.06**）
 
-<font color="gray">Zhixiong Han, Y. Hao, Li Dong, Yutao Sun, Furu Wei .  - 【ArXiv】</font>
+<font color="gray">Xi Ye, Greg Durrett </font>
 
-![](https://img.shields.io/badge/Citations-4-green)
+![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/xiye17/textualexplincontext)
 
 ---
 
@@ -185,23 +145,7 @@
 
 <font color="gray">Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-60-green)  [![](https://img.shields.io/badge/Github%20Stars-525-blue)](https://github.com/anthropics/hh-rlhf)
-
----
-
-[**Training language models to follow instructions with human feedback**](https://doi.org/10.48550/arXiv.2203.02155) （**2022.03.04**）
-
-<font color="gray">Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-426-green)  [![](https://img.shields.io/badge/Github%20Stars-852-blue)](https://github.com/openai/following-instructions-human-feedback)
-
----
-
-[**True Few-Shot Learning with Prompts—A Real-World Perspective**](https://doi.org/10.1162/tacl_a_00485) （**2021.11.26**）
-
-<font color="gray">Timo Schick, Hinrich Schütze .  - 【Transactions of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-14-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-54-red)
+![](https://img.shields.io/badge/Citations-61-green)  [![](https://img.shields.io/badge/Github%20Stars-569-blue)](https://github.com/anthropics/hh-rlhf)
 
 ---
 
@@ -209,31 +153,7 @@
 
 <font color="gray">Karl Cobbe, V. Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-105-red)  [![](https://img.shields.io/badge/Github%20Stars-321-blue)](https://github.com/openai/grade-school-math)
-
----
-
-[**BBQ: A hand-built bias benchmark for question answering**](https://doi.org/10.18653/v1/2022.findings-acl.165) （**2021.10.15**）
-
-<font color="gray">Alicia Parrish, Angelica Chen, Nikita Nangia, Vishakh Padmakumar, Jason Phang, etc .  - 【Findings】</font>
-
-![](https://img.shields.io/badge/Citations-19-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-37-red)  [![](https://img.shields.io/badge/Github%20Stars-21-blue)](https://github.com/nyu-mll/bbq)
-
----
-
-[**Do Prompt-Based Models Really Understand the Meaning of Their Prompts?**](https://doi.org/10.18653/v1/2022.naacl-main.167) （**2021.09.02**）
-
-<font color="gray">Albert Webson, Ellie Pavlick .  - 【North American Chapter of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-69-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-133-red)  [![](https://img.shields.io/badge/Github%20Stars-67-blue)](https://github.com/awebson/prompt_semantics)
-
----
-
-[**Evaluating the Robustness of Neural Language Models to Input Perturbations**](https://doi.org/10.18653/v1/2021.emnlp-main.117) （**2021.08.27**）
-
-<font color="gray">M. Moradi, M. Samwald .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-21-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-59-red)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/mmoradi-iut/nlp-perturbation)
+![](https://img.shields.io/badge/Citations-181-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-110-red)  [![](https://img.shields.io/badge/Github%20Stars-331-blue)](https://github.com/openai/grade-school-math)
 
 ---
 
@@ -241,7 +161,7 @@
 
 <font color="gray">Weizhe Yuan, Graham Neubig, Pengfei Liu .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-171-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-157-red)  [![](https://img.shields.io/badge/Github%20Stars-210-blue)](https://github.com/neulab/BARTScore)
+![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-160-red)  [![](https://img.shields.io/badge/Github%20Stars-211-blue)](https://github.com/neulab/BARTScore)
 
 ---
 
@@ -253,19 +173,19 @@
 
 ---
 
+[**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**](https://doi.org/10.18653/v1/2022.acl-long.556) （**2021.04.18**）
+
+<font color="gray">Yao Lu, Max Bartolo, Alastair Moore, S. Riedel, Pontus Stenetorp .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
+
+![](https://img.shields.io/badge/Citations-170-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-183-red)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/chicagohai/active-example-selection)
+
+---
+
 [**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) （**2021.02.19**）
 
 <font color="gray">Tony Zhao, Eric Wallace, Shi Feng, D. Klein, Sameer Singh .  - 【International Conference on Machine Learning】</font>
 
-![](https://img.shields.io/badge/Citations-281-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-295-red)  [![](https://img.shields.io/badge/Github%20Stars-242-blue)](https://github.com/tonyzhaozh/few-shot-learning)
-
----
-
-[**BERTScore: Evaluating Text Generation with BERT**](https://arxiv.org/abs/1904.09675) （**2019.04.21**）
-
-<font color="gray">Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi .  - 【International Conference on Learning Representations】</font>
-
-![](https://img.shields.io/badge/Citations-1644-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-759-red)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/Tiiiger/bert_score)
+![](https://img.shields.io/badge/Citations-281-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-298-red)  [![](https://img.shields.io/badge/Github%20Stars-243-blue)](https://github.com/tonyzhaozh/few-shot-learning)
 
 
 </div>

@@ -78,11 +78,27 @@
 
 ---
 
+[**Training language models to follow instructions with human feedback**](https://doi.org/10.48550/arXiv.2203.02155) （**2022.03.04**）
+
+<font color="gray">Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-444-green)  [![](https://img.shields.io/badge/Github%20Stars-865-blue)](https://github.com/openai/following-instructions-human-feedback)
+
+---
+
 [**LoRA: Low-Rank Adaptation of Large Language Models**](https://arxiv.org/abs/2106.09685) （**2021.06.17**）
 
 <font color="gray">Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, etc .  - 【International Conference on Learning Representations】</font>
 
 ![](https://img.shields.io/badge/Citations-244-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-299-red)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/microsoft/LoRA)
+
+---
+
+[**Language Models are Unsupervised Multitask Learners**](https://api.semanticscholar.org/9405cc0d6169988371b2755e573cc28650d14dfe) 
+
+<font color="gray">Alec Radford, Jeff Wu, Rewon Child, D. Luan, Dario Amodei, etc </font>
+
+![](https://img.shields.io/badge/Citations-8935-green)  [![](https://img.shields.io/badge/Github%20Stars-8.0k-blue)](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/language_model/gpt)
 
 
 </div>

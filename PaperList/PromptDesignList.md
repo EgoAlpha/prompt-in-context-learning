@@ -21,14 +21,6 @@
 
 ---
 
-[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
-
-<font color="gray">Yiren Liu, H. Kilicoglu .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
 
 <font color="gray">Anastasia Razdaibiedina, Yuning Mao, Rui Hou, Madian Khabsa, M. Lewis, etc .  - 【ArXiv】</font>
@@ -69,14 +61,6 @@
 
 ---
 
-[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
-
-<font color="gray">Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, etc </font>
-
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
-
----
-
 [**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
 
 <font color="gray">Shizhe Diao, Xuechun Li, Yong Lin, Zhichao Huang, Xiao Zhou, etc .  - 【ArXiv】</font>
@@ -90,14 +74,6 @@
 <font color="gray">Vivian Liu, Lydia B. Chilton .  - 【International Conference on Human Factors in Computing Systems】</font>
 
 ![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
-
----
-
-[**Program Synthesis with Large Language Models**](https://arxiv.org/abs/2108.07732) （**2021.08.16**）
-
-<font color="gray">Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, H. Michalewski, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-175-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-148-red)
 
 ---
 
@@ -125,35 +101,11 @@
 
 ---
 
-[**Making Pre-trained Language Models Better Few-shot Learners**](https://doi.org/10.18653/v1/2021.acl-long.295) （**2021.01.01**）
-
-<font color="gray">Tianyu Gao, Adam Fisch, Danqi Chen .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-708-red)  [![](https://img.shields.io/badge/Github%20Stars-636-blue)](https://github.com/princeton-nlp/LM-BFF)
-
----
-
-[**Prefix-Tuning: Optimizing Continuous Prompts for Generation**](https://doi.org/10.18653/v1/2021.acl-long.353) 
-
-<font color="gray">Xiang Lisa Li, Percy Liang .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
-
-![](https://img.shields.io/badge/Citations-867-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-767-red)  [![](https://img.shields.io/badge/Github%20Stars-589-blue)](https://github.com/XiangLi1999/PrefixTuning)
-
----
-
 [**Prompt Engineering for Text-Based Generative Art**](https://doi.org/10.48550/arXiv.2204.13988) 
 
 <font color="gray">J. Oppenlaender .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-4-green)
-
----
-
-[**Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classiﬁcation Rolling Review submission**](https://api.semanticscholar.org/80366efe644f9fa5d1e89775eb7cb135ca46582f) 
-
-
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
