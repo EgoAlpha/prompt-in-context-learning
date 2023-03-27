@@ -37,6 +37,14 @@
 
 ---
 
+[**Ask Me Anything: A simple strategy for prompting language models**](https://doi.org/10.48550/arXiv.2210.02441) （**2022.10.05**）
+
+<font color="gray">Simran Arora, A. Narayan, Mayee F. Chen, Laurel J. Orr, Neel Guha, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-392-blue)](https://github.com/hazyresearch/ama_prompting)
+
+---
+
 [**STaR: Bootstrapping Reasoning With Reasoning**](https://doi.org/10.48550/arXiv.2203.14465) （**2022.03.28**）
 
 <font color="gray">E. Zelikman, Yuhuai Wu, Noah D. Goodman .  - 【ArXiv】</font>
@@ -50,14 +58,6 @@
 <font color="gray">Tianyu Gao, Adam Fisch, Danqi Chen .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
 ![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-708-red)  [![](https://img.shields.io/badge/Github%20Stars-636-blue)](https://github.com/princeton-nlp/LM-BFF)
-
----
-
-[**Eliciting Knowledge from Language Models Using Automatically Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346) （**2020.10.29**）
-
-<font color="gray">Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace, Sameer Singh .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-136-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-477-red)
 
 ---
 

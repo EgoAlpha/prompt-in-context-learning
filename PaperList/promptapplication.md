@@ -2,10 +2,6 @@
 
 ## Paper List
 
-# 📄 Prompt Application
-
-## Paper List
-
 <div style="line-height:0.2em;">
 
 
@@ -73,6 +69,14 @@
 
 ---
 
+[**Toxicity Detection with Generative Prompt-based Inference**](https://doi.org/10.48550/arXiv.2205.12390) （**2022.05.24**）
+
+<font color="gray">Yau-Shian Wang, Y. Chang .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
 [**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**](https://doi.org/10.48550/arXiv.2203.01543) （**2022.03.03**）
 
 <font color="gray">Andy T. Liu, Wei Xiao, Henghui Zhu, Dejiao Zhang, Shang-Wen Li, etc .  - 【ArXiv】</font>
@@ -97,11 +101,27 @@
 
 ---
 
+[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) （**2021.07.07**）
+
+<font color="gray">Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-612-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-577-red)  [![](https://img.shields.io/badge/Github%20Stars-556-blue)](https://github.com/openai/human-eval)
+
+---
+
 [**KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction**](https://doi.org/10.1145/3485447.3511998) （**2021.04.15**）
 
 <font color="gray">Xiang Chen, Ningyu Zhang, Ningyu Zhang, Xin Xie, Shumin Deng, etc .  - 【The Web Conference】</font>
 
 ![](https://img.shields.io/badge/Citations-86-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-156-red)  [![](https://img.shields.io/badge/Github%20Stars-156-blue)](https://github.com/zjunlp/KnowPrompt)
+
+---
+
+[**Language Models as Knowledge Bases?**](https://doi.org/10.18653/v1/D19-1250) （**2019.09.01**）
+
+<font color="gray">Fabio Petroni, Tim Rocktäschel, Patrick Lewis, A. Bakhtin, Yuxiang Wu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-1038-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.1k-red)  [![](https://img.shields.io/badge/Github%20Stars-1.0k-blue)](https://github.com/facebookresearch/LAMA)
 
 ---
 
@@ -113,7 +133,5 @@
 
 
 </div>
-
-# CONTINUE...
 
 # CONTINUE...

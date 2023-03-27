@@ -2,7 +2,6 @@
 
 ## Paper List
 
-
 <div style="line-height:0.2em;">
 
 
@@ -70,11 +69,27 @@
 
 ---
 
+[**Solving Math Word Problem via Cooperative Reasoning induced Language Models**](https://doi.org/10.48550/arXiv.2210.16257) （**2022.10.28**）
+
+<font color="gray">Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Ruyi Gan, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862) （**2022.04.12**）
+
+<font color="gray">Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-61-green)  [![](https://img.shields.io/badge/Github%20Stars-569-blue)](https://github.com/anthropics/hh-rlhf)
+
+---
+
 [**PaLM: Scaling Language Modeling with Pathways**](https://arxiv.org/abs/2204.02311) （**2022.04.05**）
 
 <font color="gray">Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-645-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-683-red)  [![](https://img.shields.io/badge/Github%20Stars-664-blue)](https://github.com/lucidrains/CoCa-pytorch)
+![](https://img.shields.io/badge/Citations-624-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-683-red)  [![](https://img.shields.io/badge/Github%20Stars-664-blue)](https://github.com/lucidrains/CoCa-pytorch)
 
 ---
 

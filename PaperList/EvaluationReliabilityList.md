@@ -5,11 +5,19 @@
 <div style="line-height:0.2em;">
 
 
-[**Language Model Crossover: Variation through Few-Shot Prompting**](https://doi.org/10.48550/arXiv.2302.12170) （**2023.02.23**）
+[**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**2023.03.01**）
 
-<font color="gray">Elliot Meyerson, M. Nelson, Herbie Bradley, Arash Moradi, Amy K. Hoover, etc .  - 【ArXiv】</font>
+<font color="gray">Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Bounding the Capabilities of Large Language Models in Open Text Generation with Prompt Constraints**](https://doi.org/10.48550/arXiv.2302.09185) （**2023.02.17**）
+
+<font color="gray">Albert Lu, Hongxin Zhang, Yanzhe Zhang, Xuezhi Wang, Diyi Yang .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/salt-nlp/bound-cap-llm)
 
 ---
 
@@ -18,14 +26,6 @@
 <font color="gray">Yoichi Ishibashi, D. Bollegala, Katsuhito Sudoh, Satoshi Nakamura .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/livnlp/prompt-robustness)
-
----
-
-[**PLACES: Prompting Language Models for Social Conversation Synthesis**](https://doi.org/10.48550/arXiv.2302.03269) （**2023.02.07**）
-
-<font color="gray">Maximillian Chen, A. Papangelis, Chenyang Tao, Seokhwan Kim, Andrew Rosenbaum, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/alexa/places)
 
 ---
 
@@ -61,6 +61,14 @@
 
 ---
 
+[**Constitutional AI: Harmlessness from AI Feedback**](https://doi.org/10.48550/arXiv.2212.08073) （**2022.12.15**）
+
+<font color="gray">Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, John Kernion, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-69-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
+
+---
+
 [**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08061) （**2022.12.15**）
 
 <font color="gray">Omar Shaikh, Hongxin Zhang, William B. Held, Michael Bernstein, Diyi Yang .  - 【ArXiv】</font>
@@ -77,27 +85,19 @@
 
 ---
 
-[**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
+[**Holistic Evaluation of Language Models**](https://doi.org/10.48550/arXiv.2211.09110) （**2022.11.16**）
 
-<font color="gray">Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen .  - 【ArXiv】</font>
+<font color="gray">Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
+![](https://img.shields.io/badge/Citations-40-green)  [![](https://img.shields.io/badge/Github%20Stars-375-blue)](https://github.com/stanford-crfm/helm)
 
 ---
 
-[**Large Language Models with Controllable Working Memory**](https://doi.org/10.48550/arXiv.2211.05110) （**2022.11.09**）
+[**Can language models handle recursively nested grammatical structures? A case study on comparing models and humans**](https://doi.org/10.48550/arXiv.2210.15303) （**2022.10.27**）
 
-<font color="gray">Daliang Li, A. Rawat, M. Zaheer, Xin Wang, M. Lukasik, etc .  - 【ArXiv】</font>
+<font color="gray">Andrew Kyle Lampinen .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-3-green)
-
----
-
-[**Solving Math Word Problem via Cooperative Reasoning induced Language Models**](https://doi.org/10.48550/arXiv.2210.16257) （**2022.10.28**）
-
-<font color="gray">Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Ruyi Gan, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -125,27 +125,11 @@
 
 ---
 
-[**Toxicity Detection with Generative Prompt-based Inference**](https://doi.org/10.48550/arXiv.2205.12390) （**2022.05.24**）
-
-<font color="gray">Yau-Shian Wang, Y. Chang .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-2-green)
-
----
-
 [**The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning**](https://arxiv.org/abs/2205.03401) （**2022.05.06**）
 
 <font color="gray">Xi Ye, Greg Durrett </font>
 
 ![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/xiye17/textualexplincontext)
-
----
-
-[**Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862) （**2022.04.12**）
-
-<font color="gray">Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-61-green)  [![](https://img.shields.io/badge/Github%20Stars-569-blue)](https://github.com/anthropics/hh-rlhf)
 
 ---
 
@@ -178,14 +162,6 @@
 <font color="gray">Yao Lu, Max Bartolo, Alastair Moore, S. Riedel, Pontus Stenetorp .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
 ![](https://img.shields.io/badge/Citations-170-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-183-red)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/chicagohai/active-example-selection)
-
----
-
-[**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) （**2021.02.19**）
-
-<font color="gray">Tony Zhao, Eric Wallace, Shi Feng, D. Klein, Sameer Singh .  - 【International Conference on Machine Learning】</font>
-
-![](https://img.shields.io/badge/Citations-281-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-298-red)  [![](https://img.shields.io/badge/Github%20Stars-243-blue)](https://github.com/tonyzhaozh/few-shot-learning)
 
 
 </div>

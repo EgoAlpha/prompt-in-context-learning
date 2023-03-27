@@ -5,11 +5,27 @@
 <div style="line-height:0.2em;">
 
 
+[**MEDIMP: Medical Images and Prompts for renal transplant representation learning**](https://arxiv.org/abs/2303.12445) （**2023.03.22**）
+
+<font color="gray">Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/leomlck/medimp)
+
+---
+
 [**CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition**](https://arxiv.org/abs/2303.11313) （**2023.03.20**）
 
 
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-62-blue)](https://github.com/deeptibhegde/clip-goes-3d)
+
+---
+
+[**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**](https://doi.org/10.48550/arXiv.2303.11381) （**2023.03.20**）
+
+<font color="gray">Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 

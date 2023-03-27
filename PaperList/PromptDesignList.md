@@ -37,6 +37,14 @@
 
 ---
 
+[**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
+
+<font color="gray">Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
 [**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
 
 <font color="gray">Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
@@ -85,14 +93,6 @@
 
 ---
 
-[**PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains**](https://doi.org/10.1162/tacl_a_00468) （**2021.02.24**）
-
-<font color="gray">Eyal Ben-David, Nadav Oved, Roi Reichart .  - 【International Conference on Topology, Algebra and Categories in Logic】</font>
-
-![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)  [![](https://img.shields.io/badge/Github%20Stars-44-blue)](https://github.com/eyalbd2/PADA)
-
----
-
 [**Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm**](https://doi.org/10.1145/3411763.3451760) （**2021.02.15**）
 
 <font color="gray">Laria Reynolds, Kyle McDonell .  - 【CHI Extended Abstracts】</font>
@@ -101,7 +101,7 @@
 
 ---
 
-[**Prompt Engineering for Text-Based Generative Art**](https://doi.org/10.48550/arXiv.2204.13988) 
+[**A Taxonomy of Prompt Modifiers for Text-To-Image Generation**](https://doi.org/10.48550/arXiv.2204.13988) 
 
 <font color="gray">J. Oppenlaender .  - 【ArXiv】</font>
 

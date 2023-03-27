@@ -9,7 +9,7 @@
 
 <font color="gray">Grégoire Mialon, Roberto Dessì, M. Lomeli, Christoforos Nalmpantis, Ramakanth Pasunuru, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  
+![](https://img.shields.io/badge/Citations-4-green)
 
 ---
 
@@ -17,7 +17,7 @@
 
 <font color="gray">Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-334-blue)](https://github.com/dqxiu/icl_paperlist)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -25,7 +25,7 @@
 
 <font color="gray">Jie Huang, K. Chang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-195-blue)](https://github.com/jeffhj/lm-reasoning)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-201-blue)](https://github.com/jeffhj/lm-reasoning)
 
 ---
 
@@ -33,7 +33,7 @@
 
 <font color="gray">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-169-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-179-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
 ---
 
@@ -41,7 +41,7 @@
 
 <font color="gray">Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-156-green)  
+![](https://img.shields.io/badge/Citations-156-green)
 
 ---
 
@@ -49,7 +49,7 @@
 
 <font color="gray">Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, etc .  - 【ACM Computing Surveys】</font>
 
-![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  
+![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.4k-red)  [![](https://img.shields.io/badge/Github%20Stars-153-blue)](https://github.com/mingkaid/rl-prompt)
 
 
 </div>
