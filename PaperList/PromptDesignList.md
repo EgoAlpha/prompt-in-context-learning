@@ -101,7 +101,7 @@
 
 ---
 
-[**A Taxonomy of Prompt Modifiers for Text-To-Image Generation**](https://doi.org/10.48550/arXiv.2204.13988) 
+[**Prompt Engineering for Text-Based Generative Art**](https://doi.org/10.48550/arXiv.2204.13988) 
 
 <font color="gray">J. Oppenlaender .  - 【ArXiv】</font>
 
