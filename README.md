@@ -72,6 +72,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 
+- **[2023.3.27]** [Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/pdf/2303.14177.pdf)
+
+
 - **[2023.3.26]** [CoLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf)
 
 - **[2023.3.23]** [OpenAI announces 'Plug-ins' for ChatGPT that enable it to perform actions beyond text.](https://platform.openai.com/docs/plugins/introduction)
