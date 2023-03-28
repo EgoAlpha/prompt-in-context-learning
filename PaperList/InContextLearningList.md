@@ -13,14 +13,6 @@
 
 ---
 
-[**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**2023.03.01**）
-
-<font color="gray">Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Language Model Crossover: Variation through Few-Shot Prompting**](https://doi.org/10.48550/arXiv.2302.12170) （**2023.02.23**）
 
 <font color="gray">Elliot Meyerson, M. Nelson, Herbie Bradley, Arash Moradi, Amy K. Hoover, etc .  - 【ArXiv】</font>
@@ -37,19 +29,11 @@
 
 ---
 
-[**Bounding the Capabilities of Large Language Models in Open Text Generation with Prompt Constraints**](https://doi.org/10.48550/arXiv.2302.09185) （**2023.02.17**）
+[**PLACES: Prompting Language Models for Social Conversation Synthesis**](https://doi.org/10.48550/arXiv.2302.03269) （**2023.02.07**）
 
-<font color="gray">Albert Lu, Hongxin Zhang, Yanzhe Zhang, Xuezhi Wang, Diyi Yang .  - 【ArXiv】</font>
+<font color="gray">Maximillian Chen, A. Papangelis, Chenyang Tao, Seokhwan Kim, Andrew Rosenbaum, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/salt-nlp/bound-cap-llm)
-
----
-
-[**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/arXiv.2301.11916) （**2023.01.27**）
-
-<font color="gray">Xinyi Wang, Wanrong Zhu, William Yang Wang .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/wangxinyilinda/concept-based-demonstration-selection)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/alexa/places)
 
 ---
 
@@ -61,11 +45,227 @@
 
 ---
 
-[**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
+[**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/arXiv.2301.11916) （**2023.01.27**）
 
-<font color="gray">Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, etc .  - 【ArXiv】</font>
+<font color="gray">Xinyi Wang, Wanrong Zhu, William Yang Wang .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/wangxinyilinda/concept-based-demonstration-selection)
+
+---
+
+[**Transformers as Algorithms: Generalization and Stability in In-context Learning**](https://arxiv.org/abs/2301.07067) （**2023.01.17**）
+
+<font color="gray">Yingcong Li, M. E. Ildiz, Dimitris Papailiopoulos, Samet Oymak </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)
+
+---
+
+[**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**](https://doi.org/10.48550/arXiv.2212.12017) （**2022.12.22**）
+
+<font color="gray">S. Iyer, Xiaojuan Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)
+
+---
+
+[**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**](https://doi.org/10.48550/arXiv.2212.12017) （**2022.12.22**）
+
+<font color="gray">S. Iyer, Xiaojuan Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)
+
+---
+
+[**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**2022.12.21**）
+
+<font color="gray">Hyunsoo Cho, Hyuhng Joon Kim, Junyeob Kim, Sang-Woo Lee, Sang-goo Lee, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**2022.12.21**）
+
+<font color="gray">Hyunsoo Cho, Hyuhng Joon Kim, Junyeob Kim, Sang-Woo Lee, Sang-goo Lee, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**2022.12.21**）
+
+<font color="gray">Hyunsoo Cho, Hyuhng Joon Kim, Junyeob Kim, Sang-Woo Lee, Sang-goo Lee, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2212.10670) （**2022.12.20**）
+
+<font color="gray">Yukun Huang, Yanda Chen, Zhou Yu, K. McKeown .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Self-adaptive In-context Learning**](https://doi.org/10.48550/arXiv.2212.10375) （**2022.12.20**）
+
+<font color="gray">Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/shark-nlp/self-adaptive-icl)
+
+---
+
+[**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450) （**2022.12.20**）
+
+<font color="gray">Bosheng Ding, Chengwei Qin, Linlin Liu, Lidong Bing, Shafiq R. Joty, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters**](https://doi.org/10.48550/arXiv.2212.10001) （**2022.12.20**）
+
+<font color="gray">Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/sunlab-osu/understanding-cot)
+
+---
+
+[**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559) （**2022.12.20**）
+
+<font color="gray">Damai Dai, Yutao Sun, Li Dong, Y. Hao, Zhifang Sui, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/microsoft/lmops)
+
+---
+
+[**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559) （**2022.12.20**）
+
+<font color="gray">Damai Dai, Yutao Sun, Li Dong, Y. Hao, Zhifang Sui, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/microsoft/lmops)
+
+---
+
+[**Self-adaptive In-context Learning**](https://doi.org/10.48550/arXiv.2212.10375) （**2022.12.20**）
+
+<font color="gray">Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/shark-nlp/self-adaptive-icl)
+
+---
+
+[**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559) （**2022.12.20**）
+
+<font color="gray">Damai Dai, Yutao Sun, Li Dong, Y. Hao, Zhifang Sui, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/microsoft/lmops)
+
+---
+
+[**Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale**](https://doi.org/10.48550/arXiv.2212.09095) （**2022.12.18**）
+
+<font color="gray">Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, S. Bodapati, Katrin Kirchhoff, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/amazon-science/llm-interpret)
+
+---
+
+[**Transformers learn in-context by gradient descent**](https://doi.org/10.48550/arXiv.2212.07677) （**2022.12.15**）
+
+<font color="gray">J. Oswald, Eyvind Niklasson, E. Randazzo, J. Sacramento, A. Mordvintsev, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-13-green)
+
+---
+
+[**Transformers learn in-context by gradient descent**](https://doi.org/10.48550/arXiv.2212.07677) （**2022.12.15**）
+
+<font color="gray">J. Oswald, Eyvind Niklasson, E. Randazzo, J. Sacramento, A. Mordvintsev, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-13-green)
+
+---
+
+[**Transformers learn in-context by gradient descent**](https://doi.org/10.48550/arXiv.2212.07677) （**2022.12.15**）
+
+<font color="gray">J. Oswald, Eyvind Niklasson, E. Randazzo, J. Sacramento, A. Mordvintsev, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-13-green)
+
+---
+
+[**Structured Prompting: Scaling In-Context Learning to 1, 000 Examples**](https://doi.org/10.48550/arXiv.2212.06713) （**2022.12.13**）
+
+<font color="gray">Y. Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/microsoft/lmops)
+
+---
+
+[**Structured Prompting: Scaling In-Context Learning to 1, 000 Examples**](https://doi.org/10.48550/arXiv.2212.06713) （**2022.12.13**）
+
+<font color="gray">Y. Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/microsoft/lmops)
+
+---
+
+[**Diverse Demonstrations Improve In-context Compositional Generalization**](https://doi.org/10.48550/arXiv.2212.06800) （**2022.12.13**）
+
+<font color="gray">Itay Levy, Ben Bogin, Jonathan Berant .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/itayle/diverse-demonstrations)
+
+---
+
+[**Diverse Demonstrations Improve In-context Compositional Generalization**](https://doi.org/10.48550/arXiv.2212.06800) （**2022.12.13**）
+
+<font color="gray">Itay Levy, Ben Bogin, Jonathan Berant .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/itayle/diverse-demonstrations)
+
+---
+
+[**Structured Prompting: Scaling In-Context Learning to 1, 000 Examples**](https://doi.org/10.48550/arXiv.2212.06713) （**2022.12.13**）
+
+<font color="gray">Y. Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/microsoft/lmops)
+
+---
+
+[**Demystifying Prompts in Language Models via Perplexity Estimation**](https://doi.org/10.48550/arXiv.2212.04037) （**2022.12.08**）
+
+<font color="gray">Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
+[**Demystifying Prompts in Language Models via Perplexity Estimation**](https://doi.org/10.48550/arXiv.2212.04037) （**2022.12.08**）
+
+<font color="gray">Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
+[**What learning algorithm is in-context learning? Investigations with linear models**](https://doi.org/10.48550/arXiv.2211.15661) （**2022.11.28**）
+
+<font color="gray">Ekin Akyürek, D. Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-16-green)
+
+---
+
+[**What learning algorithm is in-context learning? Investigations with linear models**](https://doi.org/10.48550/arXiv.2211.15661) （**2022.11.28**）
+
+<font color="gray">Ekin Akyürek, D. Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-16-green)
 
 ---
 
@@ -77,6 +277,38 @@
 
 ---
 
+[**Large Language Models with Controllable Working Memory**](https://doi.org/10.48550/arXiv.2211.05110) （**2022.11.09**）
+
+<font color="gray">Daliang Li, A. Rawat, M. Zaheer, Xin Wang, M. Lukasik, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning**](https://doi.org/10.48550/arXiv.2211.03044) （**2022.11.06**）
+
+<font color="gray">Yu Meng, Martin Michalski, Jiaxin Huang, Yu Zhang, T. Abdelzaher, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/yumeng5/fewgen)
+
+---
+
+[**Large Language Models Are Human-Level Prompt Engineers**](https://doi.org/10.48550/arXiv.2211.01910) （**2022.11.03**）
+
+<font color="gray">Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-248-blue)](https://github.com/keirp/automatic_prompt_engineer)
+
+---
+
+[**ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback**](https://doi.org/10.48550/arXiv.2210.12329) （**2022.10.22**）
+
+<font color="gray">Jiacheng Ye, Jiahui Gao, Jiangtao Feng, Zhiyong Wu, Tao Yu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/hkunlp/progen)
+
+---
+
 [**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
 
 <font color="gray">Mirac Suzgun, Nathan Scales, Nathanael Scharli, Sebastian Gehrmann, Yi Tay, etc .  - 【ArXiv】</font>
@@ -85,11 +317,27 @@
 
 ---
 
-[**Complexity-Based Prompting for Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2210.00720) （**2022.10.03**）
+[**In-context Learning and Induction Heads**](https://doi.org/10.48550/arXiv.2209.11895) （**2022.09.24**）
 
-<font color="gray">Yao Fu, Hao-Chun Peng, Ashish Sabharwal, Peter Clark, Tushar Khot .  - 【ArXiv】</font>
+<font color="gray">Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-18-green)
+![](https://img.shields.io/badge/Citations-34-green)
+
+---
+
+[**In-context Learning and Induction Heads**](https://doi.org/10.48550/arXiv.2209.11895) （**2022.09.24**）
+
+<font color="gray">Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-34-green)
+
+---
+
+[**On the Relation between Sensitivity and Accuracy in In-context Learning**](https://doi.org/10.48550/arXiv.2209.07661) （**2022.09.16**）
+
+<font color="gray">Yanda Chen, Chen Zhao, Zhou Yu, K. McKeown, He He .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)
 
 ---
 
@@ -101,19 +349,11 @@
 
 ---
 
-[**Large Language Models are Zero-Shot Reasoners**](https://arxiv.org/abs/2205.11916) （**2022.05.24**）
+[**Prototypical Calibration for Few-shot Learning of Language Models**](https://doi.org/10.48550/arXiv.2205.10183) （**2022.05.20**）
 
-<font color="gray">Takeshi Kojima, S. Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa .  - 【ArXiv】</font>
+<font color="gray">Zhixiong Han, Y. Hao, Li Dong, Yutao Sun, Furu Wei .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-187-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-309-red)  [![](https://img.shields.io/badge/Github%20Stars-150-blue)](https://github.com/kojima-takeshi188/zero_shot_cot)
-
----
-
-[**PaLM: Scaling Language Modeling with Pathways**](https://arxiv.org/abs/2204.02311) （**2022.04.05**）
-
-<font color="gray">Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-624-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-683-red)  [![](https://img.shields.io/badge/Github%20Stars-664-blue)](https://github.com/lucidrains/CoCa-pytorch)
+![](https://img.shields.io/badge/Citations-4-green)
 
 ---
 
@@ -130,22 +370,6 @@
 <font color="gray">Xuezhi Wang, Jason Wei, D. Schuurmans, Quoc Le, E. Chi, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-133-green)
-
----
-
-[**Chain of Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903) （**2022.01.28**）
-
-<font color="gray">Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, E. Chi, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-396-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-584-red)
-
----
-
-[**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
-
-<font color="gray">Shizhe Diao, Xuechun Li, Yong Lin, Zhichao Huang, Xiao Zhou, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
 ---
 
@@ -173,14 +397,6 @@
 
 ---
 
-[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) （**2021.07.07**）
-
-<font color="gray">Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-612-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-577-red)  [![](https://img.shields.io/badge/Github%20Stars-556-blue)](https://github.com/openai/human-eval)
-
----
-
 [**Multimodal Few-Shot Learning with Frozen Language Models**](https://arxiv.org/abs/2106.13884) （**2021.06.25**）
 
 <font color="gray">Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. Eslami, Oriol Vinyals, etc .  - 【Neural Information Processing Systems】</font>
@@ -197,19 +413,19 @@
 
 ---
 
+[**Calibrate Before Use: Improving Few-Shot Performance of Language Models**](https://arxiv.org/abs/2102.09690) （**2021.02.19**）
+
+<font color="gray">Tony Zhao, Eric Wallace, Shi Feng, D. Klein, Sameer Singh .  - 【International Conference on Machine Learning】</font>
+
+![](https://img.shields.io/badge/Citations-281-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-298-red)  [![](https://img.shields.io/badge/Github%20Stars-243-blue)](https://github.com/tonyzhaozh/few-shot-learning)
+
+---
+
 [**Few-Shot Text Generation with Pattern-Exploiting Training**](https://arxiv.org/abs/2012.11926) （**2020.12.22**）
 
 <font color="gray">Timo Schick, Hinrich Schütze .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-59-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-101-red)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/timoschick/pet)
-
----
-
-[**Language Models as Knowledge Bases?**](https://doi.org/10.18653/v1/D19-1250) （**2019.09.01**）
-
-<font color="gray">Fabio Petroni, Tim Rocktäschel, Patrick Lewis, A. Bakhtin, Yuxiang Wu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-1038-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.1k-red)  [![](https://img.shields.io/badge/Github%20Stars-1.0k-blue)](https://github.com/facebookresearch/LAMA)
 
 
 </div>
