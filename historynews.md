@@ -2,7 +2,15 @@
 
 ## 2023
 
-**[2023.3.21]** 🔥🔥🔥[Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
+- **[2023.3.27]** [Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/pdf/2303.14177.pdf)
+
+- **[2023.3.26]** [CoLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf)
+
+- **[2023.3.23]** [OpenAI announces 'Plug-ins' for ChatGPT that enable it to perform actions beyond text.](https://platform.openai.com/docs/plugins/introduction)
+
+- **[2023.3.22]** [GitHub launches Copilot X, aiming at the future of AI-powered software development.](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) 
+
+**[2023.3.21]** [Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
 
 **[2023.3.20]** OpenAI’s new paper looks at the economical impact of LLMs+Labor Market.[GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf) 
 

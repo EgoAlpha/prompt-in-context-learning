@@ -71,9 +71,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ```  
 
 # 📢 News
-
+<!-- 🔥🔥🔥 -->
 - **[2023.3.27]** [Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/pdf/2303.14177.pdf)
-
 
 - **[2023.3.26]** [CoLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf)
 
@@ -84,14 +83,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.3.21]** [Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
 
 - **[2023.3.20]** OpenAI’s new paper looks at the economical impact of LLMs+Labor Market.[GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf) 
-
-- **[2023.3.17]** [Microsoft 365 Copilot released. Word, Excel, PowerPoint, Outlook powered by LLMs.](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-
-- **[2023.3.16]**  Baidu announcing the LLM named ["文心一言"(ERNIE3.0 + PLATO)](https://yiyan.baidu.com/welcome) 
-
-- **[2023.3.15]** Two Breaking News:
-    -  Announcing [GPT4](https://openai.com/product/gpt-4) by OpenAI from Microsoft. **[Paper🔗](https://cdn.openai.com/papers/gpt-4.pdf)**
-    -  Announcing [PaLM](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html) API by Google. 
 
 [👉 Complete history news 👈](./historynews.md)
 
@@ -256,10 +247,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-[**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -295,6 +282,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
 
 ![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
+
+[**Ignore Previous Prompt: Attack Techniques For Language Models**](https://doi.org/10.48550/arXiv.2211.09527) （**2022.11.17**）
+
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-70-blue)](https://github.com/agencyenterprise/promptinject)
 
 
 </div>
@@ -563,6 +554,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Scaling Expert Language Models with Unsupervised Domain Discovery**](https://arxiv.org/abs/2303.14177) （**2023.03.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/kernelmachine/cbtm)
+
+[**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Meet in the Middle: A New Pre-training Paradigm**](https://doi.org/10.48550/arXiv.2303.07295) （**2023.03.13**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -594,14 +593,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://doi.org/10.48550/arXiv.2212.10560) （**2022.12.20**）
 
 ![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-672-blue)](https://github.com/yizhongw/self-instruct)
-
-[**Solving Math Word Problem via Cooperative Reasoning induced Language Models**](https://doi.org/10.48550/arXiv.2210.16257) （**2022.10.28**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862) （**2022.04.12**）
-
-![](https://img.shields.io/badge/Citations-61-green)  [![](https://img.shields.io/badge/Github%20Stars-569-blue)](https://github.com/anthropics/hh-rlhf)
 
 
 </div>
@@ -652,46 +643,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
-
-[**Dr ChatGPT, tell me what I want to hear: How prompt knowledge impacts health answer correctness**](https://doi.org/10.48550/arXiv.2302.13793) （**2023.02.23**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**How Does In-Context Learning Help Prompt Tuning?**](https://doi.org/10.48550/arXiv.2302.11521) （**2023.02.22**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Scalable Prompt Generation for Semi-supervised Learning with Language Models**](https://doi.org/10.48550/arXiv.2302.09236) （**2023.02.18**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**](https://doi.org/10.48550/arXiv.2302.08958) （**2023.02.17**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/zhjohnchan/ptunifier)
-
-[**SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains**](https://doi.org/10.48550/arXiv.2302.06868) （**2023.02.14**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-44-blue)](https://github.com/boschresearch/switchprompt)
-
-[**Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning**](https://doi.org/10.48550/arXiv.2301.10915) （**2023.01.26**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?**](https://doi.org/10.48550/arXiv.2212.10539) （**2022.12.20**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**Controlled Text Generation using T5 based Encoder-Decoder Soft Prompt Tuning and Analysis of the Utility of Generated Text in AI**](https://doi.org/10.48550/arXiv.2212.02924) （**2022.12.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://doi.org/10.48550/arXiv.2211.10681) （**2022.11.19**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/forest-art/dfsp)
-
-[**FPT: Improving Prompt Tuning Efficiency via Progressive Training**](https://doi.org/10.48550/arXiv.2211.06840) （**2022.11.13**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/thunlp/fastprompttuning)
 
 
 </div>

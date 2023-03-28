@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**Scaling Expert Language Models with Unsupervised Domain Discovery**](https://arxiv.org/abs/2303.14177) （**2023.03.24**）
+
+<font color="gray">Suchin Gururangan, Margaret Li, Mike Lewis, Weijia Shi, Tim Althoff, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/kernelmachine/cbtm)
+
+---
+
+[**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
+
+<font color="gray">J. Ainslie, Tao Lei, Michiel de Jong, Santiago Ontan'on, Siddhartha Brahma, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Meet in the Middle: A New Pre-training Paradigm**](https://doi.org/10.48550/arXiv.2303.07295) （**2023.03.13**）
 
 <font color="gray">A. Nguyen, Nikos Karampatziakis, Weizhu Chen .  - 【ArXiv】</font>
