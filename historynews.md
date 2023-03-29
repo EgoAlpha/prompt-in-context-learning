@@ -2,7 +2,7 @@
 
 ## 2023
 
-- **[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
+**[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
 
 **[2023.3.27]** [Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/pdf/2303.14177.pdf)
 
