@@ -73,7 +73,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
-- **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf.)
+- **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
 
 - **[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
 
