@@ -13,6 +13,14 @@
 
 ---
 
+[**Sparks of Artificial General Intelligence: Early experiments with GPT-4**](https://arxiv.org/abs/2303.12712) （**2023.03.22**）
+
+<font color="gray">S'ebastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, etc </font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
 [**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
 
 <font color="gray">J. Ainslie, Tao Lei, Michiel de Jong, Santiago Ontan'on, Siddhartha Brahma, etc .  - 【ArXiv】</font>

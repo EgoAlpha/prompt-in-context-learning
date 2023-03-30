@@ -72,7 +72,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
-
 - **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
 
 - **[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
@@ -563,6 +562,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/kernelmachine/cbtm)
 
+[**Sparks of Artificial General Intelligence: Early experiments with GPT-4**](https://arxiv.org/abs/2303.12712) （**2023.03.22**）
+
+![](https://img.shields.io/badge/Citations-5-green)
+
 [**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -594,10 +597,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**LLaMA: Open and Efficient Foundation Language Models**](https://doi.org/10.48550/arXiv.2302.13971) （**2023.02.27**）
 
 ![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-12.7k-blue)](https://github.com/facebookresearch/llama)
-
-[**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://doi.org/10.48550/arXiv.2212.10560) （**2022.12.20**）
-
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-672-blue)](https://github.com/yizhongw/self-instruct)
 
 
 </div>
