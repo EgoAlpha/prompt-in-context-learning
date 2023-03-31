@@ -72,6 +72,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
+
+- **[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
+
 - **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
 
 - **[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
@@ -83,10 +86,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.3.23]** [OpenAI announces 'Plug-ins' for ChatGPT that enable it to perform actions beyond text.](https://platform.openai.com/docs/plugins/introduction)
 
 - **[2023.3.22]** [GitHub launches Copilot X, aiming at the future of AI-powered software development.](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) 
-
-- **[2023.3.21]** [Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
-
-- **[2023.3.20]** OpenAI’s new paper looks at the economical impact of LLMs+Labor Market.[GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf) 
 
 [👉 Complete history news 👈](./historynews.md)
 
