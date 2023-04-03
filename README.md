@@ -73,6 +73,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.1]** 🔥🔥🔥 [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
 - **[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
 
 - **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
@@ -112,8 +114,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ## Survey
 
 <div style="line-height:0.2em;">
-
-
 
 [**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842) （**2023.02.15**）
 
