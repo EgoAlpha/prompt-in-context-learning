@@ -72,8 +72,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
+- **[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback]
+(https://arxiv.org/pdf/2303.17651.pdf)
 
-- **[2023.4.1]** 🔥🔥🔥 [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- **[2023.4.1]** [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
+- **[2023.3.31]** [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf)
 
 - **[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
 
@@ -498,7 +502,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 </div>
 
-👉[Complete paper list 🔗 for "Multimodal Prompt"](./PaperList/MultimodalPromptList.md)👈
+👉[Complete paper list 🔗 for "Multimodal Prompt"](./PaperList/multimodalprompt.md)👈
 
 ## Prompt Application
 

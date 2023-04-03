@@ -2,6 +2,14 @@
 
 ## 2023
 
+**[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback]
+(https://arxiv.org/pdf/2303.17651.pdf)
+
+**[2023.4.1]** [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
+**[2023.3.31]** [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf)
+
+- **[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
 **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf.)
 
 **[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
