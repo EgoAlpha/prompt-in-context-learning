@@ -72,8 +72,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
-- **[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback]
-(https://arxiv.org/pdf/2303.17651.pdf)
+- **[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651.pdf)
 
 - **[2023.4.1]** [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 
@@ -92,6 +91,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.3.23]** [OpenAI announces 'Plug-ins' for ChatGPT that enable it to perform actions beyond text.](https://platform.openai.com/docs/plugins/introduction)
 
 - **[2023.3.22]** [GitHub launches Copilot X, aiming at the future of AI-powered software development.](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) 
+
+- **[2023.3.21]** [Google Bard is now available in the US and UK, w/ more countries to come.](https://bard.google.com) 
+
+- **[2023.3.20]** OpenAI’s new paper looks at the economical impact of LLMs+Labor Market.[GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf) 
 
 [👉 Complete history news 👈](./historynews.md)
 
@@ -118,6 +121,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ## Survey
 
 <div style="line-height:0.2em;">
+
+
 
 [**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842) （**2023.02.15**）
 
