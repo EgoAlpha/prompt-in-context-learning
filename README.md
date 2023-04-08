@@ -72,21 +72,15 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
+- **[2023.4.8]** EleutherAI&Yale et al. proposed a large-scale language model analysis suite that spans training and extension: Pythia ([Paper](https://arxiv.org/pdf/2304.01373.pdf)/[Code](https://github.com/EleutherAI/pythia))
+
+- **[2023.4.7]** [Stanford releases the 7 billion parameter open-source model Vicuna-7B, which is compact, efficient, but powerful in functionality](https://vicuna.lmsys.org/)
+
 - **[2023.4.6]** [Effective Theory of Transformers at Initialization](https://arxiv.org/pdf/2304.02034.pdf)
 
 - **[2023.4.5]** [REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/pdf/2304.01904.pdf)
 
 - **[2023.4.4]** [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/pdf/2303.18240.pdf)
-
-- **[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651.pdf)
-
-- **[2023.4.1]** [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
-
-- **[2023.3.31]** [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf)
-
-- **[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
-
-- **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
 
 [👉 Complete history news 👈](./historynews.md)
 
