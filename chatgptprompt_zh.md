@@ -1,4 +1,4 @@
-# 🌋 ChatGPT Prompts <a href="./chatgptprompt.md">👉English👈</a>
+# 🌋 ChatGPT Prompt <a href="./chatgptprompt.md">👉English👈</a>
 
 ## ChatGPT是一款基于人工智能技术的语言模型，它可以用自然语言与人类进行交互，理解人类的问题并生成响应的答案。ChatGPT的出现将给我们的生活和工作带来重大变革。ChatGPT不仅仅是一个聊天机器人，通过更好的输入提示（Prompt）设计，它能够帮助我们学习、协助工作，丰富我们的经验，可以大大增强我们的能力。
 
