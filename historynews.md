@@ -2,6 +2,10 @@
 
 ## 2023
 
+**[2023.4.8]** EleutherAI&Yale et al. proposed a large-scale language model analysis suite that spans training and extension: Pythia ([Paper](https://arxiv.org/pdf/2304.01373.pdf)/[Code](https://github.com/EleutherAI/pythia))
+
+**[2023.4.7]** [Stanford releases the 7 billion parameter open-source model Vicuna-7B, which is compact, efficient, but powerful in functionality](https://vicuna.lmsys.org/)
+
 **[2023.4.6]** [Effective Theory of Transformers at Initialization](https://arxiv.org/pdf/2304.02034.pdf)
 
 **[2023.4.5]** [REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/pdf/2304.01904.pdf)
@@ -15,7 +19,8 @@
 
 **[2023.3.31]** [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf)
 
-- **[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
+**[2023.3.30]** [GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf)
+
 **[2023.3.29]** [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf.)
 
 **[2023.3.28]** [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/pdf/2303.15056.pdf)
