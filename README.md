@@ -73,6 +73,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.10]** [Google Colab Releases Tiny GPT](https://hub.baai.ac.cn/view/25367)
+
 - **[2023.4.9]** A new AI model from Meta AI: Segment Anything Model (SAM) ([Paper](https://arxiv.org/pdf/2304.02643.pdf)/[Code](https://github.com/facebookresearch/segment-anything))
 
 - **[2023.4.8]** EleutherAI&Yale et al. proposed a large-scale language model analysis suite that spans training and extension: Pythia ([Paper](https://arxiv.org/pdf/2304.01373.pdf)/[Code](https://github.com/EleutherAI/pythia))
