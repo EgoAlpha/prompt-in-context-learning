@@ -5,11 +5,11 @@
 <div style="line-height:0.2em;">
 
 
-[**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
+[**REFINER: Reasoning Feedback on Intermediate Representations**](https://arxiv.org/abs/2304.01904) （**2023.04.04**）
 
-<font color="gray">J. Ainslie, Tao Lei, Michiel de Jong, Santiago Ontan'on, Siddhartha Brahma, etc .  - 【ArXiv】</font>
+<font color="gray">Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
 
 ---
 
@@ -65,7 +65,7 @@
 
 <font color="gray">J. Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)
+![](https://img.shields.io/badge/Citations-3-green)
 
 ---
 
@@ -138,14 +138,6 @@
 <font color="gray">Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-68-blue)](https://github.com/google-research/url-nlp)
-
----
-
-[**Language Models are Multilingual Chain-of-Thought Reasoners**](https://doi.org/10.48550/arXiv.2210.03057) （**2022.10.06**）
-
-<font color="gray">Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-67-blue)](https://github.com/google-research/url-nlp)
 
 ---
 

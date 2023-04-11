@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**TagGPT: Large Language Models are Zero-shot Multimodal Taggers**](https://arxiv.org/abs/2304.03022) （**2023.04.06**）
+
+
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/tencentarc/taggpt)
+
+---
+
+[**Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**](https://arxiv.org/abs/2304.01373) （**2023.04.03**）
+
+<font color="gray">Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'Brien, etc </font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-491-blue)](https://github.com/eleutherai/pythia)
+
+---
+
+[**BloombergGPT: A Large Language Model for Finance**](https://arxiv.org/abs/2303.17564) （**2023.03.30**）
+
+<font color="gray">Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-82-red)
+
+---
+
 [**Scaling Expert Language Models with Unsupervised Domain Discovery**](https://arxiv.org/abs/2303.14177) （**2023.03.24**）
 
 <font color="gray">Suchin Gururangan, Margaret Li, Mike Lewis, Weijia Shi, Tim Althoff, etc </font>

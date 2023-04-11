@@ -72,20 +72,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
-
 - **[2023.4.10]** [TagGPT: Large Language Models are Zero-shot Multimodal Taggers](https://arxiv.org/pdf/2304.03022.pdf)
 
 - **[2023.4.9]** A new AI model from Meta AI: Segment Anything Model (SAM) ([Paper](https://arxiv.org/pdf/2304.02643.pdf)/[Code](https://github.com/facebookresearch/segment-anything))
 
 - **[2023.4.8]** EleutherAI&Yale et al. proposed a large-scale language model analysis suite that spans training and extension: Pythia ([Paper](https://arxiv.org/pdf/2304.01373.pdf)/[Code](https://github.com/EleutherAI/pythia))
 
-- **[2023.4.7]** [Stanford releases the 7 billion parameter open-source model Vicuna-7B, which is compact, efficient, but powerful in functionality](https://vicuna.lmsys.org/)
-
-- **[2023.4.6]** [Effective Theory of Transformers at Initialization](https://arxiv.org/pdf/2304.02034.pdf)
-
-- **[2023.4.5]** [REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/pdf/2304.01904.pdf)
-
-- **[2023.4.4]** [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/pdf/2303.18240.pdf)
 
 [👉 Complete history news 👈](./historynews.md)
 
@@ -114,6 +106,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**A Survey of Large Language Models**](https://arxiv.org/abs/2303.18223) （**2023.03.31**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-72-red)
 
 [**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842) （**2023.02.15**）
 
@@ -152,6 +148,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**](https://arxiv.org/abs/2304.04704) （**2023.04.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/amazon-science/prompt-pretraining)
+
 [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
 
 ![](https://img.shields.io/badge/Citations-3-green)
@@ -187,10 +187,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
 
 ![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
-
-[**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
-
-![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
 
 
 </div>
@@ -250,6 +246,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**REFINER: Reasoning Feedback on Intermediate Representations**](https://arxiv.org/abs/2304.01904) （**2023.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
 [**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -276,7 +276,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**2022.11.25**）
 
-![](https://img.shields.io/badge/Citations-4-green)
+![](https://img.shields.io/badge/Citations-3-green)
 
 [**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
 
@@ -285,10 +285,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
 
 ![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/wenhuchen/program-of-thoughts)
-
-[**Ignore Previous Prompt: Attack Techniques For Language Models**](https://doi.org/10.48550/arXiv.2211.09527) （**2022.11.17**）
-
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-70-blue)](https://github.com/agencyenterprise/promptinject)
 
 
 </div>
@@ -300,6 +296,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**](https://arxiv.org/abs/2304.04704) （**2023.04.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/amazon-science/prompt-pretraining)
 
 [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
 
@@ -337,10 +337,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
-[**Design Guidelines for Prompt Engineering Text-to-Image Generative Models**](https://doi.org/10.1145/3491102.3501825) （**2021.09.14**）
-
-![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
-
 
 </div>
 
@@ -352,6 +348,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment**](https://arxiv.org/abs/2303.16634) （**2023.03.29**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
 
 [**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**2023.03.01**）
 
@@ -389,10 +389,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-2-green)
 
-[**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**2022.11.25**）
-
-![](https://img.shields.io/badge/Citations-3-green)
-
 
 </div>
 
@@ -403,6 +399,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Self-Refine: Iterative Refinement with Self-Feedback**](https://arxiv.org/abs/2303.17651) （**2023.03.30**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
 
 [**Larger language models do in-context learning differently**](https://doi.org/10.48550/arXiv.2303.03846) （**2023.03.07**）
 
@@ -424,10 +424,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/wangxinyilinda/concept-based-demonstration-selection)
 
-[**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/arXiv.2301.11916) （**2023.01.27**）
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/wangxinyilinda/concept-based-demonstration-selection)
-
 [**Transformers as Algorithms: Generalization and Stability in In-context Learning**](https://arxiv.org/abs/2301.07067) （**2023.01.17**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)
@@ -436,13 +432,13 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-11-green)
 
-[**OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization**](https://doi.org/10.48550/arXiv.2212.12017) （**2022.12.22**）
-
-![](https://img.shields.io/badge/Citations-11-green)
-
 [**Prompt-Augmented Linear Probing: Scaling Beyond The Limit of Few-shot In-Context Learners**](https://doi.org/10.48550/arXiv.2212.10873) （**2022.12.21**）
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+[**In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2212.10670) （**2022.12.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
@@ -454,6 +450,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**](https://arxiv.org/abs/2304.03307) （**2023.04.06**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 [**MEDIMP: Medical Images and Prompts for renal transplant representation learning**](https://arxiv.org/abs/2303.12445) （**2023.03.22**）
 
@@ -490,10 +490,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Multimodal Prompting with Missing Modalities for Visual Recognition**](https://doi.org/10.48550/arXiv.2303.03369) （**2023.03.06**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-21-blue)](https://github.com/yilunlee/missing_aware_prompts)
-
-[**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923) （**2023.02.02**）
-
-![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.1k-blue)](https://github.com/amazon-science/mm-cot)
 
 
 </div>
@@ -557,6 +553,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**TagGPT: Large Language Models are Zero-shot Multimodal Taggers**](https://arxiv.org/abs/2304.03022) （**2023.04.06**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/tencentarc/taggpt)
+
+[**Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**](https://arxiv.org/abs/2304.01373) （**2023.04.03**）
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-491-blue)](https://github.com/eleutherai/pythia)
+
+[**BloombergGPT: A Large Language Model for Finance**](https://arxiv.org/abs/2303.17564) （**2023.03.30**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-82-red)
+
 [**Scaling Expert Language Models with Unsupervised Domain Discovery**](https://arxiv.org/abs/2303.14177) （**2023.03.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/kernelmachine/cbtm)
@@ -584,18 +592,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**An Overview on Language Models: Recent Developments and Outlook**](https://doi.org/10.48550/arXiv.2303.05759) （**2023.03.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
-[**Foundation Models for Decision Making: Problems, Methods, and Opportunities**](https://doi.org/10.48550/arXiv.2303.04129) （**2023.03.07**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding**](https://doi.org/10.48550/arXiv.2303.04245) （**2023.03.07**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**LLaMA: Open and Efficient Foundation Language Models**](https://doi.org/10.48550/arXiv.2302.13971) （**2023.02.27**）
-
-![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-12.7k-blue)](https://github.com/facebookresearch/llama)
 
 
 </div>

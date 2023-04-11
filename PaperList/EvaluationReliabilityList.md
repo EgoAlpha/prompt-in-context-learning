@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment**](https://arxiv.org/abs/2303.16634) （**2023.03.29**）
+
+<font color="gray">Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
+
+---
+
 [**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**](https://doi.org/10.48550/arXiv.2303.00293) （**2023.03.01**）
 
 <font color="gray">Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, etc .  - 【ArXiv】</font>

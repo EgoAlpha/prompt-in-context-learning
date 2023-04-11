@@ -2,6 +2,10 @@
 
 ## 2023
 
+**[2023.4.10]** [TagGPT: Large Language Models are Zero-shot Multimodal Taggers](https://arxiv.org/pdf/2304.03022.pdf)
+
+**[2023.4.9]** A new AI model from Meta AI: Segment Anything Model (SAM) ([Paper](https://arxiv.org/pdf/2304.02643.pdf)/[Code](https://github.com/facebookresearch/segment-anything))
+
 **[2023.4.8]** EleutherAI&Yale et al. proposed a large-scale language model analysis suite that spans training and extension: Pythia ([Paper](https://arxiv.org/pdf/2304.01373.pdf)/[Code](https://github.com/EleutherAI/pythia))
 
 **[2023.4.7]** [Stanford releases the 7 billion parameter open-source model Vicuna-7B, which is compact, efficient, but powerful in functionality](https://vicuna.lmsys.org/)
@@ -12,8 +16,7 @@
 
 **[2023.4.4]** [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/pdf/2303.18240.pdf)
 
-**[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback]
-(https://arxiv.org/pdf/2303.17651.pdf)
+**[2023.4.3]** [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651.pdf)
 
 **[2023.4.1]** [A survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 

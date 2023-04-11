@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**](https://arxiv.org/abs/2304.04704) （**2023.04.10**）
+
+
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/amazon-science/prompt-pretraining)
+
+---
+
 [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
 
 <font color="gray">Jules White, Quchen Fu, Sam Hays, M. Sandborn, Carlos Olea, etc .  - 【ArXiv】</font>

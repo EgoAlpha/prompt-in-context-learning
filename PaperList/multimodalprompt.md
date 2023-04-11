@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**](https://arxiv.org/abs/2304.03307) （**2023.04.06**）
+
+
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
 [**MEDIMP: Medical Images and Prompts for renal transplant representation learning**](https://arxiv.org/abs/2303.12445) （**2023.03.22**）
 
 <font color="gray">Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, etc </font>
@@ -82,6 +90,14 @@
 <font color="gray">Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, G. Karypis, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.1k-blue)](https://github.com/amazon-science/mm-cot)
+
+---
+
+[**LVP-M3: Language-aware Visual Prompt for Multilingual Multimodal Machine Translation**](https://doi.org/10.48550/arXiv.2210.15461) （**2022.10.19**）
+
+<font color="gray">Hongcheng Guo, Jiaheng Liu, Haoyang Huang, Jian Yang, Zhoujun Li, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 
