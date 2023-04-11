@@ -72,12 +72,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
+
 - **[2023.4.10]** [TagGPT: Large Language Models are Zero-shot Multimodal Taggers](https://arxiv.org/pdf/2304.03022.pdf)
 
 - **[2023.4.9]** A new AI model from Meta AI: Segment Anything Model (SAM) ([Paper](https://arxiv.org/pdf/2304.02643.pdf)/[Code](https://github.com/facebookresearch/segment-anything))
 
 - **[2023.4.8]** EleutherAI&Yale et al. proposed a large-scale language model analysis suite that spans training and extension: Pythia ([Paper](https://arxiv.org/pdf/2304.01373.pdf)/[Code](https://github.com/EleutherAI/pythia))
-
 
 [👉 Complete history news 👈](./historynews.md)
 
@@ -291,56 +291,56 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 👉[Complete paper list 🔗 for "Chain of Thought"](./PaperList/ChainofThoughtList.md)👈
 
-### 📌 Knowledge Augmented Prompts
+### 📌 Knowledge Augmented Prompt
 
 <div style="line-height:0.2em;">
 
 
 
-[**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**](https://arxiv.org/abs/2304.04704) （**2023.04.10**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/amazon-science/prompt-pretraining)
-
-[**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
-
-![](https://img.shields.io/badge/Citations-3-green)
-
-[**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**](https://doi.org/10.48550/arXiv.2302.08043) （**2023.02.16**）
+[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
+[**REPLUG: Retrieval-Augmented Black-Box Language Models**](https://doi.org/10.48550/arXiv.2301.12652) （**2023.01.30**）
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+[**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://doi.org/10.48550/arXiv.2212.10560) （**2022.12.20**）
+
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-672-blue)](https://github.com/yizhongw/self-instruct)
+
+[**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**2022.12.16**）
 
 ![](https://img.shields.io/badge/Citations-2-green)
 
-[**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
+[**Don’t Prompt, Search! Mining-based Zero-Shot Learning with Language Models**](https://doi.org/10.48550/arXiv.2210.14803) （**2022.10.26**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/hkunlp/batch-prompting)
+![](https://img.shields.io/badge/Citations-1-green)
 
-[**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
+[**Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding**](https://doi.org/10.48550/arXiv.2210.08536) （**2022.10.16**）
 
-![](https://img.shields.io/badge/Citations-2-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/wjn1996/kp-plm)
 
-[**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
+[**Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding**](https://doi.org/10.48550/arXiv.2210.03304) （**2022.10.07**）
 
-![](https://img.shields.io/badge/Citations-9-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/whaleloops/KEPT)
 
-[**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
+[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
 
-![](https://img.shields.io/badge/Citations-16-green)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
 
-[**Interactive and Visual Prompt Engineering for Ad-hoc Task Adaptation with Large Language Models**](https://doi.org/10.1109/TVCG.2022.3209479) （**2022.08.16**）
+[**Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning**](https://doi.org/10.1145/3534678.3539382) （**2022.06.19**）
 
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-23-red)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-26-red)  [![](https://img.shields.io/badge/Github%20Stars-43-blue)](https://github.com/rucaibox/unicrs)
 
-[**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
+[**Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning**](https://doi.org/10.48550/arXiv.2205.14704) （**2022.05.29**）
 
-![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-305-blue)](https://github.com/zjunlp/promptkg)
 
 
 </div>
 
-👉[Complete paper list 🔗 for "Knowledge Augmented Prompts"](./PaperList/KnowledgeAugmentedPromptList.md)👈
+👉[Complete paper list 🔗 for "Knowledge Augmented Prompt"](./PaperList/KnowledgeAugmentedPromptList.md)👈
 
 
 ### 📌 Evaluation & Reliability
