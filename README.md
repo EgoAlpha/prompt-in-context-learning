@@ -73,6 +73,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.11]** [Why think step-by-step? Reasoning emerges from the locality of experience](https://arxiv.org/pdf/2304.03843.pdf)
+
+- **[2023.4.12]** [OpenAGI: When LLM Meets Domain Experts](https://arxiv.org/pdf/2304.04370.pdf)
+
 - **[2023.4.10]** [TagGPT: Large Language Models are Zero-shot Multimodal Taggers](https://arxiv.org/pdf/2304.03022.pdf)
 
 - **[2023.4.9]** A new AI model from Meta AI: Segment Anything Model (SAM) ([Paper](https://arxiv.org/pdf/2304.02643.pdf)/[Code](https://github.com/facebookresearch/segment-anything))
@@ -104,7 +108,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ## Survey
 
 <div style="line-height:0.2em;">
-
 
 
 [**A Survey of Large Language Models**](https://arxiv.org/abs/2303.18223) （**2023.03.31**）
