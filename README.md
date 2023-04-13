@@ -72,10 +72,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
-- **[2023.4.13]** Twp Amazing Works:
+- **[2023.4.13]** Three Amazing Works:
     - AutoGPT: An Autonomous GPT-4 Experiment 👉[Code](https://github.com/torantulino/auto-gpt)👈
 
     - [Databricks releases Dolly 2.0, the first open, instruction-following LLM for commercial use](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+
+    - [Microsoft released the DeepSpeed Chat: Own your ChatGPT](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
 
 - **[2023.4.12]** [OpenAGI: When LLM Meets Domain Experts](https://arxiv.org/pdf/2304.04370.pdf)
 
