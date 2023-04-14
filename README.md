@@ -72,7 +72,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
-- **[2023.4.14]** [ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning](https://arxiv.org/pdf/2304.05613.pdf)
+- **[2023.4.14]** 
+    - [Amazon announcing new tools for building with Generative AI](https://aws.amazon.com/cn/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+
+    - Paper: [ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning](https://arxiv.org/pdf/2304.05613.pdf)
 
 - **[2023.4.13]** Three Amazing Works:
     - AutoGPT: An Autonomous GPT-4 Experiment 👉[Code](https://github.com/torantulino/auto-gpt)👈
