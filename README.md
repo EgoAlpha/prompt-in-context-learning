@@ -76,7 +76,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.4.15]** 
     - Paper: [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/abs/2303.17760)
 
-    - [Visual Med-Alpaca: Bridging Modalities in Biomedical Language Models](https://github.com/cambridgeltl/visual-med-alpaca/tree/main/code)
+    - [Visual Med-Alpaca: Bridging Modalities in Biomedical Language Models](https://cambridgeltl.github.io/visual-med-alpaca/)
 
 - **[2023.4.14]** 
     - 🔥🔥🔥[Amazon announcing new tools for building with Generative AI](https://aws.amazon.com/cn/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
