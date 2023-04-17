@@ -73,6 +73,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+
+- **[2023.4.17]** 
+    - Paper: [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/pdf/2304.04704.pdf)
+
 - **[2023.4.16]** 
     - Paper: [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/pdf/2304.06364.pdf)
 
