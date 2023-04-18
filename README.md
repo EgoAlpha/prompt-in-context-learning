@@ -75,7 +75,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 - **[2023.4.17]** 
-    - The open source large language model **OpenAssistant** democratizes large language models, supports 35 languages, and can use RLHF data for free[[Project Page](https://open-assistant.io/chat)/[Code](ttps://github.com/LAION-AI/Open-Assistant)/[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]
+    - 🔥🔥🔥The open source democratizes large language models,**OpenAssistant**, supports 35 languages, and can use RLHF data for free[[Project Page](https://open-assistant.io/chat)/[Code](ttps://github.com/LAION-AI/Open-Assistant)/[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]
 
     - Paper: [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/pdf/2304.04704.pdf)
 
@@ -88,7 +88,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
     - [Visual Med-Alpaca: Bridging Modalities in Biomedical Language Models](https://cambridgeltl.github.io/visual-med-alpaca/)
 
 - **[2023.4.14]** 
-    - 🔥🔥🔥[Amazon announcing new tools for building with Generative AI](https://aws.amazon.com/cn/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+    - [Amazon announcing new tools for building with Generative AI](https://aws.amazon.com/cn/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
 
     - Paper: [ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning](https://arxiv.org/pdf/2304.05613.pdf)
 
