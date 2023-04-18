@@ -73,6 +73,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.18]**
+    -   [HuaTuo:Tunning LLaMA Model with chinese medical instructions](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
+    -   MiniGPT-4 [[Project Page](https://minigpt-4.github.io/)/[Paper](https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf)]
+
+    - Paper: 
+        [Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text](https://arxiv.org/abs/2304.06939 )
 
 - **[2023.4.17]** 
     - 🔥🔥🔥The open source democratizes large language models,**OpenAssistant**, supports 35 languages, and can use RLHF data for free[[Project Page](https://open-assistant.io/chat)/[Code](ttps://github.com/LAION-AI/Open-Assistant)/[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]
