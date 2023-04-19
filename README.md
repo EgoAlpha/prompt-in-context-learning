@@ -73,6 +73,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.19]** 
+    
+    - Paper: [Towards Robust Prompts on Vision-Language Models](https://arxiv.org/pdf/2304.08479.pdf)
+
 - **[2023.4.18]**
     -   [HuaTuo:Tunning LLaMA Model with chinese medical instructions](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
     -   MiniGPT-4 [[Project Page](https://minigpt-4.github.io/)/[Paper](https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf)]
