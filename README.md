@@ -73,6 +73,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.20]**
+
+    - Paper: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
+
 - **[2023.4.19]** 
     
     - Paper: [Towards Robust Prompts on Vision-Language Models](https://arxiv.org/pdf/2304.08479.pdf)
