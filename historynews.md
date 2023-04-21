@@ -2,9 +2,39 @@
 
 ## 2023
 
-**[2023.4.15]** 
+**[2023.4.21]**
 
+- Paper: [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+
+**[2023.4.20]**
+
+- [Google DeepMind: Bringing together two world-class AI teams](https://blog.google/technology/ai/april-ai-update/)
+
+- Paper: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
+
+**[2023.4.19]** 
+    
+- Paper: [Towards Robust Prompts on Vision-Language Models](https://arxiv.org/pdf/2304.08479.pdf)
+
+**[2023.4.18]**
+-   [HuaTuo:Tunning LLaMA Model with chinese medical instructions](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
+-   MiniGPT-4 [[Project Page](https://minigpt-4.github.io/)/[Paper](https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf)]
+
+- Paper: 
+        [Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text](https://arxiv.org/abs/2304.06939 )
+
+**[2023.4.17]** 
+- The open source democratizes large language models,**OpenAssistant**, supports 35 languages, and can use RLHF data for free[[Project Page](https://open-assistant.io/chat)/[Code](ttps://github.com/LAION-AI/Open-Assistant)/[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]
+
+- Paper: [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/pdf/2304.04704.pdf)
+
+**[2023.4.16]** 
+- Paper: [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/pdf/2304.06364.pdf)
+
+**[2023.4.15]** 
 - Paper: [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/abs/2303.17760)
+
+- [Visual Med-Alpaca: Bridging Modalities in Biomedical Language Models](https://cambridgeltl.github.io/visual-med-alpaca/)
 
 **[2023.4.14]**
 

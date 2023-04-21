@@ -5,11 +5,19 @@
 <div style="line-height:0.2em;">
 
 
+[**AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models**](https://arxiv.org/abs/2304.06364) （**2023.04.13**）
+
+<font color="gray">Wanjun Zhong, Ruixiang Cui, Yiduo Guo, Yaobo Liang, Shuai Lu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-174-blue)](https://github.com/microsoft/agieval)
+
+---
+
 [**GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment**](https://arxiv.org/abs/2303.16634) （**2023.03.29**）
 
 <font color="gray">Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)
 
 ---
 
@@ -25,7 +33,7 @@
 
 <font color="gray">Albert Lu, Hongxin Zhang, Yanzhe Zhang, Xuezhi Wang, Diyi Yang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/salt-nlp/bound-cap-llm)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-20-blue)](https://github.com/salt-nlp/bound-cap-llm)
 
 ---
 
@@ -49,7 +57,7 @@
 
 <font color="gray">Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/google-research-datasets/gsm-ic)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/google-research-datasets/gsm-ic)
 
 ---
 
@@ -57,7 +65,7 @@
 
 <font color="gray">Taylor W. Webb, K. Holyoak, Hongjing Lu .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/taylorwwebb/emergent_analogies_llm)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/taylorwwebb/emergent_analogies_llm)
 
 ---
 
@@ -65,7 +73,7 @@
 
 <font color="gray">Ethan Perez, Sam Ringer, Kamilė Lukošiūtė, Karina Nguyen, Edwin Chen, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-109-blue)](https://github.com/anthropics/evals)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-120-blue)](https://github.com/anthropics/evals)
 
 ---
 
@@ -73,7 +81,7 @@
 
 <font color="gray">Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, John Kernion, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-69-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-85-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
 
 ---
 
@@ -82,6 +90,14 @@
 <font color="gray">Omar Shaikh, Hongxin Zhang, William B. Held, Michael Bernstein, Diyi Yang .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**Demystifying Prompts in Language Models via Perplexity Estimation**](https://doi.org/10.48550/arXiv.2212.04037) （**2022.12.08**）
+
+<font color="gray">Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
 
 ---
 
@@ -97,7 +113,7 @@
 
 <font color="gray">Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-40-green)  [![](https://img.shields.io/badge/Github%20Stars-375-blue)](https://github.com/stanford-crfm/helm)
+![](https://img.shields.io/badge/Citations-40-green)  [![](https://img.shields.io/badge/Github%20Stars-549-blue)](https://github.com/stanford-crfm/helm)
 
 ---
 
@@ -113,7 +129,7 @@
 
 <font color="gray">Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-48-blue)](https://github.com/noviscl/gpt3-reliability)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-55-blue)](https://github.com/noviscl/gpt3-reliability)
 
 ---
 
@@ -129,7 +145,15 @@
 
 <font color="gray">Chenglei Si, Chen Zhao, Sewon Min, Jordan L. Boyd-Graber .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/noviscl/calibrateqa)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/noviscl/calibrateqa)
+
+---
+
+[**Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing**](https://doi.org/10.48550/arXiv.2205.12253) （**2022.05.24**）
+
+<font color="gray">Linlu Qiu, Peter Shaw, Panupong Pasupat, Tianze Shi, Jonathan Herzig, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)
 
 ---
 
@@ -137,7 +161,7 @@
 
 <font color="gray">Xi Ye, Greg Durrett </font>
 
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/xiye17/textualexplincontext)
+![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-35-red)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/xiye17/textualexplincontext)
 
 ---
 
@@ -145,7 +169,15 @@
 
 <font color="gray">Karl Cobbe, V. Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-181-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-110-red)  [![](https://img.shields.io/badge/Github%20Stars-331-blue)](https://github.com/openai/grade-school-math)
+![](https://img.shields.io/badge/Citations-181-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-118-red)  [![](https://img.shields.io/badge/Github%20Stars-373-blue)](https://github.com/openai/grade-school-math)
+
+---
+
+[**BBQ: A hand-built bias benchmark for question answering**](https://doi.org/10.18653/v1/2022.findings-acl.165) （**2021.10.15**）
+
+<font color="gray">Alicia Parrish, Angelica Chen, Nikita Nangia, Vishakh Padmakumar, Jason Phang, etc .  - 【Findings】</font>
+
+![](https://img.shields.io/badge/Citations-19-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-37-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/nyu-mll/bbq)
 
 ---
 
@@ -153,7 +185,7 @@
 
 <font color="gray">Weizhe Yuan, Graham Neubig, Pengfei Liu .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-160-red)  [![](https://img.shields.io/badge/Github%20Stars-211-blue)](https://github.com/neulab/BARTScore)
+![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-163-red)  [![](https://img.shields.io/badge/Github%20Stars-221-blue)](https://github.com/neulab/BARTScore)
 
 ---
 
@@ -161,7 +193,7 @@
 
 <font color="gray">Bill Yuchen Lin, Seyeon Lee, Xiaoyang Qiao, Xiang Ren .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-20-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-67-red)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/INK-USC/XCSR)
+![](https://img.shields.io/badge/Citations-20-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-62-red)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/INK-USC/XCSR)
 
 ---
 
@@ -169,7 +201,7 @@
 
 <font color="gray">Yao Lu, Max Bartolo, Alastair Moore, S. Riedel, Pontus Stenetorp .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-170-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-183-red)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/chicagohai/active-example-selection)
+![](https://img.shields.io/badge/Citations-170-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-193-red)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/chicagohai/active-example-selection)
 
 
 </div>

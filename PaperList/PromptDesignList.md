@@ -9,7 +9,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/amazon-science/prompt-pretraining)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-149-blue)](https://github.com/amazon-science/prompt-pretraining)
 
 ---
 
@@ -33,7 +33,7 @@
 
 <font color="gray">Anastasia Razdaibiedina, Yuning Mao, Rui Hou, Madian Khabsa, M. Lewis, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-47-blue)](https://github.com/arazd/ProgressivePrompts)
 
 ---
 
@@ -41,7 +41,7 @@
 
 <font color="gray">Zhoujun Cheng, Jungo Kasai, Tao Yu .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/hkunlp/batch-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/hkunlp/batch-prompting)
 
 ---
 
@@ -49,7 +49,7 @@
 
 <font color="gray">Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-384-blue)](https://github.com/HKUNLP/instructor-embedding)
 
 ---
 
@@ -73,7 +73,7 @@
 
 <font color="gray">Hendrik Strobelt, Albert Webson, Victor Sanh, Benjamin Hoover, J. Beyer, etc .  - 【IEEE Transactions on Visualization and Computer Graphics】</font>
 
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-23-red)
+![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-31-red)
 
 ---
 
@@ -81,7 +81,7 @@
 
 <font color="gray">Shizhe Diao, Xuechun Li, Yong Lin, Zhichao Huang, Xiao Zhou, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-22-blue)](https://github.com/shizhediao/black-box-prompt-learning)
+![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-36-red)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
 ---
 
@@ -89,7 +89,15 @@
 
 <font color="gray">Vivian Liu, Lydia B. Chilton .  - 【International Conference on Human Factors in Computing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-50-red)
+![](https://img.shields.io/badge/Citations-44-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-62-red)
+
+---
+
+[**Do Prompt-Based Models Really Understand the Meaning of Their Prompts?**](https://doi.org/10.18653/v1/2022.naacl-main.167) （**2021.09.02**）
+
+<font color="gray">Albert Webson, Ellie Pavlick .  - 【North American Chapter of the Association for Computational Linguistics】</font>
+
+![](https://img.shields.io/badge/Citations-71-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-157-red)  [![](https://img.shields.io/badge/Github%20Stars-68-blue)](https://github.com/awebson/prompt_semantics)
 
 ---
 
@@ -97,7 +105,7 @@
 
 <font color="gray">Eyal Ben-David, Nadav Oved, Roi Reichart .  - 【International Conference on Topology, Algebra and Categories in Logic】</font>
 
-![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)  [![](https://img.shields.io/badge/Github%20Stars-44-blue)](https://github.com/eyalbd2/PADA)
+![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-85-red)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/eyalbd2/PADA)
 
 ---
 
@@ -105,7 +113,7 @@
 
 <font color="gray">Laria Reynolds, Kyle McDonell .  - 【CHI Extended Abstracts】</font>
 
-![](https://img.shields.io/badge/Citations-149-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-172-red)
+![](https://img.shields.io/badge/Citations-149-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-194-red)
 
 ---
 

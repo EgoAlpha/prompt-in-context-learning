@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model**](https://arxiv.org/abs/2304.06248) （**2023.04.13**）
+
+<font color="gray">Hao Fei, Shengqiong Wu, Jingye Li, Bobo Li, Fei Li, etc </font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-16-blue)](https://github.com/chocowu/lasuie)
+
+---
+
 [**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
 
 <font color="gray">Yiren Liu, H. Kilicoglu .  - 【ArXiv】</font>
@@ -25,7 +33,7 @@
 
 <font color="gray">Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-672-blue)](https://github.com/yizhongw/self-instruct)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-1.8k-blue)](https://github.com/yizhongw/self-instruct)
 
 ---
 
@@ -33,7 +41,7 @@
 
 <font color="gray">Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric P. Xing .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/hlzhang109/lmlp)
 
 ---
 
@@ -57,7 +65,7 @@
 
 <font color="gray">Zhichao Yang, Shufan Wang, Bhanu Pratap Singh Rawat, Avijit Mitra, Hong Yu .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/whaleloops/KEPT)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-26-blue)](https://github.com/whaleloops/KEPT)
 
 ---
 
@@ -73,7 +81,7 @@
 
 <font color="gray">Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, etc </font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/shuyanzhou/docprompting)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)  [![](https://img.shields.io/badge/Github%20Stars-142-blue)](https://github.com/shuyanzhou/docprompting)
 
 ---
 
@@ -81,7 +89,7 @@
 
 <font color="gray">Xiaolei Wang, Kun Zhou, Ji-rong Wen, Wayne Xin Zhao .  - 【Knowledge Discovery and Data Mining】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-26-red)  [![](https://img.shields.io/badge/Github%20Stars-43-blue)](https://github.com/rucaibox/unicrs)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/rucaibox/unicrs)
 
 ---
 
@@ -89,7 +97,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-305-blue)](https://github.com/zjunlp/promptkg)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-352-blue)](https://github.com/zjunlp/promptkg)
 
 ---
 
@@ -97,7 +105,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, etc .  - 【Annual International ACM SIGIR Conference on Research and Development in Information Retrieval】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-25-red)  [![](https://img.shields.io/badge/Github%20Stars-305-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-26-red)  [![](https://img.shields.io/badge/Github%20Stars-352-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)
 
 ---
 
@@ -105,7 +113,7 @@
 
 <font color="gray">Xiaozhuan Liang, Ningyu Zhang, Ningyu Zhang, Siyuan Cheng, Zhen Bi, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-305-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-353-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
 
 ---
 
@@ -113,7 +121,7 @@
 
 <font color="gray">Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang .  - 【ACM Conference on Recommender Systems】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-52-red)  [![](https://img.shields.io/badge/Github%20Stars-78-blue)](https://github.com/jeykigung/P5)
+![](https://img.shields.io/badge/Citations-22-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-56-red)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/jeykigung/P5)
 
 ---
 
@@ -121,7 +129,7 @@
 
 <font color="gray">Zihan Liu, M. Patwary, R. Prenger, Shrimai Prabhumoye, Wei Ping, etc .  - 【Findings】</font>
 
-![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-4.1k-blue)](https://github.com/NVIDIA/Megatron-LM)
+![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-4.6k-blue)](https://github.com/NVIDIA/Megatron-LM)
 
 ---
 
@@ -129,7 +137,7 @@
 
 <font color="gray">Shuo Wang, Yichong Xu, Yuwei Fang, Yang Liu, S. Sun, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-102-blue)](https://github.com/microsoft/reina)
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-103-blue)](https://github.com/microsoft/reina)
 
 ---
 
@@ -137,7 +145,7 @@
 
 <font color="gray">Yulong Chen, Yang Liu, Li Dong, Shuohang Wang, Chenguang Zhu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-11-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-48-red)
+![](https://img.shields.io/badge/Citations-11-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-52-red)
 
 ---
 
@@ -145,7 +153,7 @@
 
 <font color="gray">Jiacheng Liu, Alisa Liu, Ximing Lu, S. Welleck, Peter West, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-133-red)  [![](https://img.shields.io/badge/Github%20Stars-33-blue)](https://github.com/liujch1998/gkp)
+![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-138-red)  [![](https://img.shields.io/badge/Github%20Stars-47-blue)](https://github.com/liujch1998/gkp)
 
 ---
 
@@ -153,7 +161,7 @@
 
 <font color="gray">Oscar Sainz, Oier Lopez de Lacalle, Gorka Labaka, Ander Barrena, Eneko Agirre .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-36-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-111-red)  [![](https://img.shields.io/badge/Github%20Stars-126-blue)](https://github.com/osainz59/Ask2Transformers)
+![](https://img.shields.io/badge/Citations-36-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-108-red)  [![](https://img.shields.io/badge/Github%20Stars-133-blue)](https://github.com/osainz59/Ask2Transformers)
 
 ---
 
@@ -161,7 +169,7 @@
 
 <font color="gray">Shengding Hu, Ning Ding, Huadong Wang, Zhiyuan Liu, Juan-Zi Li, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-95-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-225-red)  [![](https://img.shields.io/badge/Github%20Stars-158-blue)](https://github.com/thunlp/knowledgeableprompttuning)
+![](https://img.shields.io/badge/Citations-95-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-230-red)  [![](https://img.shields.io/badge/Github%20Stars-163-blue)](https://github.com/thunlp/knowledgeableprompttuning)
 
 ---
 
@@ -169,7 +177,7 @@
 
 <font color="gray">Xu Han, Weilin Zhao, Ning Ding, Zhiyuan Liu, Maosong Sun .  - 【AI Open】</font>
 
-![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-226-red)  [![](https://img.shields.io/badge/Github%20Stars-128-blue)](https://github.com/thunlp/PTR)
+![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-237-red)  [![](https://img.shields.io/badge/Github%20Stars-136-blue)](https://github.com/thunlp/PTR)
 
 ---
 
@@ -177,7 +185,7 @@
 
 <font color="gray">Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, etc .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-551-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-670-red)  [![](https://img.shields.io/badge/Github%20Stars-85.8k-blue)](https://github.com/huggingface/transformers)
+![](https://img.shields.io/badge/Citations-551-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-693-red)  [![](https://img.shields.io/badge/Github%20Stars-94.3k-blue)](https://github.com/huggingface/transformers)
 
 ---
 
@@ -185,15 +193,7 @@
 
 <font color="gray">Kelvin Guu, Kenton Lee, Z. Tung, Panupong Pasupat, Ming-Wei Chang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-542-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-821-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/google-research/language/tree/master/language/realm)
-
----
-
-[**LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model**]
-
-
-
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-542-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-845-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/google-research/language/tree/master/language/realm)
 
 ---
 
