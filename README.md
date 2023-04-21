@@ -79,7 +79,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.4.20]**
 
-    - - [Google DeepMind: Bringing together two world-class AI teams](https://blog.google/technology/ai/april-ai-update/)
+    - [Google DeepMind: Bringing together two world-class AI teams](https://blog.google/technology/ai/april-ai-update/)
 
     - Paper: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
 
