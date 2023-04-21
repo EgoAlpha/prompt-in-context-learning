@@ -79,7 +79,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.4.20]**
 
-    - [Google DeepMind: Bringing together two world-class AI teams](https://blog.google/technology/ai/april-ai-update/)
+    - - [Google DeepMind: Bringing together two world-class AI teams](https://blog.google/technology/ai/april-ai-update/)
 
     - Paper: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
 
@@ -118,6 +118,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - [Survey](#Survey)
 
 - [Prompt Engineering](#prompt-engineering)
+
+    - [Prompt Design](#prompt-design)
+    - [Automatic Prompt](#automatic-prompt)
+    - [Chain of Thought](#chain-of-thought)
+    - [Knowledge Augmented Prompt](#knowledge-augmented-prompt)
+    - [Evaluation & Reliability](#evaluation--reliability)
 
 - [In-context learning](#in-context-learning)
 
@@ -170,7 +176,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ## Prompt Engineering
 
-### 📌 Prompt Design
+### Prompt Design
 
 <div style="line-height:0.2em;">
 
@@ -221,7 +227,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 👉[Complete paper list 🔗 for "Prompt Design"](./PaperList/PromptDesignList.md)👈
 
-### 📌 Automatic Prompt 
+### Automatic Prompt 
 
 <div style="line-height:0.2em;">
 
@@ -268,7 +274,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 👉[Complete paper list 🔗 for "Automatic Prompt"](./PaperList/AutomaticPromptList.md)👈
 
-### 📌 Chain of Thought
+### Chain of Thought
 
 <div style="line-height:0.2em;">
 
@@ -319,7 +325,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 👉[Complete paper list 🔗 for "Chain of Thought"](./PaperList/ChainofThoughtList.md)👈
 
-### 📌 Knowledge Augmented Prompt
+### Knowledge Augmented Prompt
 
 <div style="line-height:0.2em;">
 
@@ -371,7 +377,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 👉[Complete paper list 🔗 for "Knowledge Augmented Prompt"](./PaperList/KnowledgeAugmentedPromptList.md)👈
 
 
-### 📌 Evaluation & Reliability
+### Evaluation & Reliability
 
 <div style="line-height:0.2em;">
 
