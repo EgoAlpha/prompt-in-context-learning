@@ -11,8 +11,6 @@ We will gradually release the following features:
 
 As resources are limited, we suggest using this playground for learning and practicing prompt techniques rather than for work. This will help more people access prompt engineering.
 
-<img width="200%" src="./figures/hr.gif" />
-
 ### 🌀 <font size=6>A</font>s a prominent example of LLMs, ChatGPT has received widespread attention and skyrocketed in popularity. Nonetheless, in recent years, a significant number of LLMs have emerged, typically several tens of gigabytes in size and trained on massive amounts of textual data. Therefore, there are several alternatives available that we can use to practice prompt techniques using these models.
 
 <img width="200%" src="./figures/hr.gif" />
