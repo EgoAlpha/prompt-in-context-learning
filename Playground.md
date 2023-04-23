@@ -5,6 +5,18 @@
 
 <img width="200%" src="./figures/hr.gif" />
 
+🌟 [TrustGPT](https://trustgpt.co/trust/index.html) can also serve as a playground for everyone's convenience to learn and practice advanced prompt techniques. You can also commit your issues from TrustGPT to this repo page. Thanks a lot.
+
+We will gradually release the following features: 
+1. Prompt example 
+2. Question answering over your own document
+3. Autonomous agent 
+4. Access to various LLMs 
+
+As resources are limited, we suggest using this playground for learning and practicing prompt techniques rather than for work. This will help more people access prompt engineering.
+
+<img width="200%" src="./figures/hr.gif" />
+
 ### 🤩 *The models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience.*
 
 |   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
