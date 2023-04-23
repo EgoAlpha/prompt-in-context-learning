@@ -1,10 +1,6 @@
 # 🔥 Playground
 > **Prompt Engineering aims to carefully curate input prompts that can extract the best possible results from Large language models(LLMs).** 
 
-### 🌀 <font size=6>A</font>s a prominent example of LLMs, ChatGPT has received widespread attention and skyrocketed in popularity. Nonetheless, in recent years, a significant number of LLMs have emerged, typically several tens of gigabytes in size and trained on massive amounts of textual data. Therefore, there are several alternatives available that we can use to practice prompt techniques using these models.
-
-<img width="200%" src="./figures/hr.gif" />
-
 🌟 [TrustGPT](https://trustgpt.co/trust/index.html) can also serve as a playground for everyone's convenience to learn and practice advanced prompt techniques. You can also commit your issues from TrustGPT to this repo page. Thanks a lot.
 
 We will gradually release the following features: 
@@ -16,6 +12,11 @@ We will gradually release the following features:
 As resources are limited, we suggest using this playground for learning and practicing prompt techniques rather than for work. This will help more people access prompt engineering.
 
 <img width="200%" src="./figures/hr.gif" />
+
+### 🌀 <font size=6>A</font>s a prominent example of LLMs, ChatGPT has received widespread attention and skyrocketed in popularity. Nonetheless, in recent years, a significant number of LLMs have emerged, typically several tens of gigabytes in size and trained on massive amounts of textual data. Therefore, there are several alternatives available that we can use to practice prompt techniques using these models.
+
+<img width="200%" src="./figures/hr.gif" />
+
 
 ### 🤩 *The models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience.*
 
