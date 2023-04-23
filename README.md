@@ -73,9 +73,15 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 
+- **[2023.4.22]** Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Paper](https://arxiv.org/abs/2304.09842)/[Project](https://chameleon-llm.github.io)
+
 - **[2023.4.21]**
 
-    - Paper: [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+    - Paper:
+
+        [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+
+        [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
 
 - **[2023.4.20]**
 
