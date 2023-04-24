@@ -245,14 +245,6 @@
 
 ---
 
-[**Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations**](https://doi.org/10.48550/arXiv.2205.12685) （**2022.05.25**）
-
-<font color="gray">Junyeob Kim, Hyuhng Joon Kim, Hyunsoo Cho, Hwiyeol Jo, Sang-Woo Lee, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-11-green)
-
----
-
 [**Instruction Induction: From Few Examples to Natural Language Task Descriptions**](https://doi.org/10.48550/arXiv.2205.10782) （**2022.05.22**）
 
 <font color="gray">Or Honovich, Uri Shaham, Samuel R. Bowman, Omer Levy .  - 【ArXiv】</font>

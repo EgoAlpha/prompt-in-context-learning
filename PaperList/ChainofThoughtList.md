@@ -21,14 +21,6 @@
 
 ---
 
-[**REFINER: Reasoning Feedback on Intermediate Representations**](https://arxiv.org/abs/2304.01904) （**2023.04.04**）
-
-<font color="gray">Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
-
----
-
 [**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
 
 <font color="gray">Kashun Shum, Shizhe Diao, Tong Zhang .  - 【ArXiv】</font>
@@ -109,14 +101,6 @@
 
 ---
 
-[**COPEN: Probing Conceptual Knowledge in Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2211.04079) （**2022.11.08**）
-
-<font color="gray">Hao Peng, Xiaozhi Wang, Shengding Hu, Hailong Jin, Lei Hou, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/thu-keg/copen)
-
----
-
 [**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**](https://doi.org/10.48550/arXiv.2210.09261) （**2022.10.17**）
 
 <font color="gray">Mirac Suzgun, Nathan Scales, Nathanael Scharli, Sebastian Gehrmann, Yi Tay, etc .  - 【ArXiv】</font>
@@ -141,14 +125,6 @@
 
 ---
 
-[**Measuring and Narrowing the Compositionality Gap in Language Models**](https://doi.org/10.48550/arXiv.2210.03350) （**2022.10.07**）
-
-<font color="gray">Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-28-green)  [![](https://img.shields.io/badge/Github%20Stars-177-blue)](https://github.com/ofirpress/self-ask)
-
----
-
 [**Language Models are Multilingual Chain-of-Thought Reasoners**](https://doi.org/10.48550/arXiv.2210.03057) （**2022.10.06**）
 
 <font color="gray">Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, etc .  - 【ArXiv】</font>
@@ -162,14 +138,6 @@
 <font color="gray">Tushar Khot, H. Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/allenai/decomp)
-
----
-
-[**GLM-130B: An Open Bilingual Pre-trained Model**](https://doi.org/10.48550/arXiv.2210.02414) （**2022.10.05**）
-
-<font color="gray">Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-19-green)  [![](https://img.shields.io/badge/Github%20Stars-4.5k-blue)](https://github.com/thudm/glm-130b)
 
 ---
 
@@ -234,14 +202,6 @@
 <font color="gray">Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-40-green)
-
----
-
-[**Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations**](https://doi.org/10.48550/arXiv.2205.12685) （**2022.05.25**）
-
-<font color="gray">Junyeob Kim, Hyuhng Joon Kim, Hyunsoo Cho, Hwiyeol Jo, Sang-Woo Lee, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-11-green)
 
 ---
 
