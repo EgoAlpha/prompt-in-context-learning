@@ -72,7 +72,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
-☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co/trust/index.html) or visit the [Playgrounds](./Playground.md) directly to experience it。**
+☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
 - **[2023.4.22]** Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2304.09842)/[Project](https://chameleon-llm.github.io)]
 
