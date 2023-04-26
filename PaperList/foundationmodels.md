@@ -5,11 +5,27 @@
 <div style="line-height:0.2em;">
 
 
+[**Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**](https://arxiv.org/abs/2304.10750) （**2023.04.21**）
+
+<font color="gray">Nikhil Mehta, Milagro Teruel, Patricio Figueroa Sanz, Xinwei Deng, A. Awadallah, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
 [**Segment Anything Model for Medical Image Analysis: an Experimental Study**](https://arxiv.org/abs/2304.10517) （**2023.04.20**）
 
 <font color="gray">Maciej A. Mazurowski, Haoyu Dong, Han Gu, Jichen Yang, N. Konz, etc </font>
 
 ![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+
+---
+
+[**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/abs/2304.09842) （**2023.04.19**）
+
+<font color="gray">Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-40-red)  [![](https://img.shields.io/badge/Github%20Stars-466-blue)](https://github.com/lupantech/chameleon-llm)
 
 ---
 

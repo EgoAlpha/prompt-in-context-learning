@@ -173,6 +173,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**WizardLM: Empowering Large Language Models to Follow Complex Instructions**](https://arxiv.org/abs/2304.12244) （**2023.04.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/nlpxucan/wizardlm)
+
+[**Progressive-Hint Prompting Improves Reasoning in Large Language Models**](https://arxiv.org/abs/2304.09797) （**2023.04.19**）
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/chuanyang-Zheng/Progressive-Hint)
+
 [**Boosted Prompt Ensembles for Large Language Models**](https://doi.org/10.48550/arXiv.2304.05970) （**2023.04.12**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/awwang10/llmpromptboosting)
@@ -204,14 +212,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Progressive Prompts: Continual Learning for Language Models**](https://doi.org/10.48550/arXiv.2301.12314) （**2023.01.29**）
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-47-blue)](https://github.com/arazd/ProgressivePrompts)
-
-[**Batch Prompting: Efficient Inference with Large Language Model APIs**](https://doi.org/10.48550/arXiv.2301.08721) （**2023.01.19**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/hkunlp/batch-prompting)
-
-[**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
-
-![](https://img.shields.io/badge/Citations-9-green)
 
 
 </div>
@@ -271,6 +271,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**](https://arxiv.org/abs/2304.11657) （**2023.04.23**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/gasolsun36/iter-cot)
+
 [**Chain of Thought Prompt Tuning in Vision Language Models**](https://arxiv.org/abs/2304.07919) （**2023.04.16**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
@@ -306,10 +310,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**2022.11.25**）
 
 ![](https://img.shields.io/badge/Citations-3-green)
-
-[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
-
-![](https://img.shields.io/badge/Citations-5-green)
 
 
 </div>
@@ -527,6 +527,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Emergent and Predictable Memorization in Large Language Models**](https://arxiv.org/abs/2304.11158) （**2023.04.21**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
 [**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**](https://doi.org/10.48550/arXiv.2303.00733) （**2023.03.01**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -563,10 +567,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-2-green)
 
-[**Learning to Transfer Prompts for Text Generation**](https://doi.org/10.48550/arXiv.2205.01543) （**2022.05.03**）
-
-![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/rucaibox/transfer-prompts-for-text-generation)
-
 
 </div>
 
@@ -578,9 +578,17 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**](https://arxiv.org/abs/2304.10750) （**2023.04.21**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
 [**Segment Anything Model for Medical Image Analysis: an Experimental Study**](https://arxiv.org/abs/2304.10517) （**2023.04.20**）
 
 ![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+
+[**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/abs/2304.09842) （**2023.04.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-40-red)  [![](https://img.shields.io/badge/Github%20Stars-466-blue)](https://github.com/lupantech/chameleon-llm)
 
 [**Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks**](https://arxiv.org/abs/2304.09324) （**2023.04.18**）
 
@@ -609,14 +617,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling**](https://arxiv.org/abs/2304.01373) （**2023.04.03**）
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-5.0k-blue)](https://github.com/eleutherai/gpt-neox)
-
-[**BloombergGPT: A Large Language Model for Finance**](https://arxiv.org/abs/2303.17564) （**2023.03.30**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-168-red)
-
-[**Scaling Expert Language Models with Unsupervised Domain Discovery**](https://arxiv.org/abs/2303.14177) （**2023.03.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-50-blue)](https://github.com/kernelmachine/cbtm)
 
 
 </div>

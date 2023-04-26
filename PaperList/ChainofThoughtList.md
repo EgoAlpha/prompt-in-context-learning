@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**](https://arxiv.org/abs/2304.11657) （**2023.04.23**）
+
+<font color="gray">Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/gasolsun36/iter-cot)
+
+---
+
 [**Chain of Thought Prompt Tuning in Vision Language Models**](https://arxiv.org/abs/2304.07919) （**2023.04.16**）
 
 <font color="gray">Jiaxin Ge, Hongyin Luo, Siyuan Qian, Yulu Gan, Jie Fu, etc </font>

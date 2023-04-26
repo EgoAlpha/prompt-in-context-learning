@@ -5,11 +5,59 @@
 <div style="line-height:0.2em;">
 
 
+[**WizardLM: Empowering Large Language Models to Follow Complex Instructions**](https://arxiv.org/abs/2304.12244) （**2023.04.24**）
+
+<font color="gray">Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/nlpxucan/wizardlm)
+
+---
+
+[**Progressive-Hint Prompting Improves Reasoning in Large Language Models**](https://arxiv.org/abs/2304.09797) （**2023.04.19**）
+
+<font color="gray">Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/chuanyang-Zheng/Progressive-Hint)
+
+---
+
+[**Boosted Prompt Ensembles for Large Language Models**](https://doi.org/10.48550/arXiv.2304.05970) （**2023.04.12**）
+
+<font color="gray">Silviu Pitis, Michael Ruogu Zhang, Andrew Wang, Jimmy Ba .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/awwang10/llmpromptboosting)
+
+---
+
 [**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**](https://arxiv.org/abs/2304.04704) （**2023.04.10**）
 
 
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-149-blue)](https://github.com/amazon-science/prompt-pretraining)
+
+---
+
+[**REFINER: Reasoning Feedback on Intermediate Representations**](https://arxiv.org/abs/2304.01904) （**2023.04.04**）
+
+<font color="gray">Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
+
+---
+
+[**Context-faithful Prompting for Large Language Models**](https://doi.org/10.48550/arXiv.2303.11315) （**2023.03.20**）
+
+<font color="gray">Wenxuan Zhou, Sheng Zhang, Hoifung Poon, Muhao Chen .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/wzhouad/context-faithful-llm)
+
+---
+
+[**Reflexion: an autonomous agent with dynamic memory and self-reflection**](https://doi.org/10.48550/arXiv.2303.11366) （**2023.03.20**）
+
+<font color="gray">Noah Shinn, Beck Labash, Ashwin Gopinath .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-308-blue)](https://github.com/noahshinn024/reflexion)
 
 ---
 
@@ -45,14 +93,6 @@
 
 ---
 
-[**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
-
-<font color="gray">Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-384-blue)](https://github.com/HKUNLP/instructor-embedding)
-
----
-
 [**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
 
 <font color="gray">Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
@@ -61,11 +101,27 @@
 
 ---
 
-[**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
+[**PAL: Program-aided Language Models**](https://doi.org/10.48550/arXiv.2211.10435) （**2022.11.18**）
 
-<font color="gray">Zhuyun Dai, Vincent Zhao, Ji Ma, Yi Luan, Jianmo Ni, etc .  - 【ArXiv】</font>
+<font color="gray">Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-16-green)
+![](https://img.shields.io/badge/Citations-25-green)
+
+---
+
+[**Measuring and Narrowing the Compositionality Gap in Language Models**](https://doi.org/10.48550/arXiv.2210.03350) （**2022.10.07**）
+
+<font color="gray">Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, etc .  - 【ArXiv】</font>
+
+![](https://img.shields.io/badge/Citations-28-green)  [![](https://img.shields.io/badge/Github%20Stars-177-blue)](https://github.com/ofirpress/self-ask)
+
+---
+
+[**ReAct: Synergizing Reasoning and Acting in Language Models**](https://doi.org/10.48550/arXiv.2210.03629) （**2022.10.06**）
+
+<font color="gray">Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, I. Shafran, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-29-green)  [![](https://img.shields.io/badge/Github%20Stars-396-blue)](https://github.com/ysymyth/ReAct)
 
 ---
 
@@ -114,14 +170,6 @@
 <font color="gray">Laria Reynolds, Kyle McDonell .  - 【CHI Extended Abstracts】</font>
 
 ![](https://img.shields.io/badge/Citations-149-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-194-red)
-
----
-
-[**Prompt Engineering for Text-Based Generative Art**](https://doi.org/10.48550/arXiv.2204.13988) 
-
-<font color="gray">J. Oppenlaender .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-4-green)
 
 
 </div>

@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Emergent and Predictable Memorization in Large Language Models**](https://arxiv.org/abs/2304.11158) （**2023.04.21**）
+
+<font color="gray">Stella Rose Biderman, Usvsn Sai Prashanth, Lintang Sutawika, Hailey Schoelkopf, Quentin G. Anthony, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
 [**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**](https://doi.org/10.48550/arXiv.2303.00733) （**2023.03.01**）
 
 <font color="gray">Kai-Wei Chang, Yu-Kai Wang, Hua Shen, Iu-thing Kang, W. Tseng, etc .  - 【ArXiv】</font>
