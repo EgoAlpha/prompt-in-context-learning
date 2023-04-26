@@ -2,9 +2,30 @@
 
 ## 2023
 
-**[2023.4.21]**
+☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
-- Paper: [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+**[2023.4.26]** 
+- Paper: [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
+
+**[2023.4.25]** 
+- [Google releases the Security AI workbench](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
+
+- Paper: [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf)
+
+**[2023.4.24]** 
+- Paper: [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback](https://arxiv.org/pdf/2304.10750.pdf)
+
+**[2023.4.23]** 
+- Paper: [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf)
+
+**[2023.4.22]** Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2304.09842)/[Project](https://chameleon-llm.github.io)]
+
+**[2023.4.21]**
+- Paper:
+
+    [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+
+    [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
 
 **[2023.4.20]**
 

@@ -68,7 +68,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 💎EgoAlpha: Hello! human👤, are you ready?
 
-```
+```  
 
 # 📢 News
 <!-- 🔥🔥🔥 -->
@@ -97,36 +97,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
         [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
 
         [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
-
-- **[2023.4.20]**
-
-    - [Google DeepMind: Bringing together two world-class AI teams](https://blog.google/technology/ai/april-ai-update/)
-
-    - Paper: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
-
-- **[2023.4.19]** 
-    
-    - Paper: [Towards Robust Prompts on Vision-Language Models](https://arxiv.org/pdf/2304.08479.pdf)
-
-- **[2023.4.18]**
-    -   [HuaTuo:Tunning LLaMA Model with chinese medical instructions](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
-    -   MiniGPT-4 [[Project Page](https://minigpt-4.github.io/)/[Paper](https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf)]
-
-    - Paper: 
-        [Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text](https://arxiv.org/abs/2304.06939 )
-
-- **[2023.4.17]** 
-    - The open source democratizes large language models,**OpenAssistant**, supports 35 languages, and can use RLHF data for free[[Project Page](https://open-assistant.io/chat)/[Code](ttps://github.com/LAION-AI/Open-Assistant)/[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]
-
-    - Paper: [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/pdf/2304.04704.pdf)
-
-- **[2023.4.16]** 
-    - Paper: [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/pdf/2304.06364.pdf)
-
-- **[2023.4.15]** 
-    - Paper: [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/abs/2303.17760)
-
-    - [Visual Med-Alpaca: Bridging Modalities in Biomedical Language Models](https://cambridgeltl.github.io/visual-med-alpaca/)
 
 [👉 Complete history news 👈](./historynews.md)
 
@@ -203,9 +173,25 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Boosted Prompt Ensembles for Large Language Models**](https://doi.org/10.48550/arXiv.2304.05970) （**2023.04.12**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/awwang10/llmpromptboosting)
+
 [**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**](https://arxiv.org/abs/2304.04704) （**2023.04.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-149-blue)](https://github.com/amazon-science/prompt-pretraining)
+
+[**REFINER: Reasoning Feedback on Intermediate Representations**](https://arxiv.org/abs/2304.01904) （**2023.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
+
+[**Context-faithful Prompting for Large Language Models**](https://doi.org/10.48550/arXiv.2303.11315) （**2023.03.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/wzhouad/context-faithful-llm)
+
+[**Reflexion: an autonomous agent with dynamic memory and self-reflection**](https://doi.org/10.48550/arXiv.2303.11366) （**2023.03.20**）
+
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-308-blue)](https://github.com/noahshinn024/reflexion)
 
 [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382) （**2023.02.21**）
 
@@ -223,25 +209,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/hkunlp/batch-prompting)
 
-[**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-384-blue)](https://github.com/HKUNLP/instructor-embedding)
-
 [**Successive Prompting for Decomposing Complex Questions**](https://doi.org/10.48550/arXiv.2212.04092) （**2022.12.08**）
 
 ![](https://img.shields.io/badge/Citations-9-green)
-
-[**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
-
-![](https://img.shields.io/badge/Citations-16-green)
-
-[**Interactive and Visual Prompt Engineering for Ad-hoc Task Adaptation with Large Language Models**](https://doi.org/10.1109/TVCG.2022.3209479) （**2022.08.16**）
-
-![](https://img.shields.io/badge/Citations-10-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-31-red)
-
-[**Black-box Prompt Learning for Pre-trained Language Models**](https://arxiv.org/abs/2201.08531) （**2022.01.21**）
-
-![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-36-red)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
 
 </div>
@@ -309,10 +279,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**REFINER: Reasoning Feedback on Intermediate Representations**](https://arxiv.org/abs/2304.01904) （**2023.04.04**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
-
 [**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -341,6 +307,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-3-green)
 
+[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
+
+![](https://img.shields.io/badge/Citations-5-green)
+
 
 </div>
 
@@ -368,6 +338,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-1.8k-blue)](https://github.com/yizhongw/self-instruct)
 
+[**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-384-blue)](https://github.com/HKUNLP/instructor-embedding)
+
 [**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**2022.12.16**）
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/hlzhang109/lmlp)
@@ -384,13 +358,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-26-blue)](https://github.com/whaleloops/KEPT)
 
-[**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
+[**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)  [![](https://img.shields.io/badge/Github%20Stars-142-blue)](https://github.com/shuyanzhou/docprompting)
-
-[**Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning**](https://doi.org/10.1145/3534678.3539382) （**2022.06.19**）
-
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/rucaibox/unicrs)
+![](https://img.shields.io/badge/Citations-16-green)
 
 
 </div>
@@ -518,6 +488,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)  [![](https://img.shields.io/badge/Github%20Stars-517-blue)](https://github.com/allenai/mmc4)
 
+[**Segment Everything Everywhere All at Once**](https://doi.org/10.48550/arXiv.2304.06718) （**2023.04.13**）
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-1.3k-blue)](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
+
 [**Efficient Multimodal Fusion via Interactive Prompting**](https://arxiv.org/abs/2304.06306) （**2023.04.13**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -538,13 +512,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/tencentarc/taggpt)
 
-[**MEDIMP: Medical Images and Prompts for renal transplant representation learning**](https://arxiv.org/abs/2303.12445) （**2023.03.22**）
+[**Segment Anything**](https://doi.org/10.48550/arXiv.2304.02643) （**2023.04.05**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/leomlck/medimp)
-
-[**CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition**](https://arxiv.org/abs/2303.11313) （**2023.03.20**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)  [![](https://img.shields.io/badge/Github%20Stars-129-blue)](https://github.com/deeptibhegde/clip-goes-3d)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-29.5k-blue)](https://github.com/facebookresearch/segment-anything)
 
 
 </div>
