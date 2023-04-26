@@ -578,6 +578,30 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Segment Anything Model for Medical Image Analysis: an Experimental Study**](https://arxiv.org/abs/2304.10517) （**2023.04.20**）
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+
+[**Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks**](https://arxiv.org/abs/2304.09324) （**2023.04.18**）
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+[**When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation**](https://arxiv.org/abs/2304.08506) （**2023.04.17**）
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+[**The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning**](https://arxiv.org/abs/2304.07875) （**2023.04.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Deep learning universal crater detection using Segment Anything Model (SAM)**](https://doi.org/10.48550/arXiv.2304.07764) （**2023.04.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging**](https://doi.org/10.48550/arXiv.2304.04155) （**2023.04.09**）
+
+![](https://img.shields.io/badge/Citations-5-green)
+
 [**TagGPT: Large Language Models are Zero-shot Multimodal Taggers**](https://arxiv.org/abs/2304.03022) （**2023.04.06**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/tencentarc/taggpt)
@@ -593,30 +617,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Scaling Expert Language Models with Unsupervised Domain Discovery**](https://arxiv.org/abs/2303.14177) （**2023.03.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-50-blue)](https://github.com/kernelmachine/cbtm)
-
-[**Sparks of Artificial General Intelligence: Early experiments with GPT-4**](https://arxiv.org/abs/2303.12712) （**2023.03.22**）
-
-![](https://img.shields.io/badge/Citations-5-green)
-
-[**CoLT5: Faster Long-Range Transformers with Conditional Computation**](https://doi.org/10.48550/arXiv.2303.09752) （**2023.03.17**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Meet in the Middle: A New Pre-training Paradigm**](https://doi.org/10.48550/arXiv.2303.07295) （**2023.03.13**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**High-throughput Generative Inference of Large Language Models with a Single GPU**](https://doi.org/10.48550/arXiv.2303.06865) （**2023.03.13**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-7.8k-blue)](https://github.com/fminference/flexgen)
-
-[**Stabilizing Transformer Training by Preventing Attention Entropy Collapse**](https://doi.org/10.48550/arXiv.2303.06296) （**2023.03.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**An Overview on Language Models: Recent Developments and Outlook**](https://doi.org/10.48550/arXiv.2303.05759) （**2023.03.10**）
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>

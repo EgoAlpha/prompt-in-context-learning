@@ -5,6 +5,54 @@
 <div style="line-height:0.2em;">
 
 
+[**Segment Anything Model for Medical Image Analysis: an Experimental Study**](https://arxiv.org/abs/2304.10517) （**2023.04.20**）
+
+<font color="gray">Maciej A. Mazurowski, Haoyu Dong, Han Gu, Jichen Yang, N. Konz, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+
+---
+
+[**Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks**](https://arxiv.org/abs/2304.09324) （**2023.04.18**）
+
+<font color="gray">Sheng He, Rina Bao, Jingpeng Li, P. Grant, Yangming Ou </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+---
+
+[**When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation**](https://arxiv.org/abs/2304.08506) （**2023.04.17**）
+
+<font color="gray">Chuanfei Hu, Xinde Li </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+[**The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning**](https://arxiv.org/abs/2304.07875) （**2023.04.16**）
+
+<font color="gray">F. Putz, Johanna Grigo, T. Weissmann, P. Schubert, D. Hoefler, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Deep learning universal crater detection using Segment Anything Model (SAM)**](https://doi.org/10.48550/arXiv.2304.07764) （**2023.04.16**）
+
+<font color="gray">I. Giannakis, A. Bhardwaj, L. Sam, G. Leontidis .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging**](https://doi.org/10.48550/arXiv.2304.04155) （**2023.04.09**）
+
+<font color="gray">Ruining Deng, C. Cui, Quan Liu, Tianyuan Yao, L. W. Remedios, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
 [**TagGPT: Large Language Models are Zero-shot Multimodal Taggers**](https://arxiv.org/abs/2304.03022) （**2023.04.06**）
 
 
