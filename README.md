@@ -80,13 +80,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.4.25]** 
     - [Google releases the Security AI workbench](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
 
-    - Paper: [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf)
+    - Paper: 
+    
+        - [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf)
+    
+        - [Answering Questions by Meta-Reasoning over Multiple Chains of Thought](https://arxiv.org/pdf/2304.13007.pdf)
 
 - **[2023.4.24]** 
     - Paper: [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback](https://arxiv.org/pdf/2304.10750.pdf)
 
 - **[2023.4.23]** 
-    - Paper: [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf)
+    - Paper: 
+        - [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf)
 
 - **[2023.4.22]** Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2304.09842)/[Project](https://chameleon-llm.github.io)]
 
@@ -94,9 +99,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
     - Paper:
 
-        [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+        - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
 
-        [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
+        - [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
 
 [👉 Complete history news 👈](./historynews.md)
 
