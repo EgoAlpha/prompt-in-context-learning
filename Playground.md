@@ -20,6 +20,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 |   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
 | ---- | ---- | ----  | ---- | ---- |----|----|
+| OpenAssistant | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | - |-/[Code](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|Apr-27|
 | OpenAssistant | Decoder| LAION AI  | [🔗](https://open-assistant.io/chat) | - |[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )/[Code](https://github.com/LAION-AI/Open-Assistant)|Apr-17|
 | GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|Mar-14|
 | OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Code](https://github.com/togethercomputer/OpenChatKit)|Mar-13|
