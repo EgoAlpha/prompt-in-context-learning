@@ -89,18 +89,13 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.4.25]** 
     - [Google releases the Security AI workbench](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
 
-    - Paper: 
-    
-        - [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf)
-    
-        - [Answering Questions by Meta-Reasoning over Multiple Chains of Thought](https://arxiv.org/pdf/2304.13007.pdf)
+    - Paper: [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf)
 
 - **[2023.4.24]** 
     - Paper: [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback](https://arxiv.org/pdf/2304.10750.pdf)
 
 - **[2023.4.23]** 
-    - Paper: 
-        - [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf)
+    - Paper: [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf)
 
 - **[2023.4.22]** Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2304.09842)/[Project](https://chameleon-llm.github.io)]
 
@@ -108,9 +103,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
     - Paper:
 
-        - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
+        [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
 
-        - [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
+        [Pretrained Language Models as Visual Planners for Human Assistance](https://arxiv.org/pdf/2304.09179.pdf)
 
 [👉 Complete history news 👈](./historynews.md)
 
@@ -490,6 +485,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Edit Everything: A Text-Guided Generative System for Images Editing**](https://arxiv.org/abs/2304.14006) （**2023.04.27**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) （**2023.04.27**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
 [**Towards Robust Prompts on Vision-Language Models**](https://arxiv.org/abs/2304.08479) （**2023.04.17**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
@@ -518,17 +521,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-149-blue)](https://github.com/amazon-science/prompt-pretraining)
 
-[**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**](https://arxiv.org/abs/2304.03307) （**2023.04.06**）
+[**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://doi.org/10.48550/arXiv.2304.04227) （**2023.04.09**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/talalwasim/vita-clip)
-
-[**TagGPT: Large Language Models are Zero-shot Multimodal Taggers**](https://arxiv.org/abs/2304.03022) （**2023.04.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/tencentarc/taggpt)
-
-[**Segment Anything**](https://doi.org/10.48550/arXiv.2304.02643) （**2023.04.05**）
-
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-29.5k-blue)](https://github.com/facebookresearch/segment-anything)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-283-blue)](https://github.com/vision-cair/chatcaptioner)
 
 
 </div>

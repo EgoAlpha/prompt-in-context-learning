@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**Edit Everything: A Text-Guided Generative System for Images Editing**](https://arxiv.org/abs/2304.14006) （**2023.04.27**）
+
+<font color="gray">Defeng Xie, Ruichen Wang, Jian Ma, Chen Chen, Haonan Lu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) （**2023.04.27**）
+
+<font color="gray">Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
 [**Towards Robust Prompts on Vision-Language Models**](https://arxiv.org/abs/2304.08479) （**2023.04.17**）
 
 <font color="gray">Jindong Gu, A. Beirami, Xuezhi Wang, Alex Beutel, Philip H. S. Torr, etc </font>
@@ -26,6 +42,14 @@
 <font color="gray">Wanrong Zhu, Jack Hessel, Anas Awadalla, S. Gadre, Jesse Dodge, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)  [![](https://img.shields.io/badge/Github%20Stars-517-blue)](https://github.com/allenai/mmc4)
+
+---
+
+[**Segment Everything Everywhere All at Once**](https://doi.org/10.48550/arXiv.2304.06718) （**2023.04.13**）
+
+<font color="gray">Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-1.3k-blue)](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
 
 ---
 
@@ -53,6 +77,14 @@
 
 ---
 
+[**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://doi.org/10.48550/arXiv.2304.04227) （**2023.04.09**）
+
+<font color="gray">Jun Chen, Deyao Zhu, Kilichbek Haydarov, Xiang Li, Mohamed Elhoseiny .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-283-blue)](https://github.com/vision-cair/chatcaptioner)
+
+---
+
 [**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**](https://arxiv.org/abs/2304.03307) （**2023.04.06**）
 
 
@@ -66,6 +98,22 @@
 
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/tencentarc/taggpt)
+
+---
+
+[**Segment Anything**](https://doi.org/10.48550/arXiv.2304.02643) （**2023.04.05**）
+
+<font color="gray">A. Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-29.5k-blue)](https://github.com/facebookresearch/segment-anything)
+
+---
+
+[**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**](https://doi.org/10.48550/arXiv.2303.16434) （**2023.03.29**）
+
+<font color="gray">Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)
 
 ---
 
@@ -106,6 +154,14 @@
 <font color="gray">Chen Huang, Oier Mees, Andy Zeng, W. Burgard .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions**](https://doi.org/10.48550/arXiv.2303.06594) （**2023.03.12**）
+
+<font color="gray">Deyao Zhu, Jun Chen, Kilichbek Haydarov, Xiaoqian Shen, Wenxuan Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-283-blue)](https://github.com/vision-cair/chatcaptioner)
 
 ---
 
