@@ -20,7 +20,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 |   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
 | ---- | ---- | ----  | ---- | ---- |----|----|
-| OpenAssistant | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | - |-/[Code](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|Apr-27|
+| oasst-sft-6-llama-30b | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | 30 |-/[Code](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|Apr-27|
 | OpenAssistant | Decoder| LAION AI  | [🔗](https://open-assistant.io/chat) | - |[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )/[Code](https://github.com/LAION-AI/Open-Assistant)|Apr-17|
 | GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|Mar-14|
 | OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Code](https://github.com/togethercomputer/OpenChatKit)|Mar-13|
@@ -37,7 +37,7 @@ As resources are limited, we suggest using this playground for learning and prac
 | ERNIE3.0 | Encoder-Decoder | Baidu | [🔗](https://huggingface.co/swtx/ernie-3.0-base-chinese) | 10|[Paper](https://arxiv.org/abs/2112.12731)/-|Dec-21|
 | CodeX | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|Aug-21|
 | GPT-3 | Decoder | OpenAI | [🔗](https://huggingface.co/models?sort=downloads&search=gpt3) | 175|[Paper](https://arxiv.org/abs/2005.14165)/-|May-20|
-| T5 | Encoder-Decoder | Google | [🔗](https://huggingface.co/t5-base)** | 11|[Paper](https://arxiv.org/abs/1910.10683)/-|Oct-19|
+| T5 | Encoder-Decoder | Google | [🔗](https://huggingface.co/t5-base) | 11|[Paper](https://arxiv.org/abs/1910.10683)/-|Oct-19|
 | RoBERTa | Encoder | MetaAI | [🔗](https://huggingface.co/xlm-roberta-base) | 0.355|[Paper](https://arxiv.org/abs/1907.11692)/-|Jul-19|
 | GPT-2 | Decoder| OpenAI | [🔗](https://huggingface.co/openai-gpt) | 1.5|[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)/-|Feb-19|
 | BERT | Encoder | Google | [🔗](https://huggingface.co/bert-base-uncased) | 0.3|[Paper](https://arxiv.org/abs/1810.04805)/-|Oct-18|
