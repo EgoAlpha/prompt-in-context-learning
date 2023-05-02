@@ -9,7 +9,7 @@
 
 <font color="gray">Defeng Xie, Ruichen Wang, Jian Ma, Chen Chen, Haonan Lu, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-50-blue)](https://github.com/defengxie/edit_everything)
 
 ---
 
@@ -17,7 +17,15 @@
 
 <font color="gray">Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+
+---
+
+[**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**](https://arxiv.org/abs/2304.14178) （**2023.04.27**）
+
+<font color="gray">Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-253-blue)](https://github.com/x-plug/mplug-owl)
 
 ---
 
@@ -25,7 +33,7 @@
 
 <font color="gray">Jindong Gu, A. Beirami, Xuezhi Wang, Alex Beutel, Philip H. S. Torr, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
 
 ---
 
@@ -33,7 +41,7 @@
 
 <font color="gray">Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-74-red)  [![](https://img.shields.io/badge/Github%20Stars-2.0k-blue)](https://github.com/haotian-liu/LLaVA)
 
 ---
 
@@ -41,7 +49,7 @@
 
 <font color="gray">Wanrong Zhu, Jack Hessel, Anas Awadalla, S. Gadre, Jesse Dodge, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)  [![](https://img.shields.io/badge/Github%20Stars-517-blue)](https://github.com/allenai/mmc4)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-38-red)  [![](https://img.shields.io/badge/Github%20Stars-655-blue)](https://github.com/allenai/mmc4)
 
 ---
 
@@ -49,7 +57,7 @@
 
 <font color="gray">Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-1.3k-blue)](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-2.2k-blue)](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
 
 ---
 
@@ -65,7 +73,7 @@
 
 <font color="gray">Viet Dac Lai, Nghia Trung Ngo, Amir Pouran Ben Veyseh, Hieu Man, Franck Dernoncourt, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)
 
 ---
 
@@ -73,7 +81,7 @@
 
 <font color="gray">Shuhuai Ren, Aston Zhang, Yi Zhu, Shuai Zhang, Shuai Zheng, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-149-blue)](https://github.com/amazon-science/prompt-pretraining)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-165-blue)](https://github.com/amazon-science/prompt-pretraining)
 
 ---
 
@@ -81,7 +89,7 @@
 
 <font color="gray">Jun Chen, Deyao Zhu, Kilichbek Haydarov, Xiang Li, Mohamed Elhoseiny .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-283-blue)](https://github.com/vision-cair/chatcaptioner)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-290-blue)](https://github.com/vision-cair/chatcaptioner)
 
 ---
 
@@ -89,7 +97,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)  [![](https://img.shields.io/badge/Github%20Stars-12-blue)](https://github.com/talalwasim/vita-clip)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-19-red)  [![](https://img.shields.io/badge/Github%20Stars-25-blue)](https://github.com/talalwasim/vita-clip)
 
 ---
 
@@ -97,7 +105,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/tencentarc/taggpt)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/tencentarc/taggpt)
 
 ---
 
@@ -105,7 +113,7 @@
 
 <font color="gray">A. Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-29.5k-blue)](https://github.com/facebookresearch/segment-anything)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-30.8k-blue)](https://github.com/facebookresearch/segment-anything)
 
 ---
 
@@ -121,7 +129,7 @@
 
 <font color="gray">Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/leomlck/medimp)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
@@ -129,7 +137,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)  [![](https://img.shields.io/badge/Github%20Stars-129-blue)](https://github.com/deeptibhegde/clip-goes-3d)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-25-red)  [![](https://img.shields.io/badge/Github%20Stars-134-blue)](https://github.com/deeptibhegde/clip-goes-3d)
 
 ---
 
@@ -137,7 +145,7 @@
 
 <font color="gray">Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-582-blue)](https://github.com/microsoft/MM-REACT)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-632-blue)](https://github.com/microsoft/MM-REACT)
 
 ---
 
@@ -145,7 +153,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-82-blue)](https://github.com/jiawen-zhu/vipt)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)  [![](https://img.shields.io/badge/Github%20Stars-95-blue)](https://github.com/jiawen-zhu/vipt)
 
 ---
 
@@ -161,7 +169,7 @@
 
 <font color="gray">Deyao Zhu, Jun Chen, Kilichbek Haydarov, Xiaoqian Shen, Wenxuan Zhang, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-283-blue)](https://github.com/vision-cair/chatcaptioner)
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-289-blue)](https://github.com/vision-cair/chatcaptioner)
 
 ---
 
@@ -169,7 +177,7 @@
 
 <font color="gray">Chenfei Wu, Sheng-Kai Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-315-red)  [![](https://img.shields.io/badge/Github%20Stars-31.6k-blue)](https://github.com/microsoft/visual-chatgpt)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-331-red)  [![](https://img.shields.io/badge/Github%20Stars-32.3k-blue)](https://github.com/microsoft/visual-chatgpt)
 
 ---
 
@@ -185,7 +193,7 @@
 
 <font color="gray">Zhen Wang, R. Panda, Leonid Karlinsky, R. Feris, Huan Sun, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-30-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-35-red)
 
 ---
 
@@ -193,7 +201,7 @@
 
 <font color="gray">Yi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu, Chen-Yu Lee .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-41-blue)](https://github.com/yilunlee/missing_aware_prompts)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-48-blue)](https://github.com/yilunlee/missing_aware_prompts)
 
 ---
 
@@ -201,7 +209,7 @@
 
 <font color="gray">Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, G. Karypis, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.2k-blue)](https://github.com/amazon-science/mm-cot)
+![](https://img.shields.io/badge/Citations-6-green)  [![](https://img.shields.io/badge/Github%20Stars-3.3k-blue)](https://github.com/amazon-science/mm-cot)
 
 ---
 
@@ -225,7 +233,7 @@
 
 <font color="gray">Yunfan Jiang, Agrim Gupta, Zichen Zhang, Guanzhi Wang, Yongqiang Dou, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-82-blue)](https://github.com/vimalabs/VIMABench)
+![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-88-blue)](https://github.com/vimalabs/VIMABench)
 
 ---
 
@@ -233,7 +241,7 @@
 
 <font color="gray">Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu </font>
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-441-red)  [![](https://img.shields.io/badge/Github%20Stars-859-blue)](https://github.com/kaiyangzhou/coop)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-459-red)  [![](https://img.shields.io/badge/Github%20Stars-893-blue)](https://github.com/kaiyangzhou/coop)
 
 ---
 
@@ -241,7 +249,7 @@
 
 <font color="gray">Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, S. Belongie, etc .  - 【European Conference on Computer Vision】</font>
 
-![](https://img.shields.io/badge/Citations-104-green)  [![](https://img.shields.io/badge/Github%20Stars-445-blue)](https://github.com/KMnP/vpt)
+![](https://img.shields.io/badge/Citations-104-green)  [![](https://img.shields.io/badge/Github%20Stars-483-blue)](https://github.com/KMnP/vpt)
 
 ---
 
@@ -249,7 +257,7 @@
 
 <font color="gray">Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. Eslami, Oriol Vinyals, etc .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-418-red)
+![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-423-red)
 
 ---
 
