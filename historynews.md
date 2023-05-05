@@ -4,6 +4,38 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.5.5]** 
+- Paper: [Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)
+
+**[2023.5.4]**
+- Paper: [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301.pdf)
+
+**[2023.5.3]**
+- Paper:[Transfer Visual Prompt Generator across LLMs](https://arxiv.org/pdf/2305.01278.pdf)
+
+**[2023.5.2]** 
+- Customize your own LLMs, stop prompt-tunning: [Lamini](https://lamini.ai/)
+
+- Paper: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/pdf/2305.01625.pdf)
+
+**[2023.5.1]**
+- Paper: [mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://arxiv.org/pdf/2304.14178.pdf)
+
+**[2023.4.30]** 
+- Paper: [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+
+**[2023.4.29]**
+- Paper: [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/pdf/2304.11477.pdf)
+
+**[2023.4.28]**
+
+- Paper: [Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System](https://arxiv.org/pdf/2304.13343.pdf)
+
+**[2023.4.27]** 
+- AudioGPT: [[Project Page](https://github.com/AIGC-Audio/AudioGPT)/[Paper](https://arxiv.org/pdf/2304.12995.pdf)]
+
+- Paper:[Answering Questions by Meta-Reasoning over Multiple Chains of Thought](https://arxiv.org/pdf/2304.13007.pdf)
+
 **[2023.4.26]** 
 - Paper: [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
 
