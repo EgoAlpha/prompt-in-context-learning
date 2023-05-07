@@ -4,6 +4,16 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.5.7]**
+- Paper: [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/pdf/2305.03047.pdf)
+    
+**[2023.5.6]**
+- [IFLYTEK officially releases the LLM named SparkDesk](https://xinghuo.xfyun.cn/)
+
+- OpenAI release the language-to-3D model: Shape.E ([Paper](https://arxiv.org/pdf/2305.02463.pdf)/[Project Page](https://github.com/openai/shap-e))
+
+- Paper: [Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks](https://arxiv.org/abs/2304.14732)
+    
 **[2023.5.5]** 
 - Paper: [Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)
 
@@ -12,6 +22,7 @@
 
 **[2023.5.3]**
 - Paper:[Transfer Visual Prompt Generator across LLMs](https://arxiv.org/pdf/2305.01278.pdf)
+
 
 **[2023.5.2]** 
 - Customize your own LLMs, stop prompt-tunning: [Lamini](https://lamini.ai/)
