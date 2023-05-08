@@ -1,6 +1,6 @@
 # 🌋 ChatGPT Prompt <a href="./chatgptprompt_zh.md">👉简体中文👈</a>
 
-## ChatGPT is truly amazing! It's a total game changer that can revolutionize the way we live and work. It has the power to help us study, assist in our work, and enrich our experience. Let's harness the potential of ChatGPT and unlock our fullest potential!
+## ChatGPT is truly amazing! It's a total game changer that can revolutionize the way we live and work. It has the power to help us study, assist in our work, and enrich our experience,etc.. Let's harness the potential of ChatGPT and unlock our fullest potential!
 
 > **[Caution](#🌋-chatgpt-prompt)**: ChatGPT may generate incorrect, harmful or biased information. While ChatGPT may not be perfect, it is undoubtedly a highly useful tool. ChatGPT can provide us with a great starting point, making it easier for us to overcome challenges and ensuring we don't feel alone in our journey.
 
