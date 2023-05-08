@@ -304,4 +304,4 @@ Weight: {{ Weight:}}   Body fat rate: {{ Body fat rate }}%```
    - 👁️ **[Prompt example]**:```Can you provide me with the nutritional information for a recipe that includes {{chicken, brown rice, and mixed vegetables}}? Please include calorie count, macronutrient breakdown, and any allergen warnings.```
 - **Ingredient substitutions:**:If you're missing a particular ingredient, Chat GPT can suggest substitutes that can be used instead. This can be useful in a pinch or for accommodating dietary restrictions.
    - 👁️ **[Prompt example]**:```I don't have any {{eggs}} in my kitchen. Can you suggest a substitute for eggs in {{baking}}?```
-
+> If you are interested in more content of this project, you can refer to the English homepage [README.md](./README.md)
