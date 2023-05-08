@@ -6,7 +6,7 @@
 
 ## 🗻 Let's embark on a magical journey to become super learners!💪
 
-## catalog
+## CATALOG
 
 - [Help us study](#help-us-study)
     - [Reading and writing](#reading-and-writing)
