@@ -1,0 +1,4 @@
+Flight Information:
+- Roundtrip flight to China: $892
+- Departure date: May 1, 2023
+- Return date: May 31, 2023

@@ -1,0 +1,14 @@
+Accommodation: $80 per day; Transportation: $3 per day; Food: $30 per day
+
+Flight Information:
+Airline: Delta
+Flight Number: DL123
+Departure Date: 05/01/2023
+Departure Time: 10:00 AM
+Arrival Date: 05/02/2023
+Arrival Time: 2:00 PM
+
+Booking Information:
+Accommodation: Booking.com
+Transportation: China Highlights
+Flight: Expedia

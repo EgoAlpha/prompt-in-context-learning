@@ -1,0 +1,12 @@
+{
+    "input_variables": [
+        "adjective",
+        "content"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Tell me a {adjective} joke about {content}.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

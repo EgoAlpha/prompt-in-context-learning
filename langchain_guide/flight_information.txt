@@ -1,0 +1,10 @@
+Flight Information:
+
+Airline: Delta
+Flight Number: DL123
+Departure Date: May 1, 2023
+Departure Time: 10:00 AM
+Arrival Date: May 2, 2023
+Arrival Time: 2:00 PM
+
+Total Cost: $892

@@ -718,6 +718,12 @@ If you find our work helps, please star our project and cite our paper. Thanks a
 
 <!-- <img width="200%" src="./figures/hr.gif" /> -->
 
+# 💡 LLM Usage
+
+How can LLM be built using programming? How can it be used and deployed in your own programs? Click [here](./langchain_guide/LangChainTutorial.ipynb) to take a quick tour of getting started with LLM.
+
+<img width="200%" src="./figures/hr.gif" />
+
 # ✉️ Contact
 
 This repo is maintained by [EgoAlpha Lab](https://github.com/EgoAlpha). Questions and discussions are welcome via `helloegoalpha@gmail.com`.

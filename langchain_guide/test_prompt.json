@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "input"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "{input}, tell me the answer by using Chinese.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
