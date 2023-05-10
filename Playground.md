@@ -1,6 +1,14 @@
 # 🔥 Playground
 > **Prompt Engineering aims to carefully curate input prompts that can extract the best possible results from Large language models(LLMs).** 
 
+<div align="center">
+
+
+<img src="./figures/TrustGPT.png" width="600px">
+
+<div align="center">
+</div>
+
 🌟 [TrustGPT](https://trustgpt.co/trust/index.html) can also serve as a playground for everyone's convenience to learn and practice advanced prompt techniques. You can also commit your issues from TrustGPT to this repo page. Thanks a lot.
 
 We will gradually release the following features: 
