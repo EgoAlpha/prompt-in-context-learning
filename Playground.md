@@ -1,7 +1,7 @@
 # 🔥 Playground
 > **Prompt Engineering aims to carefully curate input prompts that can extract the best possible results from Large language models(LLMs).** 
 
-<div align="left">
+<div align="center">
 <img src="./figures/TrustGPT.png" width="600px">
 </div>
 
