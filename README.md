@@ -719,8 +719,14 @@ If you find our work helps, please star our project and cite our paper. Thanks a
 <!-- <img width="200%" src="./figures/hr.gif" /> -->
 
 # 💡 LLM Usage
+Large language models (LLMs) are becoming a revolutionary technology that is shaping the development of our era. Developers can create applications that were previously only possible in our imaginations by building LLMs. However, using these LLMs often comes with certain technical barriers, and even at the introductory stage, people may be intimidated by cutting-edge technology: Do you have any questions like the following?
 
-How can LLM be built using programming? How can it be used and deployed in your own programs? Click [here](./langchain_guide/LangChainTutorial.ipynb) to take a quick tour of getting started with LLM.
+- How can LLM be built using programming? 
+- How can it be used and deployed in your own programs? 
+
+if there was a tutorial that could be accessible to all audiences, not just computer science professionals, it would provide detailed and comprehensive guidance to quickly get started and operate in a short amount of time, ultimately achieving the goal of being able to use LLMs flexibly and creatively to build the programs they envision. And now, just for you: the most detailed and comprehensive Langchain beginner's guide, sourced from the official langchain website but with further adjustments to the content, accompanied by the most detailed and annotated code examples, teaching code lines by line and sentence by sentence to all audiences.
+
+Click 👉[here](./langchain_guide/LangChainTutorial.ipynb)👈 to take a quick tour of getting started with LLM.
 
 <img width="200%" src="./figures/hr.gif" />
 
