@@ -76,7 +76,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.5.14]**
     - Paper: [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301v1.pdf)
-    
+
 - **[2023.5.13]**
     - Paper: [VPGTrans: Transfer Visual Prompt Generator across LLMs](https://arxiv.org/pdf/2305.01278.pdf)
 
@@ -106,37 +106,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
     - PandaLM: the first large model for automated evaluation.([Code](https://github.com/WeOpenML/PandaLM))
     
     - Paper:[AutoML-GPT: Automatic Machine Learning with GPT](https://arxiv.org/abs/2305.02499)
-    
-- **[2023.5.7]**
-    - Paper: [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/pdf/2305.03047.pdf)
-    
-- **[2023.5.6]**
-    - [IFLYTEK officially releases the LLM named SparkDesk](https://xinghuo.xfyun.cn/)
-
-    - OpenAI release the language-to-3D model: Shape.E ([Paper](https://arxiv.org/pdf/2305.02463.pdf)/[Project Page](https://github.com/openai/shap-e))
-
-    - Paper: [Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks](https://arxiv.org/abs/2304.14732)
-    
-- **[2023.5.5]** 
-    - Paper: [Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)
-
-- **[2023.5.4]**
-    - Paper: [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301.pdf)
-
-- **[2023.5.3]**
-    - Paper:[Transfer Visual Prompt Generator across LLMs](https://arxiv.org/pdf/2305.01278.pdf)
-
-- **[2023.5.2]** 
-    - Customize your own LLMs, stop prompt-tunning: [Lamini](https://lamini.ai/)
-
-    - Paper: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/pdf/2305.01625.pdf)
-
-- **[2023.5.1]**
-    - Paper: [mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://arxiv.org/pdf/2304.14178.pdf)
-
-- **[2023.4.30]** 
-    - Paper: [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
-
 
 [👉 Complete history news 👈](./historynews.md)
 

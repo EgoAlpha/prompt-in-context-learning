@@ -4,6 +4,39 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.5.14]**
+- Paper: [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301v1.pdf)
+
+**[2023.5.13]**
+- Paper: [VPGTrans: Transfer Visual Prompt Generator across LLMs](https://arxiv.org/pdf/2305.01278.pdf)
+
+**[2023.5.12]**
+- Paper: [Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?](https://arxiv.org/abs/2301.00184)
+    
+**[2023.5.11]**
+- Google has released PaLM 2, which improves multiple abilities and offers four versions for selection. ([Paper](https://event-cdn.baai.ac.cn/file/file-browser/KDtjMkep6E6n5XjRNJjknjewCF7Pcebx.pdf)/[Page](https://makersuite.google.com/waitlist ))
+- [The open-source healthcare large language model NHS-LLM and OpenGPT.](https://github.com/CogStack/opengpt)
+
+- Paper: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
+
+**[2023.5.10]** 
+- DetGPT: Detect What You Need via Reasoning ([Code](https://github.com/OptimalScale/DetGPT)/[Demo](https://detgpt.github.io/))
+
+- Meta releases a large-scale model called ImageBind that can traverse six senses, and it is now open-source. ([Paper](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)/[Code](https://github.com/facebookresearch/ImageBind))
+
+- [HuoTuo: Open Source Chinese Medical Large Model of Harbin Institute of Technology](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
+
+- Paper: [X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages](https://arxiv.org/pdf/2305.04160.pdf)
+
+**[2023.5.9]**
+
+- Paper: [Transfer Visual Prompt Generator across LLMs](https://arxiv.org/abs/2305.01278) 【[Code](https://github.com/VPGTrans/VPGTrans)】
+
+**[2023.5.8]**
+- PandaLM: the first large model for automated evaluation.([Code](https://github.com/WeOpenML/PandaLM))
+    
+- Paper:[AutoML-GPT: Automatic Machine Learning with GPT](https://arxiv.org/abs/2305.02499)
+
 **[2023.5.7]**
 - Paper: [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/pdf/2305.03047.pdf)
     
