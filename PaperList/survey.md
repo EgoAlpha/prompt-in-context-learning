@@ -5,11 +5,19 @@
 <div style="line-height:0.2em;">
 
 
+[**Prompt Engineering for Healthcare: Methodologies and Applications**](https://doi.org/10.48550/arXiv.2304.14670) （**2023.04.28**）
+
+<font color="gray">Jiaqi Wang, Enze Shi, Sigang Yu, Zihao Wu, Chong Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**](https://arxiv.org/abs/2304.13712) （**2023.04.26**）
 
 <font color="gray">Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-59-red)  [![](https://img.shields.io/badge/Github%20Stars-1.8k-blue)](https://github.com/mooler0410/llmspracticalguide)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-149-red)  [![](https://img.shields.io/badge/Github%20Stars-3.7k-blue)](https://github.com/mooler0410/llmspracticalguide)
 
 ---
 
@@ -17,7 +25,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-353-red)  [![](https://img.shields.io/badge/Github%20Stars-1.0k-blue)](https://github.com/rucaibox/llmsurvey)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-438-red)  [![](https://img.shields.io/badge/Github%20Stars-1.9k-blue)](https://github.com/rucaibox/llmsurvey)
 
 ---
 
@@ -41,7 +49,7 @@
 
 <font color="gray">Jie Huang, K. Chang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-257-blue)](https://github.com/jeffhj/lm-reasoning)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-285-blue)](https://github.com/jeffhj/lm-reasoning)
 
 ---
 
@@ -49,7 +57,7 @@
 
 <font color="gray">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-292-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-352-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
 ---
 
@@ -65,7 +73,7 @@
 
 <font color="gray">Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, etc .  - 【ACM Computing Surveys】</font>
 
-![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.5k-red)  [![](https://img.shields.io/badge/Github%20Stars-190-blue)](https://github.com/mingkaid/rl-prompt)
+![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.5k-red)  [![](https://img.shields.io/badge/Github%20Stars-194-blue)](https://github.com/mingkaid/rl-prompt)
 
 
 </div>
