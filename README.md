@@ -76,6 +76,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.5.19]**
     - [OpenAI introducing the ChatGPT APP for IOS](https://apps.apple.com/app/openai-chatgpt/id6448311069)
+    - Paper: [VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/abs/2305.11175)
     
 - **[2023.5.18]**
     - Paper: [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/pdf/2305.09645.pdf)
