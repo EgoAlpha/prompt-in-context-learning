@@ -59,7 +59,7 @@ Your task is to rewrite the paragraph in asked formats :
 Please Bold each with big title and use format word number wise before each.
 Just take the best action you can. 
 The paragraph for this task is: 
-{{enter your paragraph}}```
+{enter your paragraph}```
 - **One-click generation of telegram channels/WeChat circle of friends**:Chat GPT can automatically generate an appropriate-length Telegram channel or WeChat Moments update based on the content entered by the user, including appropriate emotional tendencies, keywords, and emoticons to attract readers' attention and get more interactions.
    - 👁️ **[Prompt example]**:```Write an article for the channel’s Telegram/WeChat circle of friends and shorten the characters to within 4096, use a lot appropriate emoji, try to be objective and positive, and appropriately contain ridicule and self-deprecating content. 
 The theme is:{{ Enter your content topic}}```
