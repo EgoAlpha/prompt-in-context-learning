@@ -20,34 +20,32 @@ As resources are limited, we suggest using this playground for learning and prac
 <img width="200%" src="./figures/hr.gif" />
 
 
-### 🤩 *The models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience.*
+### 🤩 *These models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience. The Checkpoints can also obtained by corresponding links.*
 
-|   Model  | Type | Lab | Playgrounds| Parameters(B) |Paper/Code|Announced Time|
-| ---- | ---- | ----  | ---- | ---- |----|----|
-| oasst-sft-6-llama-30b | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | 30 |-/[Code](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|Apr-27|
-| OpenAssistant | Decoder| LAION AI  | [🔗](https://open-assistant.io/chat) | - |[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )/[Code](https://github.com/LAION-AI/Open-Assistant)|Apr-17|
-| GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|Mar-14|
-| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Code](https://github.com/togethercomputer/OpenChatKit)|Mar-13|
-| Alpaca | Decoder| Stanford | [🔗](https://alpaca-ai-custom1.ngrok.io/) | 7 |-/[Code](https://github.com/tatsu-lab/stanford_alpaca)|Mar-13|
-| ChatGPT | Decoder| OpenAI | [🔗](https://platform.openai.com/playground) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|Nov-22|
-| GPT-JT | Decoder | Together | [🔗](https://huggingface.co/spaces/togethercomputer/GPT-JT) | 6 |-/[Code](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)|Nov-22|
-| Flan-T5 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-t5-xxl?text=Please+answer+the+following+question+What+is+the+boiling+point+of+Nitrogen%3F) | 11|[Paper](https://arxiv.org/abs/2210.11416)/[Code](https://huggingface.co/google/flan-t5-xxl/tree/main)|Oct-22|
-| Flan-UL2 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-ul2#citation) | 20|[Paper](https://arxiv.org/pdf/2205.05131v1.pdf)/[Code](https://github.com/google-research/google-research/tree/master/ul2)|Oct-22|
-| CodeGeeX | Decoder | Tsinghua | [🔗](https://huggingface.co/spaces/THUDM/CodeGeeX) | 13 | -/[Code](https://github.com/THUDM/CodeGeeX)|Sep-22|
-| GLM-130B | Encoder-Decoder | Tsinghua & Zhipu | [🔗](https://huggingface.co/spaces/THUDM/GLM-130B) | 130 |[Paper](https://arxiv.org/abs/2210.02414)/[Code](https://huggingface.co/spaces/THUDM/GLM-130B)|Aug-22|
-| BLOOM(tr11-176B-ml) | Decoder | BigScience | [🔗](https://huggingface.co/spaces/huggingface/bloom_demo) | 176|-/[Code](https://github.com/bigscience-workshop/bigscience/tree/master/train/tr11-176B-ml)|Jul-22|
-| PaLM | Decoder | Google Research | [🔗](https://cloud.google.com/vertex-ai) | 540|[Paper](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)/-|Apr-22|
-| CodeT5 | Encoder-Decoder | Salesforce Research Asia | [🔗](https://huggingface.co/Salesforce/codet5-base) | small:0.06,base:0.22|[Paper](https://arxiv.org/abs/2109.00859)/-|Mar-22|
-| ERNIE3.0 | Encoder-Decoder | Baidu | [🔗](https://huggingface.co/swtx/ernie-3.0-base-chinese) | 10|[Paper](https://arxiv.org/abs/2112.12731)/-|Dec-21|
-| CodeX | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|Aug-21|
-| GPT-3 | Decoder | OpenAI | [🔗](https://huggingface.co/models?sort=downloads&search=gpt3) | 175|[Paper](https://arxiv.org/abs/2005.14165)/-|May-20|
-| T5 | Encoder-Decoder | Google | [🔗](https://huggingface.co/t5-base) | 11|[Paper](https://arxiv.org/abs/1910.10683)/-|Oct-19|
-| RoBERTa | Encoder | MetaAI | [🔗](https://huggingface.co/xlm-roberta-base) | 0.355|[Paper](https://arxiv.org/abs/1907.11692)/-|Jul-19|
-| GPT-2 | Decoder| OpenAI | [🔗](https://huggingface.co/openai-gpt) | 1.5|[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)/-|Feb-19|
-| BERT | Encoder | Google | [🔗](https://huggingface.co/bert-base-uncased) | 0.3|[Paper](https://arxiv.org/abs/1810.04805)/-|Oct-18|
-| GPT-1 | Decoder| OpenAI | [🔗](https://huggingface.co/models) | 0.117|[Paper](https://gwern.net/doc/www/s3-us-west-2.amazonaws.com/d73fdc5ffa8627bce44dcda2fc012da638ffb158.pdf)/-|Jun-18|
-
-
+|   Model  | Type | Lab | Playgrounds| Parameters(B) | Paper/Github | Checkpoints |Announced Time|
+| ---- | ---- | ----  | ---- | ----|---- |----|----|
+| oasst-sft-6-llama-30b | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | 30 |-/[Github](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|[📦]()|Apr-27|
+| OpenAssistant | Decoder| LAION AI  | [🔗](https://open-assistant.io/chat) | - |[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )/[Github](https://github.com/LAION-AI/Open-Assistant)|[📦]()|Apr-17|
+| GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|[📦]()|Mar-14|
+| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Github](https://github.com/togethercomputer/OpenChatKit)|[📦]()|Mar-13|
+| Alpaca | Decoder| Stanford | [🔗](https://alpaca-ai-custom1.ngrok.io/) | 7 |-/[Github](https://github.com/tatsu-lab/stanford_alpaca)|[📦]()|Mar-13|
+| ChatGPT | Decoder| OpenAI | [🔗](https://platform.openai.com/playground) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|[📦]()|Nov-22|
+| GPT-JT | Decoder | Together | [🔗](https://huggingface.co/spaces/togethercomputer/GPT-JT) | 6 |-/[Github](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)|[📦]()|Nov-22|
+| Flan-T5 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-t5-xxl?text=Please+answer+the+following+question+What+is+the+boiling+point+of+Nitrogen%3F) | 11|[Paper](https://arxiv.org/abs/2210.11416)/[Github](https://huggingface.co/google/flan-t5-xxl/tree/main)|[📦](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)|Oct-22|
+| Flan-UL2 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-ul2#citation) | 20|[Paper](https://arxiv.org/pdf/2205.05131v1.pdf)/[Github](https://github.com/google-research/google-research/tree/master/ul2)|[📦](https://github.com/google-research/google-research/tree/master/ul2#checkpoints)|Oct-22|
+| CodeGeeX | Decoder | Tsinghua | [🔗](https://huggingface.co/spaces/THUDM/CodeGeeX) | 13 | -/[Github](https://github.com/THUDM/CodeGeeX)|[📦]()|Sep-22|
+| GLM-130B | Encoder-Decoder | Tsinghua & Zhipu | [🔗](https://huggingface.co/spaces/THUDM/GLM-130B) | 130 |[Paper](https://arxiv.org/abs/2210.02414)/[Github](https://huggingface.co/spaces/THUDM/GLM-130B)|[📦]()|Aug-22|
+| BLOOM(tr11-176B-ml) | Decoder | BigScience | [🔗](https://huggingface.co/spaces/huggingface/bloom_demo) | 176|-/[Github](https://github.com/bigscience-workshop/bigscience/tree/master/train/tr11-176B-ml)|[📦]()|Jul-22|
+| PaLM | Decoder | Google Research | [🔗](https://cloud.google.com/vertex-ai) | 540|[Paper](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)/-|[📦]()|Apr-22|
+| CodeT5 | Encoder-Decoder | Salesforce Research Asia | [🔗](https://huggingface.co/Salesforce/codet5-base) | small:0.06,base:0.22|[Paper](https://arxiv.org/abs/2109.00859)/-|[📦]()|Mar-22|
+| ERNIE3.0 | Encoder-Decoder | Baidu | [🔗](https://huggingface.co/swtx/ernie-3.0-base-chinese) | 10|[Paper](https://arxiv.org/abs/2112.12731)/-|[📦]()|Dec-21|
+| CodeX | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|[📦]()|Aug-21|
+| GPT-3 | Decoder | OpenAI | [🔗](https://huggingface.co/models?sort=downloads&search=gpt3) | 175|[Paper](https://arxiv.org/abs/2005.14165)/-|[📦]()|May-20|
+| T5 | Encoder-Decoder | Google | [🔗](https://huggingface.co/t5-base) | 11|[Paper](https://arxiv.org/abs/1910.10683)/-|[📦]()|Oct-19|
+| RoBERTa | Encoder | MetaAI | [🔗](https://huggingface.co/xlm-roberta-base) | 0.355|[Paper](https://arxiv.org/abs/1907.11692)/-|[📦]()|Jul-19|
+| GPT-2 | Decoder| OpenAI | [🔗](https://huggingface.co/openai-gpt) | 1.5|[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)/-|[📦]()|Feb-19|
+| BERT | Encoder | Google | [🔗](https://huggingface.co/bert-base-uncased) | 0.3|[Paper](https://arxiv.org/abs/1810.04805)/-|[📦]()|Oct-18|
+| GPT-1 | Decoder| OpenAI | [🔗](https://huggingface.co/models) | 0.117|[Paper](https://gwern.net/doc/www/s3-us-west-2.amazonaws.com/d73fdc5ffa8627bce44dcda2fc012da638ffb158.pdf)/-|[📦]()|Jun-18|
 
 <img width="200%" src="./figures/hr.gif" />
 
