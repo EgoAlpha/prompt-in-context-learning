@@ -76,7 +76,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.5.23]**
     - Paper:[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
-    
+    - Paper: [PointGPT: Auto-regressively GenerativePre-training from Point Clouds](https://arxiv.org/pdf/2305.11487.pdf)
 - **[2023.5.22]**
     - Paper: [Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability](https://arxiv.org/abs/2305.10266)
     
