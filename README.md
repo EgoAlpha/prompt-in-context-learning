@@ -31,7 +31,8 @@
   <a href="#📜-papers">📝 Papers</a> |
   <a href="./Playground.md">⚡️  Playground</a> |
   <a href="./PromptEngineering.md">🛠 Prompt Engineering</a> |
-  <a href="./chatgptprompt.md">🌍 ChatGPT Prompt</a> 
+  <a href="./chatgptprompt.md">🌍 ChatGPT Prompt</a> ｜
+  <a href="./langchain_guide/LangChainTutorial.ipynb">⛳ LLMs Usage Guide</a> 
 
 </p>
 
@@ -41,7 +42,7 @@
 
 <!-- ![Build](https://img.shields.io/appveyor/build/gruntjs/grunt) -->
 
-![version](https://img.shields.io/badge/version-v1.0.0-blue)
+![version](https://img.shields.io/badge/version-v2.0.0-yellow)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
@@ -59,6 +60,8 @@ The resources include:
 *🎉[Prompt Engineering](./PromptEngineering.md)🎉*: Prompt techniques for leveraging large language models. 
 
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
+
+*🎉[LLMs Usage Guide](./chatgptprompt.md)🎉*: The method for quickly getting started with large language models by using LangChain.
 
 In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): 
 - Those who enhance their abilities through the use of AI; 
