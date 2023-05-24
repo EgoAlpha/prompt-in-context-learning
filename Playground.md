@@ -22,13 +22,18 @@ As resources are limited, we suggest using this playground for learning and prac
 
 ### 🤩 *These models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience. The Checkpoints can also obtained by corresponding links.*
 
-|   Model  | Type | Lab | Playgrounds| Parameters(B) | Paper/Github | Checkpoints |Announced Time|
+|   Model  | Type | Lab | Playgrounds| Parameters(B) | Blog/Paper/Github | Checkpoints |Announced Time|
 | ---- | ---- | ----  | ---- | ----|---- |----|----|
-| oasst-sft-6-llama-30b | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | 30 |-/[Github](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|[📦]()|Apr-27|
-| OpenAssistant | Decoder| LAION AI  | [🔗](https://open-assistant.io/chat) | - |[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )/[Github](https://github.com/LAION-AI/Open-Assistant)|[📦]()|Apr-17|
-| GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|[📦]()|Mar-14|
-| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Github](https://github.com/togethercomputer/OpenChatKit)|[📦]()|Mar-13|
-| Alpaca | Decoder| Stanford | [🔗](https://alpaca-ai-custom1.ngrok.io/) | 7 |-/[Github](https://github.com/tatsu-lab/stanford_alpaca)|[📦]()|Mar-13|
+| GPT-J-6B | Decoder| EleutherAI | [🔗](https://github.com/EleutherAI/pythia) | 6 |[Blog](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/)|[GPT-J-6B](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b), [GPT4All-J](https://github.com/nomic-ai/gpt4all#raw-model)|Jun-23|
+| DLite | Decoder| EleutherAI | [🔗](https://github.com/EleutherAI/pythia) | 0.124-1.5 |[Blog](https://medium.com/ai-squared/announcing-dlite-v2-lightweight-open-llms-that-can-run-anywhere-a852e5978c6e)|[dlite-v2-1_5b](https://huggingface.co/aisquared/dlite-v2-1_5b)|May-23|
+| Dolly | Decoder| EleutherAI | [🔗](https://github.com/EleutherAI/pythia) | 3,7,12 |[Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)/[Github]((https://github.com/databrickslabs/dolly#dolly))|[dolly-v2-12b](https://huggingface.co/databricks/dolly-v2-12b)|Apr-23|
+| Pythia | Decoder| EleutherAI | [🔗](https://github.com/EleutherAI/pythia) | 0.07-12 |[Paper](https://arxiv.org/abs/2304.01373)/[Github](https://github.com/EleutherAI/pythia)|[pythia 70M - 12B](https://github.com/EleutherAI/pythia)|Apr-23|
+| oasst-sft-6-llama-30b | Decoder| HuggingFace | [🔗](https://huggingface.co/chat/) | 30 |[Github](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)|[📦]()|Apr-23|
+| Cerebras-GPT | Decoder| HuggingFace | [🔗](https://huggingface.co/cerebras/) | 0.111-13 |[Paper](https://arxiv.org/abs/2304.03208)|[Cerebras-GPT: A Family of Open, Compute-efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)|Mar-23|
+| OpenAssistant(Pythia family) | Decoder| LAION AI  | [🔗](https://open-assistant.io/chat) | 12 |[Paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )/[Github](https://github.com/LAION-AI/Open-Assistant)|[OA-Pythia-12B-SFT-8](https://huggingface.co/OpenAssistant/pythia-12b-sft-v8-7k-steps), [OA-Pythia-12B-SFT-4](https://huggingface.co/OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5), [OA-Pythia-12B-SFT-1](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b)|Apr-23|
+| GPT-4 | Decoder| OpenAI | [🔗](https://openai.com/waitlist/gpt-4-api) | 20 |[Paper](https://cdn.openai.com/papers/gpt-4.pdf)/-|[📦]()|Mar-23|
+| OpenChatKit | Decoder| Together | [🔗](https://huggingface.co/spaces/togethercomputer/OpenChatKit) | 20 |-/[Github](https://github.com/togethercomputer/OpenChatKit)|[📦]()|Mar-23|
+| Alpaca | Decoder| Stanford | [🔗](https://alpaca-ai-custom1.ngrok.io/) | 7 |-/[Github](https://github.com/tatsu-lab/stanford_alpaca)|[📦]()|Mar-23|
 | ChatGPT | Decoder| OpenAI | [🔗](https://platform.openai.com/playground) | 175 |[Paper](https://arxiv.org/abs/2005.14165)/-|[📦]()|Nov-22|
 | GPT-JT | Decoder | Together | [🔗](https://huggingface.co/spaces/togethercomputer/GPT-JT) | 6 |-/[Github](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)|[📦]()|Nov-22|
 | Flan-T5 | Encoder-Decoder | Google Research | [🔗](https://huggingface.co/google/flan-t5-xxl?text=Please+answer+the+following+question+What+is+the+boiling+point+of+Nitrogen%3F) | 11|[Paper](https://arxiv.org/abs/2210.11416)/[Github](https://huggingface.co/google/flan-t5-xxl/tree/main)|[📦](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)|Oct-22|
@@ -40,6 +45,7 @@ As resources are limited, we suggest using this playground for learning and prac
 | CodeT5 | Encoder-Decoder | Salesforce Research Asia | [🔗](https://huggingface.co/Salesforce/codet5-base) | small:0.06,base:0.22|[Paper](https://arxiv.org/abs/2109.00859)/-|[📦]()|Mar-22|
 | ERNIE3.0 | Encoder-Decoder | Baidu | [🔗](https://huggingface.co/swtx/ernie-3.0-base-chinese) | 10|[Paper](https://arxiv.org/abs/2112.12731)/-|[📦]()|Dec-21|
 | CodeX | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 12|[Paper](https://arxiv.org/abs/2107.03374)/-|[📦]()|Aug-21|
+| RWKV | Decoder | OpenAI | [🔗](https://platform.openai.com/playground) | 0.1-14|[Github](https://github.com/BlinkDL/RWKV-LM) |[RWKV, ChatRWKV](https://github.com/BlinkDL/RWKV-LM#rwkv-parallelizable-rnn-with-transformer-level-llm-performance-pronounced-as-rwakuv-from-4-major-params-r-w-k-v)|Aug-21|
 | GPT-3 | Decoder | OpenAI | [🔗](https://huggingface.co/models?sort=downloads&search=gpt3) | 175|[Paper](https://arxiv.org/abs/2005.14165)/-|[📦]()|May-20|
 | T5 | Encoder-Decoder | Google | [🔗](https://huggingface.co/t5-base) | 11|[Paper](https://arxiv.org/abs/1910.10683)/-|[📦]()|Oct-19|
 | RoBERTa | Encoder | MetaAI | [🔗](https://huggingface.co/xlm-roberta-base) | 0.355|[Paper](https://arxiv.org/abs/1907.11692)/-|[📦]()|Jul-19|
