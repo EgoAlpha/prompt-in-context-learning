@@ -65,7 +65,7 @@ As resources are limited, we suggest using this playground for learning and prac
 ## 🤨 *The models in the table below all provide pre-trained weights on which developers can fine-tune (without changing the original backbone architecture), and people can visually see the work of a good team of researchers by using the pre-trained weights of the models directly for a good Demo.*
 
 | Model  | Type | Lab | Github| Params(B) |Paper/Code|Announced Time|
-| ---- | ---- | ----  | ---- | ---- |----|----|
+| :----: | :----: | :----:  | :----: | :----: |:----:|:----:|
 | LLaMA-65B| Decoder | MetaAI | [🔗](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) | 65|[Paper](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=4srK2r5szdYAX8tuGSV&_nc_ht=scontent-hkg4-1.xx&oh=00_AfAUdcLc_-aVJHTm60I_1mIOLIEcecJ1N9s8-G4drVrd3Q&oe=6409B2E2)/[Code](https://github.com/facebookresearch/llama)|Feb-23|
 | OPT-IML | Decoder| MetaAI | [🔗](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML) | 175|[Paper](https://arxiv.org/pdf/2212.12017.pdf)/-|Dec-22|
 | ERNIE-Code | Encoder-Decoder | Baidu | [🔗](https://github.com/thunlp/ERNIE) | 0.56|[Paper](https://arxiv.org/abs/2212.06742#baidu)/-|Dec-22|
@@ -82,7 +82,7 @@ As resources are limited, we suggest using this playground for learning and prac
 ## 😣 *The following table show that the related models and codes are not open-source till now.*
 
 | Model  | Type | Lab | Report| Params(B) |Paper/Code|Announced Time|
-| ---- | ---- | ----  | ---- | ---- |----|----|
+| :----: | :----: | :----:| :----: | :----: |:----:|:----:|
 | Med-PaLM | Encoder | Google & DeepMind | [🔗](https://gpt3demo.com/apps/med-palm) | 540|[Paper](https://arxiv.org/abs/2212.13138)/-|Dec-22|
 | GLaM | Encoder | Google Inc | [🔗](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html) | 1200|[Paper](https://arxiv.org/abs/2112.06905)/-|Dec-22|
 | RL-CAI | Encoder| Anthropic | [🔗](https://lifearchitect.ai/anthropic/) | 52|[Paper](https://arxiv.org/abs/2212.08073)/-|Dec-22|
@@ -96,7 +96,7 @@ As resources are limited, we suggest using this playground for learning and prac
 ## 🎭 *The following table show that the LLMs for Code.* 
 
 | Model |  Checkpoints | Paper/Blog | Params (B)|Announced Time |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | StarCoder |  [starcoder](https://huggingface.co/bigcode/starcoder) | [Blog](https://huggingface.co/blog/starcoder) | 15 | May-23 |
 | StarChat Alpha |  [starchat-alpha](https://huggingface.co/HuggingFaceH4/starchat-alpha) | [Blog](https://huggingface.co/blog/starchat-alpha) | 16 | May-23 |
 | Replit Code |  [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) | [Blog](https://www.latent.space/p/reza-shabani#details) | 2.7 | May-23 |
@@ -107,7 +107,7 @@ As resources are limited, we suggest using this playground for learning and prac
 ## 📈 *The following table show that the Dataset of LLM area, with instruction-tunning and alignment-tuning.*
 
 | Dataset |   Paper/Blog | Dataset | Samples (K) | Announced Time |Type|
-| --- | --- | --- | --- | --- | ---|
+| :---: | :---: | :---: | :---: | :---: | :---:|
 | MPT-7B-Instruct |  [Blog](https://www.mosaicml.com/blog/mpt-7b) | [dolly_hhrlhf](https://huggingface.co/datasets/mosaicml/dolly_hhrlhf) | 59 | May-23 |instruction-tuning|
 | databricks-dolly-15k |  [Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) |  [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) | 15 |  Apr-23 |instruction-tuning|
 | OpenAssistant Conversations Dataset |  [Blog](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view) | [oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 161 |Apr-23 |alignment-tuning|
