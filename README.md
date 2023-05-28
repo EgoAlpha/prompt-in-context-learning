@@ -95,43 +95,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
     
 - **[2023.5.24]**
     - Paper:[VideoLLM: Modeling Video Sequence with Large Language Models](https://arxiv.org/pdf/2305.13292.pdf)
-    
-- **[2023.5.23]**
-    - Paper:[Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
-    - Paper: [PointGPT: Auto-regressively GenerativePre-training from Point Clouds](https://arxiv.org/pdf/2305.11487.pdf)
-- **[2023.5.22]**
-    - Paper: [Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability](https://arxiv.org/abs/2305.10266)
-    
-- **[2023.5.21]**
-    - Paper:[Language Models Meet World Models: Embodied Experiences Enhance Language Models](https://arxiv.org/abs/2305.10626)
-
-- **[2023.5.20]**
-    - Paper:[AttentionViz: A Global View of Transformer Attention](https://arxiv.org/pdf/2305.03210.pdf)
-    
-- **[2023.5.19]**
-    - [OpenAI introducing the ChatGPT APP for IOS](https://apps.apple.com/app/openai-chatgpt/id6448311069)
-    - Paper: [VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/abs/2305.11175)
-    
-- **[2023.5.18]**
-    - Paper: [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/pdf/2305.09645.pdf)
-    
-- **[2023.5.17]**
-    - Paper: [Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://arxiv.org/abs/2305.08809)
-    
-- **[2023.5.16]**
-    - Paper:[MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/pdf/2305.07185.pdf)
-
-- **[2023.5.15]** 
-    - Paper: [ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4](https://arxiv.org/pdf/2305.07490.pdf)
-    
-- **[2023.5.14]**
-    - Paper: [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301v1.pdf)
-
-- **[2023.5.13]**
-    - Paper: [VPGTrans: Transfer Visual Prompt Generator across LLMs](https://arxiv.org/pdf/2305.01278.pdf)
-
-- **[2023.5.12]**
-    - Paper: [Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?](https://arxiv.org/abs/2301.00184)
 
 [👉 Complete history news 👈](./historynews.md)
 
