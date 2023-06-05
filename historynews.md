@@ -4,6 +4,41 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.6.5]**
+- Paper: [Controllable Text-to-Image Generation with GPT-4](https://arxiv.org/abs/2305.18583)
+
+**[2023.6.4]**
+- PandaGPT: One model unifies six modalities([Page](https://panda-gpt.github.io/)/[Paper](https://arxiv.org/abs/2305.16355))
+
+**[2023.6.3]**
+- Paper: [Direct Preference Optimization:Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
+
+**[2023.6.2]**
+- Paper: [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390)
+
+**[2023.6.1]**
+- Paper: [Generating Images with Multimodal Language Models](https://arxiv.org/abs/2305.17216)
+
+**[2023.5.31]**
+- [Intel announces the Aurora genAI, which is generative AI model with 1 trillion parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
+    
+- HuotuoGPT, towards Taming Language Model to Be a Doctor([Github](https://github.com/FreedomIntelligence/HuatuoGPT)/[Demo](https://www.huatuogpt.cn)/[Paper](https://arxiv.org/pdf/2305.15075.pdf))
+- Paper: [Large Language Models Meet NL2Code: A Survey](https://arxiv.org/abs/2212.09420)
+
+**[2023.5.30]** 
+- Paper: [Large Language Models as Tool Makers](https://arxiv.org/pdf/2305.17126.pdf)
+    
+- Paper: [BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks](https://arxiv.org/abs/2305.17100)
+
+- Paper: [OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities](https://arxiv.org/pdf/2305.16334.pdf)
+
+**[2023.5.29]**
+
+- [Falcon: based on the 1 trillion token open-source large model, surpassing 65 billion LLaMA, commercially available.](https://huggingface.co/tiiuae)
+
+- [ToolBench: the open platform for large language models used for training, service, and evaluation of tool learning](https://github.com/Navezjt/ToolBench)
+- Paper: [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021)
+
 **[2023.5.28]**
 - Paper: [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213)
 - Paper:[RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text](https://arxiv.org/abs/2305.13304)
