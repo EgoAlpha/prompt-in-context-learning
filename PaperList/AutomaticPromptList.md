@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Flatness-Aware Prompt Selection Improves Accuracy and Sample Efficiency**](https://doi.org/10.48550/arXiv.2305.10713) （**2023.05.18**）
+
+<font color="gray">Lingfeng Shen, Weiting Tan, Boyuan Zheng, Daniel Khashabi .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/shadowkiller33/flatness)
+
+---
+
 [**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
 
 <font color="gray">Kashun Shum, Shizhe Diao, Tong Zhang .  - 【ArXiv】</font>
@@ -17,7 +25,7 @@
 
 <font color="gray">Zekun Li, Baolin Peng, Pengcheng He, Michel Galley, Jianfeng Gao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/leezekun/directional-stimulus-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/leezekun/directional-stimulus-prompting)
 
 ---
 
@@ -25,7 +33,7 @@
 
 <font color="gray">Yoichi Ishibashi, D. Bollegala, Katsuhito Sudoh, Satoshi Nakamura .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/livnlp/prompt-robustness)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/livnlp/prompt-robustness)
 
 ---
 
@@ -33,7 +41,7 @@
 
 <font color="gray">Yuxin Wen, Neel Jain, John Kirchenbauer, Micah Goldblum, Jonas Geiping, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-391-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-413-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
 
 ---
 
@@ -41,7 +49,7 @@
 
 <font color="gray">Simran Arora, A. Narayan, Mayee F. Chen, Laurel J. Orr, Neel Guha, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-425-blue)](https://github.com/hazyresearch/ama_prompting)
+![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-453-blue)](https://github.com/hazyresearch/ama_prompting)
 
 ---
 
@@ -49,7 +57,7 @@
 
 <font color="gray">E. Zelikman, Yuhuai Wu, Noah D. Goodman .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-56-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/ezelikman/STaR)
+![](https://img.shields.io/badge/Citations-56-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/ezelikman/STaR)
 
 ---
 
@@ -57,7 +65,7 @@
 
 <font color="gray">Tianyu Gao, Adam Fisch, Danqi Chen .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-725-red)  [![](https://img.shields.io/badge/Github%20Stars-653-blue)](https://github.com/princeton-nlp/LM-BFF)
+![](https://img.shields.io/badge/Citations-648-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-742-red)  [![](https://img.shields.io/badge/Github%20Stars-657-blue)](https://github.com/princeton-nlp/LM-BFF)
 
 ---
 
@@ -65,7 +73,7 @@
 
 <font color="gray">Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace, Sameer Singh .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-137-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-497-red)
+![](https://img.shields.io/badge/Citations-137-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-518-red)
 
 ---
 

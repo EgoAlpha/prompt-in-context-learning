@@ -5,11 +5,107 @@
 <div style="line-height:0.2em;">
 
 
+[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
+
+<font color="gray">Yau-Shian Wang, Ta-Chung Chi, Ruohong Zhang, Yiming Yang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
+
+<font color="gray">Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
+
+<font color="gray">Wenting Zhao, Justin T. Chiu, Claire Cardie, Alexander M. Rush </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations**](https://arxiv.org/abs/2305.14556) （**2023.05.23**）
+
+<font color="gray">Tiziano Labruna, Sofia Brenna, Andrea Zaninello, Bernardo Magnini </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+[**Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization**](https://arxiv.org/abs/2305.14548) （**2023.05.23**）
+
+<font color="gray">Hou Pong Chan, Qi Zeng, Heng Ji </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/kenchan0226/finegrainedfact)
+
+---
+
+[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
+
+<font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/rucaibox/chatcot)
+
+---
+
+[**mPMR: A Multilingual Pre-trained Machine Reader at Scale**](https://arxiv.org/abs/2305.13645) （**2023.05.23**）
+
+<font color="gray">Weiwen Xu, Xin Li, Wai Lam, Lidong Bing </font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/damo-nlp-sg/pmr)
+
+---
+
+[**Cross-functional Analysis of Generalisation in Behavioural Learning**](https://arxiv.org/abs/2305.12951) （**2023.05.22**）
+
+<font color="gray">Pedro Henrique Luz de Araujo, Benjamin Roth </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LM-Switch: Lightweight Language Model Conditioning in Word Embedding Space**](https://arxiv.org/abs/2305.12798) （**2023.05.22**）
+
+<font color="gray">Chi Han, Jialiang Xu, Manling Li, Y. Fung, Chenkai Sun, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
+
+<font color="gray">Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/csitfun/logicot)
+
+---
+
+[**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.11499) （**2023.05.19**）
+
+<font color="gray">Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
+
+<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**](https://doi.org/10.48550/arXiv.2305.04388) （**2023.05.07**）
 
 <font color="gray">Miles Turpin, Julian Michael, Ethan Perez, Sam Bowman .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/milesaturpin/cot-unfaithfulness)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/milesaturpin/cot-unfaithfulness)
 
 ---
 
@@ -17,7 +113,7 @@
 
 <font color="gray">Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-119-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-154-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
 
 ---
 
@@ -49,7 +145,7 @@
 
 <font color="gray">Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)  [![](https://img.shields.io/badge/Github%20Stars-56-blue)](https://github.com/gasolsun36/iter-cot)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/gasolsun36/iter-cot)
 
 ---
 
@@ -57,7 +153,7 @@
 
 <font color="gray">Jiaxin Ge, Hongyin Luo, Siyuan Qian, Yulu Gan, Jie Fu, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
 
 ---
 
@@ -69,19 +165,11 @@
 
 ---
 
-[**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822) （**2023.02.24**）
-
-<font color="gray">Kashun Shum, Shizhe Diao, Tong Zhang .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Active Prompting with Chain-of-Thought for Large Language Models**](https://doi.org/10.48550/arXiv.2302.12246) （**2023.02.23**）
 
 <font color="gray">Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-100-blue)](https://github.com/shizhediao/active-cot)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-104-blue)](https://github.com/shizhediao/active-cot)
 
 ---
 
@@ -105,7 +193,7 @@
 
 <font color="gray">QING LYU, Shreya Havaldar, Adam Stein, Li Zhang, D. Rao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-54-blue)](https://github.com/veronica320/faithful-cot)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-66-blue)](https://github.com/veronica320/faithful-cot)
 
 ---
 
@@ -113,7 +201,7 @@
 
 <font color="gray">Namgyu Ho, Laura Schmid, Se-Young Yun .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-89-blue)](https://github.com/itsnamgyu/reasoning-teacher)
 
 ---
 
@@ -137,7 +225,7 @@
 
 <font color="gray">Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-82-blue)](https://github.com/wenhuchen/program-of-thoughts)
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-84-blue)](https://github.com/wenhuchen/program-of-thoughts)
 
 ---
 
@@ -145,7 +233,7 @@
 
 <font color="gray">F'abio Perez, Ian Ribeiro .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-116-blue)](https://github.com/agencyenterprise/promptinject)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-124-blue)](https://github.com/agencyenterprise/promptinject)
 
 ---
 
@@ -153,7 +241,7 @@
 
 <font color="gray">Mirac Suzgun, Nathan Scales, Nathanael Scharli, Sebastian Gehrmann, Yi Tay, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-29-green)  [![](https://img.shields.io/badge/Github%20Stars-103-blue)](https://github.com/suzgunmirac/big-bench-hard)
+![](https://img.shields.io/badge/Citations-29-green)  [![](https://img.shields.io/badge/Github%20Stars-121-blue)](https://github.com/suzgunmirac/big-bench-hard)
 
 ---
 
@@ -169,7 +257,7 @@
 
 <font color="gray">Zhuosheng Zhang, Aston Zhang, Mu Li, Alexander J. Smola .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-24-green)  [![](https://img.shields.io/badge/Github%20Stars-450-blue)](https://github.com/amazon-research/auto-cot)
+![](https://img.shields.io/badge/Citations-24-green)  [![](https://img.shields.io/badge/Github%20Stars-490-blue)](https://github.com/amazon-research/auto-cot)
 
 ---
 
@@ -177,7 +265,7 @@
 
 <font color="gray">Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-86-blue)](https://github.com/google-research/url-nlp)
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-101-blue)](https://github.com/google-research/url-nlp)
 
 ---
 
@@ -185,7 +273,7 @@
 
 <font color="gray">Tushar Khot, H. Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-34-blue)](https://github.com/allenai/decomp)
+![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-40-blue)](https://github.com/allenai/decomp)
 
 ---
 
@@ -201,7 +289,7 @@
 
 <font color="gray">Abulhair Saparov, He He .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-34-blue)](https://github.com/asaparov/prontoqa)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-38-blue)](https://github.com/asaparov/prontoqa)
 
 ---
 
@@ -217,7 +305,7 @@
 
 <font color="gray">Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-18-green)  [![](https://img.shields.io/badge/Github%20Stars-289-blue)](https://github.com/lupantech/ScienceQA)
+![](https://img.shields.io/badge/Citations-18-green)  [![](https://img.shields.io/badge/Github%20Stars-314-blue)](https://github.com/lupantech/ScienceQA)
 
 ---
 
@@ -225,7 +313,7 @@
 
 <font color="gray">Simeng Han, Hailey Schoelkopf, Yilun Zhao, Zhenting Qi, Martin Riddell, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-53-blue)](https://github.com/yale-lily/folio)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-54-blue)](https://github.com/yale-lily/folio)
 
 ---
 
@@ -257,7 +345,7 @@
 
 <font color="gray">Takeshi Kojima, S. Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-187-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-396-red)  [![](https://img.shields.io/badge/Github%20Stars-199-blue)](https://github.com/kojima-takeshi188/zero_shot_cot)
+![](https://img.shields.io/badge/Citations-187-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-431-red)  [![](https://img.shields.io/badge/Github%20Stars-205-blue)](https://github.com/kojima-takeshi188/zero_shot_cot)
 
 ---
 
@@ -289,7 +377,7 @@
 
 <font color="gray">E. Zelikman, Yuhuai Wu, Noah D. Goodman .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-56-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/ezelikman/STaR)
+![](https://img.shields.io/badge/Citations-56-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/ezelikman/STaR)
 
 ---
 
@@ -298,6 +386,14 @@
 <font color="gray">Xuezhi Wang, Jason Wei, D. Schuurmans, Quoc Le, E. Chi, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-133-green)
+
+---
+
+[**Iteratively Prompt Pre-trained Language Models for Chain of Thought**](https://arxiv.org/abs/2203.08383) （**2022.03.16**）
+
+<font color="gray">Boshi Wang, Xiang Deng, Huan Sun .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-38-red)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/sunlab-osu/iterprompt)
 
 ---
 
@@ -313,7 +409,7 @@
 
 <font color="gray">Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, E. Chi, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-396-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-767-red)  [![](https://img.shields.io/badge/Github%20Stars-656-blue)](https://github.com/lupantech/chameleon-llm)
+![](https://img.shields.io/badge/Citations-396-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-849-red)  [![](https://img.shields.io/badge/Github%20Stars-8.0k-blue)](https://github.com/microsoft/guidance)
 
 ---
 
@@ -321,7 +417,7 @@
 
 <font color="gray">Maxwell Nye, Anders Andreassen, Guy Gur-Ari, H. Michalewski, Jacob Austin, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-123-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-104-red)
+![](https://img.shields.io/badge/Citations-123-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-107-red)
 
 ---
 
@@ -329,7 +425,7 @@
 
 <font color="gray">Ana Marasović, Iz Beltagy, Doug Downey, Matthew E. Peters .  - 【NAACL-HLT】</font>
 
-![](https://img.shields.io/badge/Citations-29-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-43-red)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/allenai/feb)
+![](https://img.shields.io/badge/Citations-29-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-45-red)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/allenai/feb)
 
 ---
 
@@ -337,7 +433,15 @@
 
 <font color="gray">Karl Cobbe, V. Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-181-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-130-red)  [![](https://img.shields.io/badge/Github%20Stars-392-blue)](https://github.com/openai/grade-school-math)
+![](https://img.shields.io/badge/Citations-181-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-135-red)  [![](https://img.shields.io/badge/Github%20Stars-418-blue)](https://github.com/openai/grade-school-math)
+
+---
+
+[**AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts**](https://doi.org/10.1145/3491102.3517582) （**2021.10.04**）
+
+<font color="gray">Tongshuang Sherry Wu, Michael Terry, Carrie J. Cai .  - 【International Conference on Human Factors in Computing Systems】</font>
+
+![](https://img.shields.io/badge/Citations-45-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-67-red)
 
 
 </div>
