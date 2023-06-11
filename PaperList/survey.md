@@ -141,14 +141,6 @@
 
 ---
 
-[**Are Pre-trained Language Models Useful for Model Ensemble in Chinese Grammatical Error Correction?**](https://arxiv.org/abs/2305.15183) （**2023.05.24**）
-
-<font color="gray">Chenming Tang, Xiuyu Wu, Yunfang Wu </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Pre-training Multi-party Dialogue Models with Latent Discourse Inference**](https://arxiv.org/abs/2305.15175) （**2023.05.24**）
 
 <font color="gray">Yiyang Li, Xinting Huang, Wei Bi, Hai Zhao </font>
@@ -168,14 +160,6 @@
 [**Fourier Transformer: Fast Long Range Modeling by Removing Sequence Redundancy with FFT Operator**](https://arxiv.org/abs/2305.15099) （**2023.05.24**）
 
 <font color="gray">Ziwei He, Meng Yang, Minwei Feng, Jingcheng Yin, Xinbing Wang, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Referral Augmentation for Zero-Shot Information Retrieval**](https://arxiv.org/abs/2305.15098) （**2023.05.24**）
-
-<font color="gray">Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -240,14 +224,6 @@
 [**Understanding Arithmetic Reasoning in Language Models using Causal Mediation Analysis**](https://arxiv.org/abs/2305.15054) （**2023.05.24**）
 
 <font color="gray">Alessandro Stolfo, Yonatan Belinkov, Mrinmaya Sachan </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Decomposing Complex Queries for Tip-of-the-tongue Retrieval**](https://arxiv.org/abs/2305.15053) （**2023.05.24**）
-
-<font color="gray">Kevin Lin, Kyle Lo, Joseph E. Gonzalez, Dan Klein </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -349,35 +325,11 @@
 
 ---
 
-[**Are Chatbots Ready for Privacy-Sensitive Applications? An Investigation into Input Regurgitation and Prompt-Induced Sanitization**](https://arxiv.org/abs/2305.15008) （**2023.05.24**）
-
-<font color="gray">Aman Priyanshu, Supriti Vijay, Ayush Kumar, Rakshit Naidu, Fatemehsadat Mireshghallah </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**LLMDet: A Large Language Models Detection Tool**](https://arxiv.org/abs/2305.15004) （**2023.05.24**）
-
-<font color="gray">Kangxi Wu, Liang Pang, Huawei Shen, Xueqi Cheng, Tat-Seng Chua </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**The Art of SOCRATIC QUESTIONING: Zero-shot Multimodal Reasoning with Recursive Thinking and Self-Questioning**](https://arxiv.org/abs/2305.14999) （**2023.05.24**）
 
 <font color="gray">Jingyuan Qi, Zhiyang Xu, Ying Shen, Minqian Liu, Di Jin, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**RefGPT: Reference ->Truthful&Customized Dialogues Generation by GPTs and for GPTs**](https://arxiv.org/abs/2305.14994) （**2023.05.24**）
-
-<font color="gray">Dongjie Yang, Ruifeng Yuan, YuanTao Fan, YiFei Yang, Zili Wang, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/ziliwangnlp/refgpt)
 
 ---
 
@@ -413,14 +365,6 @@
 
 ---
 
-[**OverPrompt: Enhancing ChatGPT Capabilities through an Efficient In-Context Learning Approach**](https://arxiv.org/abs/2305.14973) （**2023.05.24**）
-
-<font color="gray">Jiazheng Li, Runcong Zhao, Yulan He, Lin Gui </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**MMNet: Multi-Mask Network for Referring Image Segmentation**](https://arxiv.org/abs/2305.14969) （**2023.05.24**）
 
 <font color="gray">Yichen Yan, Xingjian He, Wenxuan Wan, Jing Liu </font>
@@ -445,25 +389,9 @@
 
 ---
 
-[**Adversarial Demonstration Attacks on Large Language Models**](https://arxiv.org/abs/2305.14950) （**2023.05.24**）
-
-<font color="gray">Jiongxiao Wang, Zichen Liu, Keun Hee Park, Muhao Chen, Chaowei Xiao </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Cross-lingual Data Augmentation for Document-grounded Dialog Systems in Low Resource Languages**](https://arxiv.org/abs/2305.14949) （**2023.05.24**）
 
 <font color="gray">Qi Gou, Zehua Xia, Wen-Hau Du </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench**](https://arxiv.org/abs/2305.14947) （**2023.05.24**）
-
-<font color="gray">Qinyuan Ye, Harvey Yiyun Fu, Xiang Ren, Robin Jia </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -477,27 +405,11 @@
 
 ---
 
-[**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
-
-<font color="gray">Bishal Santra, Sakya Basak, Abhinandan De, Manish Gupta, Pawan Goyal </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**](https://arxiv.org/abs/2305.14909) （**2023.05.24**）
 
 <font color="gray">L. Guan, Karthik Valmeekam, Sarath Sreedharan, Subbarao Kambhampati </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-[**Coverage-based Example Selection for In-Context Learning**](https://arxiv.org/abs/2305.14907) （**2023.05.24**）
-
-<font color="gray">Shivanshu Gupta, Sameer Singh, Matt Gardner </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -573,14 +485,6 @@
 
 ---
 
-[**PaCE: Unified Multi-modal Dialogue Pre-training with Progressive and Compositional Experts**](https://arxiv.org/abs/2305.14839) （**2023.05.24**）
-
-<font color="gray">Yunshui Li, Binyuan Hui, ZhiChao Yin, Min Yang, Fei Huang, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**](https://arxiv.org/abs/2305.14828) （**2023.05.24**）
 
 <font color="gray">Prashant Krishnan, Zilong Wang, Yangkun Wang, Jingbo Shang </font>
@@ -592,22 +496,6 @@
 [**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
 
 <font color="gray">Dung Thai, Dhruv Agarwal, Mudit Chaudhary, R. Das, M. Zaheer, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Exploring Diverse In-Context Configurations for Image Captioning**](https://arxiv.org/abs/2305.14800) （**2023.05.24**）
-
-<font color="gray">Xu Yang, Yongliang Wu, Mingzhuo Yang, Haokun Chen </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2.1k-blue)](https://github.com/mlfoundations/open_flamingo)
-
----
-
-[**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**](https://arxiv.org/abs/2305.14795) （**2023.05.24**）
-
-<font color="gray">Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -653,22 +541,6 @@
 
 ---
 
-[**Bi-Drop: Generalizable Fine-tuning for Pre-trained Language Models via Adaptive Subnetwork Optimization**](https://arxiv.org/abs/2305.14760) （**2023.05.24**）
-
-<font color="gray">Shoujie Tong, Heming Xia, Damai Dai, Tianyu Liu, Binghuai Lin, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Mastering the ABCDs of Complex Questions: Answer-Based Claim Decomposition for Fine-grained Self-Evaluation**](https://arxiv.org/abs/2305.14750) （**2023.05.24**）
-
-<font color="gray">Nishant Balepur, Jie Huang, Samraj Moorjani, Hari Sundaram, Kevin Chen-Chuan Chang </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation**](https://arxiv.org/abs/2305.14742) （**2023.05.24**）
 
 <font color="gray">Dongxu Yue, Qin Guo, Munan Ning, Jiaxi Cui, Yuesheng Zhu, etc </font>
@@ -680,14 +552,6 @@
 [**Trusting Your Evidence: Hallucinate Less with Context-aware Decoding**](https://arxiv.org/abs/2305.14739) （**2023.05.24**）
 
 <font color="gray">Weijia Shi, Xiaochuang Han, M. Lewis, Yulia Tsvetkov, Luke Zettlemoyer, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
-
-<font color="gray">Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -730,22 +594,6 @@
 <font color="gray">Dheeraj Mekala, Adithya Samavedhi, Chengyu Dong, Jingbo Shang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**A Causal View of Entity Bias in (Large) Language Models**](https://arxiv.org/abs/2305.14695) （**2023.05.24**）
-
-<font color="gray">Fei Wang, Wenjie Mo, Yiwei Wang, Wenxuan Zhou, Muhao Chen </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**ExpertPrompting: Instructing Large Language Models to be Distinguished Experts**](https://arxiv.org/abs/2305.14688) （**2023.05.24**）
-
-<font color="gray">Benfeng Xu, An Yang, Junyang Lin, Quang Wang, Chang Zhou, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-41-blue)](https://github.com/ofa-sys/expertllama)
 
 ---
 
@@ -813,14 +661,6 @@
 
 ---
 
-[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
-
-<font color="gray">Wenting Zhao, Justin T. Chiu, Claire Cardie, Alexander M. Rush </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**COMET-M: Reasoning about Multiple Events in Complex Sentences**](https://arxiv.org/abs/2305.14617) （**2023.05.24**）
 
 <font color="gray">Sahithya Ravi, Raymond Ng, Vered Shwartz </font>
@@ -832,14 +672,6 @@
 [**Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations**](https://arxiv.org/abs/2305.14599) （**2023.05.24**）
 
 <font color="gray">James Y. Huang, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Instruction Tuning with Lexicons for Zero-Shot Style Classification**](https://arxiv.org/abs/2305.14592) （**2023.05.24**）
-
-<font color="gray">Ruohao Guo, Wei Xu, Alan Ritter </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -877,43 +709,11 @@
 
 ---
 
-[**Active Learning Principles for In-Context Learning with Large Language Models**](https://arxiv.org/abs/2305.14264) （**2023.05.23**）
-
-<font color="gray">Katerina Margatina, Timo Schick, Nikolaos Aletras, Jane Dwivedi-Yu </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
-
----
-
 [**Language Models with Rationality**](https://arxiv.org/abs/2305.14250) （**2023.05.23**）
 
 <font color="gray">Nora Kassner, Oyvind Tafjord, Ashish Sabharwal, Kyle Richardson, Hinrich Schütze, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-[**Skill-Based Few-Shot Selection for In-Context Learning**](https://arxiv.org/abs/2305.14210) （**2023.05.23**）
-
-<font color="gray">Shengnan An, Bo Zhou, Zeqi Lin, Qiang Fu, Bei Chen, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**](https://arxiv.org/abs/2305.14160) （**2023.05.23**）
-
-<font color="gray">Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Make a Choice! Knowledge Base Question Answering with In-Context Learning**](https://arxiv.org/abs/2305.13972) （**2023.05.23**）
-
-<font color="gray">Chuanyuan Tan, Yuehe Chen, Wenbiao Shao, Wenliang Chen </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -925,27 +725,11 @@
 
 ---
 
-[**Concept-aware Training Improves In-context Learning Ability of Language Models**](https://arxiv.org/abs/2305.13775) （**2023.05.23**）
-
-<font color="gray">Michal vStef'anik, Marek Kadlvc'ik </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
 [**Question Answering as Programming for Solving Time-Sensitive Questions**](https://arxiv.org/abs/2305.14221) （**2023.05.23**）
 
 <font color="gray">Xinyu Zhu, Cheng Yang, Bei Chen, Siheng Li, Jian-Guang Lou, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-303-blue)](https://github.com/microsoft/ContextualSP)
-
----
-
-[**Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization**](https://arxiv.org/abs/2305.14152) （**2023.05.23**）
-
-<font color="gray">Jeonghoon Kim, Jung Hyun Lee, Sungdong Kim, Joonsuk Park, Kang Min Yoo, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -981,14 +765,6 @@
 
 ---
 
-[**Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker**](https://arxiv.org/abs/2305.13729) （**2023.05.23**）
-
-<font color="gray">Sukmin Cho, Soyeong Jeong, Jeongyeon Seo, Jong C. Park </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
 [**LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**](https://arxiv.org/abs/2305.13718) （**2023.05.23**）
 
 <font color="gray">Fangkai Jiao, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, etc </font>
@@ -1013,27 +789,11 @@
 
 ---
 
-[**RetICL: Sequential Retrieval of In-Context Examples with Reinforcement Learning**](https://arxiv.org/abs/2305.14502) （**2023.05.23**）
-
-<font color="gray">Alexander Scarlatos, Andrew Lan </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**FOCUS: Effective Embedding Initialization for Specializing Pretrained Multilingual Models on a Single Language**](https://arxiv.org/abs/2305.14481) （**2023.05.23**）
 
 <font color="gray">Konstantin Dobler, Gerard de Melo </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/konstantinjdobler/focus)
-
----
-
-[**Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation**](https://arxiv.org/abs/2305.14189) （**2023.05.23**）
-
-<font color="gray">Di Wu, Christof Monz </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -1069,14 +829,6 @@
 
 ---
 
-[**Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations**](https://arxiv.org/abs/2305.14556) （**2023.05.23**）
-
-<font color="gray">Tiziano Labruna, Sofia Brenna, Andrea Zaninello, Bernardo Magnini </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
 [**Exploring Semantic Variations in GAN Latent Spaces via Matrix Factorization**](https://arxiv.org/abs/2305.14551) （**2023.05.23**）
 
 <font color="gray">Andrey Palaev, Rustam A. Lukmanov, Adil Hamid Khan </font>
@@ -1090,22 +842,6 @@
 <font color="gray">Yinghao Li, Colin Lockard, Prashant Shiralkar, Chao Zhang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization**](https://arxiv.org/abs/2305.14548) （**2023.05.23**）
-
-<font color="gray">Hou Pong Chan, Qi Zeng, Heng Ji </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/kenchan0226/finegrainedfact)
-
----
-
-[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
-
-<font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/rucaibox/chatcot)
 
 ---
 
@@ -1189,30 +925,6 @@
 
 ---
 
-[**mPMR: A Multilingual Pre-trained Machine Reader at Scale**](https://arxiv.org/abs/2305.13645) （**2023.05.23**）
-
-<font color="gray">Weiwen Xu, Xin Li, Wai Lam, Lidong Bing </font>
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/damo-nlp-sg/pmr)
-
----
-
-[**Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs**](https://arxiv.org/abs/2305.13585) （**2023.05.23**）
-
-<font color="gray">Siyuan Wang, Zhongyu Wei, Meng Han, Zhihao Fan, Haijun Shan, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models**](https://arxiv.org/abs/2305.13707) （**2023.05.23**）
-
-<font color="gray">Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning**](https://arxiv.org/abs/2305.13697) （**2023.05.23**）
 
 <font color="gray">Hao Yang, Can Gao, Hao L'iu, Xinyan Xiao, Yanyan Zhao, etc </font>
@@ -1253,14 +965,6 @@
 
 ---
 
-[**Cross-functional Analysis of Generalisation in Behavioural Learning**](https://arxiv.org/abs/2305.12951) （**2023.05.22**）
-
-<font color="gray">Pedro Henrique Luz de Araujo, Benjamin Roth </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules**](https://arxiv.org/abs/2305.13406) （**2023.05.22**）
 
 <font color="gray">Yanchen Liu, William Held, Diyi Yang </font>
@@ -1285,43 +989,11 @@
 
 ---
 
-[**LM-Switch: Lightweight Language Model Conditioning in Word Embedding Space**](https://arxiv.org/abs/2305.12798) （**2023.05.22**）
-
-<font color="gray">Chi Han, Jialiang Xu, Manling Li, Y. Fung, Chenkai Sun, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
 [**MacLaSa: Multi-Aspect Controllable Text Generation via Efficient Sampling from Compact Latent Space**](https://arxiv.org/abs/2305.12785) （**2023.05.22**）
 
 <font color="gray">Hanxing Ding, Liang Pang, Z. Wei, Huawei Shen, Xueqi Cheng, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Enhancing Cross-lingual Natural Language Inference by Soft Prompting with Multilingual Verbalizer**](https://arxiv.org/abs/2305.12761) （**2023.05.22**）
-
-<font color="gray">Shuang Li, Xuming Hu, Aiwei Liu, Yawen Yang, Fukun Ma, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**A Benchmark on Extremely Weakly Supervised Text Classification: Reconcile Seed Matching and Prompting Approaches**](https://arxiv.org/abs/2305.12749) （**2023.05.22**）
-
-<font color="gray">Zihan Wang, Tianle Wang, Dheeraj Mekala, Jingbo Shang </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Can We Edit Factual Knowledge by In-Context Learning?**](https://arxiv.org/abs/2305.12740) （**2023.05.22**）
-
-<font color="gray">Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-16-blue)](https://github.com/zce1112zslx/ike)
 
 ---
 
@@ -1338,14 +1010,6 @@
 <font color="gray">Jinghan Yao, Nawras Alnaasan, Tian Chen, A. Shafi, Hari Subramoni, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/yjhmitweb/flover)
-
----
-
-[**Design a Delicious Lunchbox in Style**](https://arxiv.org/abs/2305.14522) （**2023.05.22**）
-
-<font color="gray">Yutong Zhou </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -1381,14 +1045,6 @@
 
 ---
 
-[**Iterative Forward Tuning Boosts In-context Learning in Language Models**](https://arxiv.org/abs/2305.13016) （**2023.05.22**）
-
-<font color="gray">Jiaxi Yang, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
 [**GPT-SW3: An Autoregressive Language Model for the Nordic Languages**](https://arxiv.org/abs/2305.12987) （**2023.05.22**）
 
 <font color="gray">Ariel Ekgren, Amaru Cuba Gyllensten, F. Stollenwerk, Joey Ohman, Tim Isbister, etc </font>
@@ -1402,6 +1058,14 @@
 <font color="gray">Dongfang Li, Jindi Yu, Baotian Hu, Zhenran Xu, Min Zhang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/hitsz-tmg/explaincpe)
+
+---
+
+[**Design a Delicious Lunchbox in Style**](https://arxiv.org/abs/2305.14522) （**2023.05.22**）
+
+<font color="gray">Yutong Zhou </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -1533,14 +1197,6 @@
 
 ---
 
-[**Automated Few-shot Classification with Instruction-Finetuned Language Models**](https://arxiv.org/abs/2305.12576) （**2023.05.21**）
-
-<font color="gray">Rami Aly, Xingjian Shi, Kaixiang Lin, Aston Zhang, A. Wilson </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Retrieving Texts based on Abstract Descriptions**](https://arxiv.org/abs/2305.12517) （**2023.05.21**）
 
 <font color="gray">Shauli Ravfogel, Valentina Pyatkin, Amir D. N. Cohen, Avshalom Manevich, Yoav Goldberg </font>
@@ -1589,14 +1245,6 @@
 
 ---
 
-[**Explaining How Transformers Use Context to Build Predictions**](https://arxiv.org/abs/2305.12535) （**2023.05.21**）
-
-<font color="gray">Javier Ferrando, Gerard I. Gállego, Ioannis Tsiamas, M. Costa-jussà </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
 [**Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter**](https://arxiv.org/abs/2305.12449) （**2023.05.21**）
 
 <font color="gray">Yi Liu, Xiaohan Bi, Lei Li, Sishuo Chen, Wenkai Yang, etc </font>
@@ -1634,22 +1282,6 @@
 <font color="gray">Kaige Xie, Tong Yu, Haoliang Wang, Junda Wu, Handong Zhao, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
-
-<font color="gray">Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
-
----
-
-[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
-
-<font color="gray">Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/csitfun/logicot)
 
 ---
 
@@ -1701,30 +1333,6 @@
 
 ---
 
-[**Self-QA: Unsupervised Knowledge Guided Language Model Alignment**](https://arxiv.org/abs/2305.11952) （**2023.05.19**）
-
-<font color="gray">Xuanyu Zhang, Qing Yang </font>
-
-![](https://img.shields.io/badge/Citations-1-green)
-
----
-
-[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
-
-<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions**](https://doi.org/10.48550/arXiv.2305.11460) （**2023.05.19**）
-
-<font color="gray">Shiyao Ding, Takayuki Ito .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases**](https://arxiv.org/abs/2305.12018) （**2023.05.19**）
 
 <font color="gray">Xin Liu, Muhammad Khalifa, Lu Wang </font>
@@ -1757,17 +1365,17 @@
 
 ---
 
-[**Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning**](https://doi.org/10.48550/arXiv.2305.11759) （**2023.05.19**）
+[**Self-QA: Unsupervised Knowledge Guided Language Model Alignment**](https://arxiv.org/abs/2305.11952) （**2023.05.19**）
 
-<font color="gray">Mustafa Safa Ozdayi, Charith S. Peris, Jack G. M. FitzGerald, Christophe Dupuy, Jimit Majmudar, etc .  - 【arXiv.org】</font>
+<font color="gray">Xuanyu Zhang, Qing Yang </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
-[**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.11499) （**2023.05.19**）
+[**Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions**](https://doi.org/10.48550/arXiv.2305.11460) （**2023.05.19**）
 
-<font color="gray">Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, etc .  - 【arXiv.org】</font>
+<font color="gray">Shiyao Ding, Takayuki Ito .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -1800,14 +1408,6 @@
 [**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
 
 <font color="gray">Po-Nien Kung, Nanyun Peng .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**AutoTrial: Prompting Language Models for Clinical Trial Design**](https://doi.org/10.48550/arXiv.2305.11366) （**2023.05.19**）
-
-<font color="gray">Zifeng Wang, Cao Xiao, Jimeng Sun .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -1933,14 +1533,6 @@
 
 ---
 
-[**Ahead-of-Time P-Tuning**](https://doi.org/10.48550/arXiv.2305.10835) （**2023.05.18**）
-
-<font color="gray">Daniil Gavrilov, Nikita Balagansky .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**SimOAP: Improve Coherence and Consistency in Persona-based Dialogue Generation via Over-sampling and Post-evaluation**](https://doi.org/10.48550/arXiv.2305.11130) （**2023.05.18**）
 
 <font color="gray">Junkai Zhou, Liang Pang, Huawei Shen, Xueqi Cheng .  - 【arXiv.org】</font>
@@ -1952,6 +1544,14 @@
 [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.48550/arXiv.2305.11038) （**2023.05.18**）
 
 <font color="gray">Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Ahead-of-Time P-Tuning**](https://doi.org/10.48550/arXiv.2305.10835) （**2023.05.18**）
+
+<font color="gray">Daniil Gavrilov, Nikita Balagansky .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -1986,14 +1586,6 @@
 <font color="gray">Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)
-
----
-
-[**Efficient Prompting via Dynamic In-Context Learning**](https://doi.org/10.48550/arXiv.2305.11170) （**2023.05.18**）
-
-<font color="gray">Wangchunshu Zhou, Yuchen Jiang, Ryan Cotterell, Mrinmaya Sachan .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -2104,14 +1696,6 @@
 [**When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario**](https://doi.org/10.48550/arXiv.2305.10013) （**2023.05.17**）
 
 <font color="gray">Chengcheng Han, Liqing Cui, Renyu Zhu, J. Wang, Nuo Chen, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt**](https://doi.org/10.48550/arXiv.2305.11186) （**2023.05.17**）
-
-<font color="gray">Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -2258,14 +1842,6 @@
 <font color="gray">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-375-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
-
----
-
-[**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682) （**2022.06.15**）
-
-<font color="gray">Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-156-green)
 
 ---
 

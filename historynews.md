@@ -4,6 +4,22 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.6.10]**
+- [Aquila, language model series, including the Aquila Basic Model (7B and 33B), AquilaChat dialogue model, and AquilaCode text-to-code generation model.](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)
+    
+**[2023.6.9]**
+- Paper: [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
+
+**[2023.6.8]**
+- Paper: [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf)
+    
+**[2023.6.7]**
+- Paper: [XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech](https://arxiv.org/abs/2305.19709)
+    
+**[2023.6.6]**
+- Paper: [XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters](https://arxiv.org/abs/2305.12002)
+- Paper: [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://arxiv.org/abs/2305.11147)
+
 **[2023.6.5]**
 - Paper: [Controllable Text-to-Image Generation with GPT-4](https://arxiv.org/abs/2305.18583)
 
