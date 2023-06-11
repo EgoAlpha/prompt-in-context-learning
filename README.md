@@ -79,7 +79,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.6.11]**
     - Paper: [M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models](https://arxiv.org/abs/2306.05179)
-    
+
 - **[2023.6.10]**
     - [Aquila, language model series, including the Aquila Basic Model (7B and 33B), AquilaChat dialogue model, and AquilaCode text-to-code generation model.](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)
     
@@ -118,9 +118,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <div style="line-height:0.2em;">
 
-
-
-[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
