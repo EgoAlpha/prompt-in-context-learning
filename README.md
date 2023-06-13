@@ -79,7 +79,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.6.13]**
     - Paper:[Simple and Controllable Music Generation](https://arxiv.org/pdf/2306.05284.pdf)
-    - 
+ 
 - **[2023.6.12]**
     - Paper: [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2306.05425)
     
