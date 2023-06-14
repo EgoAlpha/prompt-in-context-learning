@@ -77,9 +77,15 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+<<<<<<< HEAD
 - **[2023.6.13]** 
     - Paper: [XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971)
     
+=======
+- **[2023.6.13]**
+    - Paper:[Simple and Controllable Music Generation](https://arxiv.org/pdf/2306.05284.pdf)
+ 
+>>>>>>> da26317af53e20c21560895542ce17414203f4b8
 - **[2023.6.12]**
     - Paper: [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2306.05425)
     
@@ -100,23 +106,22 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 > You can directly click on the title to jump to the corresponding PDF link location
 
-- [Survey](#Survey)
-
-- [Prompt Engineering](#prompt-engineering)
-
+- [📢 News](#-news)
+- [📜 Papers](#-papers)
+  - [Survey](#survey)
+  - [Prompt Engineering](#prompt-engineering)
     - [Prompt Design](#prompt-design)
     - [Automatic Prompt](#automatic-prompt)
     - [Chain of Thought](#chain-of-thought)
     - [Knowledge Augmented Prompt](#knowledge-augmented-prompt)
-    - [Evaluation & Reliability](#evaluation--reliability)
-
-- [In-context learning](#in-context-learning)
-
-- [Multimodal Prompt](#multimodal-prompt)
-
-- [Prompt Application](#prompt-application)
-
-- [Foundation Models](#foundation-models)
+    - [Evaluation \& Reliability](#evaluation--reliability)
+  - [In-context Learning](#in-context-learning)
+  - [Multimodal Prompt](#multimodal-prompt)
+  - [Prompt Application](#prompt-application)
+  - [Foundation Models](#foundation-models)
+- [👨‍💻 LLM Usage](#-llm-usage)
+- [✉️ Contact](#️-contact)
+- [🙏 Acknowledgements](#-acknowledgements)
 
 ---
 
