@@ -77,9 +77,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.6.18]**
+    - Paper: [ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://arxiv.org/abs/2306.03901)
+    
 - **[2023.6.17]**
     - Paper: [Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://www.researchgate.net/publication/371540959_Macaw-LLM_Multi-Modal_Language_Modeling_with_Image_Audio_Video_and_Text_Integration)
-    
+
 - **[2023.6.16]**
     - Financial [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) model open source, benchmarked against BloombergGPT, training parameters can be reduced from 6.17 billion to 3.67 million, can predict stock prices.
     ([Paper](https://arxiv.org/abs/2306.06031)/[Code](https://github.com/AI4Finance-Foundation/FinGPT))
