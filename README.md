@@ -57,7 +57,7 @@ The resources include:
 
 *🎉[Playground](./Playground.md)🎉*:  Large language models that enable prompt experimentation. 
 
-*🎉[Prompt Engineering](./PromptEngineering.md)🎉*: Prompt techniques for leveraging large language models. 
+*🎉[Prompt Engineering](./promptengineering.md)🎉*: Prompt techniques for leveraging large language models. 
 
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
 
