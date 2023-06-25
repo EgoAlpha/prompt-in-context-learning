@@ -57,7 +57,7 @@ The resources include:
 
 *🎉[Playground](./Playground.md)🎉*:  Large language models that enable prompt experimentation. 
 
-*🎉[Prompt Engineering](./promptengineering.md)🎉*: Prompt techniques for leveraging large language models. 
+*🎉[Prompt Engineering](./PromptEngineering.md)🎉*: Prompt techniques for leveraging large language models. 
 
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
 
@@ -99,37 +99,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.6.19]**
     - Technical Report: [AIGC industry overview article from SEALAND SECURITIES](https://pdf.dfcfw.com/pdf/H3_AP202303201584404280_1.pdf?1679327615000.pdf)
 
-- **[2023.6.18]**
-    - Paper: [ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://arxiv.org/abs/2306.03901)
-    
-- **[2023.6.17]**
-    - Paper: [Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://www.researchgate.net/publication/371540959_Macaw-LLM_Multi-Modal_Language_Modeling_with_Image_Audio_Video_and_Text_Integration)
-
-- **[2023.6.16]**
-    - Financial [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) model open source, benchmarked against BloombergGPT, training parameters can be reduced from 6.17 billion to 3.67 million, can predict stock prices.
-    ([Paper](https://arxiv.org/abs/2306.06031)/[Code](https://github.com/AI4Finance-Foundation/FinGPT))
-
-- **[2023.6.15]**
-    - Paper:[MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models](https://arxiv.org/abs/2306.01311 )
-    
-- **[2023.6.14]**
-    - Paper:[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971)
-    
-- **[2023.6.13]**
-    - Paper:[Simple and Controllable Music Generation](https://arxiv.org/pdf/2306.05284.pdf)
- 
-- **[2023.6.12]**
-    - Paper: [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2306.05425)
-    
-- **[2023.6.11]**
-    - Paper: [M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models](https://arxiv.org/abs/2306.05179)
-
-- **[2023.6.10]**
-    - [Aquila, language model series, including the Aquila Basic Model (7B and 33B), AquilaChat dialogue model, and AquilaCode text-to-code generation model.](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)
-    
-- **[2023.6.9]**
-    - Paper: [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
-
 [👉 Complete history news 👈](./historynews.md)
 
 <img width="200%" src="./figures/hr.gif" />
@@ -138,22 +107,23 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 > You can directly click on the title to jump to the corresponding PDF link location
 
-- [📢 News](#-news)
-- [📜 Papers](#-papers)
-  - [Survey](#survey)
-  - [Prompt Engineering](#prompt-engineering)
+- [Survey](#Survey)
+
+- [Prompt Engineering](#prompt-engineering)
+
     - [Prompt Design](#prompt-design)
     - [Automatic Prompt](#automatic-prompt)
     - [Chain of Thought](#chain-of-thought)
     - [Knowledge Augmented Prompt](#knowledge-augmented-prompt)
-    - [Evaluation \& Reliability](#evaluation--reliability)
-  - [In-context Learning](#in-context-learning)
-  - [Multimodal Prompt](#multimodal-prompt)
-  - [Prompt Application](#prompt-application)
-  - [Foundation Models](#foundation-models)
-- [👨‍💻 LLM Usage](#-llm-usage)
-- [✉️ Contact](#️-contact)
-- [🙏 Acknowledgements](#-acknowledgements)
+    - [Evaluation & Reliability](#evaluation--reliability)
+
+- [In-context learning](#in-context-learning)
+
+- [Multimodal Prompt](#multimodal-prompt)
+
+- [Prompt Application](#prompt-application)
+
+- [Foundation Models](#foundation-models)
 
 ---
 
@@ -161,7 +131,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <div style="line-height:0.2em;">
 
+[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
 
+![](https://img.shields.io/badge/Citations-0-green)
 
 [**Prompt Engineering for Healthcare: Methodologies and Applications**](https://doi.org/10.48550/arXiv.2304.14670) （**2023.04.28**）
 
@@ -212,23 +184,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**In-Context Impersonation Reveals Large Language Models' Strengths and Biases**](https://arxiv.org/abs/2305.14930) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
-[**Universal Self-adaptive Prompting**](https://arxiv.org/abs/2305.14926) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**PURR: Efficiently Editing Language Model Hallucinations by Denoising Language Model Corruptions**](https://arxiv.org/abs/2305.14908) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -240,13 +200,25 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**](https://arxiv.org/abs/2305.14795) （**2023.05.24**）
+[**BeamSearchQA: Large Language Models are Strong Zero-Shot QA Solver**](https://arxiv.org/abs/2305.14766) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Adapting Language Models to Compress Contexts**](https://arxiv.org/abs/2305.14788) （**2023.05.24**）
+[**TACR: A Table-alignment-based Cell-selection and Reasoning Model for Hybrid Question-Answering**](https://arxiv.org/abs/2305.14682) （**2023.05.24**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Mixture of Prompt Experts for Generalizable and Interpretable Question Answering**](https://arxiv.org/abs/2305.14628) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
+
+[**Writing your own book: A method for going from closed to open book QA to improve robustness and performance of smaller LLMs**](https://doi.org/10.48550/arXiv.2305.11334) （**2023.05.18**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
@@ -258,6 +230,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Universal Self-adaptive Prompting**](https://arxiv.org/abs/2305.14926) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 [**Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker**](https://arxiv.org/abs/2305.13729) （**2023.05.23**）
 
@@ -295,10 +271,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/leezekun/directional-stimulus-prompting)
 
-[**Evaluating the Robustness of Discrete Prompts**](https://doi.org/10.48550/arXiv.2302.05619) （**2023.02.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/livnlp/prompt-robustness)
-
 
 </div>
 
@@ -314,41 +286,41 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
+[**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.11499) （**2023.05.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations**](https://arxiv.org/abs/2305.14556) （**2023.05.23**）
+[**Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**](https://doi.org/10.48550/arXiv.2305.04388) （**2023.05.07**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/milesaturpin/cot-unfaithfulness)
 
-[**Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization**](https://arxiv.org/abs/2305.14548) （**2023.05.23**）
+[**Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**](https://doi.org/10.48550/arXiv.2305.04091) （**2023.05.06**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/kenchan0226/finegrainedfact)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-154-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
 
-[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
+[**Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework**](https://doi.org/10.48550/arXiv.2305.03268) （**2023.05.05**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/rucaibox/chatcot)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/ruochenzhao/verify-and-edit)
 
-[**mPMR: A Multilingual Pre-trained Machine Reader at Scale**](https://arxiv.org/abs/2305.13645) （**2023.05.23**）
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/damo-nlp-sg/pmr)
-
-[**Cross-functional Analysis of Generalisation in Behavioural Learning**](https://arxiv.org/abs/2305.12951) （**2023.05.22**）
+[**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**](https://doi.org/10.48550/arXiv.2305.02317) （**2023.05.03**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**LM-Switch: Lightweight Language Model Conditioning in Word Embedding Space**](https://arxiv.org/abs/2305.12798) （**2023.05.22**）
+[**SCOTT: Self-Consistent Chain-of-Thought Distillation**](https://doi.org/10.48550/arXiv.2305.01879) （**2023.05.03**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**](https://arxiv.org/abs/2304.11657) （**2023.04.23**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/gasolsun36/iter-cot)
+
+[**Chain of Thought Prompt Tuning in Vision Language Models**](https://arxiv.org/abs/2304.07919) （**2023.04.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
 
 
 </div>
@@ -381,15 +353,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -398,6 +362,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ![](https://img.shields.io/badge/Citations-0-green)
 
 [**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**A Causal View of Entity Bias in (Large) Language Models**](https://arxiv.org/abs/2305.14695) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -464,45 +436,45 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-[**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**](https://arxiv.org/abs/2305.15387) （**2023.05.24**）
+[**Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing**](https://arxiv.org/abs/2305.15338) （**2023.05.24**）
 
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**READ: Recurrent Adaptation of Large Transformers**](https://arxiv.org/abs/2305.15348) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
-[**Learning Answer Generation using Supervision from Automatic Question Answering Evaluators**](https://arxiv.org/abs/2305.15344) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 [**SummIt: Iterative Text Summarization via ChatGPT**](https://arxiv.org/abs/2305.14835) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations**](https://arxiv.org/abs/2305.14728) （**2023.05.24**）
+[**OverPrompt: Enhancing ChatGPT Capabilities through an Efficient In-Context Learning Approach**](https://arxiv.org/abs/2305.14973) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing**](https://arxiv.org/abs/2305.15338) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
-[**Self-Evolution Learning for Discriminative Language Model Pretraining**](https://arxiv.org/abs/2305.15275) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**](https://arxiv.org/abs/2305.15072) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/superjamessyx/generative-foundation-ai-assistant-for-pathology)
-
-[**Not All Metrics Are Guilty: Improving NLG Evaluation with LLM Paraphrasing**](https://arxiv.org/abs/2305.15067) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/rucaibox/para-ref)
-
-[**Are Chatbots Ready for Privacy-Sensitive Applications? An Investigation into Input Regurgitation and Prompt-Induced Sanitization**](https://arxiv.org/abs/2305.15008) （**2023.05.24**）
+[**Adversarial Demonstration Attacks on Large Language Models**](https://arxiv.org/abs/2305.14950) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+[**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Coverage-based Example Selection for In-Context Learning**](https://arxiv.org/abs/2305.14907) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Exploring Diverse In-Context Configurations for Image Captioning**](https://arxiv.org/abs/2305.14800) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2.1k-blue)](https://github.com/mlfoundations/open_flamingo)
+
+[**Mastering the ABCDs of Complex Questions: Answer-Based Claim Decomposition for Fine-grained Self-Evaluation**](https://arxiv.org/abs/2305.14750) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**ExpertPrompting: Instructing Large Language Models to be Distinguished Experts**](https://arxiv.org/abs/2305.14688) （**2023.05.24**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-41-blue)](https://github.com/ofa-sys/expertllama)
 
 
 </div>
@@ -539,21 +511,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks**](https://arxiv.org/abs/2305.14201) （**2023.05.23**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
 
-[**Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations**](https://arxiv.org/abs/2305.14556) （**2023.05.23**）
+[**Enhance Reasoning Ability of Visual-Language Models via Large Language Models**](https://arxiv.org/abs/2305.13267) （**2023.05.22**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
-[**Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization**](https://arxiv.org/abs/2305.14548) （**2023.05.23**）
+[**InstructVid2Vid: Controllable Video Editing with Natural Language Instructions**](https://arxiv.org/abs/2305.12328) （**2023.05.21**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/kenchan0226/finegrainedfact)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+
+[**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
 
 
 </div>
@@ -578,19 +550,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**](https://arxiv.org/abs/2305.14795) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -602,7 +562,19 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
+[**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
+
+[**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.11499) （**2023.05.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**AutoTrial: Prompting Language Models for Clinical Trial Design**](https://doi.org/10.48550/arXiv.2305.11366) （**2023.05.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -629,19 +601,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**](https://arxiv.org/abs/2305.14795) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -653,7 +613,19 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
+[**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
+
+[**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.11499) （**2023.05.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**AutoTrial: Prompting Language Models for Clinical Trial Design**](https://doi.org/10.48550/arXiv.2305.11366) （**2023.05.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -676,37 +648,37 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 [**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Cross-functional Analysis of Generalisation in Behavioural Learning**](https://arxiv.org/abs/2305.12951) （**2023.05.22**）
+[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Enhancing Cross-lingual Natural Language Inference by Soft Prompting with Multilingual Verbalizer**](https://arxiv.org/abs/2305.12761) （**2023.05.22**）
+[**AutoTrial: Prompting Language Models for Clinical Trial Design**](https://doi.org/10.48550/arXiv.2305.11366) （**2023.05.19**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**A Benchmark on Extremely Weakly Supervised Text Classification: Reconcile Seed Matching and Prompting Approaches**](https://arxiv.org/abs/2305.12749) （**2023.05.22**）
+[**Efficient Prompting via Dynamic In-Context Learning**](https://doi.org/10.48550/arXiv.2305.11170) （**2023.05.18**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
+[**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**](https://doi.org/10.48550/arXiv.2302.03668) （**2023.02.07**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/csitfun/logicot)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-413-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
 
-[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
+[**Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?**](https://doi.org/10.48550/arXiv.2301.00184) （**2022.12.31**）
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-4-green)  [![](https://img.shields.io/badge/Github%20Stars-38-blue)](https://github.com/whwu95/Cap4Video)
 
-[**Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning**](https://doi.org/10.48550/arXiv.2305.11759) （**2023.05.19**）
+[**SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning**](https://doi.org/10.48550/arXiv.2212.10929) （**2022.12.21**）
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-1-green)
+
+[**ADEPT: A DEbiasing PrompT Framework**](https://doi.org/10.48550/arXiv.2211.05414) （**2022.11.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/EmpathYang/ADEPT)
 
 
 </div>

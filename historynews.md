@@ -4,6 +4,52 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.6.25]**
+- Paper: [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561)
+
+**[2023.6.24]**
+- Paper: [PromptIR: Prompting for All-in-One Blind Image Restoration](https://www.researchgate.net/publication/371786106_PromptIR_Prompting_for_All-in-One_Blind_Image_Restoration)
+
+**[2023.6.23]**
+- Paper: [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://arxiv.org/format/2306.12174)
+    
+**[2023.6.22]**
+- [Stanford has released an automatic evaluation system for LLM called AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)
+- [Ocean-1: the world's first contact center foundation model.](https://cresta.com/blog/introducing-ocean-1-worlds-first-contact-center-foundation-model/)
+
+**[2023.6.21]**
+- [GPT-Engineering, Who generates an entire codebase based on a prompt.](https://github.com/AntonOsika/gpt-engineer)
+
+**[2023.6.20]**
+- Paper: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://scontent-fra3-1.xx.fbcdn.net/v/t39.8562-6/354636794_599417672291955_3799385851435258804_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=PW3or0UVoKoAX-2_D0q&_nc_ht=scontent-fra3-1.xx&oh=00_AfB2SW8Rp55YKG0AEJcpC9tUECbXdl_m83yk9cxX7jie1A&oe=64967631)
+    
+**[2023.6.19]**
+- Technical Report: [AIGC industry overview article from SEALAND SECURITIES](https://pdf.dfcfw.com/pdf/H3_AP202303201584404280_1.pdf?1679327615000.pdf)
+
+**[2023.6.18]**
+- Paper: [ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://arxiv.org/abs/2306.03901)
+    
+**[2023.6.17]**
+- Paper: [Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://www.researchgate.net/publication/371540959_Macaw-LLM_Multi-Modal_Language_Modeling_with_Image_Audio_Video_and_Text_Integration)
+
+**[2023.6.16]**
+- Financial [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) model open source, benchmarked against BloombergGPT, training parameters can be reduced from 6.17 billion to 3.67 million, can predict stock prices. ([Paper](https://arxiv.org/abs/2306.06031)/[Code](https://github.com/AI4Finance-Foundation/FinGPT))
+
+**[2023.6.15]**
+- Paper:[MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models](https://arxiv.org/abs/2306.01311 )
+    
+**[2023.6.14]**
+- Paper:[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971)
+    
+**[2023.6.13]**
+- Paper:[Simple and Controllable Music Generation](https://arxiv.org/pdf/2306.05284.pdf)
+ 
+**[2023.6.12]**
+- Paper: [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2306.05425)
+    
+**[2023.6.11]**
+- Paper: [M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models](https://arxiv.org/abs/2306.05179)
+
 **[2023.6.10]**
 - [Aquila, language model series, including the Aquila Basic Model (7B and 33B), AquilaChat dialogue model, and AquilaCode text-to-code generation model.](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)
     
