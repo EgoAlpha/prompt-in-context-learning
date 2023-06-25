@@ -5,9 +5,97 @@
 <div style="line-height:0.2em;">
 
 
-[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
+[**Chain-Of-Thought Prompting Under Streaming Batch: A Case Study**](https://doi.org/10.48550/arXiv.2306.00550) （**2023.06.01**）
 
-<font color="gray">Yau-Shian Wang, Ta-Chung Chi, Ruohong Zhang, Yiming Yang </font>
+<font color="gray">Yuxin Tang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Majority Rule: better patching via Self-Consistency**](https://doi.org/10.48550/arXiv.2306.00108) （**2023.05.31**）
+
+<font color="gray">Toufique Ahmed, Prem Devanbu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Strategic Reasoning with Language Models**](https://doi.org/10.48550/arXiv.2305.19165) （**2023.05.30**）
+
+<font color="gray">Kanishk Gandhi, Dorsa Sadigh, Noah D. Goodman .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2305.18507) （**2023.05.29**）
+
+<font color="gray">Y. Hu, Haotong Yang, Zhouchen Lin, Muhan Zhang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning**](https://doi.org/10.48550/arXiv.2305.18170) （**2023.05.29**）
+
+<font color="gray">Zhanming Jie, Wei Lu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/allanj/dynamic-pal)
+
+---
+
+[**Tab-CoT: Zero-shot Tabular Chain of Thought**](https://doi.org/10.48550/arXiv.2305.17812) （**2023.05.28**）
+
+<font color="gray">Ziqi Jin, Wei Lu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-13-blue)](https://github.com/xalp/tab-cot)
+
+---
+
+[**Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2305.16582) （**2023.05.26**）
+
+<font color="gray">Yao Yao, Z. Li, Hai Zhao .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**](https://doi.org/10.48550/arXiv.2305.16896) （**2023.05.26**）
+
+<font color="gray">Tatsuro Inaba, Hirokazu Kiyomaru, Fei Cheng, S. Kurohashi .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/inabatatsuro/multitool-cot)
+
+---
+
+[**Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance**](https://doi.org/10.48550/arXiv.2305.17306) （**2023.05.26**）
+
+<font color="gray">Yao Fu, Litu Ou, Mingyu Chen, Yuhao Wan, Hao-Chun Peng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/franxyao/chain-of-thought-hub)
+
+---
+
+[**Demo2Code: From Summarizing Demonstrations to Synthesizing Code via Extended Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.16744) （**2023.05.26**）
+
+<font color="gray">Huaxiaoyue Wang, Gonzalo Gonzalez-Pumariega, Yash Sharma, Sanjiban Choudhury .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective**](https://arxiv.org/abs/2305.15408) （**2023.05.24**）
+
+<font color="gray">Guhao Feng, Yuntian Gu, Bohang Zhang, Haotian Ye, Di He, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Revisiting Parallel Context Windows: A Frustratingly Simple Alternative and Chain-of-Thought Deterioration**](https://arxiv.org/abs/2305.15262) （**2023.05.24**）
+
+<font color="gray">Kejuan Yang, Xiao Liu, Kaiwen Men, Aohan Zeng, Yuxiao Dong, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -21,81 +109,9 @@
 
 ---
 
-[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
-
-<font color="gray">Wenting Zhao, Justin T. Chiu, Claire Cardie, Alexander M. Rush </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations**](https://arxiv.org/abs/2305.14556) （**2023.05.23**）
-
-<font color="gray">Tiziano Labruna, Sofia Brenna, Andrea Zaninello, Bernardo Magnini </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-[**Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization**](https://arxiv.org/abs/2305.14548) （**2023.05.23**）
-
-<font color="gray">Hou Pong Chan, Qi Zeng, Heng Ji </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/kenchan0226/finegrainedfact)
-
----
-
-[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
-
-<font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/rucaibox/chatcot)
-
----
-
-[**mPMR: A Multilingual Pre-trained Machine Reader at Scale**](https://arxiv.org/abs/2305.13645) （**2023.05.23**）
-
-<font color="gray">Weiwen Xu, Xin Li, Wai Lam, Lidong Bing </font>
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/damo-nlp-sg/pmr)
-
----
-
-[**Cross-functional Analysis of Generalisation in Behavioural Learning**](https://arxiv.org/abs/2305.12951) （**2023.05.22**）
-
-<font color="gray">Pedro Henrique Luz de Araujo, Benjamin Roth </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**LM-Switch: Lightweight Language Model Conditioning in Word Embedding Space**](https://arxiv.org/abs/2305.12798) （**2023.05.22**）
-
-<font color="gray">Chi Han, Jialiang Xu, Manling Li, Y. Fung, Chenkai Sun, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
-[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
-
-<font color="gray">Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/csitfun/logicot)
-
----
-
 [**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**](https://doi.org/10.48550/arXiv.2305.11499) （**2023.05.19**）
 
 <font color="gray">Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
-
-<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

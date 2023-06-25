@@ -5,11 +5,11 @@
 <div style="line-height:0.2em;">
 
 
-[**Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing**](https://arxiv.org/abs/2305.15338) （**2023.05.24**）
+[**MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models**](https://doi.org/10.48550/arXiv.2306.01311) （**2023.06.02**）
 
-<font color="gray">Shufan Wang, Sebastien Jean, Sailik Sengupta, James Gung, Nikolaos Pappas, etc </font>
+<font color="gray">Masoud Monajatipoor, Liunian Harold Li, Mozhdeh Rouhsedaghat, Lin F. Yang, Kai-Wei Chang .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -18,6 +18,14 @@
 <font color="gray">Haopeng Zhang, Xiao Liu, Jiawei Zhang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing**](https://arxiv.org/abs/2305.15338) （**2023.05.24**）
+
+<font color="gray">Shufan Wang, Sebastien Jean, Sailik Sengupta, James Gung, Nikolaos Pappas, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
@@ -597,19 +605,19 @@
 
 ---
 
-[**Multitask Prompted Training Enables Zero-Shot Task Generalization**](https://arxiv.org/abs/2110.08207) （**2021.10.15**）
-
-<font color="gray">Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, etc .  - 【International Conference on Learning Representations】</font>
-
-![](https://img.shields.io/badge/Citations-387-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-464-red)  [![](https://img.shields.io/badge/Github%20Stars-1.8k-blue)](https://github.com/bigscience-workshop/promptsource)
-
----
-
 [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53) （**2021.10.15**）
 
 <font color="gray">Yanda Chen, Ruiqi Zhong, Sheng Zha, G. Karypis, He He .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
 ![](https://img.shields.io/badge/Citations-32-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-72-red)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/yandachen/in-context-tuning)
+
+---
+
+[**Multitask Prompted Training Enables Zero-Shot Task Generalization**](https://arxiv.org/abs/2110.08207) （**2021.10.15**）
+
+<font color="gray">Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, etc .  - 【International Conference on Learning Representations】</font>
+
+![](https://img.shields.io/badge/Citations-387-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-464-red)  [![](https://img.shields.io/badge/Github%20Stars-1.8k-blue)](https://github.com/bigscience-workshop/promptsource)
 
 ---
 
