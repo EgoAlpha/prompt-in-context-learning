@@ -82,6 +82,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
     
 - **[2023.7.3]**
     - [Largest-scale Chinese multitask instruction set, introducing a thousand Chinese datasets.](https://huggingface.co/datasets/BAAI/COIG-PC)
+    - Paper: [Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](http://arxiv.org/abs/2306.15195)
     
 - **[2023.7.2]**
     - Paper: [Towards Measuring the Representation of Subjective Global Opinions in Language Models](https://arxiv.org/abs/2306.16388)
