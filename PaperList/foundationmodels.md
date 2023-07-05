@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://doi.org/10.48550/arXiv.2306.14824) （**2023.06.26**）
+
+<font color="gray">Zhiliang Peng, Wenhui Wang, Li Dong, Y. Hao, Shaohan Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-13.1k-blue)](https://github.com/microsoft/unilm/tree/master/kosmos-2)
+
+---
+
+[**AudioPaLM: A Large Language Model That Can Speak and Listen**](https://doi.org/10.48550/arXiv.2306.12925) （**2023.06.22**）
+
+<font color="gray">Paul K. Rubenstein, Chulayuth Asawaroengchai, D. Nguyen, Ankur Bapna, Zalán Borsos, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance**](https://doi.org/10.48550/arXiv.2306.05443) （**2023.06.08**）
+
+<font color="gray">Qianqian Xie, Weiguang Han, Xiao Zhang, Yanzhao Lai, Min Peng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-123-blue)](https://github.com/chancefocus/pixiu)
+
+---
+
 [**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**](https://doi.org/10.48550/arXiv.2306.05179) （**2023.06.08**）
 
 <font color="gray">Wenxuan Zhang, Sharifah Mahani Aljunied, Chang Gao, Yew Ken Chia, Lidong Bing .  - 【arXiv.org】</font>
@@ -42,6 +66,14 @@
 <font color="gray">Avi Caciularu, Matthew E. Peters, Jacob Goldberger, Ido Dagan, Arman Cohan </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**](https://arxiv.org/abs/2305.15367) （**2023.05.24**）
+
+<font color="gray">Yunxiang Li, Meixu Chen, Wenxuan Yang, Kai Wang, Jun Ma, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/kent0n-li/samscore)
 
 ---
 
@@ -85,11 +117,35 @@
 
 ---
 
+[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
+
+<font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/rucaibox/chatcot)
+
+---
+
 [**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
 
 <font color="gray">Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
+
+---
+
+[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
+
+<font color="gray">Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/csitfun/logicot)
+
+---
+
+[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
+
+<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -161,7 +217,7 @@
 
 <font color="gray">Amanda Bertsch, Uri Alon, Graham Neubig, Matthew R. Gormley .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-735-blue)](https://github.com/abertsch72/unlimiformer)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-796-blue)](https://github.com/abertsch72/unlimiformer)
 
 ---
 
@@ -185,7 +241,7 @@
 
 <font color="gray">Maciej A. Mazurowski, Haoyu Dong, Han Gu, Jichen Yang, N. Konz, etc </font>
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-39-red)  [![](https://img.shields.io/badge/Github%20Stars-42-blue)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-56-red)  [![](https://img.shields.io/badge/Github%20Stars-55-blue)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)
 
 ---
 
@@ -249,7 +305,7 @@
 
 <font color="gray">Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'Brien, etc </font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-5.5k-blue)](https://github.com/eleutherai/gpt-neox)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-5.7k-blue)](https://github.com/eleutherai/gpt-neox)
 
 ---
 
@@ -385,7 +441,7 @@
 
 <font color="gray">Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, etc .  - 【International Conference on Learning Representations】</font>
 
-![](https://img.shields.io/badge/Citations-244-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-765-red)  [![](https://img.shields.io/badge/Github%20Stars-4.3k-blue)](https://github.com/microsoft/LoRA)
+![](https://img.shields.io/badge/Citations-244-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-996-red)  [![](https://img.shields.io/badge/Github%20Stars-5.2k-blue)](https://github.com/microsoft/LoRA)
 
 ---
 

@@ -13,6 +13,14 @@
 
 ---
 
+[**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance**](https://doi.org/10.48550/arXiv.2306.05443) （**2023.06.08**）
+
+<font color="gray">Qianqian Xie, Weiguang Han, Xiao Zhang, Yanzhao Lai, Min Peng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-123-blue)](https://github.com/chancefocus/pixiu)
+
+---
+
 [**Learning Multi-Step Reasoning by Solving Arithmetic Tasks**](https://doi.org/10.48550/arXiv.2306.01707) （**2023.06.02**）
 
 <font color="gray">Tianduo Wang, Wei Lu .  - 【arXiv.org】</font>
@@ -93,6 +101,14 @@
 
 ---
 
+[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
+
+<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Writing your own book: A method for going from closed to open book QA to improve robustness and performance of smaller LLMs**](https://doi.org/10.48550/arXiv.2305.11334) （**2023.05.18**）
 
 <font color="gray">Giorgi Kokaia, Pratyush Sinha, Yutong Jiang, N. Boujemaa .  - 【arXiv.org】</font>
@@ -145,7 +161,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-24-red)  [![](https://img.shields.io/badge/Github%20Stars-172-blue)](https://github.com/amazon-science/prompt-pretraining)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-32-red)  [![](https://img.shields.io/badge/Github%20Stars-181-blue)](https://github.com/amazon-science/prompt-pretraining)
 
 ---
 
@@ -169,7 +185,7 @@
 
 <font color="gray">Wenxuan Zhou, Sheng Zhang, Hoifung Poon, Muhao Chen .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/wzhouad/context-faithful-llm)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-24-blue)](https://github.com/wzhouad/context-faithful-llm)
 
 ---
 
@@ -257,7 +273,7 @@
 
 <font color="gray">Shizhe Diao, Xuechun Li, Yong Lin, Zhichao Huang, Xiao Zhou, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-39-red)  [![](https://img.shields.io/badge/Github%20Stars-32-blue)](https://github.com/shizhediao/black-box-prompt-learning)
+![](https://img.shields.io/badge/Citations-17-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-42-red)  [![](https://img.shields.io/badge/Github%20Stars-34-blue)](https://github.com/shizhediao/black-box-prompt-learning)
 
 ---
 
@@ -273,7 +289,7 @@
 
 <font color="gray">Albert Webson, Ellie Pavlick .  - 【North American Chapter of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-71-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-169-red)  [![](https://img.shields.io/badge/Github%20Stars-71-blue)](https://github.com/awebson/prompt_semantics)
+![](https://img.shields.io/badge/Citations-71-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-174-red)  [![](https://img.shields.io/badge/Github%20Stars-74-blue)](https://github.com/awebson/prompt_semantics)
 
 ---
 

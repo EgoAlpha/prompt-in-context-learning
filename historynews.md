@@ -4,6 +4,33 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.7.4]**
+- Paper:[Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](http://arxiv.org/abs/2306.15195)
+    
+**[2023.7.3]**
+- [Largest-scale Chinese multitask instruction set, introducing a thousand Chinese datasets.](https://huggingface.co/datasets/BAAI/COIG-PC)
+    
+**[2023.7.2]**
+- Paper: [Towards Measuring the Representation of Subjective Global Opinions in Language Models](https://arxiv.org/abs/2306.16388)
+    
+**[2023.7.1]**
+- Paper:[Masked Vision-language Transformer in Fashion](https://link.springer.com/article/10.1007/s11633-022-1394-4)
+    
+**[2023.6.30]**
+- Paper: [Inferring the Goals of Communicating Agents from Actions and Instructions](https://arxiv.org/abs/2306.16207)
+
+**[2023.6.29]**
+- Paper: [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/pdf/2306.12925.pdf)
+
+**[2023.6.28]**
+- Paper:[Kosmos-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs//2306.14824)
+
+**[2023.6.27]**
+- Paper: [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549v1.pdf)
+    
+**[2023.6.26]**
+- Paper: [PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance](https://arxiv.org/abs/2306.05443)
+
 **[2023.6.25]**
 - Paper: [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561)
 

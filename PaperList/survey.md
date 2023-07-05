@@ -5,6 +5,38 @@
 <div style="line-height:0.2em;">
 
 
+[**A Survey on Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2306.13549) （**2023.06.23**）
+
+<font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-2.2k-blue)](https://github.com/bradyfu/awesome-multimodal-large-language-models)
+
+---
+
+[**A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation**](https://doi.org/10.48550/arXiv.2306.07198) （**2023.06.12**）
+
+<font color="gray">Jeremy Gwinnup, Kevin Duh .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective**](https://arxiv.org/abs/2305.15408) （**2023.05.24**）
+
+<font color="gray">Guhao Feng, Yuntian Gu, Bohang Zhang, Haotian Ye, Di He, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
+
+<font color="gray">Po-Nien Kung, Nanyun Peng .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Prompt Engineering for Healthcare: Methodologies and Applications**](https://doi.org/10.48550/arXiv.2304.14670) （**2023.04.28**）
 
 <font color="gray">Jiaqi Wang, Enze Shi, Sigang Yu, Zihao Wu, Chong Ma, etc .  - 【arXiv.org】</font>
@@ -17,7 +49,7 @@
 
 <font color="gray">Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-186-red)  [![](https://img.shields.io/badge/Github%20Stars-4.5k-blue)](https://github.com/mooler0410/llmspracticalguide)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-257-red)  [![](https://img.shields.io/badge/Github%20Stars-5.3k-blue)](https://github.com/mooler0410/llmspracticalguide)
 
 ---
 
@@ -49,7 +81,7 @@
 
 <font color="gray">Jie Huang, K. Chang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-296-blue)](https://github.com/jeffhj/lm-reasoning)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-331-blue)](https://github.com/jeffhj/lm-reasoning)
 
 ---
 
@@ -57,7 +89,7 @@
 
 <font color="gray">Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-375-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-429-blue)](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
 ---
 
@@ -65,7 +97,7 @@
 
 <font color="gray">Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, etc .  - 【ACM Computing Surveys】</font>
 
-![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.6k-red)  [![](https://img.shields.io/badge/Github%20Stars-201-blue)](https://github.com/mingkaid/rl-prompt)
+![](https://img.shields.io/badge/Citations-462-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1.7k-red)  [![](https://img.shields.io/badge/Github%20Stars-209-blue)](https://github.com/mingkaid/rl-prompt)
 
 
 </div>

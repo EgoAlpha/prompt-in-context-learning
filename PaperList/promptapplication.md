@@ -5,11 +5,43 @@
 <div style="line-height:0.2em;">
 
 
+[**Inferring the Goals of Communicating Agents from Actions and Instructions**](https://doi.org/10.48550/arXiv.2306.16207) （**2023.06.28**）
+
+<font color="gray">Lance Ying, Tan Zhi-Xuan, Vikash K. Mansinghka, J. Tenenbaum .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://doi.org/10.48550/arXiv.2306.14824) （**2023.06.26**）
+
+<font color="gray">Zhiliang Peng, Wenhui Wang, Li Dong, Y. Hao, Shaohan Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-13.1k-blue)](https://github.com/microsoft/unilm/tree/master/kosmos-2)
+
+---
+
+[**AudioPaLM: A Large Language Model That Can Speak and Listen**](https://doi.org/10.48550/arXiv.2306.12925) （**2023.06.22**）
+
+<font color="gray">Paul K. Rubenstein, Chulayuth Asawaroengchai, D. Nguyen, Ankur Bapna, Zalán Borsos, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**](https://doi.org/10.48550/arXiv.2306.07971) （**2023.06.13**）
 
 <font color="gray">Omkar Thawakar, Abdelrahman M. Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, R. Anwer, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-232-blue)](https://github.com/mbzuai-oryx/xraygpt)
+
+---
+
+[**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance**](https://doi.org/10.48550/arXiv.2306.05443) （**2023.06.08**）
+
+<font color="gray">Qianqian Xie, Weiguang Han, Xiao Zhang, Yanzhao Lai, Min Peng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-123-blue)](https://github.com/chancefocus/pixiu)
 
 ---
 
@@ -77,11 +109,35 @@
 
 ---
 
+[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
+
+<font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/rucaibox/chatcot)
+
+---
+
 [**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) （**2023.05.20**）
 
 <font color="gray">Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-23-blue)](https://github.com/teacherpeterpan/logic-llm)
+
+---
+
+[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
+
+<font color="gray">Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/csitfun/logicot)
+
+---
+
+[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
+
+<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -121,7 +177,7 @@
 
 <font color="gray">Stella Rose Biderman, Usvsn Sai Prashanth, Lintang Sutawika, Hailey Schoelkopf, Quentin G. Anthony, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-19-red)  [![](https://img.shields.io/badge/Github%20Stars-1.3k-blue)](https://github.com/eleutherai/pythia)
 
 ---
 
@@ -201,7 +257,7 @@
 
 <font color="gray">Junyi Li, Tianyi Tang, J. Nie, Ji-rong Wen, Wayne Xin Zhao .  - 【North American Chapter of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/rucaibox/transfer-prompts-for-text-generation)
+![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-21-blue)](https://github.com/rucaibox/transfer-prompts-for-text-generation)
 
 ---
 
@@ -209,7 +265,7 @@
 
 <font color="gray">Yew Ken Chia, Lidong Bing, Soujanya Poria, Luo Si .  - 【Findings】</font>
 
-![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/declare-lab/relationprompt)
+![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-102-blue)](https://github.com/declare-lab/relationprompt)
 
 ---
 
@@ -225,7 +281,7 @@
 
 <font color="gray">Stephen H. Bach, Victor Sanh, Zheng Xin Yong, Albert Webson, Colin Raffel, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-54-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-95-red)  [![](https://img.shields.io/badge/Github%20Stars-1.8k-blue)](https://github.com/bigscience-workshop/promptsource)
+![](https://img.shields.io/badge/Citations-54-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-113-red)  [![](https://img.shields.io/badge/Github%20Stars-1.9k-blue)](https://github.com/bigscience-workshop/promptsource)
 
 ---
 
@@ -233,7 +289,7 @@
 
 <font color="gray">Andrea Madotto, Zhaojiang Lin, Genta Indra Winata, Pascale Fung .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-24-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-67-red)  [![](https://img.shields.io/badge/Github%20Stars-664-blue)](https://github.com/tunib-ai/parallelformers)
+![](https://img.shields.io/badge/Citations-24-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-69-red)  [![](https://img.shields.io/badge/Github%20Stars-685-blue)](https://github.com/tunib-ai/parallelformers)
 
 ---
 
