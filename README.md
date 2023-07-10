@@ -79,7 +79,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.7.9]**
     - Paper: [Schema-learning and rebinding as mechanisms of in-context learning and emergence](https://arxiv.org/abs/2307.01201)
-    
+
 - **[2023.7.8]**
     - Paper:[SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/abs/2306.17842)
 
@@ -108,18 +108,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
     
 - **[2023.6.30]**
     - Paper: [Inferring the Goals of Communicating Agents from Actions and Instructions](https://arxiv.org/abs/2306.16207)
-
-- **[2023.6.29]**
-    - Paper: [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/pdf/2306.12925.pdf)
-
-- **[2023.6.28]**
-    - Paper:[Kosmos-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs//2306.14824)
-
-- **[2023.6.27]**
-    - Paper: [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549v1.pdf)
-    
-- **[2023.6.26]**
-    - Paper: [PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance](https://arxiv.org/abs/2306.05443)
 
 [👉 Complete history news 👈](./historynews.md)
 
