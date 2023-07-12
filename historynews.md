@@ -4,6 +4,33 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.7.12]**
+- Claude2👉 **\[Paper\]**[Model Card and Evaluations for Claude Models](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf) / **[Website]**(https://claude.ai/)
+
+**[2023.7.11]**
+- Paper: [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)
+- Paper: [Focused Transformer: Contrastive Training for Context Scaling](https://arxiv.org/pdf/2307.03170.pdf)
+
+**[2023.7.10]**
+- Paper:[Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models](https://arxiv.org/pdf/2305.15023.pdf)
+    
+**[2023.7.9]**
+- Paper: [Schema-learning and rebinding as mechanisms of in-context learning and emergence](https://arxiv.org/abs/2307.01201)
+
+**[2023.7.8]**
+- Paper:[SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/abs/2306.17842)
+
+**[2023.7.7]**
+- [GPT-4 API general availability](https://openai.com/blog/gpt-4-api-general-availability)
+- Paper:[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
+    
+**[2023.7.6]**
+- Paper:[LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
+
+**[2023.7.5]**
+- [MetaGPT: Multi-Role Meta-Programming Framework](https://github.com/geekan/MetaGPT)
+- Paper: [Conformer LLMs -- Convolution Augmented Large Language Models](https://arxiv.org/abs/2307.00461)
+
 **[2023.7.4]**
 - Paper:[Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](http://arxiv.org/abs/2306.15195)
     

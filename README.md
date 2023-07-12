@@ -96,28 +96,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.7.7]**
     - [GPT-4 API general availability](https://openai.com/blog/gpt-4-api-general-availability)
     - Paper:[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
-    
-- **[2023.7.6]**
-    - Paper:[LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
-
-- **[2023.7.5]**
-    - [MetaGPT: Multi-Role Meta-Programming Framework](https://github.com/geekan/MetaGPT)
-    - Paper: [Conformer LLMs -- Convolution Augmented Large Language Models](https://arxiv.org/abs/2307.00461)
-
-- **[2023.7.4]**
-    - Paper:[Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](http://arxiv.org/abs/2306.15195)
-    
-- **[2023.7.3]**
-    - [Largest-scale Chinese multitask instruction set, introducing a thousand Chinese datasets.](https://huggingface.co/datasets/BAAI/COIG-PC)
-    
-- **[2023.7.2]**
-    - Paper: [Towards Measuring the Representation of Subjective Global Opinions in Language Models](https://arxiv.org/abs/2306.16388)
-    
-- **[2023.7.1]**
-    - Paper:[Masked Vision-language Transformer in Fashion](https://link.springer.com/article/10.1007/s11633-022-1394-4)
-    
-- **[2023.6.30]**
-    - Paper: [Inferring the Goals of Communicating Agents from Actions and Instructions](https://arxiv.org/abs/2306.16207)
 
 [👉 Complete history news 👈](./historynews.md)
 
