@@ -116,8 +116,8 @@ As resources are limited, we suggest using this playground for learning and prac
 
 ## 📈 *The following table show that the LLMs from China*
 
-| Model |  Source | Paper/Blog | Params (B)|
+| Model |  Source | Link | Params (B)|
 | :---: | :---: | :---: | :---: |
-| 文心一言| 百度 | [OIG](https://huggingface.co/datasets/laion/OIG) | 44,000 |
-| 星火| 科大讯飞| [OIG](https://huggingface.co/datasets/laion/OIG) | 44,000 |
-| 曹植| 达观数据 | [OIG](https://huggingface.co/datasets/laion/OIG) | 44,000 |
+| 文心一言| 百度 | [⛓️]()|- |
+| 星火| 科大讯飞| [⛓️](https://xinghuo.xfyun.cn/) |  |
+| 曹植| 达观数据 | |
