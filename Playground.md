@@ -114,10 +114,3 @@ As resources are limited, we suggest using this playground for learning and prac
 | OpenAssistant Conversations Dataset |  [Blog](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view) | [oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 161 |Apr-23 |alignment-tuning|
 | OIG (Open Instruction Generalist)   |  [Blog](https://laion.ai/blog/oig-dataset/) | [OIG](https://huggingface.co/datasets/laion/OIG) | 44,000 | Mar-23 |instruction-tuning|
 
-## 📈 *The following table show that the LLMs from China*
-
-| Model |  Source | Link | Params (B)|
-| :---: | :---: | :---: | :---: |
-| 文心一言| 百度 | [⛓️]()|- |
-| 星火| 科大讯飞| [⛓️](https://xinghuo.xfyun.cn/) |  |
-| 曹植| 达观数据 | |
