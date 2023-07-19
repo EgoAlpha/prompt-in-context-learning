@@ -5,7 +5,7 @@
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 📜 Catlog
+## 📜 Table of Contents
 - [About TrustGPT \[From EgoAlpha\]](#trustgpt)
 - [Directly Usage of LLMs](#🤩-these-models-in-the-table-below-are-directly-accessible-via-links-the-page-contains-the-usage-guide-and-api-interface-of-the-model-for-the-convenience-of-all-developers-and-researchers-to-expolre-and-experience-the-checkpoints-can-also-obtained-by-corresponding-links)
 - [Providing the Pretrain-weights](#🤨-the-models-in-the-table-below-all-provide-pre-trained-weights-on-which-developers-can-fine-tune-without-changing-the-original-backbone-architecture-and-people-can-visually-see-the-work-of-a-good-team-of-researchers-by-using-the-pre-trained-weights-of-the-models-directly-for-a-good-demo)
