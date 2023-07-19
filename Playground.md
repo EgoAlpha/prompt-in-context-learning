@@ -31,6 +31,8 @@ We will gradually release the following features:
 
 As resources are limited, we suggest using this playground for learning and practicing prompt techniques rather than for work. This will help more people access prompt engineering.
 
+<img width="200%" src="./figures/hr.gif" />
+
 ### 🤩 *These models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience. The Checkpoints can also obtained by corresponding links.*
 
 |   Model  | Type | Lab | Playgrounds| Params(B) | Blog/Paper/Github | Checkpoints |Announced Time|
