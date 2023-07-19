@@ -24,6 +24,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 |   Model  | Type | Lab | Playgrounds| Params(B) | Blog/Paper/Github | Checkpoints |Announced Time|
 | :----: | :----: | :----:  | :----: | :----:|:----: |:----:|:----:|
+| Llama-2 | Decoder| Meta | [🔗](https://ai.meta.com/llama/#inside-the-model) | 7,13,70 |[Github](https://github.com/facebookresearch/llama)/[Paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/ )/[Blog](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)|[Llama-7B, Llama-13B, Llama-70B](https://ai.meta.com/llama/#inside-the-model)|Jul-23|
 | Falcon | Decoder| TII | [🔗](https://huggingface.co/tiiuae) | 1,7,40 |[Blog](https://falconllm.tii.ae/)|[Falcon-40B-instruct](https://huggingface.co/tiiuae/falcon-40b), [Falcon-7B-instruct](https://huggingface.co/tiiuae/falcon-7b-instruct),[Falcon-RW-1B](https://huggingface.co/tiiuae/falcon-rw-1b),[Falcon-RW-7B](https://huggingface.co/tiiuae/falcon-rw-7b)|May-23|
 | GPT-J-6B | Decoder| EleutherAI | [🔗](https://github.com/EleutherAI/pythia) | 6 |[Blog](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/)|[GPT-J-6B](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b), [GPT4All-J](https://github.com/nomic-ai/gpt4all#raw-model)|May-23|
 | DLite | Decoder| EleutherAI | [🔗](https://github.com/EleutherAI/pythia) | 0.124-1.5 |[Blog](https://medium.com/ai-squared/announcing-dlite-v2-lightweight-open-llms-that-can-run-anywhere-a852e5978c6e)|[dlite-v2-1_5b](https://huggingface.co/aisquared/dlite-v2-1_5b)|May-23|
@@ -114,3 +115,119 @@ As resources are limited, we suggest using this playground for learning and prac
 | OpenAssistant Conversations Dataset |  [Blog](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view) | [oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 161 |Apr-23 |alignment-tuning|
 | OIG (Open Instruction Generalist)   |  [Blog](https://laion.ai/blog/oig-dataset/) | [OIG](https://huggingface.co/datasets/laion/OIG) | 44,000 | Mar-23 |instruction-tuning|
 
+## 🇨🇳 *The following table show that the LLMs from China, including the research lab, firms, and some universities.*
+
+>Note：The part of the contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
+
+|Source|Model & Link|Overview|
+|:-:|:-:|:-:|
+|复旦大学|[MOSS](https://github.com/OpenLMLab/MOSS)|[Playground](https://moss.fastnlp.top/)|
+|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|基于BLOOMZ或[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)系列的多个模型|
+|哈尔滨工业大学|[本草](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|医学；基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)；另有基于 ChatGLM 的[Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM)|
+|云知声|[山海](https://shanhai.unisound.com/) |通用大模型|
+|百度| [文心一言](https://yiyan.baidu.com)|[申请账号](https://yiyan.baidu.com)|
+|科大讯飞|[星火](https://xinghuo.xfyun.cn)|[申请账号](https://xinghuo.xfyun.cn/desk) |
+|清华大学|[ChatGLM](https://chatglm.cn/),[NowcastNet](https://www.nature.com/articles/s41586-023-06184-4)| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B), [智谱AI](http://open.bigmodel.ai/),[气象,临近预报大模型](https://mp.weixin.qq.com/s/MwJWjCLNqJM3lZ33RwK4Bg)|
+|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha),[盘古气象](https://www.nature.com/articles/s41586-023-06185-3),[盘古-Σ](https://arxiv.org/pdf/2303.10845.pdf)|华为+鹏城,[华为云盘古](https://www.huaweicloud.com/product/pangu.html)|
+|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|[试用需账号](https://aigc.datagrand.com/) |
+|阿里云|[通义千问](https://tongyi.aliyun.com/)|[试用需账号]( https://tongyi.aliyun.com)|
+|浙江大学|[启真](https://github.com/CMKRG/QiZhenGPT),[PromptProtein](https://github.com/HICAI-ZJU/PromptProtein)|医学大模型提供基于LLaMA-7B、CaMA-13B和ChatGLM-6B 三个版本,用于PromptProtein的[模型](https://github.com/HICAI-ZJU/OpenProtein)|
+|百川智能|[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B),[Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)|模型下载：[Baichuan-13B-Base](https://huggingface.co/baichuan-inc/Baichuan-13B-Base),[Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat),[Baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B),开源可商用|
+|上海人工智能实验室|[书生·浦语](https://internlm.org/), [OpenMEDLab浦医](https://github.com/openmedlab) |[技术报告](https://github.com/InternLM/InternLM-techreport),[开源的InternLM-7B](https://github.com/InternLM/InternLM),[HuggingFace下载模型权重](https://huggingface.co/internlm/internlm-7b)|
+|OpenBMB|[CPM](https://live.openbmb.org/),[CPM-Bee](https://github.com/OpenBMB/CPM-Bee)|[面壁智能](https://modelbest.cn/),[CPM-Bee-10B](https://huggingface.co/openbmb/cpm-bee-10b)|
+|港中文深圳|[华佗](https://github.com/FreedomIntelligence/HuatuoGPT)，[凤凰](https://github.com/FreedomIntelligence/LLMZoo)|香港中文大学（深圳）和深圳市大数据研究院，医学,[Demo](https://www.huatuogpt.cn/),华佗和凤凰都基于BLOOMZ|
+|中国科学院自动化研究所| [紫东·太初](https://gitee.com/zidongtaichu/multi-modal-models)|紫东太初2.0号称100B参数，全模态|
+|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
+|东北大学|[TechGPT](https://github.com/neukg/TechGPT),[PICA](https://github.com/NEU-DataMining/PICA)|TechGPT->BELLE->[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，图谱构建和阅读理解问答;PICA->ChatGLM2-6B情感大模型|
+|上海交通大学|[K2](https://github.com/davendw49/k2),[白玉兰](https://mp.weixin.qq.com/s/3eON8L4b7-d-1URwgdR6Bg)|[Demo](https://k2.acemap.info/)，GeoLLaMA，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，[HuggingFace](https://huggingface.co/daven3/k2_it_adapter) |
+|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |[姜子牙](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)系列模型 |
+|智源人工智能研究院|[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila),[悟道·EMU](https://github.com/baaivision/Emu)|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099),[HuggingFace](https://huggingface.co/BAAI),[EMU](https://huggingface.co/BAAI/Emu)基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
+|度小满|[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
+|23|360| [智脑](https://ai.360.cn/),[一见](https://github.com/360CVGroup/SEEChat)||
+|艾写科技|[Anima](https://github.com/lyogavin/Anima)|基于Guanaco->基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，使用QLoRA|
+|西湖心辰|[西湖](https://xinchenai.com/)|通用大模型|
+|晓多科技+国家超算成都中心|[晓模型XPT](https://www.xiaoduoai.com/blog/12433.html)|试用需要账号，[位置](https://www.xiaoduoai.com/x_model)|
+|稀宇科技|[MiniMax](https://api.minimax.chat/)|GLOW虚拟社交|
+|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),北语+清华+东北、北京交大|
+|商汤科技 | [SenseNova日日新](https://techday.sensetime.com/list)|商汤科技版ChatGPT |
+|国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)| 目前官网查询不到|
+|星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|无涯——金融；求索——大数据分析|
+|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA)| |
+|恒生电子|LightGPT| |
+|电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|通用视觉，中国电信|
+|左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
+|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|医疗领域|
+|好未来|[MathGPT](https://mp.weixin.qq.com/s/evLrZAFKa9mCplcqZnpZMw)|学而思|
+|数慧时空|[长城](https://mp.weixin.qq.com/s/KYB-noOt7gB0l5hh-rwfkQ)|自然资源，遥感|
+|理想科技|大道Dao|运维大模型|
+|硅基智能|[炎帝](https://mp.weixin.qq.com/s/XNu3UrSKm4jy1ayJJ6-HMg)|旅游行业大模型|
+| 中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|与复旦NLP实验室联合，工业领域|
+|创业黑马|[天启](https://mp.weixin.qq.com/s/lYqCe9skc0MOSzmmTiGAug) | 创业黑马与360合作,科创服务行业|
+|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg) | |
+|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|医学大模型，[论文](https://arxiv.org/pdf/2304.01097.pdf)|
+|华东师范大学 |[EmoGPT](https://mp.weixin.qq.com/s/xP-qm5YUj8fZD9YQ7t08NQ),[EduChat](https://github.com/icalk-nlp/EduChat)|EmoGPT是上海市心理健康与危机干预重点实验室与镜象科技公司合作完成, 教学教育大模型EduChat基于BELLE（BELLE基于LLaMA）|
+|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)|与奇点智源联合研发||
+|智媒开源研究院| [智媒](https://github.com/IMOSR/Media-LLaMA)|基于LLaMA，面向自媒体|
+|医疗算网|Uni-talk|上海联通+华山医院+上海超算中心+华为|
+|蚂蚁集团|贞仪|据传语言和多模态两个|
+|香港科技大学|[罗宾Robin](https://huggingface.co/OptimalScale)|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),[港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)|
+|腾讯|混元|-|
+|拓尔思|[拓天](https://mp.weixin.qq.com/s/beQardxjpner6vvk_LTOJA)| 中文通用大模型|
+|乐言科技|乐言 | TRSGPT|
+|清博智能 | [先问](https://mp.weixin.qq.com/s/Et-nVHjxDP3W-PFWmDo3YQ)|基于结构化数据|
+|智子引擎 | [元乘象](https://chatimg.aixiaoqingxu.com/)|手机号快速登录，使用方便|
+|拓世科技 |[拓世](https://tskjgroup.com/article_news?id=822)|[数万亿参数量，通用领域](https://tskjgroup.com/article_news?id=900)|
+|循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|循环智能,清华大学,华为 |
+|印象笔记|[大象GPT](https://mp.weixin.qq.com/s/O3nRSKBM29bCWKuRRi_PBg)| AGI智能化产品|
+|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)|以生成式AI重构企业软件（AI-Generated Software），提升企业软件的体验和开发效率。|
+|字节跳动 |Grace|内部代号|
+|出门问问|[序列猴子](https://write.mobvoi.com/)| AI写作助理大模型|
+|数说故事|[SocialGPT](https://mp.weixin.qq.com/s/Tt3dcwefIvdlyB_IwaFYRQ)| 聚焦社交对话大模型|
+|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)|通用大模型|
+|浪潮信息|[源](https://air.inspur.com/) |论文支撑——[源](https://github.com/Shawn-Inspur/Yuan-1.0)|
+|中国农业银行|[小数ChatABC](https://mp.weixin.qq.com/s/CXyZRIqhwrcGAKxzUC-qgg)|金融行业大模型 |
+|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/)| 需要账号登录，[登录位置](https://ailme.apusai.com/#/login)|
+|台智云|[福尔摩斯FFM](https://tws.twcc.ai/afs/)|华硕子公司|
+|医联科技|[medGPT](https://www.medlinker.com/news/198)| 国内首款AI医生|
+|理想汽车|MindGPT| -|
+|深思考人工智能|[Dongni](https://www.dongni.ai/)| 登录需要账号|
+|长虹|长虹超脑 |-|
+|孩子王|KidsGPT|- |
+|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|媒体、金融、宣传等领域的大模型应用|
+|中国联通 |鸿湖|-|
+|思必驰|[DFM-2](https://mp.weixin.qq.com/s/FxLw5UfJpYS1tCPDMkhvXA)|通用大模型|
+|中科创达|魔方Rubik| -|
+|电科太极 |[小可](https://mp.weixin.qq.com/s/8ci7g7R9j3pxkQC4UOLh2A)|党政企行业应用 |
+|中国移动|九天|-|
+|中国电信|TeleChat|-|
+|容联云|赤兔|客服，营销|
+|云天励飞|天书|-|
+|维智科技|CityGPT|城市大模型|
+|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) |自研大规模预训练语言模型|
+|京东|[言犀](https://www.jdcloud.com/cn/news/detail/1235)|面向不同过产业大模型|
+|智臻智能|[华藏](https://mp.weixin.qq.com/s/MZO2tvun05WnJkSe0seJnw)|小i机器人|
+|新华三H3C|百业灵犀|-|
+|鹏城实验室|鹏城·脑海|Peng Cheng Mind|
+|宇视科技|[梧桐](https://mp.weixin.qq.com/s/H8FsrEyJsIijy0Cowyu3GQ)|AIoT行业 |
+|网易有道|子曰 |- |
+|美亚柏科|[天擎](https://mp.weixin.qq.com/s/D3ki3G4Q7QZPAVJ8iwTvDg)|公共安全|
+|赛灵力科技 |达尔文|赛灵力,清华珠三角研究院,赛业生物,大湾区科技创新服务中心|
+|佳都科技 |佳都知行 |交通领域|
+|知乎|知海图|知乎和面壁科技合作|
+|实在智能 |塔斯| TARS|
+|网易伏羲|玉言|- |
+|北京大学信息工程学院|[ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|[ChatLaw-13B](https://huggingface.co/JessyTsu1/ChatLaw-13B)基于Ziya-LLaMA-13B-v1->LLaMA,[ChatLaw-33B](https://huggingface.co/JessyTsu1/ChatLaw-33B)基于Anima33B->Guanaco->[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
+|华南理工大学|[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|医疗大模型|
+|中国科学院计算技术研究所|[百聆](https://github.com/ictnlp/BayLing)|基于 [LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，权重Diff下载[7B](https://huggingface.co/ICTNLP/bayling-7b-diff)和[13B](https://huggingface.co/ICTNLP/bayling-13b-diff),[demo](http://nlp.ict.ac.cn/bayling/demo/) |
+|沪渝人工智能研究院|[兆言](https://mp.weixin.qq.com/s/RtcdWGrfIW5unyvxVplCSg)|也称：上海交通大学重庆人工智能研究院|
+|企查查|知彼阿尔法|-|
+|超对称技术公司| [乾元](https://bbt.ssymmetry.com/)|BBT-1-1B金融模型，BBT-2-12B-TF金融模型，BBT-2-12B-TC代码模型，BBT-2-12B-Image文生图模型，BBT-2-12B-Science科学论文模型，BBT-2.5-13B-Text中英双语基础模型|
+|清睿智能|[ArynGPT](https://mp.weixin.qq.com/s/FFRfzwoXBM2dGs9O7F-Z5A) |英语智能对话口语老师|
+|微盟|[WAI](https://wai.weimob.com/)|-|
+|蜜度|[文修](https://mp.weixin.qq.com/s/aHSw9Kxib3Zj84qDGn3Dyg)|智能校对|
+|中国电子云|[星智](https://mp.weixin.qq.com/s/qNoTD4BY2DX5ziSe1ZPSLw)|政务大模型|
+|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |流体力学大模型,湍流+流场 |
+|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
+|联汇科技 |欧姆|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/)|
+
+> # Please keep adding relevant information, we greatly appreciate your contributions.
