@@ -108,6 +108,8 @@ As resources are limited, we suggest using this playground for learning and prac
 | Gopher | Encoder  | DeepMind | [🔗](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) | 280|[Paper](https://arxiv.org/abs/2112.11446)/-|Dec-21|
 | LaMDA | Decoder | GoogleAI |[🔗](https://www.youtube.com/watch?v=aUSSfo5nCdM)| 137|[Paper](https://arxiv.org/abs/2201.08239)/-|Jun-21|
 
+<img width="200%" src="./figures/hr.gif" />
+
 ## 🎭 *The following table show that the LLMs for Code.* 
 
 | Model |  Checkpoints | Paper/Blog | Params (B)|Announced Time |
@@ -119,6 +121,8 @@ As resources are limited, we suggest using this playground for learning and prac
 | CodeGen2 |  [codegen2 1B-16B](https://github.com/salesforce/CodeGen2) | [Paper](https://arxiv.org/abs/2305.02309) | 1 - 16 | Apr-23 |
 | SantaCoder |  [santacoder](https://huggingface.co/bigcode/santacoder) |[Paper](https://arxiv.org/abs/2301.03988) | 1.1| Jan-23 |
 
+<img width="200%" src="./figures/hr.gif" />
+
 ## 📈 *The following table show that the Dataset of LLM area, with instruction-tunning and alignment-tuning.*
 
 | Dataset |   Paper/Blog | Dataset | Samples (K) | Announced Time |Type|
@@ -127,6 +131,8 @@ As resources are limited, we suggest using this playground for learning and prac
 | databricks-dolly-15k |  [Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) |  [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) | 15 |  Apr-23 |instruction-tuning|
 | OpenAssistant Conversations Dataset |  [Blog](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view) | [oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 161 |Apr-23 |alignment-tuning|
 | OIG (Open Instruction Generalist)   |  [Blog](https://laion.ai/blog/oig-dataset/) | [OIG](https://huggingface.co/datasets/laion/OIG) | 44,000 | Mar-23 |instruction-tuning|
+
+<img width="200%" src="./figures/hr.gif" />
 
 ## 🇨🇳 *The following table show that the LLMs from China, including the research lab, firms, and some universities.*
 
