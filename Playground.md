@@ -144,7 +144,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 >Note：The part of the contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
 
-|Source|Model & Link|Overview|
+|Source|Model & Link|Description|
 |:-:|:-:|:-:|
 |复旦大学|[MOSS](https://github.com/OpenLMLab/MOSS)|[Playground](https://moss.fastnlp.top/)|
 |贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|基于BLOOMZ或[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)系列的多个模型|
