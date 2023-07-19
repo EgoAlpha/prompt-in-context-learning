@@ -7,12 +7,12 @@
 
 ## 📜 Table of Contents
 - [About TrustGPT \[From EgoAlpha\]](#trustgpt)
-- [Directly Usage of LLMs](#🤩-these-models-in-the-table-below-are-directly-accessible-via-links-the-page-contains-the-usage-guide-and-api-interface-of-the-model-for-the-convenience-of-all-developers-and-researchers-to-expolre-and-experience-the-checkpoints-can-also-obtained-by-corresponding-links)
-- [Providing the Pretrain-weights](#🤨-the-models-in-the-table-below-all-provide-pre-trained-weights-on-which-developers-can-fine-tune-without-changing-the-original-backbone-architecture-and-people-can-visually-see-the-work-of-a-good-team-of-researchers-by-using-the-pre-trained-weights-of-the-models-directly-for-a-good-demo)
-- [Without Opensource till now](#😣-the-following-table-show-that-the-related-models-and-codes-are-not-open-source-till-now)
-- [LLMs in Code](#🎭-the-following-table-show-that-the-llms-for-code)
-- [Dataset in LLMs area](#📈-the-following-table-show-that-the-dataset-of-llm-area-with-instruction-tunning-and-alignment-tuning)
-- [LLMs from China](#🇨🇳-the-following-table-show-that-the-llms-from-china-including-the-research-lab-firms-and-some-universities)
+- [Directly Usage of LLMs](#directly-usage-of-llms)
+- [Providing the Pre-train Weights](#providing-the-pre-train-weights)
+- [Without Opensource Till Now](#without-opensource-till-now)
+- [LLMs in Coding](#llms-in-coding)
+- [Dataset in LLMs area](#dataset-in-llms-area)
+- [LLMs from China](#llms-from-china)
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -33,6 +33,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 <img width="200%" src="./figures/hr.gif" />
 
+## Directly Usage of LLMs
 ### 🤩 *These models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience. The Checkpoints can also obtained by corresponding links.*
 
 |   Model  | Type | Lab | Playgrounds| Params(B) | Blog/Paper/Github | Checkpoints |Announced Time|
@@ -77,7 +78,8 @@ As resources are limited, we suggest using this playground for learning and prac
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 🤨 *The models in the table below all provide pre-trained weights on which developers can fine-tune (without changing the original backbone architecture), and people can visually see the work of a good team of researchers by using the pre-trained weights of the models directly for a good Demo.*
+## Providing the Pre-train weights
+### 🤨 *The models in the table below all provide pre-trained weights on which developers can fine-tune (without changing the original backbone architecture), and people can visually see the work of a good team of researchers by using the pre-trained weights of the models directly for a good Demo.*
 
 | Model  | Type | Lab | Github| Params(B) |Paper/Code|Announced Time|
 | :----: | :----: | :----:  | :----: | :----: |:----:|:----:|
@@ -94,7 +96,8 @@ As resources are limited, we suggest using this playground for learning and prac
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 😣 *The following table show that the related models and codes are not open-source till now.*
+## Without Opensource Till Now
+### 😣 *The following table show that the related models and codes are not open-source till now.*
 
 | Model  | Type | Lab | Report| Params(B) |Paper/Code|Announced Time|
 | :----: | :----: | :----:| :----: | :----: |:----:|:----:|
@@ -110,7 +113,8 @@ As resources are limited, we suggest using this playground for learning and prac
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 🎭 *The following table show that the LLMs for Code.* 
+## LLMs in Coding
+### 🎭 *The following table show that the LLMs for Coding.* 
 
 | Model |  Checkpoints | Paper/Blog | Params (B)|Announced Time |
 | :---: | :---: | :---: | :---: | :---: |
@@ -123,7 +127,8 @@ As resources are limited, we suggest using this playground for learning and prac
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 📈 *The following table show that the Dataset of LLM area, with instruction-tunning and alignment-tuning.*
+## Dataset in LLMs Area
+### 📈 *The following table show that the Dataset of LLM area, with instruction-tunning and alignment-tuning.*
 
 | Dataset |   Paper/Blog | Dataset | Samples (K) | Announced Time |Type|
 | :---: | :---: | :---: | :---: | :---: | :---:|
@@ -134,7 +139,8 @@ As resources are limited, we suggest using this playground for learning and prac
 
 <img width="200%" src="./figures/hr.gif" />
 
-## 🇨🇳 *The following table show that the LLMs from China, including the research lab, firms, and some universities.*
+## LLMs from China
+### 🇨🇳 *The following table show that the LLMs from China, including the research lab, firms, and some universities.*
 
 >Note：The part of the contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
 
