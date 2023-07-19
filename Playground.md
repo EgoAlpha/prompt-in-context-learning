@@ -171,8 +171,8 @@ As resources are limited, we suggest using this playground for learning and prac
 |商汤科技 | [SenseNova日日新](https://techday.sensetime.com/list)|商汤科技版ChatGPT |
 |国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)| 目前官网查询不到|
 |星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|无涯——金融；求索——大数据分析|
-|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA)| |
-|恒生电子|LightGPT| |
+|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA)| -|
+|恒生电子|LightGPT|- |
 |电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|通用视觉，中国电信|
 |左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
 |智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|医疗领域|
@@ -182,7 +182,7 @@ As resources are limited, we suggest using this playground for learning and prac
 |硅基智能|[炎帝](https://mp.weixin.qq.com/s/XNu3UrSKm4jy1ayJJ6-HMg)|旅游行业大模型|
 | 中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|与复旦NLP实验室联合，工业领域|
 |创业黑马|[天启](https://mp.weixin.qq.com/s/lYqCe9skc0MOSzmmTiGAug) | 创业黑马与360合作,科创服务行业|
-|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg) | |
+|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg) | -|
 |上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|医学大模型，[论文](https://arxiv.org/pdf/2304.01097.pdf)|
 |华东师范大学 |[EmoGPT](https://mp.weixin.qq.com/s/xP-qm5YUj8fZD9YQ7t08NQ),[EduChat](https://github.com/icalk-nlp/EduChat)|EmoGPT是上海市心理健康与危机干预重点实验室与镜象科技公司合作完成, 教学教育大模型EduChat基于BELLE（BELLE基于LLaMA）|
 |昆仑万维 | [天工](https://github.com/SkyWorkAIGC)|与奇点智源联合研发||
