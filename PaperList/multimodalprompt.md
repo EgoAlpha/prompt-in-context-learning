@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**](https://arxiv.org/abs/2307.06949) （**2023.07.13**）
+
+<font color="gray">Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-24-red)
+
+---
+
+[**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**](https://doi.org/10.48550/arXiv.2306.17842) （**2023.06.30**）
+
+<font color="gray">Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-400-blue)](https://github.com/google-research/magvit)
+
+---
+
 [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://doi.org/10.48550/arXiv.2306.15195) （**2023.06.27**）
 
 <font color="gray">Ke Chen, Zhao Zhang, Weili Zeng, Richong Zhang, Feng Zhu, etc .  - 【arXiv.org】</font>

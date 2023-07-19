@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Self-consistency for open-ended generations**](https://arxiv.org/abs/2307.06857) （**2023.07.11**）
+
+
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+[**Focused Transformer: Contrastive Training for Context Scaling**](https://doi.org/10.48550/arXiv.2307.03170) （**2023.07.06**）
+
+<font color="gray">Szymon Tworkowski, Konrad Staniszewski, Mikolaj Pacek, Yuhuai Wu, H. Michalewski, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-788-blue)](https://github.com/cstankonrad/long_llama)
+
+---
+
+[**Conformer LLMs - Convolution Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2307.00461) （**2023.07.02**）
+
+<font color="gray">Prateek Verma .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue**](https://doi.org/10.48550/arXiv.2306.12174) （**2023.06.21**）
 
 <font color="gray">Weihao Gao, Zhuo Deng, Zhiyuan Niu, Fuju Rong, Chucheng Chen, etc .  - 【arXiv.org】</font>

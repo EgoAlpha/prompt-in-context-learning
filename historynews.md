@@ -4,6 +4,27 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.7.19]**
+- [Meta releases LLAMA 2, open source and commercially available.](https://ai.meta.com/llama/)
+    
+**[2023.7.18]**
+- Paper:[Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/abs/2307.07164)
+    
+**[2023.7.17]**
+- Paper:[HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models](https://arxiv.org/abs/2307.06949)
+    
+**[2023.7.16]**
+- Emu model is open source, a versatile expert in 'multimodal to multimodal': [Model](https://github.com/baaivision/Emu) / [Demo](https://emu.ssi.plus/)
+    
+**[2023.7.15]**
+- Paper:[Self-consistency for open-ended generations](https://arxiv.org/abs/2307.06857)
+    
+**[2023.7.14]**
+- Paper:[Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution](https://arxiv.org/pdf/2307.06304.pdf)
+    
+**[2023.7.13]**
+- Paper:[Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2)
+
 **[2023.7.12]**
 - Claude2👉 **\[Paper\]**[Model Card and Evaluations for Claude Models](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf) / **[Website]**(https://claude.ai/)
 

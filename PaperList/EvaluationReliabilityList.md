@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Jailbroken: How Does LLM Safety Training Fail?**](https://doi.org/10.48550/arXiv.2307.02483) （**2023.07.05**）
+
+<font color="gray">Alexander Wei, Nika Haghtalab, J. Steinhardt .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Towards Measuring the Representation of Subjective Global Opinions in Language Models**](https://doi.org/10.48550/arXiv.2306.16388) （**2023.06.28**）
 
 <font color="gray">Esin Durmus, Karina Nyugen, Thomas Liao, Nicholas Schiefer, Amanda Askell, etc .  - 【arXiv.org】</font>
@@ -53,6 +61,14 @@
 
 ---
 
+[**Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions**](https://arxiv.org/abs/2305.15083) （**2023.05.24**）
+
+<font color="gray">Jiahuan Li, Hao Zhou, Shujian Huang, Shanbo Chen, Jiajun Chen </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**HuatuoGPT, towards Taming Language Model to Be a Doctor**](https://arxiv.org/abs/2305.15075) （**2023.05.24**）
 
 <font color="gray">Hongbo Zhang, Junying Chen, Feng Jiang, Fei Yu, Zhihong Chen, etc </font>
@@ -93,6 +109,14 @@
 
 ---
 
+[**IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models**](https://arxiv.org/abs/2305.14985) （**2023.05.24**）
+
+<font color="gray">Haoxuan You, Rui Sun, Zhecan Wang, Long Chen, Gengyu Wang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/hxyou/idealgpt)
+
+---
+
 [**GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP**](https://arxiv.org/abs/2305.14976) （**2023.05.24**）
 
 <font color="gray">Md Tawkat Islam Khondaker, Abdul Waheed, El Moatez Billah Nagoudi, Muhammad Abdul-Mageed </font>
@@ -104,6 +128,14 @@
 [**Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback**](https://arxiv.org/abs/2305.14975) （**2023.05.24**）
 
 <font color="gray">Katherine Tian, Eric Mitchell, Allan Zhou, Archit Sharma, Rafael Rafailov, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**](https://arxiv.org/abs/2305.14963) （**2023.05.24**）
+
+<font color="gray">Yau-Shian Wang, Ta-Chung Chi, Ruohong Zhang, Yiming Yang </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -322,6 +354,14 @@
 <font color="gray">Simeng Sun, Yang Liu, Shuohang Wang, Chenguang Zhu, Mohit Iyyer </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations**](https://arxiv.org/abs/2305.14556) （**2023.05.23**）
+
+<font color="gray">Tiziano Labruna, Sofia Brenna, Andrea Zaninello, Bernardo Magnini </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
@@ -565,6 +605,14 @@
 
 ---
 
+[**Cross-functional Analysis of Generalisation in Behavioural Learning**](https://arxiv.org/abs/2305.12951) （**2023.05.22**）
+
+<font color="gray">Pedro Henrique Luz de Araujo, Benjamin Roth </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations**](https://arxiv.org/abs/2305.13299) （**2023.05.22**）
 
 <font color="gray">Chenglei Si, Dan Friedman, Nitish Joshi, Shi Feng, Danqi Chen, etc </font>
@@ -738,6 +786,22 @@
 <font color="gray">Wangchunshu Zhou, Yuchen Jiang, Ryan Cotterell, Mrinmaya Sachan .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Qualifying Chinese Medical Licensing Examination with Knowledge Enhanced Generative Pre-training Model**](https://doi.org/10.48550/arXiv.2305.10163) （**2023.05.17**）
+
+<font color="gray">Jiageng Wu, X. Wu, Zhaopeng Qiu, Minghui Li, Yefeng Zheng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Can Language Models Solve Graph Problems in Natural Language?**](https://doi.org/10.48550/arXiv.2305.10037) （**2023.05.17**）
+
+<font color="gray">Heng Wang, Shangbin Feng, Tianxing He, Zhaoxuan Tan, Xiaochuang Han, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-7-blue)](https://github.com/arthur-heng/nlgraph)
 
 ---
 

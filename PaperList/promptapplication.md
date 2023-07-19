@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**LongNet: Scaling Transformers to 1, 000, 000, 000 Tokens**](https://doi.org/10.48550/arXiv.2307.02486) （**2023.07.05**）
+
+<font color="gray">Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-13.8k-blue)](https://github.com/microsoft/unilm)
+
+---
+
+[**Conformer LLMs - Convolution Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2307.00461) （**2023.07.02**）
+
+<font color="gray">Prateek Verma .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Inferring the Goals of Communicating Agents from Actions and Instructions**](https://doi.org/10.48550/arXiv.2306.16207) （**2023.06.28**）
 
 <font color="gray">Lance Ying, Tan Zhi-Xuan, Vikash K. Mansinghka, J. Tenenbaum .  - 【arXiv.org】</font>
