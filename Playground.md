@@ -6,7 +6,7 @@
 <img width="200%" src="./figures/hr.gif" />
 
 ## 📜 Table of Contents
-- [About TrustGPT \[From EgoAlpha\]](#trustgpt)
+- [TrustGPT From EgoAlpha](#trustgpt)
 - [Directly Usage of LLMs](#directly-usage-of-llms)
 - [Providing the Pre-train Weights](#providing-the-pre-train-weights)
 - [Without Opensource Till Now](#without-opensource-till-now)
@@ -20,7 +20,7 @@
 <img src="./figures/TrustGPT.png" width="600px">
 </div>
 
-# TrustGPT
+## TrustGPT
 🌟 [TrustGPT](https://trustgpt.co/trust/index.html) can also serve as a playground for everyone's convenience to learn and practice advanced prompt techniques. You can also commit your issues from TrustGPT to this repo page. Thanks a lot.
 
 We will gradually release the following features: 
