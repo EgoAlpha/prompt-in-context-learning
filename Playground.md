@@ -254,5 +254,6 @@ As resources are limited, we suggest using this playground for learning and prac
 |西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |流体力学大模型,湍流+流场 |
 |奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |联汇科技 |欧姆|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/)|
+|阅文集团|网文大模型|[国内首个网文行业大模型](https://app.gmdaily.cn/as/opened/n/ba6a7ddbbef54233b2fec2cb43e9d3c7)|
 
 > # Please keep adding relevant information, we greatly appreciate your contributions.
