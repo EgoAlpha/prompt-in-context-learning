@@ -73,6 +73,29 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ```  
 
+<img width="200%" src="./figures/hr.gif" />
+
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [📢 News](#-news)
+- [📜 Papers](#-papers)
+  - [Survey](#survey)
+  - [Prompt Engineering](#prompt-engineering)
+    - [Prompt Design](#prompt-design)
+    - [Automatic Prompt](#automatic-prompt)
+    - [Chain of Thought](#chain-of-thought)
+    - [Knowledge Augmented Prompt](#knowledge-augmented-prompt)
+    - [Evaluation \& Reliability](#evaluation--reliability)
+  - [In-context Learning](#in-context-learning)
+  - [Multimodal Prompt](#multimodal-prompt)
+  - [Prompt Application](#prompt-application)
+  - [Foundation Models](#foundation-models)
+- [👨‍💻 LLM Usage](#-llm-usage)
+- [✉️ Contact](#️-contact)
+- [🙏 Acknowledgements](#-acknowledgements)
+
+<img width="200%" src="./figures/hr.gif" />
+
 # 📢 News
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
@@ -113,28 +136,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <img width="200%" src="./figures/hr.gif" />
 
+---
 # 📜 Papers
 
 > You can directly click on the title to jump to the corresponding PDF link location
-
-- [📢 News](#-news)
-- [📜 Papers](#-papers)
-  - [Survey](#survey)
-  - [Prompt Engineering](#prompt-engineering)
-    - [Prompt Design](#prompt-design)
-    - [Automatic Prompt](#automatic-prompt)
-    - [Chain of Thought](#chain-of-thought)
-    - [Knowledge Augmented Prompt](#knowledge-augmented-prompt)
-    - [Evaluation \& Reliability](#evaluation--reliability)
-  - [In-context Learning](#in-context-learning)
-  - [Multimodal Prompt](#multimodal-prompt)
-  - [Prompt Application](#prompt-application)
-  - [Foundation Models](#foundation-models)
-- [👨‍💻 LLM Usage](#-llm-usage)
-- [✉️ Contact](#️-contact)
-- [🙏 Acknowledgements](#-acknowledgements)
-
----
 
 ## Survey
 
