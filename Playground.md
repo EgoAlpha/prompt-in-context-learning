@@ -255,5 +255,10 @@ As resources are limited, we suggest using this playground for learning and prac
 |奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |联汇科技 |欧姆|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/)|
 |阅文集团|网文大模型|[国内首个网文行业大模型](https://app.gmdaily.cn/as/opened/n/ba6a7ddbbef54233b2fec2cb43e9d3c7)|
+|北京交通大学|[TransGPT](https://github.com/DUOMO/TransGPT)|[国内首个综合交通领域的大模型](https://github.com/DUOMO/TransGPT)|
+
+---
+
+
 
 > # Please keep adding relevant information, we greatly appreciate your contributions.
