@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**OBJECT 3DIT: Language-guided 3D-aware Image Editing**](https://doi.org/10.48550/arXiv.2307.11073) （**2023.07.20**）
+
+<font color="gray">Oscar Michel, Anand Bhattad, Eli VanderBilt, Ranjay Krishna, Aniruddha Kembhavi, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Brain2Music: Reconstructing Music from Human Brain Activity**](https://doi.org/10.48550/arXiv.2307.11078) （**2023.07.20**）
+
+<font color="gray">Timo I. Denk, Yu Takagi, Takuya Matsuyama, A. Agostinelli, Tomoya Nakai, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs**](https://doi.org/10.48550/arXiv.2307.10490) （**2023.07.19**）
+
+<font color="gray">Eugene Bagdasaryan, Tsung-Yin Hsieh, Ben Nassi, Vitaly Shmatikov .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**](https://arxiv.org/abs/2307.06949) （**2023.07.13**）
 
 <font color="gray">Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, etc </font>
@@ -13,11 +37,35 @@
 
 ---
 
+[**Multimodal Prompt Learning for Product Title Generation with Extremely Limited Labels**](https://doi.org/10.48550/arXiv.2307.01969) （**2023.07.05**）
+
+<font color="gray">Bang Yang, Fenglin Liu, Zheng Li, Qingyu Yin, Chenyu You, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Multimodal Prompt Retrieval for Generative Visual Question Answering**](https://doi.org/10.48550/arXiv.2306.17675) （**2023.06.30**）
+
+<font color="gray">Timothy Ossowski, Junjie Hu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**](https://doi.org/10.48550/arXiv.2306.17842) （**2023.06.30**）
 
 <font color="gray">Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-400-blue)](https://github.com/google-research/magvit)
+
+---
+
+[**Multimodal Prompt Learning in Emotion Recognition Using Context and Audio Information**](https://doi.org/10.3390/math11132908) （**2023.06.28**）
+
+<font color="gray">Eunseo Jeong, Gyu-Min Kim, Sangwoo Kang .  - 【Mathematics】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 

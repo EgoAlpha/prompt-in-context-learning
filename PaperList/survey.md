@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Foundational Models Defining a New Era in Vision: A Survey and Outlook**](https://arxiv.org/abs/2307.13721) （**2023.07.25**）
+
+<font color="gray">Muhammad Awais, Muzammal Naseer, Salman Siddique Khan, R. Anwer, Hisham Cholakkal, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Challenges and Applications of Large Language Models**](https://doi.org/10.48550/arXiv.2307.10169) （**2023.07.19**）
+
+<font color="gray">Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Roberta Raileanu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**A Survey on Evaluation of Large Language Models**](https://doi.org/10.48550/arXiv.2307.03109) （**2023.07.06**）
+
+<font color="gray">Yu-Chu Chang, Xu Wang, Jindong Wang, Yuanyi Wu, Kaijie Zhu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**A Survey on Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2306.13549) （**2023.06.23**）
 
 <font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, etc .  - 【arXiv.org】</font>
@@ -26,6 +50,14 @@
 <font color="gray">Guhao Feng, Yuntian Gu, Bohang Zhang, Haotian Ye, Di He, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Unit-based Speech-to-Speech Translation Without Parallel Data**](https://arxiv.org/abs/2305.15405) （**2023.05.24**）
+
+<font color="gray">Anuj Diwan, Anirudh Srinivasan, David F. Harwath, Eunsol Choi </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
