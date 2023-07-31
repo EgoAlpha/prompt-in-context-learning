@@ -4,6 +4,45 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+
+**[2023.7.31]**
+- Paper: [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)
+
+**[2023.7.30]**
+- Paper: [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+
+**[2023.7.29]**
+- Paper: [A Watermark for Large Language Models](https://openreview.net/forum?id=aX8ig9X2a7 )
+
+**[2023.7.28]**
+- Paper:[Med-Flamingo: a Multimodal Medical Few-shot Learner](https://arxiv.org/pdf/2307.15189v1.pdf)
+
+**[2023.7.27]**
+- Paper: [using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/abs/2307.10490)
+
+**[2023.7.26]**
+- Paper:[3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981)
+
+**[2023.7.25]**
+- Paper:[ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning](https://arxiv.org/abs/2307.09474)
+
+**[2023.7.24]**
+- Paper:[Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328)
+
+**[2023.7.23]**
+- [ChatGPT based on Android, pre-register location](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
+
+- Paper:[OBJECT 3DIT: Language-guided 3D-aware Image Editing](https://arxiv.org/abs/2307.11073)
+    
+**[2023.7.22]**
+- Paper:[Brain2Music: Reconstructing Music from Human Brain Activity](https://arxiv.org/abs/2307.11078)
+
+**[2023.7.21]**
+- Paper:[A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+    
+**[2023.7.20]**
+- New Architecture: RetNetwork, beyond Transformer 👉[Paper](https://arxiv.org/abs/2307.08621 )👈
+
 **[2023.7.19]**
 - [Meta releases LLAMA 2, open source and commercially available.](https://ai.meta.com/llama/)
     

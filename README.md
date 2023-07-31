@@ -102,7 +102,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.7.31]**
     - Paper: [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)
-    - Evaluation Survey for LLMs:[A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
 
 - **[2023.7.30]**
     - Paper: [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
@@ -121,46 +120,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.7.25]**
     - Paper:[ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning](https://arxiv.org/abs/2307.09474)
-
-- **[2023.7.24]**
-    - Paper:[Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328)
-
-- **[2023.7.23]**
-    - [ChatGPT based on Android, pre-register location](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
-
-    - Paper:[OBJECT 3DIT: Language-guided 3D-aware Image Editing](https://arxiv.org/abs/2307.11073)
-    
-- **[2023.7.22]**
-    - Paper:[Brain2Music: Reconstructing Music from Human Brain Activity](https://arxiv.org/abs/2307.11078)
-
-- **[2023.7.21]**
-    - Paper:[A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
-    
-- **[2023.7.20]**
-    - New Architecture: RetNetwork, beyond Transformer 👉[Paper](https://arxiv.org/abs/2307.08621 )👈
-- **[2023.7.19]**
-    - [Meta releases LLAMA 2, open source and commercially available.](https://ai.meta.com/llama/)
-    
-- **[2023.7.18]**
-    - Paper:[Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/abs/2307.07164)
-    
-- **[2023.7.17]**
-    - Paper:[HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models](https://arxiv.org/abs/2307.06949)
-    
-- **[2023.7.16]**
-    - Emu model is open source, a versatile expert in 'multimodal to multimodal': [Model](https://github.com/baaivision/Emu) / [Demo](https://emu.ssi.plus/)
-    
-- **[2023.7.15]**
-    - Paper:[Self-consistency for open-ended generations](https://arxiv.org/abs/2307.06857)
-    
-- **[2023.7.14]**
-    - Paper:[Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution](https://arxiv.org/pdf/2307.06304.pdf)
-    
-- **[2023.7.13]**
-    - Paper:[Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2)
-    
-- **[2023.7.12]**
-    - Claude2👉 **\[Paper\]**[Model Card and Evaluations for Claude Models](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf) / **[Website]**(https://claude.ai/)
 
 [👉 Complete history news 👈](./historynews.md)
 
