@@ -99,6 +99,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
+
+- **[2023.8.10]**
+    - Paper:[Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)
+
 - **[2023.8.9]**
     - [Stability AI has just announced the release of StableCode, its very first LLM generative AI product for coding](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
     - Paper:[Seeing through the Brain: Image Reconstruction of Visual Perception from Human Brain Signals](https://arxiv.org/abs/2308.02510)
