@@ -4,6 +4,72 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.8.21]**
+- Paper:[VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use](https://arxiv.org/abs/2308.06595)
+- Paper:[Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering](https://arxiv.org/abs/2308.07411)
+
+**[2023.8.20]**
+- Paper:[DiffRate : Differentiable Compression Rate for Efficient Vision Transformers](https://arxiv.org/abs/2305.17997)
+
+**[2023.8.19]**
+- WizardMath: [model checkpoints](https://huggingface.co/WizardLM/WizardMath-70B-V1.0) / [project page](https://github.com/victorsungo/WizardLM/tree/main/WizardMath) / [Paper](https://github.com/nlpxucan/WizardLM)
+
+**[2023.8.18]**
+- Paper:[Shepherd: A Critic for Language Model Generation](https://arxiv.org/pdf/2308.04592.pdf)
+
+**[2023.8.17]**
+- Paper:[Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval](https://arxiv.org/pdf/2308.07648v1.pdf)
+
+**[2023.8.16]**
+- Paper:[The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation](https://arxiv.org/abs/2308.07286 )
+    
+**[2023.8.15]**
+- Paper:[Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf)
+    
+**[2023.8.14]**
+- Paper:[VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation](https://arxiv.org/abs/2305.10874)
+    
+**[2023.8.13]**
+- Paper:[SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support' qiuhuachuan](https://huggingface.co/qiuhuachuan/MeChat)
+
+**[2023.8.12]**
+- Paper:[Pre-Trained Large Language Models for Industrial Control](http://export.arxiv.org/abs/2308.03028)
+
+**[2023.8.11]**
+- Paper:[Accelerating LLM Inference with Staged Speculative Decoding](https://arxiv.org/abs/2308.04623)
+
+**[2023.8.10]**
+- Paper:[Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)
+
+**[2023.8.9]**
+- [Stability AI has just announced the release of StableCode, its very first LLM generative AI product for coding](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
+- Paper:[Seeing through the Brain: Image Reconstruction of Visual Perception from Human Brain Signals](https://arxiv.org/abs/2308.02510)
+
+**[2023.8.8]**
+- Paper:[AgentBench: Evaluating LLMs as Agents](https://arxiv.org/pdf/2308.03688.pdf)
+
+**[2023.8.7]**
+- Paper:[SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization](https://www.usenix.org/system/files/atc23-zhai.pdf)
+
+**[2023.8.6]**
+- Paper: [UniVTG: Towards Unified Video-Language Temporal Grounding](https://arxiv.org/abs/2307.16715)
+
+**[2023.8.5]**
+- Paper: [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+
+**[2023.8.4]**
+- [Chinese LLaMA2 model is open source and commercially usable](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)
+- Paper:[Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)
+    
+**[2023.8.3]**
+- Paper: [Scaling Data Generation in Vision-and-Language Navigation](https://arxiv.org/pdf/2307.15644.pdf)
+
+**[2023.8.2]**
+- Paper: [AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?](https://arxiv.org/pdf/2307.16368v1.pdf)
+
+**[2023.8.1]**
+- Paper:[Robust Distortion-free Watermarks for Language Models](https://arxiv.org/abs/2307.15593)
+
 
 **[2023.7.31]**
 - Paper: [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/abs/2307.13721)
