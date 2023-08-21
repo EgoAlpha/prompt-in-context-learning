@@ -55,7 +55,7 @@ The resources include:
 
 *🎉[Papers](#📜-papers)🎉*:  The latest papers about in-context learning or prompt engineering. 
 
-*🎉[Playground](./Playground.md)🎉*:  Large language models that enable prompt experimentation. 
+*🎉[Playground](./Playground.md)🎉*:  Large Language Models Lists that you can use. 
 
 *🎉[Prompt Engineering](./PromptEngineering.md)🎉*: Prompt techniques for leveraging large language models. 
 
