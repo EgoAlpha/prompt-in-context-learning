@@ -53,7 +53,7 @@
 
 The resources include:
 
-*🎉[Papers](#📜-papers)🎉*:  The latest papers about in-context learning or prompt engineering. 
+*🎉[Papers](#📜-papers)🎉*:  The latest papers about in-context learning, prompt engineering, and LLMs related papers. 
 
 *🎉[Playground](./Playground.md)🎉*:  Large Language Models Lists that you can use. 
 
