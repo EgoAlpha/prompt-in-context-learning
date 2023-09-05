@@ -100,6 +100,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.9.5]**
+    - [70 billion parameters Llama 2 training accelerated 195%! Training/fine-tuning/reasoning full-process program open source, 0 code one-stop solution!](https://github.com/hpcaitech/ColossalAI)
+
+    - Survey Paper:[Large language models in medicine: the potentials and pitfalls](https://arxiv.org/abs/2309.00087)
+
 - **[2023.9.4]**
     - Paper:[SeqGPT: An Out-of-the-box Large Language Model for Open Domain Sequence Understanding](https://arxiv.org/abs/2308.10529)
 
@@ -112,58 +117,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.9.1]**
     - 8 LLM products are fully open to the whole community, including IOS and Android APP【[Baidu](https://yiyan.baidu.com), [百川智能](www.baichuan-ai.com), [SenseChat]( https://chat.sensetime.com), 智谱清言, ByteDance, INTERN, CAS, MiniMax】
     - Paper:[FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer](https://arxiv.org/pdf/2111.13824.pdf)
-
-- **[2023.8.31]**
-    - Paper:[FLatten Transformer: Vision Transformer using Focused Linear Attention](http://arxiv.org/pdf/2308.00442.pdf)
-
-- **[2023.8.30]**
-    - Paper: [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://ai.meta.com/research/publications/seamless-m4t/)
-
-- **[2023.8.29]**
-    - Paper:[Giraffe: Adventures in Expanding Context Lengths in LLMs](https://arxiv.org/abs/2308.10882)
-
-- **[2023.8.28]**
-    - Paper:[ExpeL: LLM Agents Are Experiential Learners](https://arxiv.org/abs/2308.10144)
-
-- **[2023.8.27]**
-    - Paper:[OVO: One-shot Vision Transformer Search with Online distillation](https://arxiv.org/pdf/2212.13766.pdf)
-
-- **[2023.8.26]**
-    - WizardLM: Open-source! \[[demo](http://47.103.63.15:50085/) / [HuggingFace](https://huggingface.co/WizardLM/WizardCoder-Python-34B-V1.0) / [github](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)\]
-    
-- **[2023.8.25]**
-    - Paper:[Safe Reinforcement Learning via Probabilistic Logic](https://arxiv.org/abs/2303.03226)
-
-- **[2023.8.24]**
-    - Paper:[Giraffe: Adventures in Expanding Context Lengths in LLMs](https://arxiv.org/abs/2308.10882 )
-    
-    - Paper:[Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
-
-- **[2023.8.23]**
-    - [HuggingFace Introducing IDEFICS: An Open Reproduction of State-of-the-Art Visual Language Model](https://huggingface.co/blog/idefics)
-    - Paper:[SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf)
-
-- **[2023.8.22]**
-    - Paper:[RoboAgent:Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking](https://robopen.github.io/media/roboagent.pdf)
-
-- **[2023.8.21]**
-    - Paper:[VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use](https://arxiv.org/abs/2308.06595)
-    - Paper:[Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering](https://arxiv.org/abs/2308.07411)
-
-- **[2023.8.20]**
-    - Paper:[DiffRate : Differentiable Compression Rate for Efficient Vision Transformers](https://arxiv.org/abs/2305.17997)
-
-- **[2023.8.19]**
-    - WizardMath: [model checkpoints](https://huggingface.co/WizardLM/WizardMath-70B-V1.0) / [project page](https://github.com/victorsungo/WizardLM/tree/main/WizardMath) / [Paper](https://github.com/nlpxucan/WizardLM)
-
-- **[2023.8.18]**
-    - Paper:[Shepherd: A Critic for Language Model Generation](https://arxiv.org/pdf/2308.04592.pdf)
-
-- **[2023.8.17]**
-    - Paper:[Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval](https://arxiv.org/pdf/2308.07648v1.pdf)
-
-- **[2023.8.16]**
-    - Paper:[The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation](https://arxiv.org/abs/2308.07286 )
 
 [👉 Complete history news 👈](./historynews.md)
 
