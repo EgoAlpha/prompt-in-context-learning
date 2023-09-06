@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://doi.org/10.48550/arXiv.2308.09687) （**2023.08.18**）
+
+<font color="gray">Maciej Besta, Nils Blach, Aleš Kubíček, R. Gerstenberger, Lukas Gianinazzi, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/spcl/graph-of-thoughts)
+
+---
+
+[**Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering**](https://doi.org/10.48550/arXiv.2308.07411) （**2023.08.14**）
+
+<font color="gray">Edward Junprung .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?**](https://doi.org/10.48550/arXiv.2307.16368) （**2023.07.31**）
+
+<font color="gray">Qipeng Zhao, Ce Zhang, Shijie Wang, Changcheng Fu, Nakul Agarwal, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Chain-Of-Thought Prompting Under Streaming Batch: A Case Study**](https://doi.org/10.48550/arXiv.2306.00550) （**2023.06.01**）
 
 <font color="gray">Yuxin Tang .  - 【arXiv.org】</font>
@@ -49,7 +73,7 @@
 
 <font color="gray">Ziqi Jin, Wei Lu .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-13-blue)](https://github.com/xalp/tab-cot)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/xalp/tab-cot)
 
 ---
 
@@ -65,7 +89,7 @@
 
 <font color="gray">Tatsuro Inaba, Hirokazu Kiyomaru, Fei Cheng, S. Kurohashi .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/inabatatsuro/multitool-cot)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/inabatatsuro/multitool-cot)
 
 ---
 
@@ -89,7 +113,7 @@
 
 <font color="gray">Guhao Feng, Yuntian Gu, Bohang Zhang, Haotian Ye, Di He, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-26-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/guyuntian/CoT_benchmark)
 
 ---
 
@@ -97,13 +121,77 @@
 
 <font color="gray">Kejuan Yang, Xiao Liu, Kaiwen Men, Aohan Zeng, Yuxiao Dong, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
 [**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
 
 <font color="gray">Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Exploring Chain-of-Thought Style Prompting for Text-to-SQL**](https://doi.org/10.48550/arXiv.2305.14215) （**2023.05.23**）
+
+<font color="gray">Chang-You Tai, Ziru Chen, Tianshu Zhang, Xiang Deng, Huan Sun .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**"Is the Pope Catholic?" Applying Chain-of-Thought Reasoning to Understanding Conversational Implicatures**](https://doi.org/10.48550/arXiv.2305.13826) （**2023.05.23**）
+
+<font color="gray">Zae Myung Kim, David E. Taylor, Dongyeop Kang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**](https://doi.org/10.48550/arXiv.2305.13903) （**2023.05.23**）
+
+<font color="gray">Vaishnavi Himakunthala, Andy Ouyang, Daniel Rose, Ryan He, Alex Mei, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
+
+<font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/rucaibox/chatcot)
+
+---
+
+[**The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning**](https://doi.org/10.48550/arXiv.2305.14045) （**2023.05.23**）
+
+<font color="gray">Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-81-blue)](https://github.com/kaist-lklab/cot-collection)
+
+---
+
+[**Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method**](https://doi.org/10.48550/arXiv.2305.13412) （**2023.05.22**）
+
+<font color="gray">Yiming Wang, Zhuosheng Zhang, Rui Wang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-16-blue)](https://github.com/alsace08/sumcot)
+
+---
+
+[**LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4**](https://arxiv.org/abs/2305.12147) （**2023.05.20**）
+
+<font color="gray">Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-33-blue)](https://github.com/csitfun/logicot)
+
+---
+
+[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
+
+<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -117,11 +205,43 @@
 
 ---
 
+[**Chain-of-thought prompting for responding to in-depth dialogue questions with LLM**](https://doi.org/10.48550/arXiv.2305.11792) （**2023.05.19**）
+
+<font color="gray">Hongru Wang, Rui Wang, Fei Mi, Zezhong Wang, Rui-Lan Xu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-7-blue)](https://github.com/rulegreen/dialogue_cot)
+
+---
+
+[**Reasoning Implicit Sentiment with Chain-of-Thought Prompting**](https://doi.org/10.48550/arXiv.2305.11255) （**2023.05.18**）
+
+<font color="gray">Hao Fei, Bobo Li, Qianchu Liu, Lidong Bing, Fei Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-117-blue)](https://github.com/scofield7419/thor-isa)
+
+---
+
+[**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://doi.org/10.48550/arXiv.2305.10601) （**2023.05.17**）
+
+<font color="gray">Shunyu Yao, Dian Yu, Jeffrey Zhao, I. Shafran, T. Griffiths, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-3.1k-blue)](https://github.com/ysymyth/tree-of-thought-llm)
+
+---
+
+[**Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**](https://doi.org/10.48550/arXiv.2305.10276) （**2023.05.17**）
+
+<font color="gray">Hanxu Hu, Hongyuan Lu, Huajian Zhang, Wai Lam, Yue Zhang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/hanxuhu/chain-of-symbol-planning)
+
+---
+
 [**Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting**](https://doi.org/10.48550/arXiv.2305.04388) （**2023.05.07**）
 
 <font color="gray">Miles Turpin, Julian Michael, Ethan Perez, Sam Bowman .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-14-blue)](https://github.com/milesaturpin/cot-unfaithfulness)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-20-blue)](https://github.com/milesaturpin/cot-unfaithfulness)
 
 ---
 
@@ -129,7 +249,7 @@
 
 <font color="gray">Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-154-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-323-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
 
 ---
 
@@ -137,7 +257,23 @@
 
 <font color="gray">Ruochen Zhao, Xingxuan Li, Shafiq R. Joty, Chengwei Qin, Lidong Bing .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/ruochenzhao/verify-and-edit)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/ruochenzhao/verify-and-edit)
+
+---
+
+[**T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering**](https://doi.org/10.48550/arXiv.2305.03453) （**2023.05.05**）
+
+<font color="gray">Lei Wang, Yilang Hu, Jiabang He, Xingdong Xu, Ning Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**An automatically discovered chain-of-thought prompt generalizes to novel models and datasets**](https://doi.org/10.48550/arXiv.2305.02897) （**2023.05.04**）
+
+<font color="gray">Konstantin Hebenstreit, Robert Praas, Louis P Kiesewetter, M. Samwald .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -161,7 +297,7 @@
 
 <font color="gray">Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)  [![](https://img.shields.io/badge/Github%20Stars-57-blue)](https://github.com/gasolsun36/iter-cot)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-22-red)  [![](https://img.shields.io/badge/Github%20Stars-65-blue)](https://github.com/gasolsun36/iter-cot)
 
 ---
 
@@ -185,7 +321,7 @@
 
 <font color="gray">Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-104-blue)](https://github.com/shizhediao/active-cot)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-146-blue)](https://github.com/shizhediao/active-cot)
 
 ---
 
@@ -221,35 +357,11 @@
 
 ---
 
-[**Solving math word problems with process- and outcome-based feedback**](https://doi.org/10.48550/arXiv.2211.14275) （**2022.11.25**）
-
-<font color="gray">J. Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-3-green)
-
----
-
-[**Complementary Explanations for Effective In-Context Learning**](https://doi.org/10.48550/arXiv.2211.13892) （**2022.11.25**）
-
-<font color="gray">Xi Ye, Srini Iyer, Asli Celikyilmaz, V. Stoyanov, Greg Durrett, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-5-green)
-
----
-
 [**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588) （**2022.11.22**）
 
 <font color="gray">Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-84-blue)](https://github.com/wenhuchen/program-of-thoughts)
-
----
-
-[**Ignore Previous Prompt: Attack Techniques For Language Models**](https://doi.org/10.48550/arXiv.2211.09527) （**2022.11.17**）
-
-<font color="gray">F'abio Perez, Ian Ribeiro .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-124-blue)](https://github.com/agencyenterprise/promptinject)
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-114-blue)](https://github.com/wenhuchen/program-of-thoughts)
 
 ---
 
@@ -409,7 +521,7 @@
 
 <font color="gray">Boshi Wang, Xiang Deng, Huan Sun .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-38-red)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/sunlab-osu/iterprompt)
+![](https://img.shields.io/badge/Citations-7-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-47-red)  [![](https://img.shields.io/badge/Github%20Stars-13-blue)](https://github.com/sunlab-osu/iterprompt)
 
 ---
 
@@ -442,14 +554,6 @@
 <font color="gray">Ana Marasović, Iz Beltagy, Doug Downey, Matthew E. Peters .  - 【NAACL-HLT】</font>
 
 ![](https://img.shields.io/badge/Citations-29-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-45-red)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/allenai/feb)
-
----
-
-[**Training Verifiers to Solve Math Word Problems**](https://arxiv.org/abs/2110.14168) （**2021.10.27**）
-
-<font color="gray">Karl Cobbe, V. Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-181-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-135-red)  [![](https://img.shields.io/badge/Github%20Stars-418-blue)](https://github.com/openai/grade-school-math)
 
 ---
 
