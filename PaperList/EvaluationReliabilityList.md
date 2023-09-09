@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**TouchStone: Evaluating Vision-Language Models by Language Models**](https://doi.org/10.48550/arXiv.2308.16890) （**2023.08.31**）
+
+<font color="gray">Shuai Bai, Shusheng Yang, Jinze Bai, Peng Wang, Xing Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/ofa-sys/touchstone)
+
+---
+
 [**Shepherd: A Critic for Language Model Generation**](https://doi.org/10.48550/arXiv.2308.04592) （**2023.08.08**）
 
 <font color="gray">Tianlu Wang, Ping Yu, Xiaoqing Tan, Sean O'Brien, Ramakanth Pasunuru, etc .  - 【arXiv.org】</font>

@@ -61,6 +61,14 @@
 
 ---
 
+[**Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**](https://doi.org/10.48550/arXiv.2308.03151) （**2023.08.06**）
+
+<font color="gray">Zheng Ma, Mianzhi Pan, Wen-Lan Wu, Ka Leong Cheng, Jianbing Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/aaronma2020/Food500-Cap)
+
+---
+
 [**Pre-Trained Large Language Models for Industrial Control**](https://doi.org/10.48550/arXiv.2308.03028) （**2023.08.06**）
 
 <font color="gray">Lei Song, Chuheng Zhang, Li Zhao, Jiang Bian .  - 【arXiv.org】</font>

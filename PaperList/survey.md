@@ -37,13 +37,6 @@
 
 ---
 
-[**Foundational Models Defining a New Era in Vision: A Survey and Outlook**](https://arxiv.org/abs/2307.13721) （**2023.07.25**）
-
-<font color="gray">Muhammad Awais, Muzammal Naseer, Salman Siddique Khan, R. Anwer, Hisham Cholakkal, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
 
 [**Challenges and Applications of Large Language Models**](https://doi.org/10.48550/arXiv.2307.10169) （**2023.07.19**）
 
@@ -61,13 +54,6 @@
 
 ---
 
-[**A Survey on Evaluation of Large Language Models**](https://doi.org/10.48550/arXiv.2307.03109) （**2023.07.06**）
-
-<font color="gray">Yu-Chu Chang, Xu Wang, Jindong Wang, Yuanyi Wu, Kaijie Zhu, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-776-blue)](https://github.com/mlgroupjlu/llm-eval-survey)
-
----
 
 [**A Survey on Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2306.13549) （**2023.06.23**）
 

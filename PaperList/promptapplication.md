@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Large Language Models as Optimizers**](https://arxiv.org/abs/2309.03409) （**2023.09.07**）
+
+<font color="gray">Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation**](https://doi.org/10.48550/arXiv.2308.13746) （**2023.08.26**）
 
 <font color="gray">Ao Chang, Xing Tao, Xin Yang, Yuhao Huang, Xinrui Zhou, etc .  - 【arXiv.org】</font>
@@ -197,6 +205,14 @@
 
 ---
 
+[**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**](https://doi.org/10.48550/arXiv.2306.05685) （**2023.06.09**）
+
+<font color="gray">Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-27.2k-blue)](https://github.com/lm-sys/fastchat)
+
+---
+
 [**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance**](https://doi.org/10.48550/arXiv.2306.05443) （**2023.06.08**）
 
 <font color="gray">Qianqian Xie, Weiguang Han, Xiao Zhang, Yanzhao Lai, Min Peng, etc .  - 【arXiv.org】</font>
@@ -210,6 +226,14 @@
 <font color="gray">Chenxu Hu, Jie Fu, Chenzhuang Du, Simian Luo, J. Zhao, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only**](https://doi.org/10.48550/arXiv.2306.01116) （**2023.06.01**）
+
+<font color="gray">Guilherme Penedo, Quentin Malartic, Daniel Hesslow, Ruxandra-Aimée Cojocaru, Alessandro Cappelli, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-50-green)
 
 ---
 
