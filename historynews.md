@@ -4,6 +4,21 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.9.9]**
+- Open-source version of code interpreter tops GitHub hotlist, runs locally, accesses Internet: [\[Github\]](https://github.com/KillianLucas/open-interpreter/#commands)
+- Peking University propose the Structured Chain of Thought SCoT: [\[Paper\]](https://arxiv.org/pdf/2305.06599.pdf)
+- Paper:[LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409.pdf)
+- Survey Paper:[RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/abs/2309.00810)
+
+**[2023.9.8]**
+- Paper:[Physically Grounded Vision-Language Models for Robotic Manipulation](https://arxiv.org/abs/2309.02561)
+
+**[2023.9.7]**
+- Baichuan Intelligence Releases Baichuan2 Big Model: Comprehensively Ahead of Llama2, Training Slices Also Open Source: [Github](https://github.com/baichuan-inc/Baichuan2)/[Technical Report](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)
+
+**[2023.9.6]**
+- Paper: [TouchStone: Evaluating Vision-Language Models by Language Models](https://arxiv.org/abs/2308.16890)
+
 **[2023.9.5]**
 - [70 billion parameters Llama 2 training accelerated 195%! Training/fine-tuning/reasoning full-process program open source, 0 code one-stop solution!](https://github.com/hpcaitech/ColossalAI)
     
