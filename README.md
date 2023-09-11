@@ -61,7 +61,7 @@ The resources include:
 
 *🎉[ChatGPT Prompt](./chatgptprompt.md)🎉*: Prompt examples that can be applied in our work and daily lives. 
 
-*🎉[LLMs Usage Guide](./chatgptprompt.md)🎉*: The method for quickly getting started with large language models by using LangChain.
+*🎉[LLMs Usage Guide](./langchain_guide/LangChainTutorial_en.ipynb)🎉*: The method for quickly getting started with large language models by using LangChain.
 
 In the future, there will likely be two types of people on Earth (perhaps even on Mars, but that's a question for Musk): 
 - Those who enhance their abilities through the use of AI; 
@@ -99,6 +99,13 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
+
+- **[2023.9.11]**
+    - Paper:[Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning](https://arxiv.org/pdf/2303.09410.pdf)
+
+- **[2023.9.10]**
+    - Survey Paper: [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/abs/2309.01219)
+
 - **[2023.9.9]**
     - Open-source version of code interpreter tops GitHub hotlist, runs locally, accesses Internet: [\[Github\]](https://github.com/KillianLucas/open-interpreter/#commands)
     - Paper:[LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409.pdf)
