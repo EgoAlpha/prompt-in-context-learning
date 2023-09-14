@@ -101,6 +101,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
 - **[2023.9.14]**
+    - Can LLMs Really Reason and Plan? | blog @ CACM | Communications of the ACM【[Paper](https://cacm.acm.org/blogs/blog-cacm/276268-can-llms-really-reason-and-plan/fulltext)/[Video](https://www.youtube.com/watch?v=BmyB-4S9QuY )】
+
+- **[2023.9.13]**
     - Chinese multimodal large model VisCPM open API interface! The upgraded version is far more capable than similar models\([Paper](https://arxiv.org/pdf/2308.12038.pdf)/[Github](https://github.com/OpenBMB/VisCPM)\)
     - Survey Paper: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v2.pdf)
 
