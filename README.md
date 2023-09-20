@@ -100,6 +100,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.9.20]**
+    - [Optimizing LLMs from a Dataset Perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/)
+    - Google DeepMind predicts 71 million genetic mutations, decrypts the human genetic code, and is now published in Science. It has been open-sourced.([Paper](https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases )/[Science](https://www.science.org/doi/10.1126/science.adg7492 )/[Dataset](https://github.com/deepmind/alphamissense))
+    - Paper: [Replacing softmax with ReLU in Vision Transformers](https://arxiv.org/pdf/2309.08586.pdf)
+
 - **[2023.9.19]**
     - Paper: [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)
 
