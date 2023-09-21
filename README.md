@@ -100,6 +100,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.9.21]**
+    - 34B parameter exceeds GPT-4! "Mathematical Universal Large Model" MAmmoTH open source: average accuracy rate increased by 29% ([Paper](https://arxiv.org/pdf/2309.05653.pdf)/[Project Page](https://tiger-ai-lab.github.io/MAmmoTH/))
+    - Paper: [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/assets/q-transformer.pdf)
+
 - **[2023.9.20]**
     - [Optimizing LLMs from a Dataset Perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/)
     - Google DeepMind predicts 71 million genetic mutations, decrypts the human genetic code, and is now published in Science. It has been open-sourced.([Paper](https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases )/[Science](https://www.science.org/doi/10.1126/science.adg7492 )/[Dataset](https://github.com/deepmind/alphamissense))
