@@ -100,6 +100,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.9.22]**
+    - [AgentVerse: A Framework for Multi-LLM Environment Simulation](https://github.com/OpenBMB/AgentVerse)
+    - [The performance of the 20 billion scale large model is comparable to Llama2-70B! It is completely open source, and everything from the base to the tools is well arranged.](https://github.com/InternLM/InternLM)
+    - Paper: [Kosmos-2.5: A Multimodal Literate Model](https://arxiv.org/abs/2309.11419)
+
 - **[2023.9.21]**
     - 34B parameter exceeds GPT-4! "Mathematical Universal Large Model" MAmmoTH open source: average accuracy rate increased by 29% ([Paper](https://arxiv.org/pdf/2309.05653.pdf)/[Project Page](https://tiger-ai-lab.github.io/MAmmoTH/))
     - Paper: [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/assets/q-transformer.pdf)
