@@ -100,6 +100,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.9.23]**
+    - [Defeat GPT-4? 70 billion parameter Xwin-LM climbs up to the top of  Stanford AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)
+    - Paper: [End-to-End Speech Recognition Contextualization with Large Language Models](https://arxiv.org/abs/2309.10917 )
+
 - **[2023.9.22]**
     - [AgentVerse: A Framework for Multi-LLM Environment Simulation](https://github.com/OpenBMB/AgentVerse)
     - [The performance of the 20 billion scale large model is comparable to Llama2-70B! It is completely open source, and everything from the base to the tools is well arranged.](https://github.com/InternLM/InternLM)
