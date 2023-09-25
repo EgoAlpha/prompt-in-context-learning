@@ -102,7 +102,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.9.23]**
     - [Defeat GPT-4? 70 billion parameter Xwin-LM climbs up to the top of  Stanford AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)
-    - Paper: [End-to-End Speech Recognition Contextualization with Large Language Models](https://arxiv.org/abs/2309.10917 )
+    - Paper: [End-to-End Speech Recognition Contextualization with Large Language Models](https://arxiv.org/abs/2309.10917)
 
 - **[2023.9.22]**
     - [AgentVerse: A Framework for Multi-LLM Environment Simulation](https://github.com/OpenBMB/AgentVerse)
