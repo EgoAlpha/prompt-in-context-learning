@@ -4,6 +4,60 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.9.24]**
+- [Writer model is open source, commercially available, and there are a total of 8 models.](https://huggingface.co/Writer)
+- Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
+
+**[2023.9.23]**
+- [Defeat GPT-4? 70 billion parameter Xwin-LM climbs up to the top of  Stanford AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)
+- Paper: [End-to-End Speech Recognition Contextualization with Large Language Models](https://arxiv.org/abs/2309.10917)
+
+**[2023.9.22]**
+- [AgentVerse: A Framework for Multi-LLM Environment Simulation](https://github.com/OpenBMB/AgentVerse)
+- [The performance of the 20 billion scale large model is comparable to Llama2-70B! It is completely open source, and everything from the base to the tools is well arranged.](https://github.com/InternLM/InternLM)
+- Paper: [Kosmos-2.5: A Multimodal Literate Model](https://arxiv.org/abs/2309.11419)
+
+**[2023.9.21]**
+- 34B parameter exceeds GPT-4! "Mathematical Universal Large Model" MAmmoTH open source: average accuracy rate increased by 29% ([Paper](https://arxiv.org/pdf/2309.05653.pdf)/[Project Page](https://tiger-ai-lab.github.io/MAmmoTH/))
+- Paper: [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/assets/q-transformer.pdf)
+
+**[2023.9.20]**
+- [Optimizing LLMs from a Dataset Perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/)
+- Google DeepMind predicts 71 million genetic mutations, decrypts the human genetic code, and is now published in Science. It has been open-sourced.([Paper](https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases )/[Science](https://www.science.org/doi/10.1126/science.adg7492 )/[Dataset](https://github.com/deepmind/alphamissense))
+- Paper: [Replacing softmax with ReLU in Vision Transformers](https://arxiv.org/pdf/2309.08586.pdf)
+
+**[2023.9.19]**
+- Paper: [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)
+
+**[2023.9.18]**
+- Survey Paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+
+**[2023.9.17]**
+- Paper: [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)
+
+**[2023.9.16]**
+- Paper: [DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.03883.pdf)
+
+**[2023.9.15]**
+- Microsoft Open Sources EvoDiff: A New Generation of Protein Generative AI : [\[Paper\]](https://doi.org/10.1101/2023.09.11.556673 )
+- Paper: [DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2309.05173v1.pdf)
+
+**[2023.9.14]**
+- Can LLMs Really Reason and Plan? | blog @ CACM | Communications of the ACM【[Paper](https://cacm.acm.org/blogs/blog-cacm/276268-can-llms-really-reason-and-plan/fulltext)/[Video](https://www.youtube.com/watch?v=BmyB-4S9QuY )】
+
+**[2023.9.13]**
+- Chinese multimodal large model VisCPM open API interface! The upgraded version is far more capable than similar models\([Paper](https://arxiv.org/pdf/2308.12038.pdf)/[Github](https://github.com/OpenBMB/VisCPM)\)
+- Survey Paper: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v2.pdf)
+
+**[2023.9.12]**
+- Paper: [From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting](https://arxiv.org/abs/2309.04269)
+
+**[2023.9.11]**
+- Paper:[Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning](https://arxiv.org/pdf/2303.09410.pdf)
+
+**[2023.9.10]**
+- Survey Paper: [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/abs/2309.01219)
+
 **[2023.9.9]**
 - Open-source version of code interpreter tops GitHub hotlist, runs locally, accesses Internet: [\[Github\]](https://github.com/KillianLucas/open-interpreter/#commands)
 - Peking University propose the Structured Chain of Thought SCoT: [\[Paper\]](https://arxiv.org/pdf/2305.06599.pdf)
