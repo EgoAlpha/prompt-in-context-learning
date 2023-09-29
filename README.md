@@ -99,6 +99,13 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 # 📢 News
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
+
+- **[2023.9.29]**
+    - Paper: [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)
+
+- **[2023.9.28]**
+    - Survey Paper: [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792)
+
 - **[2023.9.27]**
     - [Chinese LLaMA-2 tops the list, open source and commercially available! With a budget of one thousand yuan, training for half a day, the effect is comparable to mainstream large models.](https://github.com/hpcaitech/ColossalAI)
     - [Lingxin Intelligence releases CharacterGLM: Play AI role-playing, 6B model is now open source.](https://huggingface.co/LingxinAI/CharacterGLM-6b)
