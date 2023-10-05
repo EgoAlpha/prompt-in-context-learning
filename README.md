@@ -100,6 +100,12 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.10.5]**
+    - Paper: [Adapting Large Language Models via Reading Comprehension](https://arxiv.org/abs/2309.09530)
+
+- **[2023.10.4]**
+    - Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
+
 - **[2023.10.3]**
     - Paper: [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495)
 
@@ -108,114 +114,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.10.1]**
     - Paper: [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)
-
-- **[2023.9.30]**
-    - Paper: [Cumulative Reasoning with Large Language Models](https://arxiv.org/abs/2308.04371)
-
-- **[2023.9.29]**
-    - Paper: [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)
-
-- **[2023.9.28]**
-    - Survey Paper: [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792)
-
-- **[2023.9.27]**
-    - [Chinese LLaMA-2 tops the list, open source and commercially available! With a budget of one thousand yuan, training for half a day, the effect is comparable to mainstream large models.](https://github.com/hpcaitech/ColossalAI)
-    - [Lingxin Intelligence releases CharacterGLM: Play AI role-playing, 6B model is now open source.](https://huggingface.co/LingxinAI/CharacterGLM-6b)
-    - Paper: [Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement](https://arxiv.org/abs/2303.06705)
-
-- **[2023.9.26]**
-    - The biggest bug of the large model! The accuracy of the answers is almost zero, from GPT to Llama, none are spared: Paper:[The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A” ](https://arxiv.org/abs/2309.12288)
-    - Paper: [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495)
-    - Paper: [Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models](https://arxiv.org/pdf/2305.15023.pdf)
-
-- **[2023.9.25]**
-    - Paper: [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1 )
-
-- **[2023.9.24]**
-    - [Writer model is open source, commercially available, and there are a total of 8 models.](https://huggingface.co/Writer)
-    - Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
-
-- **[2023.9.23]**
-    - [Defeat GPT-4? 70 billion parameter Xwin-LM climbs up to the top of  Stanford AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)
-    - Paper: [End-to-End Speech Recognition Contextualization with Large Language Models](https://arxiv.org/abs/2309.10917)
-
-- **[2023.9.22]**
-    - [AgentVerse: A Framework for Multi-LLM Environment Simulation](https://github.com/OpenBMB/AgentVerse)
-    - [The performance of the 20 billion scale large model is comparable to Llama2-70B! It is completely open source, and everything from the base to the tools is well arranged.](https://github.com/InternLM/InternLM)
-    - Paper: [Kosmos-2.5: A Multimodal Literate Model](https://arxiv.org/abs/2309.11419)
-
-- **[2023.9.21]**
-    - 34B parameter exceeds GPT-4! "Mathematical Universal Large Model" MAmmoTH open source: average accuracy rate increased by 29% ([Paper](https://arxiv.org/pdf/2309.05653.pdf)/[Project Page](https://tiger-ai-lab.github.io/MAmmoTH/))
-    - Paper: [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/assets/q-transformer.pdf)
-
-- **[2023.9.20]**
-    - [Optimizing LLMs from a Dataset Perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/)
-    - Google DeepMind predicts 71 million genetic mutations, decrypts the human genetic code, and is now published in Science. It has been open-sourced.([Paper](https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases )/[Science](https://www.science.org/doi/10.1126/science.adg7492 )/[Dataset](https://github.com/deepmind/alphamissense))
-    - Paper: [Replacing softmax with ReLU in Vision Transformers](https://arxiv.org/pdf/2309.08586.pdf)
-
-- **[2023.9.19]**
-    - Paper: [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)
-
-- **[2023.9.18]**
-    - Survey Paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
-
-- **[2023.9.17]**
-    - Paper: [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)
-
-- **[2023.9.16]**
-    - Paper: [DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.03883.pdf)
-
-- **[2023.9.15]**
-    - Microsoft Open Sources EvoDiff: A New Generation of Protein Generative AI : [\[Paper\]](https://doi.org/10.1101/2023.09.11.556673 )
-    - Paper: [DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2309.05173v1.pdf)
-
-- **[2023.9.14]**
-    - Can LLMs Really Reason and Plan? | blog @ CACM | Communications of the ACM【[Paper](https://cacm.acm.org/blogs/blog-cacm/276268-can-llms-really-reason-and-plan/fulltext)/[Video](https://www.youtube.com/watch?v=BmyB-4S9QuY )】
-
-- **[2023.9.13]**
-    - Chinese multimodal large model VisCPM open API interface! The upgraded version is far more capable than similar models\([Paper](https://arxiv.org/pdf/2308.12038.pdf)/[Github](https://github.com/OpenBMB/VisCPM)\)
-    - Survey Paper: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v2.pdf)
-
-- **[2023.9.12]**
-    - Paper: [From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting](https://arxiv.org/abs/2309.04269)
-
-- **[2023.9.11]**
-    - Paper:[Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning](https://arxiv.org/pdf/2303.09410.pdf)
-
-- **[2023.9.10]**
-    - Survey Paper: [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/abs/2309.01219)
-
-- **[2023.9.9]**
-    - Open-source version of code interpreter tops GitHub hotlist, runs locally, accesses Internet: [\[Github\]](https://github.com/KillianLucas/open-interpreter/#commands)
-    - Paper:[LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409.pdf)
-    - Survey Paper:[RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/abs/2309.00810)
-
-- **[2023.9.8]**
-    - Paper:[Physically Grounded Vision-Language Models for Robotic Manipulation](https://arxiv.org/abs/2309.02561)
-
-- **[2023.9.7]**
-    - Baichuan Intelligence Releases Baichuan2 Big Model: Comprehensively Ahead of Llama2, Training Slices Also Open Source: [Github](https://github.com/baichuan-inc/Baichuan2)/[Technical Report](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)
-
-- **[2023.9.6]**
-    - Paper: [TouchStone: Evaluating Vision-Language Models by Language Models](https://arxiv.org/abs/2308.16890)
-    
-- **[2023.9.5]**
-    - [70 billion parameters Llama 2 training accelerated 195%! Training/fine-tuning/reasoning full-process program open source, 0 code one-stop solution!](https://github.com/hpcaitech/ColossalAI)
-
-    - Survey Paper:[Large language models in medicine: the potentials and pitfalls](https://arxiv.org/abs/2309.00087)
-
-- **[2023.9.4]**
-    - Paper:[SeqGPT: An Out-of-the-box Large Language Model for Open Domain Sequence Understanding](https://arxiv.org/abs/2308.10529)
-
-- **[2023.9.3]**
-    - Paper:[PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation](https://arxiv.org/pdf/2308.13746.pdf)
-
-- **[2023.9.2]**
-    - Paper: [SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection](https://arxiv.org/pdf/2308.12863v1.pdf)
-
-- **[2023.9.1]**
-    - 8 LLM products are fully open to the whole community, including IOS and Android APP【[Baidu](https://yiyan.baidu.com), [百川智能](www.baichuan-ai.com), [SenseChat]( https://chat.sensetime.com), 智谱清言, ByteDance, INTERN, CAS, MiniMax】
-    - Paper:[FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer](https://arxiv.org/pdf/2111.13824.pdf)
 
 [👉 Complete history news 👈](./historynews.md)
 

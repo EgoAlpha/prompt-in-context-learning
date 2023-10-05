@@ -4,6 +4,43 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.10.5]**
+- Paper: [Adapting Large Language Models via Reading Comprehension](https://arxiv.org/abs/2309.09530)
+
+**[2023.10.4]**
+- Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
+
+**[2023.10.3]**
+- Paper: [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495)
+
+**[2023.10.2]**
+- Paper: [DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/abs/2309.11499)
+
+**[2023.10.1]**
+- Paper: [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)
+
+**[2023.9.30]**
+- Paper: [Cumulative Reasoning with Large Language Models](https://arxiv.org/abs/2308.04371)
+
+**[2023.9.29]**
+- Paper: [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)
+
+**[2023.9.28]**
+- Survey Paper: [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792)
+
+**[2023.9.27]**
+- [Chinese LLaMA-2 tops the list, open source and commercially available! With a budget of one thousand yuan, training for half a day, the effect is comparable to mainstream large models.](https://github.com/hpcaitech/ColossalAI)
+- [Lingxin Intelligence releases CharacterGLM: Play AI role-playing, 6B model is now open source.](https://huggingface.co/LingxinAI/CharacterGLM-6b)
+- Paper: [Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement](https://arxiv.org/abs/2303.06705)
+
+**[2023.9.26]**
+- The biggest bug of the large model! The accuracy of the answers is almost zero, from GPT to Llama, none are spared: Paper:[The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A” ](https://arxiv.org/abs/2309.12288)
+- Paper: [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495)
+- Paper: [Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models](https://arxiv.org/pdf/2305.15023.pdf)
+
+**[2023.9.25]**
+- Paper: [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1 )
+
 **[2023.9.24]**
 - [Writer model is open source, commercially available, and there are a total of 8 models.](https://huggingface.co/Writer)
 - Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
