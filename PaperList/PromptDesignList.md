@@ -5,11 +5,59 @@
 <div style="line-height:0.2em;">
 
 
+[**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
+
+<font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/dvlab-research/longlora)
+
+---
+
+[**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495) （**2023.09.20**）
+
+<font color="gray">S. Dhuliawala, M. Komeili, Jing Xu, Roberta Raileanu, Xian Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**End-to-End Speech Recognition Contextualization with Large Language Models**](https://doi.org/10.48550/arXiv.2309.10917) （**2023.09.19**）
+
+<font color="gray">Egor Lakomkin, Chunyang Wu, Yassir Fathullah, Ozlem Kalinli, M. Seltzer, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training**](https://doi.org/10.48550/arXiv.2309.10400) （**2023.09.19**）
+
+<font color="gray">Dawei Zhu, Nan Yang, Liang Wang, Yifan Song, Wenhao Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-54-blue)](https://github.com/dwzhu-pku/pose)
+
+---
+
+[**DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning**](https://doi.org/10.48550/arXiv.2309.05173) （**2023.09.11**）
+
+<font color="gray">Zhengxiang Shi, Aldo Lipani .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/zhengxiangshi/dept)
+
+---
+
 [**PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation**](https://doi.org/10.48550/arXiv.2308.13746) （**2023.08.26**）
 
 <font color="gray">Ao Chang, Xing Tao, Xin Yang, Yuhao Huang, Xinrui Zhou, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**](https://doi.org/10.48550/arXiv.2308.11131) （**2023.08.22**）
+
+<font color="gray">Jianghao Lin, Rongjie Shan, Chenxu Zhu, Kounianhua Du, Bo Chen, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -45,6 +93,14 @@
 
 ---
 
+[**Cumulative Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.04371) （**2023.08.08**）
+
+<font color="gray">Yifan Zhang, Jingqin Yang, Yang Yuan, A. Yao .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-90-blue)](https://github.com/iiis-ai/cumulative-reasoning)
+
+---
+
 [**AgentBench: Evaluating LLMs as Agents**](https://doi.org/10.48550/arXiv.2308.03688) （**2023.08.07**）
 
 <font color="gray">Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, etc .  - 【arXiv.org】</font>
@@ -58,6 +114,14 @@
 <font color="gray">Hongwei Yao, Jian Lou, Kui Ren, Zhan Qin .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.01825) （**2023.08.03**）
+
+<font color="gray">Zheng Yuan, Hongyi Yuan, Cheng Li, Guanting Dong, Chuanqi Tan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-96-blue)](https://github.com/ofa-sys/gsm8k-screl)
 
 ---
 

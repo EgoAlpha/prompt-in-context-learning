@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
+
+<font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/dvlab-research/longlora)
+
+---
+
 [**AgentBench: Evaluating LLMs as Agents**](https://doi.org/10.48550/arXiv.2308.03688) （**2023.08.07**）
 
 <font color="gray">Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, etc .  - 【arXiv.org】</font>

@@ -5,6 +5,54 @@
 <div style="line-height:0.2em;">
 
 
+[**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495) （**2023.09.20**）
+
+<font color="gray">S. Dhuliawala, M. Komeili, Jing Xu, Roberta Raileanu, Xian Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Kosmos-2.5: A Multimodal Literate Model**](https://doi.org/10.48550/arXiv.2309.11419) （**2023.09.20**）
+
+<font color="gray">Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/kyegomez/Kosmos2.5)
+
+---
+
+[**DreamLLM: Synergistic Multimodal Comprehension and Creation**](https://doi.org/10.48550/arXiv.2309.11499) （**2023.09.20**）
+
+<font color="gray">Runpei Dong, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-185-blue)](https://github.com/RunpeiDong/DreamLLM)
+
+---
+
+[**SwitchGPT: Adapting Large Language Models for Non-Text Outputs**](https://doi.org/10.48550/arXiv.2309.07623) （**2023.09.14**）
+
+<font color="gray">Xinyu Wang, Bohan Zhuang, Qi Wu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**NExT-GPT: Any-to-Any Multimodal LLM**](https://doi.org/10.48550/arXiv.2309.05519) （**2023.09.11**）
+
+<font color="gray">Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1.9k-blue)](https://github.com/NExT-GPT/NExT-GPT)
+
+---
+
+[**From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting**](https://doi.org/10.48550/arXiv.2309.04269) （**2023.09.08**）
+
+<font color="gray">Griffin Adams, Alexander R. Fabbri, Faisal Ladhak, Eric Lehman, Noémie Elhadad .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Large Language Models as Optimizers**](https://arxiv.org/abs/2309.03409) （**2023.09.07**）
 
 <font color="gray">Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, etc </font>
@@ -13,11 +61,35 @@
 
 ---
 
+[**DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**](https://doi.org/10.48550/arXiv.2309.03883) （**2023.09.07**）
+
+<font color="gray">Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James R. Glass, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-184-blue)](https://github.com/voidism/dola)
+
+---
+
+[**YaRN: Efficient Context Window Extension of Large Language Models**](https://doi.org/10.48550/arXiv.2309.00071) （**2023.08.31**）
+
+<font color="gray">Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-655-blue)](https://github.com/jquesnelle/yarn)
+
+---
+
 [**PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation**](https://doi.org/10.48550/arXiv.2308.13746) （**2023.08.26**）
 
 <font color="gray">Ao Chang, Xing Tao, Xin Yang, Yuhao Huang, Xinrui Zhou, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**](https://doi.org/10.48550/arXiv.2308.11131) （**2023.08.22**）
+
+<font color="gray">Jianghao Lin, Rongjie Shan, Chenxu Zhu, Kounianhua Du, Bo Chen, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -74,6 +146,14 @@
 <font color="gray">Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-972-blue)](https://github.com/thudm/agentbench)
+
+---
+
+[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.01825) （**2023.08.03**）
+
+<font color="gray">Zheng Yuan, Hongyi Yuan, Cheng Li, Guanting Dong, Chuanqi Tan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-96-blue)](https://github.com/ofa-sys/gsm8k-screl)
 
 ---
 
@@ -194,6 +274,14 @@
 <font color="gray">Paul K. Rubenstein, Chulayuth Asawaroengchai, D. Nguyen, Ankur Bapna, Zalán Borsos, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models**](https://doi.org/10.48550/arXiv.2306.08641) （**2023.06.14**）
+
+<font color="gray">Lingxi Xie, Longhui Wei, Xiaopeng Zhang, Kaifeng Bi, Xiaotao Gu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 

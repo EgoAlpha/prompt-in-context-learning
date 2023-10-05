@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**](https://doi.org/10.48550/arXiv.2309.10150) （**2023.09.18**）
+
+<font color="gray">Yevgen Chebotar, Q. Vuong, A. Irpan, Karol Hausman, F. Xia, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Replacing softmax with ReLU in Vision Transformers**](https://doi.org/10.48550/arXiv.2309.08586) （**2023.09.15**）
+
+<font color="gray">Mitchell Wortsman, Jaehoon Lee, Justin Gilmer, Simon Kornblith .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction**](https://doi.org/10.1145/3603269.3604819) （**2023.09.01**）
 
 <font color="gray">Jiangkai Wu, Yu Guan, Qi Mao, Yong Cui, Zongming Guo, etc .  - 【Proceedings of the ACM SIGCOMM 2023 Conference】</font>
@@ -178,6 +194,14 @@
 <font color="gray">Mengzhao Chen, Wenqi Shao, Peng Xu, Mingbao Lin, Kaipeng Zhang, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-37-blue)](https://github.com/opengvlab/diffrate)
+
+---
+
+[**Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers**](https://doi.org/10.48550/arXiv.2305.15805) （**2023.05.25**）
+
+<font color="gray">Sotiris Anagnostidis, Dario Pavllo, L. Biggio, Lorenzo Noci, Aurélien Lucchi, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 

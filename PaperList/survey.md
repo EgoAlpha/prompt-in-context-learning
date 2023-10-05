@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://doi.org/10.48550/arXiv.2309.07864) （**2023.09.14**）
+
+<font color="gray">Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-2.8k-blue)](https://github.com/woooodyy/llm-agent-paper-list)
+
+---
+
+[**Textbooks Are All You Need II: phi-1.5 technical report**](https://doi.org/10.48550/arXiv.2309.05463) （**2023.09.11**）
+
+<font color="gray">Yuan-Fang Li, Sébastien Bubeck, Ronen Eldan, Allison Del Giorno, Suriya Gunasekar, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-6-green)
+
+---
+
+[**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.01219) （**2023.09.03**）
+
+<font color="gray">Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-399-blue)](https://github.com/hillzhang1999/llm-hallucination-survey)
+
+---
+
 [**Point-Bind&Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**](https://arxiv.org/abs/2309.00615) （**2023.09.01**）
 
 <font color="gray">Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, etc </font>
@@ -18,6 +42,22 @@
 <font color="gray">J. Omiye, Haiwen Gui, Shawheen J. Rezaei, James Zou, Roxana Daneshjou </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**A Survey on Large Language Model based Autonomous Agents**](https://doi.org/10.48550/arXiv.2308.11432) （**2023.08.22**）
+
+<font color="gray">Lei Wang, Chengbang Ma, Xueyang Feng, Zeyu Zhang, Hao-ran Yang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-13-green)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/paitesanshi/llm-agent-survey)
+
+---
+
+[**Instruction Tuning for Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2308.10792) （**2023.08.21**）
+
+<font color="gray">Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/xiaoya-li/instruction-tuning-survey)
 
 ---
 
@@ -37,12 +77,27 @@
 
 ---
 
+[**Foundational Models Defining a New Era in Vision: A Survey and Outlook**](https://arxiv.org/abs/2307.13721) （**2023.07.25**）
+
+<font color="gray">Muhammad Awais, Muzammal Naseer, Salman Siddique Khan, R. Anwer, Hisham Cholakkal, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
 
 [**Challenges and Applications of Large Language Models**](https://doi.org/10.48550/arXiv.2307.10169) （**2023.07.19**）
 
 <font color="gray">Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Roberta Raileanu, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators**](https://doi.org/10.1145/3571884.3604316) （**2023.07.08**）
+
+<font color="gray">Andreas Liesenfeld, Alianda Lopez, Mark Dingemanse .  - 【International Conference on Conversational User Interfaces】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)  [![](https://img.shields.io/badge/Github%20Stars-41-blue)](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)
 
 ---
 
@@ -54,6 +109,13 @@
 
 ---
 
+[**A Survey on Evaluation of Large Language Models**](https://doi.org/10.48550/arXiv.2307.03109) （**2023.07.06**）
+
+<font color="gray">Yu-Chu Chang, Xu Wang, Jindong Wang, Yuanyi Wu, Kaijie Zhu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-25-green)  [![](https://img.shields.io/badge/Github%20Stars-776-blue)](https://github.com/mlgroupjlu/llm-eval-survey)
+
+---
 
 [**A Survey on Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2306.13549) （**2023.06.23**）
 
@@ -76,6 +138,14 @@
 <font color="gray">Jeremy Gwinnup, Kevin Duh .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**How Can Recommender Systems Benefit from Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2306.05817) （**2023.06.09**）
+
+<font color="gray">Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-380-blue)](https://github.com/chiangel/awesome-llm-for-recsys)
 
 ---
 

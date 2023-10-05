@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
+
+<font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/dvlab-research/longlora)
+
+---
+
+[**Adapting Large Language Models via Reading Comprehension**](https://doi.org/10.48550/arXiv.2309.09530) （**2023.09.18**）
+
+<font color="gray">Daixuan Cheng, Shaohan Huang, Furu Wei .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2.3k-blue)](https://github.com/microsoft/lmops)
+
+---
+
 [**Giraffe: Adventures in Expanding Context Lengths in LLMs**](https://doi.org/10.48550/arXiv.2308.10882) （**2023.08.21**）
 
 <font color="gray">Arka Pal, Deep Karkhanis, Manley Roberts, S. Dooley, Arvind Sundararajan, etc .  - 【arXiv.org】</font>
