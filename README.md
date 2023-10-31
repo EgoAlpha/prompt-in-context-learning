@@ -100,6 +100,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.10.31]**
+    - Paper: [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680)
+
 - **[2023.10.30]**
     - Paper: [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023)
 
@@ -114,84 +117,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.10.26]**
     - Paper: [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf)
-
-- **[2023.10.25]**
-    - Paper: [OpenAgents: An Open Platform for Language Agents in the Wild](https://arxiv.org/abs/2310.10634#)
-
-- **[2023.10.24]**
-    - Paper: [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
-
-- **[2023.10.23]**
-    - Paper: [MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models](https://arxiv.org/abs/2310.11954)
-    - Paper: [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798)
-
-- **[2023.10.22]**
-    - Paper: [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773)
-
-- **[2023.10.21]**
-    - Paper: [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685)
-
-- **[2023.10.20]**
-    - Paper: [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/fmti.pdf)
-    - Paper: [XVAL: A CONTINUOUS NUMBER ENCODING FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.02989.pdf)
-
-- **[2023.10.19]**
-    - Paper: [The Consensus Game: Language Model Generation via Equilibrium Search](http://arxiv.org/abs/2310.09139)
-
-- **[2023.10.18]**
-    - Paper: [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
-
-- **[2023.10.17]**
-    - Paper: [Table-GPT: Table-tuned GPT for Diverse Table Tasks](https://arxiv.org/abs/2310.09263)
-
-- **[2023.10.16]**
-    - Paper: [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
-
-- **[2023.10.15]**
-    - Paper: [Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
-
-- **[2023.10.14]**
-    - Paper: [How FaR Are Large Language Models From Agents with Theory-of-Mind?](http://arxiv.org/abs/2310.03051)
-
-- **[2023.10.13]**
-    - Paper: [Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://arxiv.org/abs/2310.07704)
-
-- **[2023.10.12]**
-    - Paper: [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://arxiv.org/abs/2310.06452 )
-    - Paper: [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114 )
-
-- **[2023.10.11]**
-    - Paper: [PB-LLM: Partially Binarized Large Language Models](https://arxiv.org/abs/2310.00034)
-
-- **[2023.10.10]**
-    - Paper: [MVDREAM:MULTI-VIEW DIFFUSION FOR 3D GENERATION](https://arxiv.org/pdf/2308.16512.pdf)
-
-- **[2023.10.9]**
-    - Paper: [MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens](https://arxiv.org/pdf/2310.02239v2.pdf)
-
-- **[2023.10.8]**
-    - Paper: [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
-
-- **[2023.10.7]**
-    - Survey Paper: [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402)
-
-- **[2023.10.6]**
-    - Paper: [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207)
-
-- **[2023.10.5]**
-    - Paper: [Adapting Large Language Models via Reading Comprehension](https://arxiv.org/abs/2309.09530)
-
-- **[2023.10.4]**
-    - Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
-
-- **[2023.10.3]**
-    - Paper: [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495)
-
-- **[2023.10.2]**
-    - Paper: [DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/abs/2309.11499)
-
-- **[2023.10.1]**
-    - Paper: [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)
 
 [👉 Complete history news 👈](./historynews.md)
 
