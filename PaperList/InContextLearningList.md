@@ -5,6 +5,38 @@
 <div style="line-height:0.2em;">
 
 
+[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
+
+<font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**SuperHF: Supervised Iterative Learning from Human Feedback**](https://arxiv.org/abs/2310.16763) （**2023.10.25**）
+
+<font color="gray">Gabriel Mukobi, Peter Chatain, Su Fong, Robert Windesheim, Gitta Kutyniok, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/abs/2310.16045) （**2023.10.24**）
+
+<font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MemGPT: Towards LLMs as Operating Systems**](https://arxiv.org/abs/2310.08560) （**2023.10.12**）
+
+<font color="gray">Charles Packer, Vivian Fang, Shishir G. Patil, Kevin Lin, Sarah Wooders, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
 
 <font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
@@ -58,6 +90,14 @@
 <font color="gray">Liang Wang, Nan Yang, Furu Wei </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+
+---
+
+[**Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models**](https://doi.org/10.48550/arXiv.2307.03762) （**2023.07.07**）
+
+<font color="gray">Yuxi Ma, Chi Zhang, Song-Chun Zhu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
 
 ---
 

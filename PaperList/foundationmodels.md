@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**The Foundation Model Transparency Index**](https://arxiv.org/abs/2310.12941) （**2023.10.19**）
+
+<font color="gray">Rishi Bommasani, Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Language Models Represent Space and Time**](https://arxiv.org/abs/2310.02207) （**2023.10.03**）
+
+<font color="gray">Wes Gurnee, Max Tegmark </font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Effective Distillation of Table-based Reasoning Ability from LLMs**](https://doi.org/10.48550/arXiv.2309.13182) （**2023.09.22**）
+
+<font color="gray">Bohao Yang, Chen Tang, Kangning Zhao, Chenghao Xiao, Chenghua Lin .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**](https://doi.org/10.48550/arXiv.2309.10150) （**2023.09.18**）
 
 <font color="gray">Yevgen Chebotar, Q. Vuong, A. Irpan, Karol Hausman, F. Xia, etc .  - 【arXiv.org】</font>
@@ -24,6 +48,14 @@
 [**ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction**](https://doi.org/10.1145/3603269.3604819) （**2023.09.01**）
 
 <font color="gray">Jiangkai Wu, Yu Guan, Qi Mao, Yong Cui, Zongming Guo, etc .  - 【Proceedings of the ACM SIGCOMM 2023 Conference】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Explaining Vision and Language through Graphs of Events in Space and Time**](https://doi.org/10.48550/arXiv.2309.08612) （**2023.08.29**）
+
+<font color="gray">Mihai Masala, Nicolae Cudlenco, Traian Rebedea, Marius Leordeanu .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

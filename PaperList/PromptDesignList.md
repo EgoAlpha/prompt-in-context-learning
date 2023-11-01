@@ -5,6 +5,102 @@
 <div style="line-height:0.2em;">
 
 
+[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
+
+<font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/abs/2310.16045) （**2023.10.24**）
+
+<font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**GraphGPT: Graph Instruction Tuning for Large Language Models**](https://doi.org/10.48550/arXiv.2310.13023) （**2023.10.19**）
+
+<font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/HKUDS/GraphGPT)
+
+---
+
+[**MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models**](https://doi.org/10.48550/arXiv.2310.11954) （**2023.10.18**）
+
+<font color="gray">Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**OpenAgents: An Open Platform for Language Agents in the Wild**](https://doi.org/10.48550/arXiv.2310.10634) （**2023.10.16**）
+
+<font color="gray">Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**JMedLoRA: Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**](https://doi.org/10.48550/arXiv.2310.10083) （**2023.10.16**）
+
+<font color="gray">Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**The Consensus Game: Language Model Generation via Equilibrium Search**](https://arxiv.org/abs/2310.09139) （**2023.10.13**）
+
+<font color="gray">Athul Paul Jacob, Yikang Shen, Gabriele Farina, Jacob Andreas </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Understanding the Effects of RLHF on LLM Generalisation and Diversity**](https://arxiv.org/abs/2310.06452) （**2023.10.10**）
+
+<font color="gray">Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770) （**2023.10.10**）
+
+<font color="gray">Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**](https://doi.org/10.48550/arXiv.2310.05029) （**2023.10.08**）
+
+<font color="gray">Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**How FaR Are Large Language Models From Agents with Theory-of-Mind?**](https://arxiv.org/abs/2310.03051) （**2023.10.04**）
+
+<font color="gray">Pei Zhou, Aman Madaan, Srividya Pranavi Potharaju, Aditya Gupta, Kevin R. McKee, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Think before you speak: Training Language Models With Pause Tokens**](https://doi.org/10.48550/arXiv.2310.02226) （**2023.10.03**）
+
+<font color="gray">Sachin Goyal, Ziwei Ji, A. Rawat, A. Menon, Sanjiv Kumar, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
 
 <font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
@@ -146,6 +242,14 @@
 
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+[**Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models**](https://doi.org/10.48550/arXiv.2307.03762) （**2023.07.07**）
+
+<font color="gray">Yuxi Ma, Chi Zhang, Song-Chun Zhu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
 
 ---
 

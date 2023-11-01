@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://doi.org/10.48550/arXiv.2309.15402) （**2023.09.27**）
+
+<font color="gray">Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://doi.org/10.48550/arXiv.2309.07864) （**2023.09.14**）
 
 <font color="gray">Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, etc .  - 【arXiv.org】</font>
@@ -42,6 +50,14 @@
 <font color="gray">J. Omiye, Haiwen Gui, Shawheen J. Rezaei, James Zou, Roxana Daneshjou </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Large Graph Models: A Perspective**](https://doi.org/10.48550/arXiv.2308.14522) （**2023.08.28**）
+
+<font color="gray">Ziwei Zhang, Haoyang Li, Zeyang Zhang, Yi Qin, Xin Wang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-84-blue)](https://github.com/thumnlab/awesome-large-graph-model)
 
 ---
 
