@@ -11,16 +11,16 @@
 
 ## Introduction
 
-Prompt engineering is an effective tool that can help us better navigate generative large language models and will greatly improve our productivity. In the near future, it is an inevitable trend that human-machine collaboration will become the main production method.Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
+Prompt engineering is an effective tool that can help us better navigate generative large language models and will greatly improve our productivity. In the near future, it is an inevitable trend that human-machine collaboration will become the main production method. Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
 
-> The aforementioned is also applicable to other large generative models, such text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.
+> The aforementioned is also applicable to other large generative models, such as text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.
 
 
 LLMs are trained on vast amounts of text data, allowing them to encode a substantial amount of factual information about the world. Their popularity has surged in recent years due to their ability to generate human-like text, making them ideal for chatbots, virtual assistants, and similar applications. However, it is essential to note that without appropriate prompt engineering, the generated outputs can be unpredictable and potentially result in harmful consequences.
 
 The goal of prompt engineering is to identify an appropriate prompt to be given to LLMs, in such a way that they generate responses that can effectively solve our specified complex tasks. 
 
-A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraph, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
+A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraphs, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
 
 > For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.
 
@@ -28,7 +28,7 @@ After receiving various types of prompts, LLMs have the ability to generate a di
 
 Depending on the knowledge and experience acquired from vast amounts of language data during training, LLMs are not just used for chatbot conversations, but also highly effective problem solvers. 
 
-### 💥 Hightlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
+### 💥 Highlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -39,7 +39,7 @@ A good prompt is one that is specific and provides enough context for LLMs to be
 To ensure the effectiveness and accuracy of the prompts, we need to follow the following principles:
 
 - **1. Clear and specific instructions:** The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt, which may lead to unclear or irrelevant answers.
--	**2. Simple and clear wording:** We should use simple, clear and explicit language to convey meaning and avoid overly complex or vague words to help the model better understanding our prompt.
+-	**2. Simple and clear wording:** We should use simple, clear and explicit language to convey meaning and avoid overly complex or vague words to help the model better understand our prompt.
 -	**3. Avoid complex sentence types:** We should try to avoid using complex sentence types and grammatical structures in order to reduce the difficulty and complexity of the model's comprehension.
 -	**4. Avoid ambiguity:** Prompts need to express exactly what we intend and avoid words that are ambiguous or unclear in intent to ensure that the model understands and answers the question correctly.
 -	**5.Use keywords**: Use keywords in the prompt that are relevant to the topic of the conversation. This helps the LLM to understand the context and respond appropriately.
@@ -254,9 +254,13 @@ Prompt-based approaches offer a powerful and flexible tool for resolving a wide 
 👁️ **[Prompt example]**:   
 
     Summarize the following paragraph:  
-    Do we know where the kite in our heart really is? We will not get it again if we miss it in life, maybe we will repent and redeem ourselves, but all these seem to be too late. Whenever the kite is released in the sky, shouldn't we ask ourselves whether we really treasure what we have.
+    Do we know where the kite in our hearts really is? We will not get it again if we miss it in life, maybe we will repent and redeem ourselves, but all these seem to be too late. Whenever the kite is released in the sky, shouldn't we ask ourselves whether we really treasure what we have.
+<<<<<<< HEAD
     Each of us has done something in our youth that we will be ashamed of in the future. These things may be like a shadow that accompanies you for the rest of your life, so that you can only look down at it. But time will not turn around, their best efforts to make up for it, how is not a kind of self-help? The beauty and friendship of childhood, because of a cowardly negligence and ruined, if you are given another chance, you are willing to go out of your way to regain that former self?
-    But people are like that, always live within a certain time limit, where the world may be a few years later even they can not understand, but this is what we can not break through. For you, a thousand times, all over the body will still be righteous, maybe this is life, life is not just doing things worthwhile!
+=======
+    Each of us has done something in our youth that we will be ashamed of in the future. These things may be like a shadow that accompanies you for the rest of your life, so that you can only look down at it. But time will not turn around, their best efforts to make up for it, how is not a kind of self-help? The beauty and friendship of childhood, because of cowardly negligence and ruined, if you are given another chance, you are willing to go out of your way to regain that former self?
+>>>>>>> 9d753878d160b42f30bf3b6a074a3711758e2bf0
+    But people are like that, always living within a certain time limit, where the world may be a few years later even they can not understand, but this is what we can not break through. For you, a thousand times, all over the body will still be righteous, maybe this is life, life is not just doing things worthwhile!
 
 **Output:**   
 
@@ -334,13 +338,13 @@ Prompt-based approaches offer a powerful and flexible tool for resolving a wide 
 
 
 ### 3.2 Generate the specified programming language
-The large language model can write python (or other programming language) code for the corresponding task based on natural language descriptions. In this kind of task, the code generated by the large language model can sometimes be wrong, but we can feed the wrong code directly to the large language model, and it will humbly admit the error to debug and correct the code.  
+The large language model can write Python (or other programming language) code for the corresponding task based on natural language descriptions. In this kind of task, the code generated by the large language model can sometimes be wrong, but we can feed the wrong code directly to the large language model, and it will humbly admit the error to debug and correct the code.  
 In the following example, we require the model to implement the aggregation of the contents of a large number of EXCEL tables according to our prompt, to aggregate all EXCEL transcripts into a total transcript table, and to reorder them according to the total score.  
 
 👁️ **[Prompt example]**:  
 
-    Suppose you are a programmer who is skilled in writing programs in python language.  
-    I need to summarize all the EXCEL table data in the given folder, into a given EXCEL table, write python requirements as follows:  
+    Suppose you are a programmer who is skilled in writing programs in Python language.  
+    I need to summarize all the EXCEL table data in the given folder, into a given EXCEL table, write Python requirements as follows:  
     1. In the sub-table, the columns are candidate number, candidate name, training mode, major number, major name, major ID, major course name, English score, political score, math score, major course score, total score and remarks. But there is no marking in the first line .  
     2. The format of the total table should be the same as the sub-table, and the data in the sub-table should be ranked from highest to lowest according to the total score.   
     3. Make a progress bar to indicate the amount of data that has been copied.  

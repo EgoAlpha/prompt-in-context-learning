@@ -34,7 +34,7 @@ As resources are limited, we suggest using this playground for learning and prac
 <img width="200%" src="./figures/hr.gif" />
 
 ## Directly Usage of LLMs
-### 🤩 *These models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to expolre and experience. The Checkpoints can also obtained by corresponding links.*
+### 🤩 *These models in the table below are directly accessible via links, The page contains the usage guide and API interface of the model for the convenience of all developers and researchers to explore and experience. The Checkpoints can also obtained by corresponding links.*
 
 |   Model  | Type | Lab | Playgrounds| Params(B) | Blog/Paper/Github | Checkpoints |Announced Time|
 | :----: | :----: | :----:  | :----: | :----:|:----: |:----:|:----:|
@@ -114,7 +114,7 @@ As resources are limited, we suggest using this playground for learning and prac
 <img width="200%" src="./figures/hr.gif" />
 
 ## LLMs in Coding
-### 🎭 *The following table show that the LLMs for Coding.* 
+### 🎭 *The following table shows the LLMs for Coding.* 
 
 | Model |  Checkpoints | Paper/Blog | Params (B)|Announced Time |
 | :---: | :---: | :---: | :---: | :---: |
@@ -128,7 +128,7 @@ As resources are limited, we suggest using this playground for learning and prac
 <img width="200%" src="./figures/hr.gif" />
 
 ## Dataset in LLMs Area
-### 📈 *The following table show that the Dataset of LLM area, with instruction-tunning and alignment-tuning.*
+### 📈 *The following table shows the Dataset of the LLM area, with instruction-tunning and alignment-tuning.*
 
 | Dataset |   Paper/Blog | Dataset | Samples (K) | Announced Time |Type|
 | :---: | :---: | :---: | :---: | :---: | :---:|
@@ -140,9 +140,13 @@ As resources are limited, we suggest using this playground for learning and prac
 <img width="200%" src="./figures/hr.gif" />
 
 ## LLMs from China
-### 🇨🇳 *The following table show that the LLMs from China, including the research lab, firms, and some universities.*
+### 🇨🇳 *The following table shows the LLMs from China, including the research lab, firms, and some universities.*
 
->Note：The part of the contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
+<<<<<<< HEAD
+>Note：The part of contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
+=======
+>Note： The part of contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
+>>>>>>> 9d753878d160b42f30bf3b6a074a3711758e2bf0
 
 |Source|Model & Link|Description|
 |:-:|:-:|:-:|
