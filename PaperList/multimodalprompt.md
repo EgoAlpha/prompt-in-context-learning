@@ -5,11 +5,51 @@
 <div style="line-height:0.2em;">
 
 
+[**BiLL-VTG: Bridging Large Language Models and Lightweight Visual Tools for Video-based Texts Generation**](https://doi.org/10.48550/arXiv.2310.10586) （**2023.10.16**）
+
+<font color="gray">Ji Qi, Kaixuan Ji, Jifan Yu, Duokang Wang, Bin Xu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**](https://doi.org/10.48550/arXiv.2310.02239) （**2023.10.03**）
+
+<font color="gray">Kaizhi Zheng, Xuehai He, Xin Eric Wang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Kosmos-2.5: A Multimodal Literate Model**](https://doi.org/10.48550/arXiv.2309.11419) （**2023.09.20**）
+
+<font color="gray">Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/kyegomez/Kosmos2.5)
+
+---
+
+[**Investigating the Catastrophic Forgetting in Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2309.10313) （**2023.09.19**）
+
+<font color="gray">Yuexiang Zhai, Shengbang Tong, Xiao Li, Mu Cai, Qing Qu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Physically Grounded Vision-Language Models for Robotic Manipulation**](https://arxiv.org/abs/2309.02561) （**2023.09.05**）
 
 <font color="gray">Jensen Gao, Bidipta Sarkar, F. Xia, Ted Xiao, Jiajun Wu, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+---
+
+[**Physically Grounded Vision-Language Models for Robotic Manipulation**](https://doi.org/10.48550/arXiv.2309.02561) （**2023.09.05**）
+
+<font color="gray">Jensen Gao, Bidipta Sarkar, F. Xia, Ted Xiao, Jiajun Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -170,6 +210,14 @@
 <font color="gray">Chenyang Lyu, Minghao Wu, Longyue Wang, Xinting Huang, Bingshuai Liu, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/lyuchenyang/macaw-llm)
+
+---
+
+[**Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models**](https://doi.org/10.48550/arXiv.2306.08641) （**2023.06.14**）
+
+<font color="gray">Lingxi Xie, Longhui Wei, Xiaopeng Zhang, Kaifeng Bi, Xiaotao Gu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 

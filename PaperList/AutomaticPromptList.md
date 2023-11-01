@@ -5,6 +5,46 @@
 <div style="line-height:0.2em;">
 
 
+[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
+
+<font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**GraphGPT: Graph Instruction Tuning for Large Language Models**](https://doi.org/10.48550/arXiv.2310.13023) （**2023.10.19**）
+
+<font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/HKUDS/GraphGPT)
+
+---
+
+[**OpenAgents: An Open Platform for Language Agents in the Wild**](https://doi.org/10.48550/arXiv.2310.10634) （**2023.10.16**）
+
+<font color="gray">Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MemGPT: Towards LLMs as Operating Systems**](https://arxiv.org/abs/2310.08560) （**2023.10.12**）
+
+<font color="gray">Charles Packer, Vivian Fang, Shishir G. Patil, Kevin Lin, Sarah Wooders, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
+
+<font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/dvlab-research/longlora)
+
+---
+
 [**AgentBench: Evaluating LLMs as Agents**](https://doi.org/10.48550/arXiv.2308.03688) （**2023.08.07**）
 
 <font color="gray">Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, etc .  - 【arXiv.org】</font>

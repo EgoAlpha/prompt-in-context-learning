@@ -5,6 +5,38 @@
 <div style="line-height:0.2em;">
 
 
+[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
+
+<font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Large Language Models Cannot Self-Correct Reasoning Yet**](https://doi.org/10.48550/arXiv.2310.01798) （**2023.10.03**）
+
+<font color="gray">Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, A. Yu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)
+
+---
+
+[**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://doi.org/10.48550/arXiv.2309.15402) （**2023.09.27**）
+
+<font color="gray">Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**](https://doi.org/10.48550/arXiv.2309.12307) （**2023.09.21**）
+
+<font color="gray">Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.2k-blue)](https://github.com/dvlab-research/longlora)
+
+---
+
 [**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://doi.org/10.48550/arXiv.2308.09687) （**2023.08.18**）
 
 <font color="gray">Maciej Besta, Nils Blach, Aleš Kubíček, R. Gerstenberger, Lukas Gianinazzi, etc .  - 【arXiv.org】</font>
@@ -18,6 +50,14 @@
 <font color="gray">Edward Junprung .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Cumulative Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.04371) （**2023.08.08**）
+
+<font color="gray">Yifan Zhang, Jingqin Yang, Yang Yuan, A. Yao .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-90-blue)](https://github.com/iiis-ai/cumulative-reasoning)
 
 ---
 
@@ -234,6 +274,14 @@
 <font color="gray">Hanxu Hu, Hongyuan Lu, Huajian Zhang, Wai Lam, Yue Zhang .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/hanxuhu/chain-of-symbol-planning)
+
+---
+
+[**Structured Chain-of-Thought Prompting for Code Generation**](https://arxiv.org/abs/2305.06599) （**2023.05.11**）
+
+<font color="gray">Jia Li, Ge Li, Yongming Li, Zhi Jin </font>
+
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
 
 ---
 

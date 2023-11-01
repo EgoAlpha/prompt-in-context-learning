@@ -5,6 +5,206 @@
 <div style="line-height:0.2em;">
 
 
+[**Narratron: Collaborative Writing and Shadow-playing of Children Stories with Large Language Models**](https://doi.org/10.1145/3586182.3625120) （**2023.10.29**）
+
+<font color="gray">Yubo Zhao, Xiying Bao .  - 【Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
+
+<font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**GraphGPT: Graph Instruction Tuning for Large Language Models**](https://doi.org/10.48550/arXiv.2310.13023) （**2023.10.19**）
+
+<font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/HKUDS/GraphGPT)
+
+---
+
+[**Creative Robot Tool Use with Large Language Models**](https://doi.org/10.48550/arXiv.2310.13065) （**2023.10.19**）
+
+<font color="gray">Mengdi Xu, Peide Huang, Wenhao Yu, Shiqi Liu, Xilun Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models**](https://doi.org/10.48550/arXiv.2310.11954) （**2023.10.18**）
+
+<font color="gray">Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**BiLL-VTG: Bridging Large Language Models and Lightweight Visual Tools for Video-based Texts Generation**](https://doi.org/10.48550/arXiv.2310.10586) （**2023.10.16**）
+
+<font color="gray">Ji Qi, Kaixuan Ji, Jifan Yu, Duokang Wang, Bin Xu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**JMedLoRA: Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**](https://doi.org/10.48550/arXiv.2310.10083) （**2023.10.16**）
+
+<font color="gray">Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Table-GPT: Table-tuned GPT for Diverse Table Tasks**](https://doi.org/10.48550/arXiv.2310.09263) （**2023.10.13**）
+
+<font color="gray">Peng Li, Yeye He, Dror Yashar, Weiwei Cui, Song Ge, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MemGPT: Towards LLMs as Operating Systems**](https://arxiv.org/abs/2310.08560) （**2023.10.12**）
+
+<font color="gray">Charles Packer, Vivian Fang, Shishir G. Patil, Kevin Lin, Sarah Wooders, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Ferret: Refer and Ground Anything Anywhere at Any Granularity**](https://arxiv.org/abs/2310.07704) （**2023.10.11**）
+
+<font color="gray">Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Understanding the Effects of RLHF on LLM Generalisation and Diversity**](https://arxiv.org/abs/2310.06452) （**2023.10.10**）
+
+<font color="gray">Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**](https://doi.org/10.48550/arXiv.2310.05029) （**2023.10.08**）
+
+<font color="gray">Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**xVal: A Continuous Number Encoding for Large Language Models**](https://doi.org/10.48550/arXiv.2310.02989) （**2023.10.04**）
+
+<font color="gray">Siavash Golkar, Mariel Pettee, Michael Eickenberg, Alberto Bietti, M. Cranmer, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-65-blue)](https://github.com/PolymathicAI/xVal)
+
+---
+
+[**How FaR Are Large Language Models From Agents with Theory-of-Mind?**](https://arxiv.org/abs/2310.03051) （**2023.10.04**）
+
+<font color="gray">Pei Zhou, Aman Madaan, Srividya Pranavi Potharaju, Aditya Gupta, Kevin R. McKee, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**](https://doi.org/10.48550/arXiv.2310.02239) （**2023.10.03**）
+
+<font color="gray">Kaizhi Zheng, Xuehai He, Xin Eric Wang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**PB-LLM: Partially Binarized Large Language Models**](https://doi.org/10.48550/arXiv.2310.00034) （**2023.09.29**）
+
+<font color="gray">Yuzhang Shang, Zhihang Yuan, Qiang Wu, Zhen Dong .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Integration of Large Language Models within Cognitive Architectures for Autonomous Robots**](https://doi.org/10.48550/arXiv.2309.14945) （**2023.09.26**）
+
+<font color="gray">Miguel Ángel González Santamarta, F. J. Lera, Ángel Manuel Guerrero Higueras, Vicente Matellán Olivera .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Effective Distillation of Table-based Reasoning Ability from LLMs**](https://doi.org/10.48550/arXiv.2309.13182) （**2023.09.22**）
+
+<font color="gray">Bohao Yang, Chen Tang, Kangning Zhao, Chenghao Xiao, Chenghua Lin .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**](https://doi.org/10.48550/arXiv.2309.13007) （**2023.09.22**）
+
+<font color="gray">Justin Chih-Yao Chen, Swarnadeep Saha, Mohit Bansal .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-4-green)
+
+---
+
+[**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495) （**2023.09.20**）
+
+<font color="gray">S. Dhuliawala, M. Komeili, Jing Xu, Roberta Raileanu, Xian Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Kosmos-2.5: A Multimodal Literate Model**](https://doi.org/10.48550/arXiv.2309.11419) （**2023.09.20**）
+
+<font color="gray">Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/kyegomez/Kosmos2.5)
+
+---
+
+[**DreamLLM: Synergistic Multimodal Comprehension and Creation**](https://doi.org/10.48550/arXiv.2309.11499) （**2023.09.20**）
+
+<font color="gray">Runpei Dong, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-185-blue)](https://github.com/RunpeiDong/DreamLLM)
+
+---
+
+[**SwitchGPT: Adapting Large Language Models for Non-Text Outputs**](https://doi.org/10.48550/arXiv.2309.07623) （**2023.09.14**）
+
+<font color="gray">Xinyu Wang, Bohan Zhuang, Qi Wu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**NExT-GPT: Any-to-Any Multimodal LLM**](https://doi.org/10.48550/arXiv.2309.05519) （**2023.09.11**）
+
+<font color="gray">Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1.9k-blue)](https://github.com/NExT-GPT/NExT-GPT)
+
+---
+
+[**From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting**](https://doi.org/10.48550/arXiv.2309.04269) （**2023.09.08**）
+
+<font color="gray">Griffin Adams, Alexander R. Fabbri, Faisal Ladhak, Eric Lehman, Noémie Elhadad .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Large Language Models as Optimizers**](https://arxiv.org/abs/2309.03409) （**2023.09.07**）
 
 <font color="gray">Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, etc </font>
@@ -13,11 +213,51 @@
 
 ---
 
+[**DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**](https://doi.org/10.48550/arXiv.2309.03883) （**2023.09.07**）
+
+<font color="gray">Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James R. Glass, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-184-blue)](https://github.com/voidism/dola)
+
+---
+
+[**YaRN: Efficient Context Window Extension of Large Language Models**](https://doi.org/10.48550/arXiv.2309.00071) （**2023.08.31**）
+
+<font color="gray">Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-655-blue)](https://github.com/jquesnelle/yarn)
+
+---
+
+[**MVDream: Multi-view Diffusion for 3D Generation**](https://doi.org/10.48550/arXiv.2308.16512) （**2023.08.31**）
+
+<font color="gray">Yichun Shi, Peng Wang, Jianglong Ye, Mai Long, Kejie Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-10-green)
+
+---
+
 [**PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation**](https://doi.org/10.48550/arXiv.2308.13746) （**2023.08.26**）
 
 <font color="gray">Ao Chang, Xing Tao, Xin Yang, Yuhao Huang, Xinrui Zhou, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**DARWIN Series: Domain Specific Large Language Models for Natural Science**](https://doi.org/10.48550/arXiv.2308.13565) （**2023.08.25**）
+
+<font color="gray">Tong Xie, Yuwei Wan, Wei Huang, Yufei Zhou, Yixuan Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**](https://doi.org/10.48550/arXiv.2308.11131) （**2023.08.22**）
+
+<font color="gray">Jianghao Lin, Rongjie Shan, Chenxu Zhu, Kounianhua Du, Bo Chen, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -77,6 +317,14 @@
 
 ---
 
+[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.01825) （**2023.08.03**）
+
+<font color="gray">Zheng Yuan, Hongyi Yuan, Cheng Li, Guanting Dong, Chuanqi Tan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-96-blue)](https://github.com/ofa-sys/gsm8k-screl)
+
+---
+
 [**Advancing Beyond Identification: Multi-bit Watermark for Language Models**](https://doi.org/10.48550/arXiv.2308.00221) （**2023.08.01**）
 
 <font color="gray">Kiyoon Yoo, W. Ahn, N. Kwak .  - 【arXiv.org】</font>
@@ -109,14 +357,6 @@
 
 ---
 
-[**Med-Flamingo: a Multimodal Medical Few-shot Learner**](https://doi.org/10.48550/arXiv.2307.15189) （**2023.07.27**）
-
-<font color="gray">Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, C. Zakka, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-253-blue)](https://github.com/snap-stanford/med-flamingo)
-
----
-
 [**Publisher Correction: Large language models encode clinical knowledge.**](https://doi.org/10.1038/s41586-023-06455-0) （**2023.07.27**）
 
 <font color="gray">K. Singhal, Shekoofeh Azizi, Tao Tu, S. S. Mahdavi, Jason Wei, etc .  - 【Nature】</font>
@@ -133,11 +373,27 @@
 
 ---
 
+[**Med-Flamingo: a Multimodal Medical Few-shot Learner**](https://doi.org/10.48550/arXiv.2307.15189) （**2023.07.27**）
+
+<font color="gray">Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, C. Zakka, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-253-blue)](https://github.com/snap-stanford/med-flamingo)
+
+---
+
 [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://doi.org/10.48550/arXiv.2307.09474) （**2023.07.18**）
 
 <font color="gray">Liang Zhao, En Yu, Zheng Ge, Jinrong Yang, Hao-Ran Wei, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT**](https://doi.org/10.48550/arXiv.2307.08674) （**2023.07.17**）
+
+<font color="gray">Liangyu Zha, Junlin Zhou, Liyao Li, Rui Wang, Qingyi Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-6-green)
 
 ---
 
@@ -197,6 +453,14 @@
 
 ---
 
+[**Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models**](https://doi.org/10.48550/arXiv.2306.08641) （**2023.06.14**）
+
+<font color="gray">Lingxi Xie, Longhui Wei, Xiaopeng Zhang, Kaifeng Bi, Xiaotao Gu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
 [**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**](https://doi.org/10.48550/arXiv.2306.07971) （**2023.06.13**）
 
 <font color="gray">Omkar Thawakar, Abdelrahman M. Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, R. Anwer, etc .  - 【arXiv.org】</font>
@@ -210,6 +474,14 @@
 <font color="gray">Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-102-green)  [![](https://img.shields.io/badge/Github%20Stars-27.2k-blue)](https://github.com/lm-sys/fastchat)
+
+---
+
+[**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**](https://doi.org/10.48550/arXiv.2306.05685) （**2023.06.09**）
+
+<font color="gray">Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-267-green)
 
 ---
 
