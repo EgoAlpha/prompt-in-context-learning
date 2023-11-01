@@ -142,11 +142,7 @@ As resources are limited, we suggest using this playground for learning and prac
 ## LLMs from China
 ### 🇨🇳 *The following table shows the LLMs from China, including the research lab, firms, and some universities.*
 
-<<<<<<< HEAD
->Note：The part of contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
-=======
 >Note： The part of contents of the list are from [here](https://github.com/wgwang/LLMs-In-China), and we have made appropriate modifications and supplements, hereby noted.
->>>>>>> 9d753878d160b42f30bf3b6a074a3711758e2bf0
 
 |Source|Model & Link|Description|
 |:-:|:-:|:-:|

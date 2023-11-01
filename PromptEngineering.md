@@ -255,11 +255,7 @@ Prompt-based approaches offer a powerful and flexible tool for resolving a wide 
 
     Summarize the following paragraph:  
     Do we know where the kite in our hearts really is? We will not get it again if we miss it in life, maybe we will repent and redeem ourselves, but all these seem to be too late. Whenever the kite is released in the sky, shouldn't we ask ourselves whether we really treasure what we have.
-<<<<<<< HEAD
-    Each of us has done something in our youth that we will be ashamed of in the future. These things may be like a shadow that accompanies you for the rest of your life, so that you can only look down at it. But time will not turn around, their best efforts to make up for it, how is not a kind of self-help? The beauty and friendship of childhood, because of a cowardly negligence and ruined, if you are given another chance, you are willing to go out of your way to regain that former self?
-=======
     Each of us has done something in our youth that we will be ashamed of in the future. These things may be like a shadow that accompanies you for the rest of your life, so that you can only look down at it. But time will not turn around, their best efforts to make up for it, how is not a kind of self-help? The beauty and friendship of childhood, because of cowardly negligence and ruined, if you are given another chance, you are willing to go out of your way to regain that former self?
->>>>>>> 9d753878d160b42f30bf3b6a074a3711758e2bf0
     But people are like that, always living within a certain time limit, where the world may be a few years later even they can not understand, but this is what we can not break through. For you, a thousand times, all over the body will still be righteous, maybe this is life, life is not just doing things worthwhile!
 
 **Output:**   
