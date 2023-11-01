@@ -4,6 +4,18 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.10.29]**
+- Paper: [Creative Robot Tool Use with Large Language Models](https://arxiv.org/abs/2310.13065 )
+
+**[2023.10.28]**
+- Paper: [Large Graph Models: A Perspective](https://arxiv.org/abs/2308.14522)
+
+**[2023.10.27]**
+- Paper: [SuperHF: Supervised Iterative Learning from Human Feedback](https://arxiv.org/abs/2310.16763 )
+
+**[2023.10.26]**
+- Paper: [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf)
+
 **[2023.10.25]**
 - Paper: [OpenAgents: An Open Platform for Language Agents in the Wild](https://arxiv.org/abs/2310.10634#)
 
