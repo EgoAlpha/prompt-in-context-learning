@@ -110,18 +110,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2023.10.30]**
     - Paper: [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023)
 
-- **[2023.10.29]**
-    - Paper: [Creative Robot Tool Use with Large Language Models](https://arxiv.org/abs/2310.13065 )
-
-- **[2023.10.28]**
-    - Paper: [Large Graph Models: A Perspective](https://arxiv.org/abs/2308.14522)
-
-- **[2023.10.27]**
-    - Paper: [SuperHF: Supervised Iterative Learning from Human Feedback](https://arxiv.org/abs/2310.16763 )
-
-- **[2023.10.26]**
-    - Paper: [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf)
-
 [👉 Complete history news 👈](./historynews.md)
 
 <img width="200%" src="./figures/hr.gif" />
