@@ -12,14 +12,14 @@
 
 Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
 
-> The aforementioned is also applicable to other large generative models, such text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.
+> The aforementioned is also applicable to other large generative models, such as text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.
 
 
 LLMs are trained on vast amounts of text data, allowing them to encode a substantial amount of factual information about the world. Their popularity has surged in recent years due to their ability to generate human-like text, making them ideal for chatbots, virtual assistants, and similar applications. However, it is essential to note that without appropriate prompt engineering, the generated outputs can be unpredictable and potentially result in harmful consequences.
 
 The goal of prompt engineering is to identify an appropriate prompt to be given to LLMs, in such a way that they generate responses that can effectively solve our specified complex tasks. 
 
-A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraph, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
+A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraphs, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
 
 > For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.**
 
@@ -27,7 +27,7 @@ After receiving various types of prompts, LLMs have the ability to generate a di
 
 Depending on the knowledge and experience acquired from vast amounts of language data during training, LLMs are not just used for chatbot conversations, but also highly effective problem solvers. 
 
-### 💥 Hightlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
+### 💥 Highlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -35,7 +35,7 @@ Depending on the knowledge and experience acquired from vast amounts of language
 A good prompt is one that is specific and provides enough context for LLMs to be able to generate a response that is relevant to the task.
 
 ### Design principle
-By following design principle, you can improve the quality and accuracy of the LLM’s responses and enhance the overall user experience.
+By following design principles, you can improve the quality and accuracy of the LLM’s responses and enhance the overall user experience.
 
 - **Be clear and specific**: The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt as this can lead to unclear or irrelevant responses.
 -	**Provide context**: The prompt should provide enough context for the model to understand the task and generate a relevant response. This can include relevant background information, examples, or constraints.
@@ -52,7 +52,7 @@ By following design principle, you can improve the quality and accuracy of the L
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
 
 - 🕐**Context**:  
-  - Context is key when designing a prompt. Make sure to provide enough background information surrounding to the designated task so that the model can understands the situation and generate text that is relevant and accurate. 
+  - Context is key when designing a prompt. Make sure to provide enough background information surrounding to the designated task so that the model can understand the situation and generate text that is relevant and accurate. 
 
 - 🕜**Instruction**:
   - Instruction is crucial as it guides the model on what to do and what is expected of it. It is important to be clear, concise and specific. When dealing with complex reasoning tasks, consider breaking the tasks down into smaller, more manageable steps to help the model understand the task at hand.
@@ -61,10 +61,10 @@ We propose a framework for prompt design that consists of five key components: c
   - Relevance is essential when specific information needs to be referenced. This information could be links to relevant articles or data, or specific input provided by the user. By utilizing this specific information, the model can tailor its output to be personalized, reliable, and consistent with the user's needs.
 
 - 🕝**Constraint**:    
-  - Constraint is helpful as guiding LLMs on what it can and cannot do, ultimately leading to more accurate results. This may involve specifying the format of the output, the type of language to be used, or even the length of the output. Additionally, specifying the difficulty level and style can further refine the output.
+  - Constraint is helpful in guiding LLMs on what they can and cannot do, ultimately leading to more accurate results. This may involve specifying the format of the output, the type of language to be used, or even the length of the output. Additionally, specifying the difficulty level and style can further refine the output.
 
 - 🕒**Demonstration**: 
-  - Demonstration is valuable as it allow LLMs to understand what is expected through examples, particularly when instructions alone cannot effectively convey specific details and accuracy. By offering examples of input and output pairs, LLMs can automatically identify patterns and then generate text that is aligned with the user's expectations.
+  - Demonstration is valuable as it allows LLMs to understand what is expected through examples, particularly when instructions alone cannot effectively convey specific details and accuracy. By offering examples of input and output pairs, LLMs can automatically identify patterns and then generate text that is aligned with the user's expectations.
 
 ## 💥 Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt. 
 
@@ -80,7 +80,7 @@ At the beginning of the prompt, we can directly write the content to express the
 
 ```[Relevance]: To help you develop your story, please review the following articles: "The Power of Uncovering Hidden Talents" and "The Importance of Character Development in Fiction Writing." These articles will provide you with relevant insights and ideas for your story.``` 
 
-```[Constraint]: Your story must be written in third person point of view and should be appropriate for a general audience. Additionally, ensure that the story has a positive and inspiring tone.```
+```[Constraint]: Your story must be written in the third person point of view and should be appropriate for a general audience. Additionally, ensure that the story has a positive and inspiring tone.```
 
 ```
 Output: 
