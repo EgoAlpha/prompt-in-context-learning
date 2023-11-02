@@ -100,6 +100,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.11.2]**
+  - [DeepMind Exposes Next-Generation AlphaFold, Prediction Accuracy Skyrockets by Nearly 10 Percent! The AlphaFold moment for DNA and RNA is here!](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
+
 - **[2023.11.1]**
     - [NVIDIA releases ChipNeMo, a large model to design semiconductors and accelerate AI design chips](https://blogs.nvidia.com/blog/2023/10/30/llm-semiconductors-chip-nemo/ )
     - Paper: [LILO: Learning Interpretable Libraries by Compressing and Documenting Code](https://arxiv.org/abs/2310.19791 )
