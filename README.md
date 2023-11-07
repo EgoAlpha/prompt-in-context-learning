@@ -100,6 +100,13 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.11.7]**
+  - Paper: [MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)
+
+- **[2023.11.6]**
+  - 🔥🔥🔥 01.Ai first open source large models, the Yi series of large models: [Yi-34B](https://huggingface.co/01-ai/Yi-34B) and [Yi-6B](https://huggingface.co/01-ai/Yi-6B).
+  - 🔥🔥🔥 Elon Musk's xAI products in two consecutive releases: [PromptIDE](https://x.ai/prompt-ide/) & [Grok](https://grok.x.ai)
+
 - **[2023.11.5]**
   - Paper: [GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](https://arxiv.org/abs/2309.16583)
 
