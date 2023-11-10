@@ -102,6 +102,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2023.11.10]**
   - Paper: [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
+  - Paper: [mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration](https://arxiv.org/abs/2311.04257)
 
 - **[2023.11.9]**
   - Paper: [Pre-training LLMs using human-like development data corpus](https://arxiv.org/abs/2311.04666 )
