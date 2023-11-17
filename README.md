@@ -100,6 +100,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.11.17]**
+  - [DeepMind's big model on Science: 1-minute prediction of 10 days of weather data, 90% of the indicators beyond the strongest human model](https://www.science.org/doi/10.1126/science.adi2336)
+  - Paper: [Towards Verifiable Text Generation with Symbolic References](https://arxiv.org/abs/2311.09188 )
+
+
 - **[2023.11.16]**
   - [Microsoft's late-night amplification: GPT-4, DALL-E 3, GPTs for free, self-research big model dedicated AI chip](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
   - [DevOps finally has an exclusive big model, Ant and BYU jointly released](https://github.com/codefuse-ai/CodeFuse-DevOps-Model/tree/main)
