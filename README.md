@@ -100,6 +100,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.12.8]**
+  - Paper: [An Embodied Generalist Agent in 3D World](https://arxiv.org/abs/2311.12871 )
+
 - **[2023.12.7]**
   - 🔥🔥🔥[Gemini:The largest and most capable Google LLM is coming! Gemini Ultra, Gemini Pro, and Gemini Nano!](https://blog.google/technology/ai/google-gemini-ai/#scalable-efficient)
 
