@@ -4,6 +4,145 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2023.12.10]**
+- Survey Paper: [Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning](https://arxiv.org/abs/2303.10475)
+- 🔥🔥🔥[The first open source MoE Structure LLM is released!](https://x.com/MistralAI/status/1733150512395038967?s=20)
+
+**[2023.12.9]**
+- Paper: [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
+
+**[2023.12.8]**
+- Paper: [An Embodied Generalist Agent in 3D World](https://arxiv.org/abs/2311.12871 )
+
+**[2023.12.7]**
+- 🔥🔥🔥[Gemini:The largest and most capable Google LLM is coming! Gemini Ultra, Gemini Pro, and Gemini Nano!](https://blog.google/technology/ai/google-gemini-ai/#scalable-efficient)
+
+**[2023.12.6]**
+- Paper: [Minimizing Factual Inconsistency and Hallucination in Large Language Models](https://arxiv.org/pdf/2311.13878)
+
+**[2023.12.5]**
+- Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+
+**[2023.12.4]**
+- Paper: [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/abs/2312.00785)
+
+**[2023.12.3]**
+- Paper: [Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation](https://arxiv.org/pdf/2311.03348.pdf)
+
+**[2023.12.2]**
+- [The PyTorch team has accelerated large model inference by a factor of 10, and with less than 1,000 lines of pure native PyTorch code!](https://pytorch.org/blog/accelerating-generative-ai-2/?)
+
+**[2023.12.1]**
+- Peking University's newest multimodal LLM open source: trained on mixed datasets and directly used for image-video tasks without modification: 【[arXiv](https://arxiv.org/pdf/2311.08046.pdf)/[Demo](https://huggingface.co/spaces/Chat-UniVi/Chat-UniVi)/[GitHub](https://github.com/PKU-YuanGroup/Chat-UniVi)/[HuggingFace](https://huggingface.co/Chat-UniVi)】
+
+**[2023.11.30]**
+- Paper: [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336)
+
+**[2023.11.29]**
+- 🔥🔥🔥[Text to Video, PIKA1.0 officially released!](https://pika.art/blog)
+- Paper: [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475)
+
+**[2023.11.28]**
+- [Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://github.com/hao-ai-lab/LookaheadDecoding)
+
+**[2023.11.27]**
+- 🔥🔥🔥 Paper: [White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?](https://arxiv.org/abs/2311.13110)
+
+**[2023.11.26]**
+- [Use vision to make Prompt! Xiangyang Shen demonstrates IDEA Research Institute's new model, no training or fine-tuning, out-of-the-box!](https://trex-counting.github.io/)
+
+**[2023.11.25]**
+- Paper:[MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537)
+
+**[2023.11.24]**
+- Paper: [Social Motion Prediction with Cognitive Hierarchies](https://arxiv.org/pdf/2311.04726.pdf)
+
+**[2023.11.23]**
+- Paper: [3D-GPT: PROCEDURAL 3D MODELING WITH LARGE LANGUAGE MODELS.](https://arxiv.org/abs/2310.12945)
+
+**[2023.11.22]**
+- Paper: [Holographic codes from hyper invariant tensor networks](https://www.nature.com/articles/s41467-023-42743-z)
+
+**[2023.11.21]**
+- Paper: [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://ghli.org/camel.pdf)
+
+**[2023.11.20]**
+- Paper: [Llemma: An Open Language Model For Mathematics](https://arxiv.org/abs/2310.10631)
+
+**[2023.11.19]**
+- [OpenAI Late Night Change, Sam Altman Kicked Out, Former CTO Temporary Interim CEO](https://openai.com/blog/openai-announces-leadership-transition)
+- Paper: [IN-CONTEXT LEARNING WITH ITERATIVE DEMON- STRATION SELECTION](https://arxiv.org/pdf/2310.09881.pdf)
+
+**[2023.11.18]**
+- Paper: [EMU VIDEO: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://emu-video.metademolab.com/assets/emu_video.pdf)
+
+**[2023.11.17]**
+- [DeepMind's big model on Science: 1-minute prediction of 10 days of weather data, 90% of the indicators beyond the strongest human model](https://www.science.org/doi/10.1126/science.adi2336)
+- Paper: [Towards Verifiable Text Generation with Symbolic References](https://arxiv.org/abs/2311.09188 )
+
+
+**[2023.11.16]**
+- [Microsoft's late-night amplification: GPT-4, DALL-E 3, GPTs for free, self-research big model dedicated AI chip](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
+- [DevOps finally has an exclusive big model, Ant and BYU jointly released](https://github.com/codefuse-ai/CodeFuse-DevOps-Model/tree/main)
+
+**[2023.11.15]**
+- 🔥🔥🔥Paper: [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/abs/2311.08046)
+- 🔥🔥🔥Paper: [SpectralGPT: Spectral Foundation Model](https://arxiv.org/pdf/2311.07113v1.pdf)
+- Paper: [CHATMAP : LARGE LANGUAGE MODEL INTERACTION WITH CARTOGRAPHIC DATA](https://arxiv.org/pdf/2310.01429.pdf)
+- Paper: [EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images](https://arxiv.org/abs/2311.06400)
+  
+
+**[2023.11.14]**
+- Paper: [Can LLMs Follow Simple Rules?](https://arxiv.org/abs/2311.04235 )
+
+**[2023.11.13]**
+- Paper: [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/abs/2311.03287)
+
+**[2023.11.12]**
+- Paper: [Ziya2: Data-centric Learning is All LLMs Need](https://arxiv.org/abs/2311.03301)
+
+**[2023.11.11]**
+- Paper: [PILL:Plug Into LLM with Adapter Expert and Attention Gat](https://arxiv.org/pdf/2311.02126v1.pdf)
+
+**[2023.11.10]**
+- Paper: [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
+- Paper: [mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration](https://arxiv.org/abs/2311.04257)
+
+**[2023.11.9]**
+- Paper: [Pre-training LLMs using human-like development data corpus](https://arxiv.org/abs/2311.04666 )
+
+**[2023.11.8]**
+- Paper: [TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449)
+
+**[2023.11.7]**
+- Paper: [MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)
+
+**[2023.11.6]**
+- 🔥🔥🔥 01.Ai first open source large models, the Yi series of large models: [Yi-34B](https://huggingface.co/01-ai/Yi-34B) and [Yi-6B](https://huggingface.co/01-ai/Yi-6B).
+- 🔥🔥🔥 Elon Musk's xAI products in two consecutive releases: [PromptIDE](https://x.ai/prompt-ide/) & [Grok](https://grok.x.ai)
+
+**[2023.11.5]**
+- Paper: [GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](https://arxiv.org/abs/2309.16583)
+
+**[2023.11.4]**
+- Paper: [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455)
+
+**[2023.11.3]**
+- Paper: [In-context Learning with Transformer Is Really Equivalent to a Contrastive Learning Pattern](https://arxiv.org/abs/2310.13220)
+
+**[2023.11.2]**
+- [DeepMind Exposes Next-Generation AlphaFold, Prediction Accuracy Skyrockets by Nearly 10 Percent! The AlphaFold moment for DNA and RNA is here!](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
+
+**[2023.11.1]**
+- [NVIDIA releases ChipNeMo, a large model to design semiconductors and accelerate AI design chips](https://blogs.nvidia.com/blog/2023/10/30/llm-semiconductors-chip-nemo/ )
+- Paper: [LILO: Learning Interpretable Libraries by Compressing and Documenting Code](https://arxiv.org/abs/2310.19791 )
+
+**[2023.10.31]**
+- Paper: [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680)
+
+**[2023.10.30]**
+- Paper: [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023)
+
 **[2023.10.29]**
 - Paper: [Creative Robot Tool Use with Large Language Models](https://arxiv.org/abs/2310.13065 )
 

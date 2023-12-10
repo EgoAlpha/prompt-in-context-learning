@@ -5,6 +5,54 @@
 <div style="line-height:0.2em;">
 
 
+[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
+
+<font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
+
+<font color="gray">Xiangru Tang, Anni Zou, Zhuosheng Zhang, Yilun Zhao, Xingyao Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards Verifiable Text Generation with Symbolic References**](https://doi.org/10.48550/arXiv.2311.09188) （**2023.11.15**）
+
+<font color="gray">Lucas Torroba Hennigen, Zejiang Shen, Aniruddha Nrusimha, Bernhard Gapp, David Sontag, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Learning skillful medium-range global weather forecasting.**](https://doi.org/10.1126/science.adi2336) （**2023.11.14**）
+
+<font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)
+
+---
+
+[**Can LLMs Follow Simple Rules?**](https://doi.org/10.48550/arXiv.2311.04235) （**2023.11.06**）
+
+<font color="gray">Norman Mu, Sarah Chen, Zifan Wang, Sizhe Chen, David Karamardian, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
+
+<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
 
 <font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>

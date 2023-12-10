@@ -5,6 +5,54 @@
 <div style="line-height:0.2em;">
 
 
+[**Minimizing Factual Inconsistency and Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2311.13878) （**2023.11.23**）
+
+<font color="gray">I. Muneeswaran, Shreya Saxena, Siva Prasad, M. V. S. Prakash, Advaith Shankar, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
+
+<font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
+
+<font color="gray">Xiangru Tang, Anni Zou, Zhuosheng Zhang, Yilun Zhao, Xingyao Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards Verifiable Text Generation with Symbolic References**](https://doi.org/10.48550/arXiv.2311.09188) （**2023.11.15**）
+
+<font color="gray">Lucas Torroba Hennigen, Zejiang Shen, Aniruddha Nrusimha, Bernhard Gapp, David Sontag, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Learning skillful medium-range global weather forecasting.**](https://doi.org/10.1126/science.adi2336) （**2023.11.14**）
+
+<font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)
+
+---
+
+[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
+
+<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
 
 <font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
@@ -24,6 +72,14 @@
 [**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/abs/2310.16045) （**2023.10.24**）
 
 <font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**In-context Learning with Transformer Is Really Equivalent to a Contrastive Learning Pattern**](https://doi.org/10.48550/arXiv.2310.13220) （**2023.10.20**）
+
+<font color="gray">Ruifeng Ren, Yong Liu .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -709,19 +765,19 @@
 
 ---
 
-[**Multitask Prompted Training Enables Zero-Shot Task Generalization**](https://arxiv.org/abs/2110.08207) （**2021.10.15**）
-
-<font color="gray">Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, etc .  - 【International Conference on Learning Representations】</font>
-
-![](https://img.shields.io/badge/Citations-387-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-512-red)  [![](https://img.shields.io/badge/Github%20Stars-2.1k-blue)](https://github.com/bigscience-workshop/promptsource)
-
----
-
 [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53) （**2021.10.15**）
 
 <font color="gray">Yanda Chen, Ruiqi Zhong, Sheng Zha, G. Karypis, He He .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
 ![](https://img.shields.io/badge/Citations-32-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-77-red)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/yandachen/in-context-tuning)
+
+---
+
+[**Multitask Prompted Training Enables Zero-Shot Task Generalization**](https://arxiv.org/abs/2110.08207) （**2021.10.15**）
+
+<font color="gray">Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, etc .  - 【International Conference on Learning Representations】</font>
+
+![](https://img.shields.io/badge/Citations-387-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-512-red)  [![](https://img.shields.io/badge/Github%20Stars-2.1k-blue)](https://github.com/bigscience-workshop/promptsource)
 
 ---
 

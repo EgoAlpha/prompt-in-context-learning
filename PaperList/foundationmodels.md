@@ -5,6 +5,118 @@
 <div style="line-height:0.2em;">
 
 
+[**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**](https://arxiv.org/abs/2312.00752) （**2023.12.01**）
+
+<font color="gray">Albert Gu, Tri Dao </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Minimizing Factual Inconsistency and Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2311.13878) （**2023.11.23**）
+
+<font color="gray">I. Muneeswaran, Shreya Saxena, Siva Prasad, M. V. S. Prakash, Advaith Shankar, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?**](https://doi.org/10.48550/arXiv.2311.13110) （**2023.11.22**）
+
+<font color="gray">Yaodong Yu, Sam Buchanan, Druv Pai, Tianzhe Chu, Ziyang Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Learning skillful medium-range global weather forecasting.**](https://doi.org/10.1126/science.adi2336) （**2023.11.14**）
+
+<font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)
+
+---
+
+[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://doi.org/10.48550/arXiv.2311.08046) （**2023.11.14**）
+
+<font color="gray">Peng Jin, Ryuichi Takanobu, Caiwan Zhang, Xiaochun Cao, Li Yuan .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**SpectralGPT: Spectral Foundation Model**](https://doi.org/10.48550/arXiv.2311.07113) （**2023.11.13**）
+
+<font color="gray">D. Hong, Bing Zhang, Xuyang Li, Yuxuan Li, Chenyu Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Social Motion Prediction with Cognitive Hierarchies**](https://doi.org/10.48550/arXiv.2311.04726) （**2023.11.08**）
+
+<font color="gray">Wentao Zhu, Jason Qin, Yuke Lou, Hang Ye, Xiaoxuan Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Pre-training LLMs using human-like development data corpus**](https://doi.org/10.48550/arXiv.2311.04666) （**2023.11.08**）
+
+<font color="gray">Khushi Bhardwaj, Raj Sanjay Shah, Sashank Varma .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://doi.org/10.48550/arXiv.2311.04257) （**2023.11.07**）
+
+<font color="gray">Qinghao Ye, Haiyang Xu, Jiabo Ye, Mingshi Yan, Anwen Hu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)
+
+---
+
+[**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**](https://doi.org/10.48550/arXiv.2311.03348) （**2023.11.06**）
+
+<font color="gray">Rusheb Shah, Quentin Feuillade--Montixi, Soroush Pour, Arush Tagade, Stephen Casper, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Ziya2: Data-centric Learning is All LLMs Need**](https://doi.org/10.48550/arXiv.2311.03301) （**2023.11.06**）
+
+<font color="gray">Ruyi Gan, Ziwei Wu, Renliang Sun, Junyu Lu, Xiaojun Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
+
+<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://doi.org/10.48550/arXiv.2310.17680) （**2023.10.26**）
+
+<font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**3D-GPT: Procedural 3D Modeling with Large Language Models**](https://doi.org/10.48550/arXiv.2310.12945) （**2023.10.19**）
+
+<font color="gray">Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**The Foundation Model Transparency Index**](https://arxiv.org/abs/2310.12941) （**2023.10.19**）
 
 <font color="gray">Rishi Bommasani, Kevin Klyman, Shayne Longpre, Sayash Kapoor, Nestor Maslej, etc </font>
@@ -18,6 +130,14 @@
 <font color="gray">Wes Gurnee, Max Tegmark </font>
 
 ![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Chatmap : Large Language Model Interaction with Cartographic Data**](https://doi.org/10.48550/arXiv.2310.01429) （**2023.09.28**）
+
+<font color="gray">Eren Unlu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -109,6 +229,14 @@
 
 ---
 
+[**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**](https://doi.org/10.48550/arXiv.2308.04352) （**2023.08.08**）
+
+<font color="gray">Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)
+
+---
+
 [**Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**](https://doi.org/10.48550/arXiv.2308.03151) （**2023.08.06**）
 
 <font color="gray">Zheng Ma, Mianzhi Pan, Wen-Lan Wu, Ka Leong Cheng, Jianbing Zhang, etc .  - 【arXiv.org】</font>
@@ -120,6 +248,14 @@
 [**Pre-Trained Large Language Models for Industrial Control**](https://doi.org/10.48550/arXiv.2308.03028) （**2023.08.06**）
 
 <font color="gray">Lei Song, Chuheng Zhang, Li Zhao, Jiang Bian .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Training Large-scale Foundation Models on Emerging AI Chips**](https://doi.org/10.1145/3580305.3599573) （**2023.08.04**）
+
+<font color="gray">Aashiq Muhamed, Christian Bock, R. Solanki, Youngsuk Park, Yida Wang, etc .  - 【Knowledge Discovery and Data Mining】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -154,6 +290,22 @@
 <font color="gray">Andy Zou, Zifan Wang, J. Z. Kolter, Matt Fredrikson .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-19-green)  [![](https://img.shields.io/badge/Github%20Stars-1.9k-blue)](https://github.com/llm-attacks/llm-attacks)
+
+---
+
+[**CARTIER: Cartographic lAnguage Reasoning Targeted at Instruction Execution for Robots**](https://doi.org/10.48550/arXiv.2307.11865) （**2023.07.21**）
+
+<font color="gray">Nikhil Kakodkar, D. Rivkin, Bobak H. Baghi, F. Hogan, Gregory Dudek .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots**](https://arxiv.org/abs/2307.08715) （**2023.07.16**）
+
+<font color="gray">Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, etc </font>
+
+![](https://img.shields.io/badge/Citations-13-green)
 
 ---
 

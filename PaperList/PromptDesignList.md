@@ -5,6 +5,70 @@
 <div style="line-height:0.2em;">
 
 
+[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
+
+<font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
+
+<font color="gray">Xiangru Tang, Anni Zou, Zhuosheng Zhang, Yilun Zhao, Xingyao Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ChatTwin: Toward Automated Digital Twin Generation for Data Center via Large Language Models**](https://doi.org/10.1145/3600100.3623719) （**2023.11.15**）
+
+<font color="gray">Minghao Li, Ruihang Wang, Xin Zhou, Zhaomeng Zhu, Yonggang Wen, etc .  - 【BuildSys@SenSys】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images**](https://doi.org/10.48550/arXiv.2311.06400) （**2023.11.10**）
+
+<font color="gray">Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
+
+<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**PILL: Plug Into LLM with Adapter Expert and Attention Gate**](https://doi.org/10.48550/arXiv.2311.02126) （**2023.11.03**）
+
+<font color="gray">Fangyuan Zhang, Tingting Liang, Zhengyuan Wu, Yuyu Yin .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**TopicGPT: A Prompt-based Topic Modeling Framework**](https://doi.org/10.48550/arXiv.2311.01449) （**2023.11.02**）
+
+<font color="gray">Chau Minh Pham, Alexander Miserlis Hoyle, Simeng Sun, Mohit Iyyer .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LILO: Learning Interpretable Libraries by Compressing and Documenting Code**](https://doi.org/10.48550/arXiv.2310.19791) （**2023.10.30**）
+
+<font color="gray">Gabriel Grand, L. Wong, Matthew Bowers, Theo X. Olausson, Muxin Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
 
 <font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
@@ -138,6 +202,14 @@
 <font color="gray">Zhengxiang Shi, Aldo Lipani .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-27-blue)](https://github.com/zhengxiangshi/dept)
+
+---
+
+[**PointLLM: Empowering Large Language Models to Understand Point Clouds**](https://doi.org/10.48550/arXiv.2308.16911) （**2023.08.31**）
+
+<font color="gray">Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-14-green)
 
 ---
 

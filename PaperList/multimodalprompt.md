@@ -5,6 +5,86 @@
 <div style="line-height:0.2em;">
 
 
+[**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://arxiv.org/abs/2312.00785) （**2023.12.01**）
+
+<font color="gray">Yutong Bai, Xinyang Geng, K. Mangalam, Amir Bar, Alan Yuille, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**](https://doi.org/10.48550/arXiv.2311.15475) （**2023.11.27**）
+
+<font color="gray">Yawar Siddiqui, A. Alliegro, Alexey Artemov, Tatiana Tommasi, Daniele Sirigatti, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
+
+<font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**](https://doi.org/10.48550/arXiv.2311.10709) （**2023.11.17**）
+
+<font color="gray">Rohit Girdhar, Mannat Singh, Andrew Brown, Quentin Duval, S. Azadi, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
+
+<font color="gray">Xiangru Tang, Anni Zou, Zhuosheng Zhang, Yilun Zhao, Xingyao Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://doi.org/10.48550/arXiv.2311.08046) （**2023.11.14**）
+
+<font color="gray">Peng Jin, Ryuichi Takanobu, Caiwan Zhang, Xiaochun Cao, Li Yuan .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images**](https://doi.org/10.48550/arXiv.2311.06400) （**2023.11.10**）
+
+<font color="gray">Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**](https://doi.org/10.48550/arXiv.2311.03287) （**2023.11.06**）
+
+<font color="gray">Chenhang Cui, Yiyang Zhou, Xinyu Yang, Shirley Wu, Linjun Zhang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
+[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
+
+<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**3D-GPT: Procedural 3D Modeling with Large Language Models**](https://doi.org/10.48550/arXiv.2310.12945) （**2023.10.19**）
+
+<font color="gray">Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**BiLL-VTG: Bridging Large Language Models and Lightweight Visual Tools for Video-based Texts Generation**](https://doi.org/10.48550/arXiv.2310.10586) （**2023.10.16**）
 
 <font color="gray">Ji Qi, Kaixuan Ji, Jifan Yu, Duokang Wang, Bin Xu, etc .  - 【arXiv.org】</font>
@@ -61,6 +141,14 @@
 
 ---
 
+[**PointLLM: Empowering Large Language Models to Understand Point Clouds**](https://doi.org/10.48550/arXiv.2308.16911) （**2023.08.31**）
+
+<font color="gray">Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-14-green)
+
+---
+
 [**PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation**](https://doi.org/10.48550/arXiv.2308.13746) （**2023.08.26**）
 
 <font color="gray">Ao Chang, Xing Tao, Xin Yang, Yuhao Huang, Xinrui Zhou, etc .  - 【arXiv.org】</font>
@@ -77,11 +165,27 @@
 
 ---
 
+[**Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes**](https://doi.org/10.48550/arXiv.2308.08769) （**2023.08.17**）
+
+<font color="gray">Zehan Wang, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
 [**VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use**](https://doi.org/10.48550/arXiv.2308.06595) （**2023.08.12**）
 
 <font color="gray">Yonatan Bitton, Hritik Bansal, Jack Hessel, Rulin Shao, Wanrong Zhu, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**](https://doi.org/10.48550/arXiv.2308.04352) （**2023.08.08**）
+
+<font color="gray">Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)
 
 ---
 
@@ -122,6 +226,14 @@
 <font color="gray">Eugene Bagdasaryan, Tsung-Yin Hsieh, Ben Nassi, Vitaly Shmatikov .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots**](https://arxiv.org/abs/2307.08715) （**2023.07.16**）
+
+<font color="gray">Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, etc </font>
+
+![](https://img.shields.io/badge/Citations-13-green)
 
 ---
 

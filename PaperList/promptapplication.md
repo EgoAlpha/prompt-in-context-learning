@@ -5,6 +5,142 @@
 <div style="line-height:0.2em;">
 
 
+[**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://arxiv.org/abs/2312.00785) （**2023.12.01**）
+
+<font color="gray">Yutong Bai, Xinyang Geng, K. Mangalam, Amir Bar, Alan Yuille, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**](https://doi.org/10.48550/arXiv.2311.15475) （**2023.11.27**）
+
+<font color="gray">Yawar Siddiqui, A. Alliegro, Alexey Artemov, Tatiana Tommasi, Daniele Sirigatti, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Minimizing Factual Inconsistency and Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2311.13878) （**2023.11.23**）
+
+<font color="gray">I. Muneeswaran, Shreya Saxena, Siva Prasad, M. V. S. Prakash, Advaith Shankar, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
+
+<font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**](https://doi.org/10.48550/arXiv.2311.10709) （**2023.11.17**）
+
+<font color="gray">Rohit Girdhar, Mannat Singh, Andrew Brown, Quentin Duval, S. Azadi, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**ChatTwin: Toward Automated Digital Twin Generation for Data Center via Large Language Models**](https://doi.org/10.1145/3600100.3623719) （**2023.11.15**）
+
+<font color="gray">Minghao Li, Ruihang Wang, Xin Zhou, Zhaomeng Zhu, Yonggang Wen, etc .  - 【BuildSys@SenSys】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://doi.org/10.48550/arXiv.2311.08046) （**2023.11.14**）
+
+<font color="gray">Peng Jin, Ryuichi Takanobu, Caiwan Zhang, Xiaochun Cao, Li Yuan .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**SpectralGPT: Spectral Foundation Model**](https://doi.org/10.48550/arXiv.2311.07113) （**2023.11.13**）
+
+<font color="gray">D. Hong, Bing Zhang, Xuyang Li, Yuxuan Li, Chenyu Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Social Motion Prediction with Cognitive Hierarchies**](https://doi.org/10.48550/arXiv.2311.04726) （**2023.11.08**）
+
+<font color="gray">Wentao Zhu, Jason Qin, Yuke Lou, Hang Ye, Xiaoxuan Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Pre-training LLMs using human-like development data corpus**](https://doi.org/10.48550/arXiv.2311.04666) （**2023.11.08**）
+
+<font color="gray">Khushi Bhardwaj, Raj Sanjay Shah, Sashank Varma .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://doi.org/10.48550/arXiv.2311.04257) （**2023.11.07**）
+
+<font color="gray">Qinghao Ye, Haiyang Xu, Jiabo Ye, Mingshi Yan, Anwen Hu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)
+
+---
+
+[**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**](https://doi.org/10.48550/arXiv.2311.03348) （**2023.11.06**）
+
+<font color="gray">Rusheb Shah, Quentin Feuillade--Montixi, Soroush Pour, Arush Tagade, Stephen Casper, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Ziya2: Data-centric Learning is All LLMs Need**](https://doi.org/10.48550/arXiv.2311.03301) （**2023.11.06**）
+
+<font color="gray">Ruyi Gan, Ziwei Wu, Renliang Sun, Junyu Lu, Xiaojun Wu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
+
+<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**PILL: Plug Into LLM with Adapter Expert and Attention Gate**](https://doi.org/10.48550/arXiv.2311.02126) （**2023.11.03**）
+
+<font color="gray">Fangyuan Zhang, Tingting Liang, Zhengyuan Wu, Yuyu Yin .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**](https://doi.org/10.48550/arXiv.2311.01455) （**2023.11.02**）
+
+<font color="gray">Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**TopicGPT: A Prompt-based Topic Modeling Framework**](https://doi.org/10.48550/arXiv.2311.01449) （**2023.11.02**）
+
+<font color="gray">Chau Minh Pham, Alexander Miserlis Hoyle, Simeng Sun, Mohit Iyyer .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Narratron: Collaborative Writing and Shadow-playing of Children Stories with Large Language Models**](https://doi.org/10.1145/3586182.3625120) （**2023.10.29**）
 
 <font color="gray">Yubo Zhao, Xiying Bao .  - 【Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology】</font>
@@ -42,6 +178,14 @@
 <font color="gray">Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Llemma: An Open Language Model For Mathematics**](https://doi.org/10.48550/arXiv.2310.10631) （**2023.10.16**）
+
+<font color="gray">Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen McAleer, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
 
 ---
 
@@ -128,6 +272,22 @@
 [**PB-LLM: Partially Binarized Large Language Models**](https://doi.org/10.48550/arXiv.2310.00034) （**2023.09.29**）
 
 <font color="gray">Yuzhang Shang, Zhihang Yuan, Qiang Wu, Zhen Dong .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**](https://doi.org/10.48550/arXiv.2309.16583) （**2023.09.28**）
+
+<font color="gray">Shen Zheng, Yuyu Zhang, Yijie Zhu, Chenguang Xi, Pengyang Gao, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**Chatmap : Large Language Model Interaction with Cartographic Data**](https://doi.org/10.48550/arXiv.2310.01429) （**2023.09.28**）
+
+<font color="gray">Eren Unlu .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-1-green)
 
@@ -285,6 +445,14 @@
 
 ---
 
+[**Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes**](https://doi.org/10.48550/arXiv.2308.08769) （**2023.08.17**）
+
+<font color="gray">Zehan Wang, Haifeng Huang, Yang Zhao, Ziang Zhang, Zhou Zhao .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
 [**The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation**](https://doi.org/10.48550/arXiv.2308.07286) （**2023.08.14**）
 
 <font color="gray">Patrick Fernandes, Daniel Deutsch, M. Finkelstein, Parker Riley, André F. T. Martins, etc .  - 【arXiv.org】</font>
@@ -381,6 +549,14 @@
 
 ---
 
+[**CARTIER: Cartographic lAnguage Reasoning Targeted at Instruction Execution for Robots**](https://doi.org/10.48550/arXiv.2307.11865) （**2023.07.21**）
+
+<font color="gray">Nikhil Kakodkar, D. Rivkin, Bobak H. Baghi, F. Hogan, Gregory Dudek .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://doi.org/10.48550/arXiv.2307.09474) （**2023.07.18**）
 
 <font color="gray">Liang Zhao, En Yu, Zheng Ge, Jinrong Yang, Hao-Ran Wei, etc .  - 【arXiv.org】</font>
@@ -394,6 +570,14 @@
 <font color="gray">Liangyu Zha, Junlin Zhou, Liyao Li, Rui Wang, Qingyi Huang, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-6-green)
+
+---
+
+[**MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots**](https://arxiv.org/abs/2307.08715) （**2023.07.16**）
+
+<font color="gray">Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, etc </font>
+
+![](https://img.shields.io/badge/Citations-13-green)
 
 ---
 
