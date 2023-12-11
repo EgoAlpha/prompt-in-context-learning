@@ -100,6 +100,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.12.11]**
+  - Thesis from CMU (Carnegie Mellon University), Juncheng Billy Li: [Towards Robust Large-scale Audio/Visual Learning](https://pan.baidu.com/s/1dMXmHdAxrpwhuicITwDkpA?pwd=52ia)
+
 - **[2023.12.10]**
   - Survey Paper: [Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning](https://arxiv.org/abs/2303.10475)
   - 🔥🔥🔥[The first open source MoE Structure LLM is released!](https://x.com/MistralAI/status/1733150512395038967?s=20)
