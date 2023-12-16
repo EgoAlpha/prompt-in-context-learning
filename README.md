@@ -100,6 +100,20 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.12.16]**
+  - 🔥🔥🔥Paper: [Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied LMM-based Agent on Drones](https://arxiv.org/abs/2311.15033)
+
+- **[2023.12.15]**
+  - Paper: [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/assets/W.A.L.T.pdf)
+
+- **[2023.12.14]**
+  - Paper: [LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios](https://arxiv.org/abs/2310.08348)
+  - Paper: [From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"](https://arxiv.org/abs/2312.06571)
+  - Paper: [WonderJourney: Going from Anywhere to Everywhere](https://arxiv.org/abs/2312.03884)
+
+- **[2023.12.13]**
+  - Paper: [How to Convert Any Text Into a Graph of Concepts](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)
+
 - **[2023.12.12]**
   - Paper: [LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models](https://arxiv.org/abs/2311.17043)
 
