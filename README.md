@@ -381,7 +381,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 </div>
 
-👉[Complete paper list 🔗 for "Knowledge Augmented Prompt"](./PaperList/KnowledgeAugmentedPromptList.md)👈
+👉[Complete paper list 🔗 for "Retrieval Augmented Generation"](./PaperList/KnowledgeAugmentedPromptList.md)👈
 
 
 ### Evaluation & Reliability
@@ -484,7 +484,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 </div>
 
-👉[Complete paper list 🔗 for "In-context Learning"](./PaperList/AgentList.md)👈
+👉[Complete paper list 🔗 for "Agent"](./PaperList/AgentList.md)👈
 
 ## Multimodal Prompt
 
