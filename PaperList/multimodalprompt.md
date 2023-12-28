@@ -5,11 +5,35 @@
 <div style="line-height:0.2em;">
 
 
+[**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**](https://arxiv.org/abs/2312.11370) （**2023.12.18**）
+
+<font color="gray">Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/pipilurj/g-llava)
+
+---
+
+[**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**](https://arxiv.org/abs/2312.02949) （**2023.12.05**）
+
+<font color="gray">Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-88-blue)](https://github.com/ux-decoder/llava-grounding)
+
+---
+
 [**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://arxiv.org/abs/2312.00785) （**2023.12.01**）
 
 <font color="gray">Yutong Bai, Xinyang Geng, K. Mangalam, Amir Bar, Alan Yuille, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://doi.org/10.48550/arXiv.2311.17043) （**2023.11.28**）
+
+<font color="gray">Yanwei Li, Chengyao Wang, Jiaya Jia .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-349-blue)](https://github.com/dvlab-research/llama-vid)
 
 ---
 
@@ -58,6 +82,14 @@
 <font color="gray">Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**](https://doi.org/10.48550/arXiv.2311.05348) （**2023.11.09**）
+
+<font color="gray">Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/OPPOMKLab/u-LLaVA)
 
 ---
 
@@ -241,7 +273,7 @@
 
 <font color="gray">Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-41-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-55-red)  [![](https://img.shields.io/badge/Github%20Stars-148-blue)](https://github.com/JiauZhang/hyperdreambooth)
 
 ---
 

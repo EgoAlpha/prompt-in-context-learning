@@ -5,6 +5,46 @@
 <div style="line-height:0.2em;">
 
 
+[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
+
+<font color="gray">Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, Philippe Rigollet </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
+
+---
+
+[**Mathematical discoveries from program search with large language models.**](https://doi.org/10.1038/s41586-023-06924-6) （**2023.12.14**）
+
+<font color="gray">Bernardino Romera-Paredes, M. Barekatain, Alexander Novikov, Matej Balog, M. P. Kumar, etc .  - 【Nature】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**LLM360: Towards Fully Transparent Open-Source LLMs**](https://arxiv.org/abs/2312.06550) （**2023.12.11**）
+
+<font color="gray">Zhengzhong Liu, Aurick Qiao, W. Neiswanger, Hongyi Wang, Bowen Tan, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/llm360/analysis360)
+
+---
+
+[**From Text to Motion: Grounding GPT-4 in a Humanoid Robot"Alter3"**](https://arxiv.org/abs/2312.06571) （**2023.12.11**）
+
+<font color="gray">Takahide Yoshida, A. Masumori, Takashi Ikegami </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
+
+<font color="gray">Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://arxiv.org/abs/2312.00785) （**2023.12.01**）
 
 <font color="gray">Yutong Bai, Xinyang Geng, K. Mangalam, Amir Bar, Alan Yuille, etc </font>
@@ -29,6 +69,14 @@
 
 ---
 
+[**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797) （**2023.11.20**）
+
+<font color="gray">Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-252-blue)](https://github.com/zoeyyao27/cot-igniting-agent)
+
+---
+
 [**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
@@ -49,7 +97,7 @@
 
 <font color="gray">Minghao Li, Ruihang Wang, Xin Zhou, Zhaomeng Zhu, Yonggang Wen, etc .  - 【BuildSys@SenSys】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
@@ -161,7 +209,7 @@
 
 <font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-98-blue)](https://github.com/HKUDS/GraphGPT)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-308-blue)](https://github.com/HKUDS/GraphGPT)
 
 ---
 
@@ -185,7 +233,7 @@
 
 <font color="gray">Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen McAleer, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-6.3k-blue)](https://github.com/eleutherai/gpt-neox)
 
 ---
 
@@ -233,7 +281,7 @@
 
 <font color="gray">Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
 
 ---
 
@@ -281,7 +329,7 @@
 
 <font color="gray">Shen Zheng, Yuyu Zhang, Yijie Zhu, Chenguang Xi, Pengyang Gao, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-306-blue)](https://github.com/gpt-fathom/gpt-fathom)
 
 ---
 
@@ -369,7 +417,7 @@
 
 <font color="gray">Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-175-red)
 
 ---
 
@@ -394,6 +442,14 @@
 <font color="gray">Yichun Shi, Peng Wang, Jianglong Ye, Mai Long, Kejie Li, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-10-green)
+
+---
+
+[**FedLogic: Interpretable Federated Multi-Domain Chain-of-Thought Prompt Selection for Large Language Models**](https://doi.org/10.48550/arXiv.2308.15324) （**2023.08.29**）
+
+<font color="gray">Pengwei Xing, Songtao Lu, Han Yu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -602,6 +658,14 @@
 <font color="gray">Jian Guan, Minlie Huang .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/thu-coai/selfcont)
+
+---
+
+[**Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics**](https://doi.org/10.48550/arXiv.2307.02502) （**2023.07.04**）
+
+<font color="gray">M. Swan, Takashi Kido, Eric Roland, R. P. D. Santos .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 
@@ -989,6 +1053,14 @@
 
 ---
 
+[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
+
+<font color="gray">Dung Thai, Dhruv Agarwal, Mudit Chaudhary, R. Das, M. Zaheer, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
 [**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
 
 <font color="gray">Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, etc </font>
@@ -1005,11 +1077,27 @@
 
 ---
 
+[**KNN-LM Does Not Improve Open-ended Text Generation**](https://arxiv.org/abs/2305.14625) （**2023.05.24**）
+
+<font color="gray">Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
 [**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
 
 <font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/rucaibox/chatcot)
+
+---
+
+[**Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision**](https://arxiv.org/abs/2305.13199) （**2023.05.22**）
+
+<font color="gray">Yucheng Cai, Hong Liu, Zhijian Ou, Y. Huang, Junlan Feng </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/thu-spmi/jsa-krtod)
 
 ---
 
@@ -1073,7 +1161,7 @@
 
 <font color="gray">Stella Rose Biderman, Usvsn Sai Prashanth, Lintang Sutawika, Hailey Schoelkopf, Quentin G. Anthony, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-25-red)  [![](https://img.shields.io/badge/Github%20Stars-6.0k-blue)](https://github.com/eleutherai/gpt-neox)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-30-red)  [![](https://img.shields.io/badge/Github%20Stars-6.3k-blue)](https://github.com/eleutherai/gpt-neox)
 
 ---
 
@@ -1161,7 +1249,7 @@
 
 <font color="gray">Yew Ken Chia, Lidong Bing, Soujanya Poria, Luo Si .  - 【Findings】</font>
 
-![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-109-blue)](https://github.com/declare-lab/relationprompt)
+![](https://img.shields.io/badge/Citations-15-green)  [![](https://img.shields.io/badge/Github%20Stars-117-blue)](https://github.com/declare-lab/relationprompt)
 
 ---
 

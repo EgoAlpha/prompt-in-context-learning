@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**Time is Encoded in the Weights of Finetuned Language Models**](https://arxiv.org/abs/2312.13401) （**2023.12.20**）
+
+<font color="gray">Kai Nylund, Suchin Gururangan, Noah A. Smith </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-30-blue)](https://github.com/KaiNylund/lm-weights-encode-time)
+
+---
+
+[**Photorealistic Video Generation with Diffusion Models**](https://arxiv.org/abs/2312.06662) （**2023.12.11**）
+
+<font color="gray">Agrim Gupta, Lijun Yu, Kihyuk Sohn, Xiuye Gu, Meera Hahn, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-39-red)
+
+---
+
 [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**](https://arxiv.org/abs/2312.00752) （**2023.12.01**）
 
 <font color="gray">Albert Gu, Tri Dao </font>
@@ -33,7 +49,7 @@
 
 <font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)
+![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-360-red)
 
 ---
 
@@ -169,7 +185,7 @@
 
 <font color="gray">Jiangkai Wu, Yu Guan, Qi Mao, Yong Cui, Zongming Guo, etc .  - 【Proceedings of the ACM SIGCOMM 2023 Conference】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
@@ -853,6 +869,14 @@
 
 ---
 
+[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
+
+<font color="gray">Dung Thai, Dhruv Agarwal, Mudit Chaudhary, R. Das, M. Zaheer, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
 [**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
 
 <font color="gray">Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, etc </font>
@@ -869,11 +893,27 @@
 
 ---
 
+[**KNN-LM Does Not Improve Open-ended Text Generation**](https://arxiv.org/abs/2305.14625) （**2023.05.24**）
+
+<font color="gray">Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
 [**ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**](https://arxiv.org/abs/2305.14323) （**2023.05.23**）
 
 <font color="gray">Z. Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/rucaibox/chatcot)
+
+---
+
+[**Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision**](https://arxiv.org/abs/2305.13199) （**2023.05.22**）
+
+<font color="gray">Yucheng Cai, Hong Liu, Zhijian Ou, Y. Huang, Junlan Feng </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/thu-spmi/jsa-krtod)
 
 ---
 
@@ -985,7 +1025,7 @@
 
 <font color="gray">Nikhil Mehta, Milagro Teruel, Patricio Figueroa Sanz, Xinwei Deng, A. Awadallah, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
 
 ---
 
@@ -993,7 +1033,7 @@
 
 <font color="gray">Maciej A. Mazurowski, Haoyu Dong, Han Gu, Jichen Yang, N. Konz, etc </font>
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-56-red)  [![](https://img.shields.io/badge/Github%20Stars-77-blue)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-110-red)  [![](https://img.shields.io/badge/Github%20Stars-108-blue)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)
 
 ---
 
@@ -1057,7 +1097,7 @@
 
 <font color="gray">Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'Brien, etc </font>
 
-![](https://img.shields.io/badge/Citations-3-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-127-red)  [![](https://img.shields.io/badge/Github%20Stars-6.0k-blue)](https://github.com/eleutherai/gpt-neox)
+![](https://img.shields.io/badge/Citations-3-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-152-red)  [![](https://img.shields.io/badge/Github%20Stars-6.3k-blue)](https://github.com/eleutherai/gpt-neox)
 
 ---
 

@@ -5,11 +5,51 @@
 <div style="line-height:0.2em;">
 
 
+[**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**](https://arxiv.org/abs/2312.11370) （**2023.12.18**）
+
+<font color="gray">Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/pipilurj/g-llava)
+
+---
+
+[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
+
+<font color="gray">Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, Philippe Rigollet </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
+
+---
+
+[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
+
+<font color="gray">Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
+
+<font color="gray">Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Minimizing Factual Inconsistency and Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2311.13878) （**2023.11.23**）
 
 <font color="gray">I. Muneeswaran, Shreya Saxena, Siva Prasad, M. V. S. Prakash, Advaith Shankar, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797) （**2023.11.20**）
+
+<font color="gray">Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-252-blue)](https://github.com/zoeyyao27/cot-igniting-agent)
 
 ---
 
@@ -41,7 +81,15 @@
 
 <font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)
+![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-360-red)
+
+---
+
+[**u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**](https://doi.org/10.48550/arXiv.2311.05348) （**2023.11.09**）
+
+<font color="gray">Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/OPPOMKLab/u-LLaVA)
 
 ---
 
@@ -257,7 +305,7 @@
 
 <font color="gray">Katerina Margatina, Timo Schick, Nikolaos Aletras, Jane Dwivedi-Yu </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-21-red)
 
 ---
 
@@ -529,7 +577,7 @@
 
 <font color="gray">J. Oswald, Eyvind Niklasson, E. Randazzo, J. Sacramento, A. Mordvintsev, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-13-green)  [![](https://img.shields.io/badge/Github%20Stars-226-blue)](https://github.com/google-research/self-organising-systems)
+![](https://img.shields.io/badge/Citations-13-green)  [![](https://img.shields.io/badge/Github%20Stars-266-blue)](https://github.com/google-research/self-organising-systems)
 
 ---
 
@@ -537,7 +585,7 @@
 
 <font color="gray">Y. Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-2.1k-blue)](https://github.com/microsoft/lmops)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-2.8k-blue)](https://github.com/microsoft/lmops)
 
 ---
 
@@ -833,7 +881,7 @@
 
 <font color="gray">Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, L. Carin, etc .  - 【Workshop on Knowledge Extraction and Integration for Deep Learning Architectures; Deep Learning Inside Out】</font>
 
-![](https://img.shields.io/badge/Citations-176-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-283-red)  [![](https://img.shields.io/badge/Github%20Stars-2.2k-blue)](https://github.com/stanfordnlp/dsp)
+![](https://img.shields.io/badge/Citations-176-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-328-red)  [![](https://img.shields.io/badge/Github%20Stars-4.4k-blue)](https://github.com/stanfordnlp/dsp)
 
 ---
 

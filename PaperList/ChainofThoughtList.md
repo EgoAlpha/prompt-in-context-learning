@@ -5,11 +5,43 @@
 <div style="line-height:0.2em;">
 
 
+[**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**](https://arxiv.org/abs/2312.11370) （**2023.12.18**）
+
+<font color="gray">Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/pipilurj/g-llava)
+
+---
+
+[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
+
+<font color="gray">Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
+
+<font color="gray">Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797) （**2023.11.20**）
+
+<font color="gray">Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-252-blue)](https://github.com/zoeyyao27/cot-igniting-agent)
+
+---
+
 [**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-117-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -33,7 +65,7 @@
 
 <font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)
+![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-360-red)
 
 ---
 
@@ -85,6 +117,14 @@
 
 ---
 
+[**FedLogic: Interpretable Federated Multi-Domain Chain-of-Thought Prompt Selection for Large Language Models**](https://doi.org/10.48550/arXiv.2308.15324) （**2023.08.29**）
+
+<font color="gray">Pengwei Xing, Songtao Lu, Han Yu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://doi.org/10.48550/arXiv.2308.09687) （**2023.08.18**）
 
 <font color="gray">Maciej Besta, Nils Blach, Aleš Kubíček, R. Gerstenberger, Lukas Gianinazzi, etc .  - 【arXiv.org】</font>
@@ -114,6 +154,14 @@
 <font color="gray">Qipeng Zhao, Ce Zhang, Shijie Wang, Changcheng Fu, Nakul Agarwal, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics**](https://doi.org/10.48550/arXiv.2307.02502) （**2023.07.04**）
+
+<font color="gray">M. Swan, Takashi Kido, Eric Roland, R. P. D. Santos .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 ---
 
@@ -169,7 +217,7 @@
 
 <font color="gray">Yao Yao, Z. Li, Hai Zhao .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-426-blue)](https://github.com/opendrivelab/drivelm)
 
 ---
 
@@ -345,7 +393,7 @@
 
 <font color="gray">Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-323-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-428-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
 
 ---
 
@@ -389,6 +437,14 @@
 
 ---
 
+[**Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes**](https://doi.org/10.48550/arXiv.2305.02301) （**2023.05.03**）
+
+<font color="gray">Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
+
+![](https://img.shields.io/badge/Citations-59-green)
+
+---
+
 [**Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models**](https://arxiv.org/abs/2304.11657) （**2023.04.23**）
 
 <font color="gray">Jiashuo Sun, Yi Luo, Yeyun Gong, Chen Lin, Yelong Shen, etc </font>
@@ -408,6 +464,14 @@
 [**Investigating Chain-of-thought with ChatGPT for Stance Detection on Social Media**](https://doi.org/10.48550/arXiv.2304.03087) （**2023.04.06**）
 
 <font color="gray">Bowen Zhang, Xianghua Fu, Daijun Ding, Hutchin Huang, Yangyang Li, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning**](https://doi.org/10.48550/arXiv.2303.09410) （**2023.03.16**）
+
+<font color="gray">Haibiao Xuan, Xiongzheng Li, Jinsong Zhang, Hongwen Zhang, Yebin Liu, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

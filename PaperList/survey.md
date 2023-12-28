@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**Retrieval-Augmented Generation for Large Language Models: A Survey**](https://arxiv.org/abs/2312.10997) （**2023.12.18**）
+
+<font color="gray">Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-126-blue)](https://github.com/tongji-kgllm/rag-survey)
+
+---
+
+[**Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference**](https://doi.org/10.48550/arXiv.2310.03184) （**2023.10.04**）
+
+<font color="gray">Zachary Levonian, Chenglu Li, Wangda Zhu, Anoushka Gade, Owen Henkel, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/digitalharborfoundation/rag-for-math-qa)
+
+---
+
 [**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://doi.org/10.48550/arXiv.2309.15402) （**2023.09.27**）
 
 <font color="gray">Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, etc .  - 【arXiv.org】</font>
@@ -113,7 +129,7 @@
 
 <font color="gray">Andreas Liesenfeld, Alianda Lopez, Mark Dingemanse .  - 【International Conference on Conversational User Interfaces】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)  [![](https://img.shields.io/badge/Github%20Stars-41-blue)](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)
+![](https://img.shields.io/badge/Citations-5-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-41-red)  [![](https://img.shields.io/badge/Github%20Stars-52-blue)](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)
 
 ---
 
@@ -485,6 +501,22 @@
 
 ---
 
+[**KNN-LM Does Not Improve Open-ended Text Generation**](https://arxiv.org/abs/2305.14625) （**2023.05.24**）
+
+<font color="gray">Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision**](https://arxiv.org/abs/2305.13199) （**2023.05.22**）
+
+<font color="gray">Yucheng Cai, Hong Liu, Zhijian Ou, Y. Huang, Junlan Feng </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/thu-spmi/jsa-krtod)
+
+---
+
 [**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
 
 <font color="gray">Po-Nien Kung, Nanyun Peng .  - 【arXiv.org】</font>
@@ -505,7 +537,7 @@
 
 <font color="gray">Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-305-red)  [![](https://img.shields.io/badge/Github%20Stars-6.2k-blue)](https://github.com/mooler0410/llmspracticalguide)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-380-red)  [![](https://img.shields.io/badge/Github%20Stars-7.5k-blue)](https://github.com/mooler0410/llmspracticalguide)
 
 ---
 
@@ -537,7 +569,7 @@
 
 <font color="gray">Jie Huang, K. Chang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-379-blue)](https://github.com/jeffhj/lm-reasoning)
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-449-blue)](https://github.com/jeffhj/lm-reasoning)
 
 ---
 
