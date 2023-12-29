@@ -99,6 +99,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.12.29]**
+  - KwaiAgents is a series of Agent-related works open-sourced by the KwaiKEG from Kuaishou Technology 【[Paper](https://arxiv.org/abs/2312.04889)/[Github](https://github.com/KwaiKEG/KwaiAgents?tab=readme-ov-file)】
+
 - **[2023.12.28]**
   - Paper: [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI](https://arxiv.org/pdf/2312.16170v1.pdf)
   - Paper: [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171v1.pdf)
