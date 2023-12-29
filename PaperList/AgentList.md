@@ -17,7 +17,7 @@
 
 <font color="gray">Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
 ---
 
@@ -65,7 +65,7 @@
 
 <font color="gray">T. Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-465-blue)](https://github.com/ysymyth/awesome-language-agents)
+![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-468-blue)](https://github.com/ysymyth/awesome-language-agents)
 
 ---
 
@@ -113,7 +113,7 @@
 
 <font color="gray">Ronald Römer, P. B. Graben, Markus Huber-Liebl, M. Wolff .  - 【Frontiers of Computer Science】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
 
 ---
 
