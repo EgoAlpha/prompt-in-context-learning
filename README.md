@@ -99,6 +99,23 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.1.15]**
+  - Paper: [TOFU: A Task of Fictitious Unlearning for LLMs](https://simg.baai.ac.cn/paperfile/ccd571d3-7b4b-4355-975b-6ca81d882f5b.pdf)
+
+- **[2023.1.14]**
+  - Technical Report: [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://github.com/deepseek-ai/DeepSeek-MoE/blob/main/DeepSeekMoE.pdf)
+
+- **[2023.1.13]**
+  - [GPT Store is now online!](https://openai.com/blog/introducing-the-gpt-store)
+  - Paper: [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468)
+  
+
+- **[2023.1.12]**
+  - Survey Paper: [Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives](https://arxiv.org/abs/2312.11970)
+
+- **[2023.1.11]**
+  - Paper: [Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects](https://arxiv.org/abs/2312.05278)
+
 - **[2023.1.10]**
   - Paper: [Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models](https://arxiv.org/abs/2401.03105v1)
 
