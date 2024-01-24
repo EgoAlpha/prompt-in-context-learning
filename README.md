@@ -99,6 +99,15 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2023.1.24]**
+  - Paper: [MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/abs/2401.08577)
+
+- **[2023.1.23]**
+  - [Yi Visual Language (Yi-VL) model is the open-source, multimodal version of the Yi Large Language Model (LLM) series, enabling content comprehension, recognition, and multi-round conversations about images.](https://huggingface.co/01-ai)
+
+- **[2023.1.22]**
+  - Paper: [Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection](https://arxiv.org/abs/2401.03737)
+
 - **[2023.1.21]**
   - Paper: [Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on Data-to-Text Generation](https://arxiv.org/pdf/2401.10186v1.pdf)
 
