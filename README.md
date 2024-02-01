@@ -99,97 +99,103 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
-- **[2023.1.30]**
+- **[2024.2.1]**
+  - Paper: [Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?](https://simg.baai.ac.cn/paperfile/591f8fb9-d377-4926-8dd8-7effaf0232ad.pdf)
+
+- **[2024.1.31]**
+  - Paper: [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://simg.baai.ac.cn/paperfile/2847c7b0-e2e5-4169-96e8-4a233fb82e5c.pdf)
+
+- **[2024.1.30]**
   - Paper: [Scaling Sparse Fine-Tuning to Large Language Models](https://simg.baai.ac.cn/paperfile/7990a7f2-2968-455e-ba0d-e5ce6c692191.pdf)
 
-- **[2023.1.29]**
+- **[2024.1.29]**
   - Paper: [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Models](https://simg.baai.ac.cn/paperfile/898eb205-ce3d-44e0-9104-91f9a6a8b71f.pdf)
 
-- **[2023.1.28]**
+- **[2024.1.28]**
   - Paper: [Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities](https://simg.baai.ac.cn/paperfile/b9aad3a5-4943-463c-8983-0b5bfe38fcc6.pdf)
 
-- **[2023.1.27]**
+- **[2024.1.27]**
   - Survey Paper: [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601)
 
-- **[2023.1.26]**
+- **[2024.1.26]**
   - Paper: [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 
-- **[2023.1.25]**
+- **[2024.1.25]**
   - Paper: [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
 
-- **[2023.1.24]**
+- **[2024.1.24]**
   - Paper: [MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/abs/2401.08577)
 
-- **[2023.1.23]**
+- **[2024.1.23]**
   - [Yi Visual Language (Yi-VL) model is the open-source, multimodal version of the Yi Large Language Model (LLM) series, enabling content comprehension, recognition, and multi-round conversations about images.](https://huggingface.co/01-ai)
 
-- **[2023.1.22]**
+- **[2024.1.22]**
   - Paper: [Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection](https://arxiv.org/abs/2401.03737)
 
-- **[2023.1.21]**
+- **[2024.1.21]**
   - Paper: [Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on Data-to-Text Generation](https://arxiv.org/pdf/2401.10186v1.pdf)
 
-- **[2023.1.20]**
+- **[2024.1.20]**
   - Paper: [UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer](https://arxiv.org/abs/2401.06426)
 
-- **[2023.1.19]**
+- **[2024.1.19]**
   - [Stability AI releases Stable Code 3B, a new code model that rivals the 7 billion Code Llama and can run without a GPU!](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 
-- **[2023.1.18]**
+- **[2024.1.18]**
   - Paper: [ChatQA: Building GPT-4 Level Conversational QA Models](https://arxiv.org/pdf/2401.10225v1.pdf)
 
-- **[2023.1.17]**
+- **[2024.1.17]**
   - Paper: [Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration](https://simg.baai.ac.cn/paperfile/3b7e4820-692a-424c-bafc-8498d28330cc.pdf)
 
-- **[2023.1.16]**
+- **[2024.1.16]**
   - Paper: [Machine Transla-on with Large Language Models: Prompt Engineering for Persian, English, and Russian Direc-ons](https://simg.baai.ac.cn/paperfile/5939e79e-20c9-46e1-93d5-5b29535d292f.pdf)
 
-- **[2023.1.15]**
+- **[2024.1.15]**
   - Paper: [TOFU: A Task of Fictitious Unlearning for LLMs](https://simg.baai.ac.cn/paperfile/ccd571d3-7b4b-4355-975b-6ca81d882f5b.pdf)
 
-- **[2023.1.14]**
+- **[2024.1.14]**
   - Technical Report: [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://github.com/deepseek-ai/DeepSeek-MoE/blob/main/DeepSeekMoE.pdf)
 
-- **[2023.1.13]**
+- **[2024.1.13]**
   - [GPT Store is now online!](https://openai.com/blog/introducing-the-gpt-store)
   - Paper: [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468)
   
 
-- **[2023.1.12]**
+- **[2024.1.12]**
   - Survey Paper: [Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives](https://arxiv.org/abs/2312.11970)
 
-- **[2023.1.11]**
+- **[2024.1.11]**
   - Paper: [Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects](https://arxiv.org/abs/2312.05278)
 
-- **[2023.1.10]**
+- **[2024.1.10]**
   - Paper: [Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models](https://arxiv.org/abs/2401.03105v1)
 
-- **[2023.1.9]**
+- **[2024.1.9]**
   - Paper: [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](https://arxiv.org/abs/2401.04398v1)
 
-- **[2023.1.8]**
+- **[2024.1.8]**
   - Paper: [WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation](https://arxiv.org/abs/2312.14187)
 
-- **[2023.1.7]**
+- **[2024.1.7]**
   - Paper: [LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/abs/2401.02415v1)
 
-- **[2023.1.6]**
+- **[2024.1.6]**
   - Paper: [Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition](https://arxiv.org/abs/2401.02417v1)
 
-- **[2023.1.5]**
+- **[2024.1.5]**
   - Paper: [Learning to Prompt with Text Only Supervision for Vision-Language Models](https://arxiv.org/abs/2401.02418v1)
 
-- **[2023.1.4]**
+- **[2024.1.4]**
   - Paper: [LLM Augmented LLMs: Expanding Capabilities through Composition](https://arxiv.org/abs/2401.02412v1)
 
-- **[2023.1.3]**
+- **[2024.1.3]**
   - Paper:[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
   - Paper: [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://arxiv.org/abs/2312.16862)
 
-- **[2023.1.2]**
+- **[2024.1.2]**
   - Paper:[MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices](https://arxiv.org/abs/2312.16886)
 
-- **[2023.1.1]**
+- **[2024.1.1]**
   - Paper:[Generative AI for Math: Part I MATHPILE: A Billion-Token-Scale Pretraining Corpus for Math](https://arxiv.org/pdf/2312.17120.pdf)
 
 - **[2023.12.31]**
