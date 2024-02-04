@@ -41,7 +41,7 @@
 
 <font color="gray">Liqi He, Zuchao Li, Xiantao Cai, Ping Wang </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
@@ -73,7 +73,7 @@
 
 <font color="gray">Yutaka Jitsumatsu </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
@@ -129,7 +129,7 @@
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-117-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-118-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -289,7 +289,7 @@
 
 <font color="gray">Zhanming Jie, Wei Lu .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/allanj/dynamic-pal)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/allanj/dynamic-pal)
 
 ---
 
@@ -321,7 +321,7 @@
 
 <font color="gray">Yao Fu, Litu Ou, Mingyu Chen, Yuhao Wan, Hao-Chun Peng, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/franxyao/chain-of-thought-hub)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-2.2k-blue)](https://github.com/franxyao/chain-of-thought-hub)
 
 ---
 
@@ -641,7 +641,7 @@
 
 <font color="gray">Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-101-blue)](https://github.com/google-research/url-nlp)
+![](https://img.shields.io/badge/Citations-22-green)  [![](https://img.shields.io/badge/Github%20Stars-139-blue)](https://github.com/google-research/url-nlp)
 
 ---
 

@@ -41,7 +41,7 @@
 
 <font color="gray">Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-474-blue)](https://github.com/openlemur/lemur)
+![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-475-blue)](https://github.com/openlemur/lemur)
 
 ---
 
@@ -49,7 +49,7 @@
 
 <font color="gray">Wangchunshu Zhou, Yuchen Jiang, Long Li, Jialong Wu, Tiannan Wang, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-4.1k-blue)](https://github.com/aiwaves-cn/agents)
+![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-4.2k-blue)](https://github.com/aiwaves-cn/agents)
 
 ---
 

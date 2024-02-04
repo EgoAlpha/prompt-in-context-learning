@@ -17,7 +17,7 @@
 
 <font color="gray">Agrim Gupta, Lijun Yu, Kihyuk Sohn, Xiuye Gu, Meera Hahn, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-39-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-41-red)
 
 ---
 
@@ -89,7 +89,7 @@
 
 <font color="gray">Qinghao Ye, Haiyang Xu, Jiabo Ye, Mingshi Yan, Anwen Hu, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-9-green)
+![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-1.7k-blue)](https://github.com/x-plug/mplug-owl)
 
 ---
 
@@ -257,7 +257,7 @@
 
 <font color="gray">Zheng Ma, Mianzhi Pan, Wen-Lan Wu, Ka Leong Cheng, Jianbing Zhang, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/aaronma2020/Food500-Cap)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/aaronma2020/Food500-Cap)
 
 ---
 
@@ -297,7 +297,7 @@
 
 <font color="gray">Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, C. Zakka, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-318-blue)](https://github.com/snap-stanford/med-flamingo)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-317-blue)](https://github.com/snap-stanford/med-flamingo)
 
 ---
 
@@ -385,7 +385,7 @@
 
 <font color="gray">Dongfu Jiang, Xiang Ren, Bill Yuchen Lin .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-204-blue)](https://github.com/baaivision/judgelm)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-205-blue)](https://github.com/baaivision/judgelm)
 
 ---
 
@@ -697,7 +697,7 @@
 
 <font color="gray">Biao Zhao, Weiqiang Jin, Javier Del Ser, Guang Yang </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-51-red)  [![](https://img.shields.io/badge/Github%20Stars-32-blue)](https://github.com/albert-jin/agricultural_textual_classification_chatgpt)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-53-red)  [![](https://img.shields.io/badge/Github%20Stars-32-blue)](https://github.com/albert-jin/agricultural_textual_classification_chatgpt)
 
 ---
 
@@ -761,7 +761,7 @@
 
 <font color="gray">Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-97-red)  [![](https://img.shields.io/badge/Github%20Stars-636-blue)](https://github.com/ber666/llm-reasoners)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-98-red)  [![](https://img.shields.io/badge/Github%20Stars-637-blue)](https://github.com/ber666/llm-reasoners)
 
 ---
 
@@ -1049,7 +1049,7 @@
 
 <font color="gray">Zhiqing Sun, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-830-blue)](https://github.com/IBM/Dromedary)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-1.0k-blue)](https://github.com/IBM/Dromedary)
 
 ---
 
@@ -1065,7 +1065,7 @@
 
 <font color="gray">Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-258-blue)](https://github.com/google-research/distilling-step-by-step)
 
 ---
 
@@ -1097,7 +1097,7 @@
 
 <font color="gray">Maciej A. Mazurowski, Haoyu Dong, Han Gu, Jichen Yang, N. Konz, etc </font>
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-110-red)  [![](https://img.shields.io/badge/Github%20Stars-108-blue)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-110-red)  [![](https://img.shields.io/badge/Github%20Stars-109-blue)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)
 
 ---
 
@@ -1121,7 +1121,7 @@
 
 <font color="gray">Chuanfei Hu, Xinde Li </font>
 
-![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
 
 ---
 

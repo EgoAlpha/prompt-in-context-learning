@@ -4,31 +4,6 @@
 
 <div style="line-height:0.2em;">
 
-
-[**The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction**](https://arxiv.org/abs/2312.13558) （**2023.12.21**）
-
-<font color="gray">Pratyusha Sharma, Jordan T. Ash, Dipendra Misra </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**](https://arxiv.org/abs/2312.11370) （**2023.12.18**）
-
-<font color="gray">Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/pipilurj/g-llava)
-
----
-
-[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
-
-<font color="gray">Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, Philippe Rigollet </font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
-
----
-
 [**LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**](https://arxiv.org/abs/2312.09979) （**2023.12.15**）
 
 <font color="gray">Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, etc </font>
@@ -65,23 +40,7 @@
 
 <font color="gray">Hao Zhang, Hongyang Li, Feng Li, Tianhe Ren, Xueyan Zou, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-88-blue)](https://github.com/ux-decoder/llava-grounding)
-
----
-
-[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
-
-<font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-117-blue)](https://github.com/embodied-generalist/embodied-generalist)
-
----
-
-[**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
-
-<font color="gray">Xiangru Tang, Anni Zou, Zhuosheng Zhang, Yilun Zhao, Xingyao Zhang, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-90-blue)](https://github.com/ux-decoder/llava-grounding)
 
 ---
 
@@ -93,35 +52,11 @@
 
 ---
 
-[**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images**](https://doi.org/10.48550/arXiv.2311.06400) （**2023.11.10**）
-
-<font color="gray">Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**](https://doi.org/10.48550/arXiv.2311.05348) （**2023.11.09**）
 
 <font color="gray">Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/OPPOMKLab/u-LLaVA)
-
----
-
-[**Levels of AGI: Operationalizing Progress on the Path to AGI**](https://doi.org/10.48550/arXiv.2311.02462) （**2023.11.04**）
-
-<font color="gray">Meredith Ringel Morris, Jascha Narain Sohl-Dickstein, Noah Fiedel, T. Warkentin, Allan Dafoe, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)
-
----
-
-[**PILL: Plug Into LLM with Adapter Expert and Attention Gate**](https://doi.org/10.48550/arXiv.2311.02126) （**2023.11.03**）
-
-<font color="gray">Fangyuan Zhang, Tingting Liang, Zhengyuan Wu, Yuyu Yin .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -133,49 +68,9 @@
 
 ---
 
-[**LILO: Learning Interpretable Libraries by Compressing and Documenting Code**](https://doi.org/10.48550/arXiv.2310.19791) （**2023.10.30**）
-
-<font color="gray">Gabriel Grand, L. Wong, Matthew Bowers, Theo X. Olausson, Muxin Liu, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-40-blue)](https://github.com/gabegrand/lilo)
-
----
-
 [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
 
 <font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Woodpecker: Hallucination Correction for Multimodal Large Language Models**](https://arxiv.org/abs/2310.16045) （**2023.10.24**）
-
-<font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-30-red)  [![](https://img.shields.io/badge/Github%20Stars-455-blue)](https://github.com/bradyfu/woodpecker)
-
----
-
-[**GraphGPT: Graph Instruction Tuning for Large Language Models**](https://doi.org/10.48550/arXiv.2310.13023) （**2023.10.19**）
-
-<font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-308-blue)](https://github.com/HKUDS/GraphGPT)
-
----
-
-[**MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models**](https://doi.org/10.48550/arXiv.2310.11954) （**2023.10.18**）
-
-<font color="gray">Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-3.9k-blue)](https://github.com/microsoft/muzic)
-
----
-
-[**OpenAgents: An Open Platform for Language Agents in the Wild**](https://doi.org/10.48550/arXiv.2310.10634) （**2023.10.16**）
-
-<font color="gray">Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -210,14 +105,6 @@
 <font color="gray">Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
-
----
-
-[**SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**](https://arxiv.org/abs/2310.06770) （**2023.10.10**）
-
-<font color="gray">Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -257,45 +144,13 @@
 
 <font color="gray">S. Dhuliawala, M. Komeili, Jing Xu, Roberta Raileanu, Xian Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-559-blue)](https://github.com/lastmile-ai/aiconfig/tree/main/cookbooks/Chain-of-Verification)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-560-blue)](https://github.com/lastmile-ai/aiconfig/tree/main/cookbooks/Chain-of-Verification)
 
 ---
 
 [**End-to-End Speech Recognition Contextualization with Large Language Models**](https://doi.org/10.48550/arXiv.2309.10917) （**2023.09.19**）
 
 <font color="gray">Egor Lakomkin, Chunyang Wu, Yassir Fathullah, Ozlem Kalinli, M. Seltzer, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training**](https://doi.org/10.48550/arXiv.2309.10400) （**2023.09.19**）
-
-<font color="gray">Dawei Zhu, Nan Yang, Liang Wang, Yifan Song, Wenhao Wu, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-54-blue)](https://github.com/dwzhu-pku/pose)
-
----
-
-[**DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning**](https://doi.org/10.48550/arXiv.2309.05173) （**2023.09.11**）
-
-<font color="gray">Zhengxiang Shi, Aldo Lipani .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-43-blue)](https://github.com/zhengxiangshi/dept)
-
----
-
-[**PointLLM: Empowering Large Language Models to Understand Point Clouds**](https://doi.org/10.48550/arXiv.2308.16911) （**2023.08.31**）
-
-<font color="gray">Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-256-blue)](https://github.com/openrobotlab/pointllm)
-
----
-
-[**PE-MED: Prompt Enhancement for Interactive Medical Image Segmentation**](https://doi.org/10.48550/arXiv.2308.13746) （**2023.08.26**）
-
-<font color="gray">Ao Chang, Xing Tao, Xin Yang, Yuhao Huang, Xinrui Zhou, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -309,27 +164,11 @@
 
 ---
 
-[**SeqGPT: An Out-of-the-box Large Language Model for Open Domain Sequence Understanding**](https://doi.org/10.48550/arXiv.2308.10529) （**2023.08.21**）
-
-<font color="gray">Tianyu Yu, Chengyue Jiang, Chao Lou, Shen Huang, Xiaobin Wang, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-66-blue)](https://github.com/alibaba-nlp/seqgpt)
-
----
-
 [**Giraffe: Adventures in Expanding Context Lengths in LLMs**](https://doi.org/10.48550/arXiv.2308.10882) （**2023.08.21**）
 
 <font color="gray">Arka Pal, Deep Karkhanis, Manley Roberts, S. Dooley, Arvind Sundararajan, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-454-blue)](https://github.com/abacusai/long-context)
-
----
-
-[**Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval**](https://doi.org/10.48550/arXiv.2308.07648) （**2023.08.15**）
-
-<font color="gray">Chaorui Deng, Qi Chen, Pengda Qin, Dave Zhenyu Chen, Qi Wu .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/bladewaltz1/promptswitch)
 
 ---
 
@@ -346,22 +185,6 @@
 <font color="gray">Yifan Zhang, Jingqin Yang, Yang Yuan, A. Yao .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-184-blue)](https://github.com/iiis-ai/cumulative-reasoning)
-
----
-
-[**AgentBench: Evaluating LLMs as Agents**](https://doi.org/10.48550/arXiv.2308.03688) （**2023.08.07**）
-
-<font color="gray">Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/thudm/agentbench)
-
----
-
-[**PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification**](https://doi.org/10.48550/arXiv.2308.02816) （**2023.08.05**）
-
-<font color="gray">Hongwei Yao, Jian Lou, Kui Ren, Zhan Qin .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-11-blue)](https://github.com/grasses/promptcare)
 
 ---
 
@@ -393,7 +216,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
 
 ---
 
@@ -413,35 +236,11 @@
 
 ---
 
-[**Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics**](https://doi.org/10.48550/arXiv.2307.02502) （**2023.07.04**）
-
-<font color="gray">M. Swan, Takashi Kido, Eric Roland, R. P. D. Santos .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-2-green)
-
----
-
 [**Conformer LLMs - Convolution Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2307.00461) （**2023.07.02**）
 
 <font color="gray">Prateek Verma .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue**](https://doi.org/10.48550/arXiv.2306.12174) （**2023.06.21**）
-
-<font color="gray">Weihao Gao, Zhuo Deng, Zhiyuan Niu, Fuju Rong, Chucheng Chen, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance**](https://doi.org/10.48550/arXiv.2306.05443) （**2023.06.08**）
-
-<font color="gray">Qianqian Xie, Weiguang Han, Xiao Zhang, Yanzhao Lai, Min Peng, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-123-blue)](https://github.com/chancefocus/pixiu)
 
 ---
 
@@ -569,7 +368,7 @@
 
 <font color="gray">B. Liu, Yuqian Jiang, Xiaohan Zhang, Qian Liu, Shiqi Zhang, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-102-red)  [![](https://img.shields.io/badge/Github%20Stars-273-blue)](https://github.com/Cranial-XIX/llm-pddl)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-103-red)  [![](https://img.shields.io/badge/Github%20Stars-275-blue)](https://github.com/Cranial-XIX/llm-pddl)
 
 ---
 
@@ -593,7 +392,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-41-red)  [![](https://img.shields.io/badge/Github%20Stars-230-blue)](https://github.com/amazon-science/prompt-pretraining)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-42-red)  [![](https://img.shields.io/badge/Github%20Stars-230-blue)](https://github.com/amazon-science/prompt-pretraining)
 
 ---
 
@@ -609,7 +408,7 @@
 
 
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-64-red)  [![](https://img.shields.io/badge/Github%20Stars-235-blue)](https://github.com/madaan/self-refine)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-165-red)  [![](https://img.shields.io/badge/Github%20Stars-386-blue)](https://github.com/madaan/self-refine)
 
 ---
 
@@ -729,7 +528,7 @@
 
 <font color="gray">Eyal Ben-David, Nadav Oved, Roi Reichart .  - 【International Conference on Topology, Algebra and Categories in Logic】</font>
 
-![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-90-red)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/eyalbd2/PADA)
+![](https://img.shields.io/badge/Citations-28-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-105-red)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/eyalbd2/PADA)
 
 ---
 

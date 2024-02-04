@@ -25,7 +25,7 @@
 
 <font color="gray">Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-55-blue)](https://github.com/chen700564/RGB)
 
 ---
 
@@ -37,14 +37,6 @@
 
 ---
 
-[**Are Pre-trained Language Models Useful for Model Ensemble in Chinese Grammatical Error Correction?**](https://arxiv.org/abs/2305.15183) （**2023.05.24**）
-
-<font color="gray">Chenming Tang, Xiuyu Wu, Yunfang Wu </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/jamydon/plm-based-cgec-model-ensemble)
-
----
-
 [**Referral Augmentation for Zero-Shot Information Retrieval**](https://arxiv.org/abs/2305.15098) （**2023.05.24**）
 
 <font color="gray">Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan </font>
@@ -53,67 +45,11 @@
 
 ---
 
-[**Decomposing Complex Queries for Tip-of-the-tongue Retrieval**](https://arxiv.org/abs/2305.15053) （**2023.05.24**）
-
-<font color="gray">Kevin Lin, Kyle Lo, Joseph E. Gonzalez, Dan Klein </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
 [**LLMDet: A Large Language Models Detection Tool**](https://arxiv.org/abs/2305.15004) （**2023.05.24**）
 
 <font color="gray">Kangxi Wu, Liang Pang, Huawei Shen, Xueqi Cheng, Tat-Seng Chua </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
-[**OverPrompt: Enhancing ChatGPT Capabilities through an Efficient In-Context Learning Approach**](https://arxiv.org/abs/2305.14973) （**2023.05.24**）
-
-<font color="gray">Jiazheng Li, Runcong Zhao, Yulan He, Lin Gui </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
-
----
-
-[**Frugal Prompting for Dialog Models**](https://arxiv.org/abs/2305.14919) （**2023.05.24**）
-
-<font color="gray">Bishal Santra, Sakya Basak, Abhinandan De, Manish Gupta, Pawan Goyal </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Machine Reading Comprehension using Case-based Reasoning**](https://arxiv.org/abs/2305.14815) （**2023.05.24**）
-
-<font color="gray">Dung Thai, Dhruv Agarwal, Mudit Chaudhary, R. Das, M. Zaheer, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
----
-
-[**Bi-Drop: Generalizable Fine-tuning for Pre-trained Language Models via Adaptive Subnetwork Optimization**](https://arxiv.org/abs/2305.14760) （**2023.05.24**）
-
-<font color="gray">Shoujie Tong, Heming Xia, Damai Dai, Tianyu Liu, Binghuai Lin, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**In-Context Demonstration Selection with Cross Entropy Difference**](https://arxiv.org/abs/2305.14726) （**2023.05.24**）
-
-<font color="gray">Dan Iter, Reid Pryzant, Ruochen Xu, Shuohang Wang, Yang Liu, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-2.8k-blue)](https://github.com/microsoft/lmops)
-
----
-
-[**A Causal View of Entity Bias in (Large) Language Models**](https://arxiv.org/abs/2305.14695) （**2023.05.24**）
-
-<font color="gray">Fei Wang, Wenjie Mo, Yiwei Wang, Wenxuan Zhou, Muhao Chen </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 ---
 
@@ -141,14 +77,6 @@
 
 ---
 
-[**Contrastive Learning with Logic-driven Data Augmentation for Logical Reasoning over Text**](https://arxiv.org/abs/2305.12599) （**2023.05.21**）
-
-<font color="gray">Qiming Bao, Alex Yuxuan Peng, Zhenyun Deng, Wanjun Zhong, Neset Tan, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
 [**Retrieving Texts based on Abstract Descriptions**](https://arxiv.org/abs/2305.12517) （**2023.05.21**）
 
 <font color="gray">Shauli Ravfogel, Valentina Pyatkin, Amir D. N. Cohen, Avshalom Manevich, Yoav Goldberg </font>
@@ -157,33 +85,9 @@
 
 ---
 
-[**SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs**](https://doi.org/10.48550/arXiv.2305.11461) （**2023.05.19**）
-
-<font color="gray">IokTong Lei, ZhiDong Deng .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Decouple knowledge from paramters for plug-and-play language modeling**](https://doi.org/10.48550/arXiv.2305.11564) （**2023.05.19**）
 
 <font color="gray">Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**Do Models Really Learn to Follow Instructions? An Empirical Study of Instruction Tuning**](https://doi.org/10.48550/arXiv.2305.11383) （**2023.05.19**）
-
-<font color="gray">Po-Nien Kung, Nanyun Peng .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**AutoTrial: Prompting Language Models for Clinical Trial Design**](https://doi.org/10.48550/arXiv.2305.11366) （**2023.05.19**）
-
-<font color="gray">Zifeng Wang, Cao Xiao, Jimeng Sun .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -202,14 +106,6 @@
 <font color="gray">Yue Yu, Yuchen Zhuang, Rongzhi Zhang, Yu Meng, Jiaming Shen, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-16-blue)](https://github.com/yueyu1030/ReGen)
-
----
-
-[**Efficient Prompting via Dynamic In-Context Learning**](https://doi.org/10.48550/arXiv.2305.11170) （**2023.05.18**）
-
-<font color="gray">Wangchunshu Zhou, Yuchen Jiang, Ryan Cotterell, Mrinmaya Sachan .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -233,23 +129,7 @@
 
 <font color="gray">Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-31-green)
-
----
-
-[**LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model**](https://arxiv.org/abs/2304.06248) （**2023.04.13**）
-
-<font color="gray">Hao Fei, Shengqiong Wu, Jingye Li, Bobo Li, Fei Li, etc </font>
-
-![](https://img.shields.io/badge/Citations-2-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)  [![](https://img.shields.io/badge/Github%20Stars-43-blue)](https://github.com/chocowu/lasuie)
-
----
-
-[**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**](https://doi.org/10.48550/arXiv.2302.01441) （**2023.02.02**）
-
-<font color="gray">Yiren Liu, H. Kilicoglu .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-31-green)  [![](https://img.shields.io/badge/Github%20Stars-431-blue)](https://github.com/jzbjyb/flare)
 
 ---
 
@@ -261,27 +141,11 @@
 
 ---
 
-[**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://doi.org/10.48550/arXiv.2212.10560) （**2022.12.20**）
-
-<font color="gray">Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-9-green)  [![](https://img.shields.io/badge/Github%20Stars-2.3k-blue)](https://github.com/yizhongw/self-instruct)
-
----
-
 [**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**](https://doi.org/10.48550/arXiv.2212.09741) （**2022.12.19**）
 
 <font color="gray">Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-606-blue)](https://github.com/HKUNLP/instructor-embedding)
-
----
-
-[**The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686) （**2022.12.16**）
-
-<font color="gray">Hanlin Zhang, Yi-Fan Zhang, Li Erran Li, Eric P. Xing .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/hlzhang109/lmlp)
 
 ---
 
@@ -309,14 +173,6 @@
 
 ---
 
-[**Promptagator: Few-shot Dense Retrieval From 8 Examples**](https://doi.org/10.48550/arXiv.2209.11755) （**2022.09.23**）
-
-<font color="gray">Zhuyun Dai, Vincent Zhao, Ji Ma, Yi Luan, Jianmo Ni, etc .  - 【ArXiv】</font>
-
-![](https://img.shields.io/badge/Citations-16-green)
-
----
-
 [**DocPrompting: Generating Code by Retrieving the Docs**](https://arxiv.org/abs/2207.05987) （**2022.07.13**）
 
 <font color="gray">Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, etc </font>
@@ -337,7 +193,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-571-blue)](https://github.com/zjunlp/promptkg)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-573-blue)](https://github.com/zjunlp/promptkg)
 
 ---
 
@@ -357,14 +213,6 @@
 
 ---
 
-[**Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**](https://doi.org/10.1145/3523227.3546767) （**2022.03.24**）
-
-<font color="gray">Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang .  - 【ACM Conference on Recommender Systems】</font>
-
-![](https://img.shields.io/badge/Citations-22-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-64-red)  [![](https://img.shields.io/badge/Github%20Stars-128-blue)](https://github.com/jeykigung/P5)
-
----
-
 [**Multi-Stage Prompting for Knowledgeable Dialogue Generation**](https://doi.org/10.48550/arXiv.2203.08745) （**2022.03.16**）
 
 <font color="gray">Zihan Liu, M. Patwary, R. Prenger, Shrimai Prabhumoye, Wei Ping, etc .  - 【Findings】</font>
@@ -381,27 +229,11 @@
 
 ---
 
-[**AdaPrompt: Adaptive Model Training for Prompt-based NLP**](https://arxiv.org/abs/2202.04824) （**2022.02.10**）
-
-<font color="gray">Yulong Chen, Yang Liu, Li Dong, Shuohang Wang, Chenguang Zhu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-11-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-63-red)
-
----
-
 [**Generated Knowledge Prompting for Commonsense Reasoning**](https://doi.org/10.18653/v1/2022.acl-long.225) （**2021.10.15**）
 
 <font color="gray">Jiacheng Liu, Alisa Liu, Ximing Lu, S. Welleck, Peter West, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
 ![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-209-red)  [![](https://img.shields.io/badge/Github%20Stars-76-blue)](https://github.com/liujch1998/gkp)
-
----
-
-[**Label Verbalization and Entailment for Effective Zero and Few-Shot Relation Extraction**](https://doi.org/10.18653/v1/2021.emnlp-main.92) （**2021.09.08**）
-
-<font color="gray">Oscar Sainz, Oier Lopez de Lacalle, Gorka Labaka, Ander Barrena, Eneko Agirre .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
-
-![](https://img.shields.io/badge/Citations-36-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-120-red)  [![](https://img.shields.io/badge/Github%20Stars-147-blue)](https://github.com/osainz59/Ask2Transformers)
 
 ---
 
@@ -417,7 +249,7 @@
 
 <font color="gray">Xu Han, Weilin Zhao, Ning Ding, Zhiyuan Liu, Maosong Sun .  - 【AI Open】</font>
 
-![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-247-red)  [![](https://img.shields.io/badge/Github%20Stars-140-blue)](https://github.com/thunlp/PTR)
+![](https://img.shields.io/badge/Citations-172-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-274-red)  [![](https://img.shields.io/badge/Github%20Stars-148-blue)](https://github.com/thunlp/PTR)
 
 ---
 

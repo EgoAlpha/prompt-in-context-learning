@@ -13,30 +13,6 @@
 
 ---
 
-[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
-
-<font color="gray">Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, Philippe Rigollet </font>
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
-
----
-
-[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
-
-<font color="gray">Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
-
-<font color="gray">Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
----
-
 [**Minimizing Factual Inconsistency and Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2311.13878) （**2023.11.23**）
 
 <font color="gray">I. Muneeswaran, Shreya Saxena, Siva Prasad, M. V. S. Prakash, Advaith Shankar, etc .  - 【arXiv.org】</font>
@@ -57,7 +33,7 @@
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-117-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-118-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -121,7 +97,7 @@
 
 <font color="gray">Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-30-red)  [![](https://img.shields.io/badge/Github%20Stars-455-blue)](https://github.com/bradyfu/woodpecker)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-32-red)  [![](https://img.shields.io/badge/Github%20Stars-455-blue)](https://github.com/bradyfu/woodpecker)
 
 ---
 
@@ -321,7 +297,7 @@
 
 <font color="gray">Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-34-red)  [![](https://img.shields.io/badge/Github%20Stars-68-blue)](https://github.com/lancopku/label-words-are-anchors)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-35-red)  [![](https://img.shields.io/badge/Github%20Stars-68-blue)](https://github.com/lancopku/label-words-are-anchors)
 
 ---
 
@@ -505,7 +481,7 @@
 
 <font color="gray">Yingcong Li, M. E. Ildiz, Dimitris Papailiopoulos, Samet Oymak </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-43-red)  [![](https://img.shields.io/badge/Github%20Stars-7-blue)](https://github.com/yingcong-li/transformers-as-algorithms)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-45-red)  [![](https://img.shields.io/badge/Github%20Stars-7-blue)](https://github.com/yingcong-li/transformers-as-algorithms)
 
 ---
 
@@ -593,7 +569,7 @@
 
 <font color="gray">Itay Levy, Ben Bogin, Jonathan Berant .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/itayle/diverse-demonstrations)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-5-blue)](https://github.com/itayle/diverse-demonstrations)
 
 ---
 
@@ -633,7 +609,7 @@
 
 <font color="gray">Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-839-blue)](https://github.com/keirp/automatic_prompt_engineer)
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-840-blue)](https://github.com/keirp/automatic_prompt_engineer)
 
 ---
 
@@ -761,7 +737,7 @@
 
 <font color="gray">Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, M. Lewis, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-130-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-302-red)  [![](https://img.shields.io/badge/Github%20Stars-104-blue)](https://github.com/alrope123/rethinking-demonstrations)
+![](https://img.shields.io/badge/Citations-130-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-400-red)  [![](https://img.shields.io/badge/Github%20Stars-150-blue)](https://github.com/alrope123/rethinking-demonstrations)
 
 ---
 
@@ -857,7 +833,7 @@
 
 <font color="gray">Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. Eslami, Oriol Vinyals, etc .  - 【Neural Information Processing Systems】</font>
 
-![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-501-red)
+![](https://img.shields.io/badge/Citations-173-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-502-red)
 
 ---
 
@@ -913,7 +889,7 @@
 
 <font color="gray">Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi .  - 【International Conference on Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-13-blue)](https://github.com/passing2961/empgpt-3)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-17-blue)](https://github.com/passing2961/empgpt-3)
 
 ---
 
