@@ -99,6 +99,30 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.2.12]**
+  - 🔥🔥🔥[The year of AI video generation exploded!](https://a16z.com/why-2023-was-ai-videos-breakout-year-and-what-to-expect-in-2024/)
+
+- **[2024.2.11]**
+  - Paper: [Large Language Model Meets Graph Neural Network in Knowledge Distillation](https://arxiv.org/abs/2402.05894)
+
+- **[2024.2.10]**
+  - Paper: [FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs](https://arxiv.org/abs/2402.05904)
+
+- **[2024.2.9]**
+  - Paper: [Efficient Stagewise Pretraining via Progressive Subnetworks](https://arxiv.org/abs/2402.05913)
+
+- **[2024.2.8]**
+  - Paper: [On the Convergence of Zeroth-Order Federated Tuning in Large Language Models](https://arxiv.org/abs/2402.05926)
+
+- **[2024.2.7]**
+  - Paper: [SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](https://arxiv.org/abs/2402.05935)
+
+- **[2024.2.6]**
+  - Paper: [How Well Can LLMs Negotiate? NEGOTIATIONARENA Platform and Analysis](https://arxiv.org/abs/2402.05863)
+
+- **[2024.2.5]**
+  - Paper: [PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868)
+
 - **[2024.2.4]**
   - Paper: [Evaluating Large Language Models for Generalization and Robustness via Data Compression](https://arxiv.org/abs/2402.00861)
 
