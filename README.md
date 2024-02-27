@@ -99,73 +99,16 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
-- **[2024.2.22]**
-  - Paper: [Video ReCap: Recursive Captioning of Hour-Long Videos](https://arxiv.org/abs/2402.13250)
+- **[2024.2.27]**
+  - [Mistral has released Mistral Large, with an MMLU rating second only to GPT-4, 32K contexts, no Chinese support, and API calls via La Plateforme and Azure.](https://chat.mistral.ai%20/)
+  - Paper: [Instruct-Imagen: Image Generation with Multi-modal Instruction](https://arxiv.org/abs/2401.01952)
 
-- **[2024.2.21]**
-  - Paper: [TOFUEVAL: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization](https://arxiv.org/abs/2402.13249)
+- **[2024.2.26]**
+  - Paper: [MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property](https://arxiv.org/pdf/2402.16389v1.pdf)
 
-- **[2024.2.20]**
-  - Paper: [Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive](https://arxiv.org/abs/2402.13228)
+- **[2024.2.25]**
+  - Paper: [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/pdf/2308.16505v3.pdf)
 
-- **[2024.2.19]**
-  - Paper: [How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts](https://arxiv.org/abs/2402.13220)
-
-- **[2024.2.18]**
-  - Paper: [Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation](https://arxiv.org/abs/2402.10210)
-
-- **[2024.2.17]**
-  - Paper: [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
-
-- **[2024.2.16]**
-  - 🔥🔥🔥[SORA: Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
-
-- **[2024.2.15]**
-  - Paper: [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs](https://arxiv.org/abs/2402.07872)
-  - Paper:[VisualWebArena: EVALUATING MULTIMODAL AGENTS ON REALISTIC VISUAL WEB TASKS](https://arxiv.org/pdf/2401.13649.pdf)
-
-- **[2024.2.14]**
-  - Paper: [Large Language Models for Autonomous Driving: Real-World Experiments](https://arxiv.org/abs/2312.09397)
-
-- **[2024.2.13]**
-  - Paper: [Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627)
-
-- **[2024.2.12]**
-  - 🔥🔥🔥[The year of AI video generation exploded!](https://a16z.com/why-2023-was-ai-videos-breakout-year-and-what-to-expect-in-2024/)
-
-- **[2024.2.11]**
-  - Paper: [Large Language Model Meets Graph Neural Network in Knowledge Distillation](https://arxiv.org/abs/2402.05894)
-
-- **[2024.2.10]**
-  - Paper: [FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs](https://arxiv.org/abs/2402.05904)
-
-- **[2024.2.9]**
-  - Paper: [Efficient Stagewise Pretraining via Progressive Subnetworks](https://arxiv.org/abs/2402.05913)
-
-- **[2024.2.8]**
-  - Paper: [On the Convergence of Zeroth-Order Federated Tuning in Large Language Models](https://arxiv.org/abs/2402.05926)
-
-- **[2024.2.7]**
-  - Paper: [SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](https://arxiv.org/abs/2402.05935)
-
-- **[2024.2.6]**
-  - Paper: [How Well Can LLMs Negotiate? NEGOTIATIONARENA Platform and Analysis](https://arxiv.org/abs/2402.05863)
-
-- **[2024.2.5]**
-  - Paper: [PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868)
-
-- **[2024.2.4]**
-  - Paper: [Evaluating Large Language Models for Generalization and Robustness via Data Compression](https://arxiv.org/abs/2402.00861)
-
-- **[2024.2.3]**
-  - Paper: [Can Large Language Models Understand Context?](https://arxiv.org/abs/2402.00858)
-
-- **[2024.2.2]**
-  - Paper: [Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2402.00787)
-
-- **[2024.2.1]**
-  - Paper: [Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?](https://simg.baai.ac.cn/paperfile/591f8fb9-d377-4926-8dd8-7effaf0232ad.pdf)
-  
 [👉 Complete history news 👈](./historynews.md)
 
 <img width="200%" src="./figures/hr.gif" />
@@ -185,6 +128,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**MM-LLMs: Recent Advances in MultiModal Large Language Models**](https://doi.org/10.48550/arXiv.2401.13601) （**2024.01.24**）
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+[**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**](https://doi.org/10.48550/arXiv.2401.08429) （**2024.01.16**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**](https://doi.org/10.48550/arXiv.2312.11970) （**2023.12.19**）
+
+![](https://img.shields.io/badge/Citations-6-green)
+
 [**Retrieval-Augmented Generation for Large Language Models: A Survey**](https://arxiv.org/abs/2312.10997) （**2023.12.18**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-126-blue)](https://github.com/tongji-kgllm/rag-survey)
@@ -195,7 +150,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://doi.org/10.48550/arXiv.2309.15402) （**2023.09.27**）
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-179-blue)](https://github.com/zchuz/cot-reasoning-survey)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-199-blue)](https://github.com/zchuz/cot-reasoning-survey)
 
 [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://doi.org/10.48550/arXiv.2309.07864) （**2023.09.14**）
 
@@ -213,18 +168,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)  [![](https://img.shields.io/badge/Github%20Stars-110-blue)](https://github.com/ziyuguo99/point-bind_point-llm)
 
-[**Large language models in medicine: the potentials and pitfalls**](https://arxiv.org/abs/2309.00087) （**2023.08.31**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Large Graph Models: A Perspective**](https://doi.org/10.48550/arXiv.2308.14522) （**2023.08.28**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**A Survey on Large Language Model based Autonomous Agents**](https://doi.org/10.48550/arXiv.2308.11432) （**2023.08.22**）
-
-![](https://img.shields.io/badge/Citations-13-green)  [![](https://img.shields.io/badge/Github%20Stars-1.7k-blue)](https://github.com/paitesanshi/llm-agent-survey)
-
 
 </div>
 
@@ -238,45 +181,45 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
+[**Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**](https://doi.org/10.48550/arXiv.2310.06117) （**2023.10.09**）
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
+![](https://img.shields.io/badge/Citations-9-green)
 
-[**LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**](https://arxiv.org/abs/2312.09979) （**2023.12.15**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**LLM360: Towards Fully Transparent Open-Source LLMs**](https://arxiv.org/abs/2312.06550) （**2023.12.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/llm360/analysis360)
-
-[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
+[**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**](https://doi.org/10.48550/arXiv.2310.05029) （**2023.10.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
-[**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**](https://arxiv.org/abs/2312.02949) （**2023.12.05**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-90-blue)](https://github.com/ux-decoder/llava-grounding)
-
-[**ChatTwin: Toward Automated Digital Twin Generation for Data Center via Large Language Models**](https://doi.org/10.1145/3600100.3623719) （**2023.11.15**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
-[**u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**](https://doi.org/10.48550/arXiv.2311.05348) （**2023.11.09**）
-
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/OPPOMKLab/u-LLaVA)
-
-[**TopicGPT: A Prompt-based Topic Modeling Framework**](https://doi.org/10.48550/arXiv.2311.01449) （**2023.11.02**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-121-blue)](https://github.com/chtmp223/topicgpt)
-
-[**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
+[**Think before you speak: Training Language Models With Pause Tokens**](https://doi.org/10.48550/arXiv.2310.02226) （**2023.10.03**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+[**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495) （**2023.09.20**）
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-704-blue)](https://github.com/lastmile-ai/aiconfig/tree/main/cookbooks/Chain-of-Verification)
+
+[**End-to-End Speech Recognition Contextualization with Large Language Models**](https://doi.org/10.48550/arXiv.2309.10917) （**2023.09.19**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**](https://doi.org/10.48550/arXiv.2308.11131) （**2023.08.22**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+[**Giraffe: Adventures in Expanding Context Lengths in LLMs**](https://doi.org/10.48550/arXiv.2308.10882) （**2023.08.21**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-454-blue)](https://github.com/abacusai/long-context)
+
+[**Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering**](https://doi.org/10.48550/arXiv.2308.07411) （**2023.08.14**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Cumulative Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.04371) （**2023.08.08**）
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-184-blue)](https://github.com/iiis-ai/cumulative-reasoning)
+
+[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2308.01825) （**2023.08.03**）
+
+![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-134-blue)](https://github.com/ofa-sys/gsm8k-screl)
 
 
 </div>
@@ -288,6 +231,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**](https://doi.org/10.48550/arXiv.2401.04398) （**2024.01.09**）
+
+![](https://img.shields.io/badge/Citations-3-green)
 
 [**A Logically Consistent Chain-of-Thought Approach for Stance Detection**](https://arxiv.org/abs/2312.16054) （**2023.12.26**）
 
@@ -325,10 +272,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
-[**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
 
 </div>
 
@@ -348,6 +291,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
 
+[**Mitigating Label Bias in Machine Learning: Fairness through Confident Learning**](https://doi.org/10.48550/arXiv.2312.08749) （**2023.12.14**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -366,7 +313,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-118-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-135-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 [**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
 
@@ -375,10 +322,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Towards Verifiable Text Generation with Symbolic References**](https://doi.org/10.48550/arXiv.2311.09188) （**2023.11.15**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
-[**Learning skillful medium-range global weather forecasting.**](https://doi.org/10.1126/science.adi2336) （**2023.11.14**）
-
-![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-361-red)
 
 
 </div>
@@ -392,45 +335,45 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**LLM Augmented LLMs: Expanding Capabilities through Composition**](https://doi.org/10.48550/arXiv.2401.02412) （**2024.01.04**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
 [**ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems**](https://doi.org/10.48550/arXiv.2311.09476) （**2023.11.16**）
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-114-blue)](https://github.com/stanford-futuredata/ares)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-183-blue)](https://github.com/stanford-futuredata/ares)
+
+[**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**](https://doi.org/10.48550/arXiv.2311.09210) （**2023.11.15**）
+
+![](https://img.shields.io/badge/Citations-17-green)
+
+[**From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL**](https://doi.org/10.48550/arXiv.2311.06595) （**2023.11.11**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+[**Optimizing Retrieval-augmented Reader Models via Token Elimination**](https://doi.org/10.48550/arXiv.2310.13682) （**2023.10.20**）
+
+![](https://img.shields.io/badge/Citations-3-green)
 
 [**Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**](https://doi.org/10.48550/arXiv.2310.11511) （**2023.10.17**）
 
 ![](https://img.shields.io/badge/Citations-13-green)
 
-[**Benchmarking Large Language Models in Retrieval-Augmented Generation**](https://doi.org/10.48550/arXiv.2309.01431) （**2023.09.04**）
+[**Retrieve Anything To Augment Large Language Models**](https://doi.org/10.48550/arXiv.2310.07554) （**2023.10.11**）
 
-![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-55-blue)](https://github.com/chen700564/RGB)
+![](https://img.shields.io/badge/Citations-10-green)
 
-[**Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**](https://doi.org/10.48550/arXiv.2307.16877) （**2023.07.31**）
+[**Self-Knowledge Guided Retrieval Augmentation for Large Language Models**](https://doi.org/10.48550/arXiv.2310.05002) （**2023.10.08**）
 
-![](https://img.shields.io/badge/Citations-17-green)  [![](https://img.shields.io/badge/Github%20Stars-56-blue)](https://github.com/mcgill-nlp/instruct-qa)
+![](https://img.shields.io/badge/Citations-3-green)
 
-[**Referral Augmentation for Zero-Shot Information Retrieval**](https://arxiv.org/abs/2305.15098) （**2023.05.24**）
+[**Retrieval-Generation Synergy Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2310.05149) （**2023.10.08**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/michaelwilliamtang/referral-augment)
+![](https://img.shields.io/badge/Citations-4-green)
 
-[**LLMDet: A Large Language Models Detection Tool**](https://arxiv.org/abs/2305.15004) （**2023.05.24**）
+[**RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**](https://doi.org/10.48550/arXiv.2310.04408) （**2023.10.06**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
-[**KNN-LM Does Not Improve Open-ended Text Generation**](https://arxiv.org/abs/2305.14625) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
-[**Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision**](https://arxiv.org/abs/2305.13199) （**2023.05.22**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/thu-spmi/jsa-krtod)
-
-[**Sentence Representations via Gaussian Embedding**](https://arxiv.org/abs/2305.12990) （**2023.05.22**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
-[**Retrieving Texts based on Abstract Descriptions**](https://arxiv.org/abs/2305.12517) （**2023.05.21**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/carriex/recomp)
 
 
 </div>
@@ -443,6 +386,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Can Large Language Models Understand Context?**](https://doi.org/10.48550/arXiv.2402.00858) （**2024.02.01**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+[**Evaluating Large Language Models for Generalization and Robustness via Data Compression**](https://doi.org/10.48550/arXiv.2402.00861) （**2024.02.01**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**](https://doi.org/10.48550/arXiv.2312.16171) （**2023.12.26**）
+
+![](https://img.shields.io/badge/Citations-3-green)
 
 [**TouchStone: Evaluating Vision-Language Models by Language Models**](https://doi.org/10.48550/arXiv.2308.16890) （**2023.08.31**）
 
@@ -472,18 +427,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**From Words to Wires: Generating Functioning Electronic Devices from Natural Language Descriptions**](https://arxiv.org/abs/2305.14874) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/cognitiveailab/words2wires)
-
-[**Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples**](https://arxiv.org/abs/2305.15269) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)  [![](https://img.shields.io/badge/Github%20Stars-77-blue)](https://github.com/asaparov/prontoqa)
-
-[**EvEval: A Comprehensive Evaluation of Event Semantics for Large Language Models**](https://arxiv.org/abs/2305.15268) （**2023.05.24**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
 
 </div>
 
@@ -495,9 +438,33 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**](https://doi.org/10.48550/arXiv.2402.00787) （**2024.02.01**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game**](https://doi.org/10.48550/arXiv.2312.17515) （**2023.12.29**）
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+[**GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**](https://doi.org/10.48550/arXiv.2312.17294) （**2023.12.28**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+[**The Use of Multiple Conversational Agent Interlocutors in Learning**](https://doi.org/10.48550/arXiv.2312.16534) （**2023.12.27**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
 [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/abs/2312.13771) （**2023.12.21**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+[**CogAgent: A Visual Language Model for GUI Agents**](https://doi.org/10.48550/arXiv.2312.08914) （**2023.12.14**）
+
+![](https://img.shields.io/badge/Citations-16-green)
+
+[**KwaiAgents: Generalized Information-seeking Agent System with Large Language Models**](https://doi.org/10.48550/arXiv.2312.04889) （**2023.12.08**）
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 [**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
 
@@ -511,30 +478,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-85-blue)](https://github.com/zzxslp/mm-navigator)
 
-[**Lemur: Harmonizing Natural Language and Code for Language Agents**](https://doi.org/10.48550/arXiv.2310.06830) （**2023.10.10**）
-
-![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-475-blue)](https://github.com/openlemur/lemur)
-
-[**Agents: An Open-source Framework for Autonomous Language Agents**](https://doi.org/10.48550/arXiv.2309.07870) （**2023.09.14**）
-
-![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-4.2k-blue)](https://github.com/aiwaves-cn/agents)
-
-[**An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents**](https://doi.org/10.48550/arXiv.2309.05076) （**2023.09.10**）
-
-![](https://img.shields.io/badge/Citations-2-green)
-
-[**Cognitive Architectures for Language Agents**](https://doi.org/10.48550/arXiv.2309.02427) （**2023.09.05**）
-
-![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-468-blue)](https://github.com/ysymyth/awesome-language-agents)
-
-[**Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization**](https://doi.org/10.48550/arXiv.2308.02151) （**2023.08.04**）
-
-![](https://img.shields.io/badge/Citations-13-green)
-
-[**Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics**](https://doi.org/10.48550/arXiv.2307.02502) （**2023.07.04**）
-
-![](https://img.shields.io/badge/Citations-2-green)
-
 
 </div>
 
@@ -546,9 +489,37 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**](https://doi.org/10.48550/arXiv.2401.18084) （**2024.01.31**）
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+[**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**](https://doi.org/10.48550/arXiv.2401.16420) （**2024.01.29**）
+
+![](https://img.shields.io/badge/Citations-4-green)
+
+[**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**](https://doi.org/10.48550/arXiv.2401.14405) （**2024.01.25**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**MM-LLMs: Recent Advances in MultiModal Large Language Models**](https://doi.org/10.48550/arXiv.2401.13601) （**2024.01.24**）
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+[**Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2401.03105) （**2024.01.06**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Learning to Prompt with Text Only Supervision for Vision-Language Models**](https://doi.org/10.48550/arXiv.2401.02418) （**2024.01.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**](https://arxiv.org/abs/2312.11370) （**2023.12.18**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/pipilurj/g-llava)
+
+[**Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects**](https://doi.org/10.48550/arXiv.2312.05278) （**2023.12.08**）
+
+![](https://img.shields.io/badge/Citations-2-green)
 
 [**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**](https://arxiv.org/abs/2312.02949) （**2023.12.05**）
 
@@ -557,34 +528,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://arxiv.org/abs/2312.00785) （**2023.12.01**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-161-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/ytongbai/LVM)
-
-[**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://doi.org/10.48550/arXiv.2311.17043) （**2023.11.28**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-349-blue)](https://github.com/dvlab-research/llama-vid)
-
-[**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**](https://doi.org/10.48550/arXiv.2311.15475) （**2023.11.27**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-118-blue)](https://github.com/embodied-generalist/embodied-generalist)
-
-[**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**](https://doi.org/10.48550/arXiv.2311.10709) （**2023.11.17**）
-
-![](https://img.shields.io/badge/Citations-2-green)
-
-[**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**](https://doi.org/10.48550/arXiv.2311.10537) （**2023.11.16**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://doi.org/10.48550/arXiv.2311.08046) （**2023.11.14**）
-
-![](https://img.shields.io/badge/Citations-3-green)
-
-[**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images**](https://doi.org/10.48550/arXiv.2311.06400) （**2023.11.10**）
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
@@ -597,45 +540,45 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
+[**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**](https://doi.org/10.48550/arXiv.2401.18070) （**2024.01.31**）
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
+![](https://img.shields.io/badge/Citations-0-green)
 
-[**Mathematical discoveries from program search with large language models.**](https://doi.org/10.1038/s41586-023-06924-6) （**2023.12.14**）
+[**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**](https://doi.org/10.48550/arXiv.2401.16420) （**2024.01.29**）
+
+![](https://img.shields.io/badge/Citations-4-green)
+
+[**ChatQA: Building GPT-4 Level Conversational QA Models**](https://doi.org/10.48550/arXiv.2401.10225) （**2024.01.18**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on Data-to-Text Generation**](https://doi.org/10.48550/arXiv.2401.10186) （**2024.01.18**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**](https://doi.org/10.48550/arXiv.2401.06066) （**2024.01.11**）
+
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-724-blue)](https://github.com/deepseek-ai/deepseek-moe)
+
+[**Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection**](https://doi.org/10.48550/arXiv.2401.03737) （**2024.01.08**）
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+[**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**](https://doi.org/10.48550/arXiv.2312.16862) （**2023.12.28**）
+
+![](https://img.shields.io/badge/Citations-5-green)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/dlyuangod/tinygpt-v)
+
+[**MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**](https://doi.org/10.48550/arXiv.2312.16886) （**2023.12.28**）
 
 ![](https://img.shields.io/badge/Citations-1-green)
 
-[**LLM360: Towards Fully Transparent Open-Source LLMs**](https://arxiv.org/abs/2312.06550) （**2023.12.11**）
+[**Generative AI for Math: Part I - MathPile: A Billion-Token-Scale Pretraining Corpus for Math**](https://doi.org/10.48550/arXiv.2312.17120) （**2023.12.28**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)  [![](https://img.shields.io/badge/Github%20Stars-46-blue)](https://github.com/llm360/analysis360)
+![](https://img.shields.io/badge/Citations-5-green)
 
-[**From Text to Motion: Grounding GPT-4 in a Humanoid Robot"Alter3"**](https://arxiv.org/abs/2312.06571) （**2023.12.11**）
+[**WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation**](https://doi.org/10.48550/arXiv.2312.14187) （**2023.12.20**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
-[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://arxiv.org/abs/2312.00785) （**2023.12.01**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-161-red)  [![](https://img.shields.io/badge/Github%20Stars-1.4k-blue)](https://github.com/ytongbai/LVM)
-
-[**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**](https://doi.org/10.48550/arXiv.2311.15475) （**2023.11.27**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Minimizing Factual Inconsistency and Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2311.13878) （**2023.11.23**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797) （**2023.11.20**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-252-blue)](https://github.com/zoeyyao27/cot-igniting-agent)
-
-[**An Embodied Generalist Agent in 3D World**](https://doi.org/10.48550/arXiv.2311.12871) （**2023.11.18**）
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-118-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-5-green)
 
 
 </div>
@@ -648,13 +591,29 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer**](https://doi.org/10.48550/arXiv.2401.06426) （**2024.01.12**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**](https://doi.org/10.48550/arXiv.2401.04468) （**2024.01.09**）
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+[**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**](https://doi.org/10.48550/arXiv.2401.02417) （**2024.01.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://doi.org/10.48550/arXiv.2312.16170) （**2023.12.26**）
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-159-blue)](https://github.com/openrobotlab/embodiedscan)
+
 [**Time is Encoded in the Weights of Finetuned Language Models**](https://arxiv.org/abs/2312.13401) （**2023.12.20**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-30-blue)](https://github.com/KaiNylund/lm-weights-encode-time)
 
 [**Photorealistic Video Generation with Diffusion Models**](https://arxiv.org/abs/2312.06662) （**2023.12.11**）
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-41-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-88-red)
 
 [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**](https://arxiv.org/abs/2312.00752) （**2023.12.01**）
 
@@ -670,23 +629,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Learning skillful medium-range global weather forecasting.**](https://doi.org/10.1126/science.adi2336) （**2023.11.14**）
 
-![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-361-red)
-
-[**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://doi.org/10.48550/arXiv.2311.08046) （**2023.11.14**）
-
-![](https://img.shields.io/badge/Citations-3-green)
-
-[**SpectralGPT: Spectral Foundation Model**](https://doi.org/10.48550/arXiv.2311.07113) （**2023.11.13**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Social Motion Prediction with Cognitive Hierarchies**](https://doi.org/10.48550/arXiv.2311.04726) （**2023.11.08**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Pre-training LLMs using human-like development data corpus**](https://doi.org/10.48550/arXiv.2311.04666) （**2023.11.08**）
-
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-458-red)
 
 
 </div>

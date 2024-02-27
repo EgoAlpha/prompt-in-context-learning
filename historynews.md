@@ -4,6 +4,77 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2024.2.27]**
+- [Mistral has released Mistral Large, with an MMLU rating second only to GPT-4, 32K contexts, no Chinese support, and API calls via La Plateforme and Azure.](https://chat.mistral.ai%20/)
+- Paper: [Instruct-Imagen: Image Generation with Multi-modal Instruction](https://arxiv.org/abs/2401.01952)
+
+**[2024.2.26]**
+- Paper: [MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property](https://arxiv.org/pdf/2402.16389v1.pdf)
+
+**[2024.2.25]**
+- Paper: [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/pdf/2308.16505v3.pdf)
+
+**[2024.2.24]**
+- Paper: [ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing](https://arxiv.org/pdf/2402.16445.pdf)
+
+**[2024.2.23]**
+- Paper: [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+
+**[2024.2.22]**
+- Paper: [Video ReCap: Recursive Captioning of Hour-Long Videos](https://arxiv.org/abs/2402.13250)
+
+**[2024.2.21]**
+- Paper: [TOFUEVAL: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization](https://arxiv.org/abs/2402.13249)
+
+**[2024.2.20]**
+- Paper: [Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive](https://arxiv.org/abs/2402.13228)
+
+**[2024.2.19]**
+- Paper: [How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts](https://arxiv.org/abs/2402.13220)
+
+**[2024.2.18]**
+- Paper: [Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation](https://arxiv.org/abs/2402.10210)
+
+**[2024.2.17]**
+- Paper: [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
+
+**[2024.2.16]**
+- 🔥🔥🔥[SORA: Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+
+**[2024.2.15]**
+- Paper: [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs](https://arxiv.org/abs/2402.07872)
+- Paper:[VisualWebArena: EVALUATING MULTIMODAL AGENTS ON REALISTIC VISUAL WEB TASKS](https://arxiv.org/pdf/2401.13649.pdf)
+
+**[2024.2.14]**
+- Paper: [Large Language Models for Autonomous Driving: Real-World Experiments](https://arxiv.org/abs/2312.09397)
+
+**[2024.2.13]**
+- Paper: [Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627)
+
+**[2024.2.12]**
+- 🔥🔥🔥[The year of AI video generation exploded!](https://a16z.com/why-2023-was-ai-videos-breakout-year-and-what-to-expect-in-2024/)
+
+**[2024.2.11]**
+- Paper: [Large Language Model Meets Graph Neural Network in Knowledge Distillation](https://arxiv.org/abs/2402.05894)
+
+**[2024.2.10]**
+- Paper: [FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs](https://arxiv.org/abs/2402.05904)
+
+**[2024.2.9]**
+- Paper: [Efficient Stagewise Pretraining via Progressive Subnetworks](https://arxiv.org/abs/2402.05913)
+
+**[2024.2.8]**
+- Paper: [On the Convergence of Zeroth-Order Federated Tuning in Large Language Models](https://arxiv.org/abs/2402.05926)
+
+**[2024.2.7]**
+- Paper: [SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](https://arxiv.org/abs/2402.05935)
+
+**[2024.2.6]**
+- Paper: [How Well Can LLMs Negotiate? NEGOTIATIONARENA Platform and Analysis](https://arxiv.org/abs/2402.05863)
+
+**[2024.2.5]**
+- Paper: [PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868)
+
 **[2024.2.4]**
 - Paper: [Evaluating Large Language Models for Generalization and Robustness via Data Compression](https://arxiv.org/abs/2402.00861)
 
