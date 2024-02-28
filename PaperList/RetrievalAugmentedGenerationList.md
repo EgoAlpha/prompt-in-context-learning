@@ -5,11 +5,43 @@
 <div style="line-height:0.2em;">
 
 
+[**LLM Augmented LLMs: Expanding Capabilities through Composition**](https://doi.org/10.48550/arXiv.2401.02412) （**2024.01.04**）
+
+<font color="gray">Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-120-blue)](https://github.com/lucidrains/CALM-pytorch)
+
+---
+
 [**ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems**](https://doi.org/10.48550/arXiv.2311.09476) （**2023.11.16**）
 
 <font color="gray">Jon Saad-Falcon, O. Khattab, Christopher Potts, Matei Zaharia .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-114-blue)](https://github.com/stanford-futuredata/ares)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-183-blue)](https://github.com/stanford-futuredata/ares)
+
+---
+
+[**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**](https://doi.org/10.48550/arXiv.2311.09210) （**2023.11.15**）
+
+<font color="gray">W. Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-17-green)
+
+---
+
+[**From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL**](https://doi.org/10.48550/arXiv.2311.06595) （**2023.11.11**）
+
+<font color="gray">Xiaoqian Li, Ercong Nie, Sheng Liang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Optimizing Retrieval-augmented Reader Models via Token Elimination**](https://doi.org/10.48550/arXiv.2310.13682) （**2023.10.20**）
+
+<font color="gray">Moshe Berchansky, Peter Izsak, Avi Caciularu, Ido Dagan, Moshe Wasserblat .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/mosheber/token_elimination)
 
 ---
 
@@ -21,11 +53,83 @@
 
 ---
 
+[**Retrieve Anything To Augment Large Language Models**](https://doi.org/10.48550/arXiv.2310.07554) （**2023.10.11**）
+
+<font color="gray">Peitian Zhang, Shitao Xiao, Zheng Liu, Zhicheng Dou, Jian-Yun Nie .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-3.6k-blue)](https://github.com/flagopen/flagembedding)
+
+---
+
+[**Self-Knowledge Guided Retrieval Augmentation for Large Language Models**](https://doi.org/10.48550/arXiv.2310.05002) （**2023.10.08**）
+
+<font color="gray">Yile Wang, Peng Li, Maosong Sun, Yang Liu .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Retrieval-Generation Synergy Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2310.05149) （**2023.10.08**）
+
+<font color="gray">Zhangyin Feng, Xiaocheng Feng, Dezhi Zhao, Maojin Yang, Bing Qin .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-4-green)
+
+---
+
+[**RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**](https://doi.org/10.48550/arXiv.2310.04408) （**2023.10.06**）
+
+<font color="gray">Fangyuan Xu, Weijia Shi, Eunsol Choi .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/carriex/recomp)
+
+---
+
+[**Retrieval meets Long Context Large Language Models**](https://doi.org/10.48550/arXiv.2310.03025) （**2023.10.04**）
+
+<font color="gray">Peng Xu, Wei Ping, Xianchao Wu, Lawrence C. McAfee, Chen Zhu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-10-green)
+
+---
+
+[**Making Retrieval-Augmented Language Models Robust to Irrelevant Context**](https://doi.org/10.48550/arXiv.2310.01558) （**2023.10.02**）
+
+<font color="gray">Ori Yoran, Tomer Wolfson, Ori Ram, Jonathan Berant .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-17-green)
+
+---
+
+[**RAGAS: Automated Evaluation of Retrieval Augmented Generation**](https://doi.org/10.48550/arXiv.2309.15217) （**2023.09.26**）
+
+<font color="gray">ES Shahul, Jithin James, Luis Espinosa Anke, Steven Schockaert .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-12-green)
+
+---
+
 [**Benchmarking Large Language Models in Retrieval-Augmented Generation**](https://doi.org/10.48550/arXiv.2309.01431) （**2023.09.04**）
 
 <font color="gray">Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-55-blue)](https://github.com/chen700564/RGB)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-115-blue)](https://github.com/chen700564/RGB)
+
+---
+
+[**RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2308.10633) （**2023.08.21**）
+
+<font color="gray">Yasuto Hoshi, D. Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases**](https://doi.org/10.48550/arXiv.2308.11761) （**2023.08.17**）
+
+<font color="gray">Xintao Wang, Qian Yang, Yongting Qiu, Jiaqing Liang, Qi He, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)
 
 ---
 
@@ -33,7 +137,7 @@
 
 <font color="gray">Vaibhav Adlakha, Parishad BehnamGhader, Xing Han Lu, Nicholas Meade, Siva Reddy .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-17-green)  [![](https://img.shields.io/badge/Github%20Stars-56-blue)](https://github.com/mcgill-nlp/instruct-qa)
+![](https://img.shields.io/badge/Citations-17-green)  [![](https://img.shields.io/badge/Github%20Stars-60-blue)](https://github.com/mcgill-nlp/instruct-qa)
 
 ---
 
@@ -81,7 +185,7 @@
 
 <font color="gray">Shauli Ravfogel, Valentina Pyatkin, Amir D. N. Cohen, Avshalom Manevich, Yoav Goldberg </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
 
 ---
 
@@ -97,7 +201,7 @@
 
 <font color="gray">Qian Chen, Wen Wang, Qinglin Zhang, Siqi Zheng, Chong Deng, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-69-blue)](https://github.com/alibaba-damo-academy/spokennlp)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-75-blue)](https://github.com/alibaba-damo-academy/spokennlp)
 
 ---
 
@@ -105,7 +209,7 @@
 
 <font color="gray">Yue Yu, Yuchen Zhuang, Rongzhi Zhang, Yu Meng, Jiaming Shen, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-16-blue)](https://github.com/yueyu1030/ReGen)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-18-blue)](https://github.com/yueyu1030/ReGen)
 
 ---
 
@@ -185,7 +289,7 @@
 
 <font color="gray">Xiaolei Wang, Kun Zhou, Ji-rong Wen, Wayne Xin Zhao .  - 【Knowledge Discovery and Data Mining】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-51-red)  [![](https://img.shields.io/badge/Github%20Stars-64-blue)](https://github.com/rucaibox/unicrs)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-53-red)  [![](https://img.shields.io/badge/Github%20Stars-68-blue)](https://github.com/rucaibox/unicrs)
 
 ---
 
@@ -193,7 +297,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-573-blue)](https://github.com/zjunlp/promptkg)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-600-blue)](https://github.com/zjunlp/promptkg)
 
 ---
 
@@ -201,7 +305,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, etc .  - 【Annual International ACM SIGIR Conference on Research and Development in Information Retrieval】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)  [![](https://img.shields.io/badge/Github%20Stars-573-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-34-red)  [![](https://img.shields.io/badge/Github%20Stars-600-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)
 
 ---
 
@@ -209,7 +313,7 @@
 
 <font color="gray">Xiaozhuan Liang, Ningyu Zhang, Ningyu Zhang, Siyuan Cheng, Zhen Bi, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-573-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-600-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
 
 ---
 
@@ -233,7 +337,7 @@
 
 <font color="gray">Jiacheng Liu, Alisa Liu, Ximing Lu, S. Welleck, Peter West, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-209-red)  [![](https://img.shields.io/badge/Github%20Stars-76-blue)](https://github.com/liujch1998/gkp)
+![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-226-red)  [![](https://img.shields.io/badge/Github%20Stars-79-blue)](https://github.com/liujch1998/gkp)
 
 ---
 
@@ -241,7 +345,7 @@
 
 <font color="gray">Shengding Hu, Ning Ding, Huadong Wang, Zhiyuan Liu, Juan-Zi Li, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-95-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-264-red)  [![](https://img.shields.io/badge/Github%20Stars-192-blue)](https://github.com/thunlp/knowledgeableprompttuning)
+![](https://img.shields.io/badge/Citations-95-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-266-red)  [![](https://img.shields.io/badge/Github%20Stars-196-blue)](https://github.com/thunlp/knowledgeableprompttuning)
 
 ---
 
