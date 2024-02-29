@@ -99,6 +99,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.2.29]**
+  - Paper: [ShapeLLM: Universal 3D Object Understanding for Embodied Interaction](https://arxiv.org/abs/2402.17766)
+  - Paper: [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
+  - Paper: [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)
+  - Paper: [Tower: An Open Multilingual Large Language Model for Translation-Related Tasks](https://arxiv.org/abs/2402.17733)
+  - Paper: [VRP-SAM: SAM with Visual Reference Prompt](https://arxiv.org/abs/2402.17726)
+  - Paper: [Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models](https://arxiv.org/abs/2402.17671)
+
 - **[2024.2.28]**
   - Survey Paper: [Large Language Models for Data Annotation: A Survey](https://arxiv.org/abs/2402.13446)
   - Survey Paper: [Investigating Cultural Alignment of Large Language Models](https://arxiv.org/abs/2402.13231)
@@ -294,6 +302,34 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models**](https://arxiv.org/abs/2402.17671) （**2024.02.27**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**DiffuCOMET: Contextual Commonsense Knowledge Diffusion**](https://arxiv.org/abs/2402.17011) （**2024.02.26**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Long-Context Language Modeling with Parallel Context Encoding**](https://arxiv.org/abs/2402.16617) （**2024.02.26**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis**](https://arxiv.org/abs/2402.15607) （**2024.02.23**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Addressing Order Sensitivity of In-Context Demonstration Examples in Causal Language Models**](https://arxiv.org/abs/2402.15637) （**2024.02.23**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization**](https://arxiv.org/abs/2402.14951) （**2024.02.22**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**](https://arxiv.org/abs/2402.13741) （**2024.02.21**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**](https://arxiv.org/abs/2402.13228) （**2024.02.20**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -305,34 +341,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**](https://doi.org/10.48550/arXiv.2402.05926) （**2024.02.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
-
-[**EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models**](https://doi.org/10.48550/arXiv.2402.05868) （**2024.02.08**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Large Language Model Meets Graph Neural Network in Knowledge Distillation**](https://doi.org/10.48550/arXiv.2402.05894) （**2024.02.08**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**](https://arxiv.org/abs/2312.11370) （**2023.12.18**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-49-blue)](https://github.com/pipilurj/g-llava)
-
-[**A mathematical perspective on Transformers**](https://arxiv.org/abs/2312.10794) （**2023.12.17**）
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/borjang/2023-transformers-rotf)
-
-[**Mitigating Label Bias in Machine Learning: Fairness through Confident Learning**](https://doi.org/10.48550/arXiv.2312.08749) （**2023.12.14**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Control Risk for Potential Misuse of Artificial Intelligence in Science**](https://arxiv.org/abs/2312.06632) （**2023.12.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**WonderJourney: Going from Anywhere to Everywhere**](https://arxiv.org/abs/2312.03884) （**2023.12.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
 
 </div>
@@ -449,6 +457,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**](https://arxiv.org/abs/2402.15506) （**2024.02.23**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**](https://doi.org/10.48550/arXiv.2402.00787) （**2024.02.01**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -485,10 +497,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
-[**Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied LMM-based Agent on Drones**](https://doi.org/10.48550/arXiv.2311.15033) （**2023.11.25**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 
 </div>
 
@@ -499,6 +507,10 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation**](https://arxiv.org/abs/2402.16846) （**2024.02.26**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 [**Genie: Generative Interactive Environments**](https://arxiv.org/abs/2402.15391) （**2024.02.23**）
 
@@ -535,10 +547,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**MM-LLMs: Recent Advances in MultiModal Large Language Models**](https://doi.org/10.48550/arXiv.2401.13601) （**2024.01.24**）
 
 ![](https://img.shields.io/badge/Citations-3-green)
-
-[**Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models**](https://doi.org/10.48550/arXiv.2401.03105) （**2024.01.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>
@@ -602,6 +610,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Generative Pretrained Hierarchical Transformer for Time Series Forecasting**](https://arxiv.org/abs/2402.16516) （**2024.02.26**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation**](https://arxiv.org/abs/2402.16846) （**2024.02.26**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Genie: Generative Interactive Environments**](https://arxiv.org/abs/2402.15391) （**2024.02.23**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -633,14 +649,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://doi.org/10.48550/arXiv.2312.16170) （**2023.12.26**）
 
 ![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-159-blue)](https://github.com/openrobotlab/embodiedscan)
-
-[**Time is Encoded in the Weights of Finetuned Language Models**](https://arxiv.org/abs/2312.13401) （**2023.12.20**）
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-30-blue)](https://github.com/KaiNylund/lm-weights-encode-time)
-
-[**Photorealistic Video Generation with Diffusion Models**](https://arxiv.org/abs/2312.06662) （**2023.12.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-88-red)
 
 
 </div>

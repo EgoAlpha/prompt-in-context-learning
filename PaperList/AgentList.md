@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**](https://arxiv.org/abs/2402.15506) （**2024.02.23**）
+
+<font color="gray">Jianguo Zhang, Tian Lan, Rithesh Murthy, Zhiwei Liu, Weiran Yao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**](https://doi.org/10.48550/arXiv.2402.00787) （**2024.02.01**）
 
 <font color="gray">Benjamin Patrick Evans, Sumitra Ganesh .  - 【arXiv.org】</font>
@@ -77,6 +85,14 @@
 
 ---
 
+[**War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**](https://doi.org/10.48550/arXiv.2311.17227) （**2023.11.28**）
+
+<font color="gray">Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-12-green)
+
+---
+
 [**Agent as Cerebrum, Controller as Cerebellum: Implementing an Embodied LMM-based Agent on Drones**](https://doi.org/10.48550/arXiv.2311.15033) （**2023.11.25**）
 
 <font color="gray">Haoran Zhao, Fengxing Pan, Huqiuyue Ping, Yaoming Zhou .  - 【arXiv.org】</font>
@@ -109,11 +125,59 @@
 
 ---
 
+[**CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization**](https://doi.org/10.48550/arXiv.2310.10134) （**2023.10.16**）
+
+<font color="gray">Bodhisattwa Prasad Majumder, Bhavana Dalvi, Peter Alexander Jansen, Oyvind Tafjord, Niket Tandon, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)
+
+---
+
+[**Character-LLM: A Trainable Agent for Role-Playing**](https://doi.org/10.48550/arXiv.2310.10158) （**2023.10.16**）
+
+<font color="gray">Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-21-green)
+
+---
+
 [**Lemur: Harmonizing Natural Language and Code for Language Agents**](https://doi.org/10.48550/arXiv.2310.06830) （**2023.10.10**）
 
 <font color="gray">Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-504-blue)](https://github.com/openlemur/lemur)
+
+---
+
+[**FireAct: Toward Language Agent Fine-tuning**](https://doi.org/10.48550/arXiv.2310.05915) （**2023.10.09**）
+
+<font color="gray">Baian Chen, Chang Shu, Ehsan Shareghi, Nigel Collier, Karthik Narasimhan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-20-green)
+
+---
+
+[**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**](https://doi.org/10.48550/arXiv.2310.04406) （**2023.10.06**）
+
+<font color="gray">Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-23-green)
+
+---
+
+[**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://doi.org/10.48550/arXiv.2310.03710) （**2023.10.05**）
+
+<font color="gray">Nicholas Crispino, Kyle Montgomery, Fankun Zeng, Dawn Song, Chenguang Wang .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-13-green)
+
+---
+
+[**Conversational Health Agents: A Personalized LLM-Powered Agent Framework**](https://doi.org/10.48550/arXiv.2310.02374) （**2023.10.03**）
+
+<font color="gray">Mahyar Abbasian, Iman Azimi, Amir M. Rahmani, Ramesh Jain .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)
 
 ---
 
@@ -130,6 +194,38 @@
 <font color="gray">Kuan Wang, Yadong Lu, M. Santacroce, Yeyun Gong, Chao Zhang, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**Multi-Agent Deep Reinforcement Learning for Joint Decoupled User Association and Trajectory Design in Full-Duplex Multi-UAV Networks**](https://doi.org/10.1109/TMC.2022.3188473) （**2023.10.01**）
+
+<font color="gray">Chen Dai, Kun Zhu, E. Hossain .  - 【IEEE Transactions on Mobile Computing】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)
+
+---
+
+[**AutoAgents: A Framework for Automatic Agent Generation**](https://doi.org/10.48550/arXiv.2309.17288) （**2023.09.29**）
+
+<font color="gray">Guangyao Chen, Siwei Dong, Yu Shu, Ge Zhang, Jaward Sesay, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-12-green)
+
+---
+
+[**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**](https://doi.org/10.48550/arXiv.2309.17452) （**2023.09.29**）
+
+<font color="gray">Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-23-green)
+
+---
+
+[**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**](https://doi.org/10.1109/ICCV51070.2023.00788) （**2023.09.28**）
+
+<font color="gray">Ari Seff, Brian Cera, Dian Chen, Mason Ng, Aurick Zhou, etc .  - 【IEEE International Conference on Computer Vision】</font>
+
+![](https://img.shields.io/badge/Citations-11-green)
 
 ---
 
@@ -154,6 +250,22 @@
 <font color="gray">T. Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-534-blue)](https://github.com/ysymyth/awesome-language-agents)
+
+---
+
+[**ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models**](https://doi.org/10.48550/arXiv.2309.00986) （**2023.09.02**）
+
+<font color="gray">Chenliang Li, Hehong Chen, Mingshi Yan, Weizhou Shen, Haiyang Xu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-6-green)
+
+---
+
+[**Mean-Field Multi-Agent Reinforcement Learning for Peer-to-Peer Multi-Energy Trading**](https://doi.org/10.1109/TPWRS.2022.3217922) （**2023.09.01**）
+
+<font color="gray">D. Qiu, Jianhong Wang, Zihang Dong, Yi Wang, G. Strbac .  - 【IEEE Transactions on Power Systems】</font>
+
+![](https://img.shields.io/badge/Citations-14-green)
 
 ---
 
@@ -197,11 +309,35 @@
 
 ---
 
+[**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**](https://arxiv.org/abs/2308.08155) （**2023.08.16**）
+
+<font color="gray">Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, etc </font>
+
+![](https://img.shields.io/badge/Citations-23-green)
+
+---
+
+[**Double-Agent Reinforced vNFC Deployment in EONs for Cloud-Edge Computing**](https://doi.org/10.1109/JLT.2023.3261068) （**2023.08.15**）
+
+<font color="gray">Ruijie Zhu, Peisen Wang, Zhichao Geng, Yongli Zhao, Shui Yu .  - 【Journal of Lightwave Technology】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)
+
+---
+
 [**CodeHelp: Using Large Language Models with Guardrails for Scalable Support in Programming Classes**](https://doi.org/10.48550/arXiv.2308.06921) （**2023.08.14**）
 
 <font color="gray">Mark H. Liffiton, Brad E. Sheese, Jaromír Šavelka, Paul Denny .  - 【European Conference on Modelling and Simulation】</font>
 
 ![](https://img.shields.io/badge/Citations-14-green)
+
+---
+
+[**ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate**](https://doi.org/10.48550/arXiv.2308.07201) （**2023.08.14**）
+
+<font color="gray">Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-85-green)
 
 ---
 
@@ -261,6 +397,14 @@
 
 ---
 
+[**Towards A Unified Agent with Foundation Models**](https://doi.org/10.48550/arXiv.2307.09668) （**2023.07.18**）
+
+<font color="gray">Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, N. Heess, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-22-green)
+
+---
+
 [**Communicative Agents for Software Development**](https://doi.org/10.48550/arXiv.2307.07924) （**2023.07.16**）
 
 <font color="gray">Chen Qian, Xin Cong, Cheng Yang, Weize Chen, Yusheng Su, etc .  - 【arXiv.org】</font>
@@ -290,6 +434,22 @@
 <font color="gray">Yifan Song, Weimin Xiong, Dawei Zhu, Wenhao Wu, Han Qian, etc </font>
 
 ![](https://img.shields.io/badge/Citations-12-green)
+
+---
+
+[**Mind2Web: Towards a Generalist Agent for the Web**](https://doi.org/10.48550/arXiv.2306.06070) （**2023.06.09**）
+
+<font color="gray">Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-68-green)
+
+---
+
+[**Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents**](https://doi.org/10.48550/arXiv.2306.03314) （**2023.06.05**）
+
+<font color="gray">Yashar Talebirad, Amirhossein Nadiri .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-37-green)
 
 ---
 
@@ -330,6 +490,14 @@
 <font color="gray">Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-248-green)
+
+---
+
+[**Introspective Tips: Large Language Model for In-Context Decision Making**](https://doi.org/10.48550/arXiv.2305.11598) （**2023.05.19**）
+
+<font color="gray">Liting Chen, Lu Wang, Hang Dong, Yali Du, Jie Yan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)
 
 ---
 

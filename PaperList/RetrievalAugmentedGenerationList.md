@@ -165,6 +165,14 @@
 
 ---
 
+[**Query Rewriting for Retrieval-Augmented Large Language Models**](https://doi.org/10.48550/arXiv.2305.14283) （**2023.05.23**）
+
+<font color="gray">Xinbei Ma, Yeyun Gong, Pengcheng He, Hai Zhao, Nan Duan .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-7-green)
+
+---
+
 [**Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision**](https://arxiv.org/abs/2305.13199) （**2023.05.22**）
 
 <font color="gray">Yucheng Cai, Hong Liu, Zhijian Ou, Y. Huang, Junlan Feng </font>
@@ -237,11 +245,43 @@
 
 ---
 
+[**Augmented Large Language Models with Parametric Knowledge Guiding**](https://doi.org/10.48550/arXiv.2305.04757) （**2023.05.08**）
+
+<font color="gray">Ziyang Luo, Can Xu, Pu Zhao, Xiubo Geng, Chongyang Tao, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-19-green)
+
+---
+
+[**Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory**](https://doi.org/10.48550/arXiv.2305.02437) （**2023.05.03**）
+
+<font color="gray">Xin Cheng, Di Luo, Xiuying Chen, Lemao Liu, Dongyan Zhao, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-9-green)
+
+---
+
+[**UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation**](https://doi.org/10.48550/arXiv.2303.08518) （**2023.03.15**）
+
+<font color="gray">Daixuan Cheng, Shaohan Huang, Junyu Bi, Yu-Wei Zhan, Jianfeng Liu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/microsoft/lmops)
+
+---
+
 [**REPLUG: Retrieval-Augmented Black-Box Language Models**](https://doi.org/10.48550/arXiv.2301.12652) （**2023.01.30**）
 
 <font color="gray">Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, etc .  - 【ArXiv】</font>
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-534-blue)](https://github.com/intellabs/fastrag)
+
+---
+
+[**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**](https://doi.org/10.48550/arXiv.2212.14024) （**2022.12.28**）
+
+<font color="gray">O. Khattab, Keshav Santhanam, Xiang Lisa Li, David Leo Wright Hall, Percy Liang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-109-green)
 
 ---
 
@@ -274,6 +314,30 @@
 <font color="gray">Zhichao Yang, Shufan Wang, Bhanu Pratap Singh Rawat, Avijit Mitra, Hong Yu .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
 ![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-28-blue)](https://github.com/whaleloops/KEPT)
+
+---
+
+[**Recitation-Augmented Language Models**](https://doi.org/10.48550/arXiv.2210.01296) （**2022.10.04**）
+
+<font color="gray">Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou .  - 【International Conference on Learning Representations】</font>
+
+![](https://img.shields.io/badge/Citations-42-green)  [![](https://img.shields.io/badge/Github%20Stars-81-blue)](https://github.com/edward-sun/recite)
+
+---
+
+[**Generate rather than Retrieve: Large Language Models are Strong Context Generators**](https://doi.org/10.48550/arXiv.2209.10063) （**2022.09.21**）
+
+<font color="gray">W. Yu, Dan Iter, Shuohang Wang, Yichong Xu, Mingxuan Ju, etc .  - 【International Conference on Learning Representations】</font>
+
+![](https://img.shields.io/badge/Citations-144-green)  [![](https://img.shields.io/badge/Github%20Stars-255-blue)](https://github.com/wyu97/GenRead)
+
+---
+
+[**Few-shot Learning with Retrieval Augmented Language Models**](https://doi.org/10.48550/arXiv.2208.03299) （**2022.08.05**）
+
+<font color="gray">Gautier Izacard, Patrick Lewis, M. Lomeli, Lucas Hosseini, F. Petroni, etc .  - 【Journal of machine learning research】</font>
+
+![](https://img.shields.io/badge/Citations-289-green)
 
 ---
 
@@ -386,6 +450,14 @@
 
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases**](https://doi.org/10.48550/arXiv.2305.13269) 
+
+<font color="gray">Xingxuan Li, Ruochen Zhao, Yew Ken Chia, Bosheng Ding, Lidong Bing, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-30-green)
 
 
 </div>

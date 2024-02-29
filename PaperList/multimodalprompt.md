@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation**](https://arxiv.org/abs/2402.16846) （**2024.02.26**）
+
+<font color="gray">Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Genie: Generative Interactive Environments**](https://arxiv.org/abs/2402.15391) （**2024.02.23**）
 
 <font color="gray">Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, etc </font>

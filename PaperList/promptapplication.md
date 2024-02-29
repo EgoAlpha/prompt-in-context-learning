@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**](https://arxiv.org/abs/2402.15491) （**2024.02.23**）
+
+<font color="gray">Kinjal Basu, Ibrahim Abdelaziz, Subhajit Chaudhury, Soham Dan, M. Crouse, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Genie: Generative Interactive Environments**](https://arxiv.org/abs/2402.15391) （**2024.02.23**）
 
 <font color="gray">Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, etc </font>

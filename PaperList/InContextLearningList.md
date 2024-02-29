@@ -5,6 +5,62 @@
 <div style="line-height:0.2em;">
 
 
+[**Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models**](https://arxiv.org/abs/2402.17671) （**2024.02.27**）
+
+<font color="gray">Yunpeng Huang, Yaonan Gu, Jingwei Xu, Zhihong Zhu, Zhaorun Chen, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**DiffuCOMET: Contextual Commonsense Knowledge Diffusion**](https://arxiv.org/abs/2402.17011) （**2024.02.26**）
+
+<font color="gray">Silin Gao, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Long-Context Language Modeling with Parallel Context Encoding**](https://arxiv.org/abs/2402.16617) （**2024.02.26**）
+
+<font color="gray">Howard Yen, Tianyu Gao, Danqi Chen </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis**](https://arxiv.org/abs/2402.15607) （**2024.02.23**）
+
+<font color="gray">Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Addressing Order Sensitivity of In-Context Demonstration Examples in Causal Language Models**](https://arxiv.org/abs/2402.15637) （**2024.02.23**）
+
+<font color="gray">Yanzheng Xiang, Hanqi Yan, Lin Gui, Yulan He </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization**](https://arxiv.org/abs/2402.14951) （**2024.02.22**）
+
+<font color="gray">Ruiqi Zhang, Jingfeng Wu, Peter L. Bartlett </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**](https://arxiv.org/abs/2402.13741) （**2024.02.21**）
+
+<font color="gray">Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**](https://arxiv.org/abs/2402.13228) （**2024.02.20**）
 
 <font color="gray">Arka Pal, Deep Karkhanis, Samuel Dooley, Manley Roberts, Siddartha Naidu, etc </font>
@@ -149,6 +205,14 @@
 
 ---
 
+[**Which Examples to Annotate for In-Context Learning? Towards Effective and Efficient Selection**](https://doi.org/10.48550/arXiv.2310.20046) （**2023.10.30**）
+
+<font color="gray">Costas Mavromatis, Balasubramaniam Srinivasan, Zhengyuan Shen, Jiani Zhang, H. Rangwala, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
 [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://arxiv.org/abs/2310.17680) （**2023.10.26**）
 
 <font color="gray">Mukul Singh, J. Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, etc </font>
@@ -162,6 +226,14 @@
 <font color="gray">Gabriel Mukobi, Peter Chatain, Su Fong, Robert Windesheim, Gitta Kutyniok, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/openfeedback/superhf)
+
+---
+
+[**In-Context Learning Creates Task Vectors**](https://doi.org/10.48550/arXiv.2310.15916) （**2023.10.24**）
+
+<font color="gray">Roee Hendel, Mor Geva, Amir Globerson .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-25-green)
 
 ---
 
