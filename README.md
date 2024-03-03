@@ -99,6 +99,20 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.3]**
+  - Paper: [Meta-Task Prompting Elicits Embedding from Large Language Models](https://arxiv.org/abs/2402.18458)
+  - Paper: [Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization](https://arxiv.org/abs/2402.18447)
+  - Paper: [LeMo-NADe: Multi-Parameter Neural Architecture Discovery with LLMs](https://arxiv.org/abs/2402.18443)
+  - Paper: [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models](https://arxiv.org/abs/2402.18409)
+  - Paper: [VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models](https://arxiv.org/abs/2402.18374)
+
+- **[2024.3.2]**
+  - Paper: [GISTEmbed: Guided In-sample Selection of Training Negatives for Text Embedding Fine-tuning](https://arxiv.org/abs/2402.16829)
+  - Paper: [Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823)
+  - Paper: [Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts](https://arxiv.org/abs/2402.16822)
+  - Paper: [OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)](https://arxiv.org/abs/2402.16810)
+  - Paper: [Set the Clock: Temporal Alignment of Pretrained Language Models](https://arxiv.org/abs/2402.16797)
+
 - **[2024.3.1]**
   - Paper: [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://arxiv.org/abs/2402.19479)
   - Paper: [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](https://arxiv.org/abs/2402.19474)
