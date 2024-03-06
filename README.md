@@ -99,6 +99,20 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.6]**
+  - Paper: [KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection](https://arxiv.org/abs/2403.02253)
+  - Paper: [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)
+  - Paper: [A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives](https://arxiv.org/abs/2403.03037)
+  - Paper: [Learning to Use Tools via Cooperative and Interactive Agents](https://arxiv.org/abs/2403.03031)
+  - Paper: [OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following](https://arxiv.org/abs/2403.03017)
+
+- **[2024.3.5]**
+  - Paper: [RegionGPT: Towards Region Understanding Vision Language Model](https://arxiv.org/abs/2403.02330)
+  - Paper: [Beyond Specialization: Assessing the Capabilities of MLLMs in Age and Gender Estimation](https://arxiv.org/abs/2403.02302)
+  - Paper: [RIFF: Learning to Rephrase Inputs for Few-shot Fine-tuning of Language Models](https://arxiv.org/abs/2403.02271)
+  - Paper: [Non-autoregressive Sequence-to-Sequence Vision-Language Models](https://arxiv.org/abs/2403.02249)
+  - Paper: [Using LLMs for the Extraction and Normalization of Product Attribute Values](https://arxiv.org/abs/2403.02130)
+
 - **[2024.3.4]**
   - 🔥🔥🔥 Paper: [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)
   - Paper: [Tokenization counts: the impact of tokenization on arithmetic in frontier LLMs](https://arxiv.org/abs/2402.14903)
