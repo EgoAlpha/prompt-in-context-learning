@@ -99,6 +99,19 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.8]**
+  - Survey Paper: [Benchmarking the Text-to-SQL Capability of Large Language Models: A Comprehensive Evaluation](https://arxiv.org/abs/2403.02951)
+  - Survey Paper: [A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods](https://arxiv.org/abs/2403.02901)
+  - Paper: [Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models](https://arxiv.org/abs/2403.03003)
+  - Paper: [Localized Zeroth-Order Prompt Optimization](https://arxiv.org/abs/2403.02993)
+  
+- **[2024.3.7]**
+  - Paper: [Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models](https://arxiv.org/abs/2403.03900)
+  - Paper: [SaulLM-7B: A pioneering Large Language Model for Law](https://arxiv.org/abs/2403.03883)
+  - Paper: [On the Origins of Linear Representations in Large Language Models](https://arxiv.org/abs/2403.03867)
+  - Paper: [Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies](https://arxiv.org/abs/2403.03699)
+  - Paper: [Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning](https://arxiv.org/abs/2403.03677)
+
 - **[2024.3.6]**
   - Paper: [KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection](https://arxiv.org/abs/2403.02253)
   - Paper: [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)
