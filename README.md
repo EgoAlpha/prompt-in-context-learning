@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.11]**
+  - 🔥🔥🔥[Inflection-2.5 Release: The Ultimate Big Model](https://inflection.ai/inflection-2-5)
+  - Paper:[LLM4Decompile: Decompiling Binary Code with Large Language Models](https://arxiv.org/abs/2403.05286)
+  - Paper:[ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models](https://arxiv.org/abs/2403.05266)
+
+- **[2024.3.10]**
+  - Paper:[Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought](https://arxiv.org/abs/2403.05518)
+  - Paper:[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://arxiv.org/abs/2403.05434)
+  - Paper:[VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model](https://arxiv.org/abs/2403.05346)
+
+- **[2024.3.9]**
+  - Paper:[Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)
+  - Paper:[Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/abs/2403.05530)
+  - Paper:[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)
+
 - **[2024.3.8]**
   - Survey Paper: [Benchmarking the Text-to-SQL Capability of Large Language Models: A Comprehensive Evaluation](https://arxiv.org/abs/2403.02951)
   - Survey Paper: [A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods](https://arxiv.org/abs/2403.02901)

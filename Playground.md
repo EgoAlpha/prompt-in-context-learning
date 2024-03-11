@@ -38,6 +38,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 |   Model  | Type | Lab | Playgrounds| Params(B) | Blog/Paper/Github | Checkpoints |Announced Time|
 | :----: | :----: | :----:  | :----: | :----:|:----: |:----:|:----:|
+| Gemma | Decoder| Google | [🔗](https://www.kaggle.com/models/google/gemma) | 2,7 |[Github]()|[Gemma-2B](https://huggingface.co/google/gemma-2b)/[Gemma-7B](https://huggingface.co/google/gemma-7b)|Feb-24|
 | Yi series | Decoder| 01.Ai | [🔗](https://huggingface.co/01-ai/Yi-34B) | 6,34 |[Github](https://github.com/01-ai/Yi)|[Yi-34B](https://huggingface.co/01-ai/Yi-34B)/[Yi-6B](https://huggingface.co/01-ai/Yi-6B)|Nov-23|
 | InternLM | Decoder| Shanghai Artificial Intelligence Laboratory | [🔗](https://huggingface.co/internlm/internlm-20b) | 20 |[Github](https://github.com/InternLM/InternLM)|[InternLM-20B](https://huggingface.co/internlm/internlm-chat-20b)|Aug-23|
 | Mistral 7B | Decoder| | [🔗](https://huggingface.co/mistralai/Mistral-7B-v0.1) | 7 |[Paper](https://arxiv.org/pdf/2310.06825.pdf)/[Blog](https://mistral.ai/news/announcing-mistral-7b/)|[Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)|Oct-23|
@@ -87,6 +88,7 @@ As resources are limited, we suggest using this playground for learning and prac
 
 | Model  | Type | Lab | Github| Params(B) |Paper/Code|Announced Time|
 | :----: | :----: | :----:  | :----: | :----: |:----:|:----:|
+| Gorilla-OpenFunctions series | Decoder| Gorilla LLM | [🔗](https://huggingface.co/gorilla-llm/gorilla-openfunctions-v2) | - |[Paper](https://arxiv.org/abs/2305.15334)/[Github](https://gorilla.cs.berkeley.edu/leaderboard)|-|May-23|
 | LLaMA-65B| Decoder | MetaAI | [🔗](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) | 65|[Paper](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=4srK2r5szdYAX8tuGSV&_nc_ht=scontent-hkg4-1.xx&oh=00_AfAUdcLc_-aVJHTm60I_1mIOLIEcecJ1N9s8-G4drVrd3Q&oe=6409B2E2)/[Code](https://github.com/facebookresearch/llama)|Feb-23|
 | OPT-IML | Decoder| MetaAI | [🔗](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML) | 175|[Paper](https://arxiv.org/pdf/2212.12017.pdf)/-|Dec-22|
 | ERNIE-Code | Encoder-Decoder | Baidu | [🔗](https://github.com/thunlp/ERNIE) | 0.56|[Paper](https://arxiv.org/abs/2212.06742#baidu)/-|Dec-22|
