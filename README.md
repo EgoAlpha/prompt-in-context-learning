@@ -101,8 +101,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 - **[2024.3.13]**
   - 🔥🔥🔥[The world first AGI agents! Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/blog)
+  - 🔥🔥🔥Paper: [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186)
   - Paper: [DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2403.06397)
-  - Paper: [VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models](https://arxiv.org/abs/2403.06098)
+  - 🔥🔥🔥Paper: [VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models](https://arxiv.org/abs/2403.06098)
   - Paper: [NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning](https://arxiv.org/abs/2403.07376)
 
 - **[2024.3.12]**
