@@ -99,6 +99,17 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.15]**
+  - Paper: [ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2403.09583)
+  - Paper: [Big City Bias: Evaluating the Impact of Metropolitan Size on Computational Job Market Abilities of Language Models](https://arxiv.org/abs/2403.08046)
+  - Paper: [LG-Traj: LLM Guided Pedestrian Trajectory Prediction](https://arxiv.org/abs/2403.08032)
+
+- **[2024.3.14]**
+  - 🔥🔥🔥[Speak, See and Act, OpenAI Robotics](https://www.figure.ai/)
+  - Paper: [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)
+  - Paper: [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611)
+  - Survey Paper: [Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey](https://arxiv.org/abs/2403.09606)
+
 - **[2024.3.13]**
   - 🔥🔥🔥[The world first AGI agents! Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/blog)
   - 🔥🔥🔥Paper: [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186)
