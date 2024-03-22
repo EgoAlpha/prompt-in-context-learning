@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.22]**
+  - Paper: [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://arxiv.org/abs/2403.14624)
+  - Paper: [Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning](https://arxiv.org/abs/2403.14616)
+  - Survey Paper: [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)
+
+- **[2024.3.21]**
+  - Paper: [MyVLM: Personalizing VLMs for User-Specific Queries](https://arxiv.org/abs/2403.14599)
+  - Paper: [PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model](https://arxiv.org/abs/2403.14598)
+  - Paper: [ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training](https://arxiv.org/abs/2403.14589)
+
+- **[2024.3.20]**
+  - Paper: [A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science](https://arxiv.org/abs/2403.14565)
+  - Survey Paper: [The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)](https://arxiv.org/abs/2403.14473)
+  - Survey Paper: [ChatGPT Alternative Solutions: Large Language Models Survey](https://arxiv.org/abs/2403.14469)
+
 - **[2024.3.19]**
   - 🔥🔥🔥[Nvidia GTC](https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing)
   - 🔥🔥🔥[Open Release of Grok-1](https://github.com/xai-org/grok-1)
