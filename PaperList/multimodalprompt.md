@@ -5,6 +5,158 @@
 <div style="line-height:0.2em;">
 
 
+[**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
+
+<font color="gray">Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning**](https://arxiv.org/abs/2403.14616) （**2024.03.21**）
+
+<font color="gray">Hasindri Watawana, Kanchana Ranasinghe, Tariq Mahmood, Muzammal Naseer, Salman Khan, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MyVLM: Personalizing VLMs for User-Specific Queries**](https://arxiv.org/abs/2403.14599) （**2024.03.21**）
+
+<font color="gray">Yuval Alaluf, Elad Richardson, Sergey Tulyakov, Kfir Aberman, Daniel Cohen-Or </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**](https://arxiv.org/abs/2403.14624) （**2024.03.21**）
+
+<font color="gray">Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, Ziyu Guo, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**](https://arxiv.org/abs/2403.14598) （**2024.03.21**）
+
+<font color="gray">Zheng Zhang, Yeyao Ma, Enming Zhang, Xiang Bai </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models**](https://arxiv.org/abs/2403.13263) （**2024.03.20**）
+
+<font color="gray">Tongtian Yue, Jie Cheng, Longteng Guo, Xingyuan Dai, Zijia Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**](https://arxiv.org/abs/2403.09037) （**2024.03.14**）
+
+<font color="gray">Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**3D-VLA: A 3D Vision-Language-Action Generative World Model**](https://arxiv.org/abs/2403.09631) （**2024.03.14**）
+
+<font color="gray">Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**UniCode: Learning a Unified Codebook for Multimodal Large Language Models**](https://arxiv.org/abs/2403.09072) （**2024.03.14**）
+
+<font color="gray">Sipeng Zheng, Bohan Zhou, Yicheng Feng, Ye Wang, Zongqing Lu </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**DeepSeek-VL: Towards Real-World Vision-Language Understanding**](https://arxiv.org/abs/2403.05525) （**2024.03.08**）
+
+<font color="gray">Haoyu Lu, Wen Liu, Bo Zhang, Bing-Li Wang, Kai Dong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model**](https://arxiv.org/abs/2403.05346) （**2024.03.08**）
+
+<font color="gray">Junsu Kim, Yunhoe Ku, Jihyeon Kim, Junuk Cha, Seungryul Baek </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**](https://arxiv.org/abs/2403.04473) （**2024.03.07**）
+
+<font color="gray">Yuliang Liu, Biao Yang, Qiang Liu, Zhang Li, Zhiyin Ma, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003) （**2024.03.05**）
+
+<font color="gray">Gen Luo, Yiyi Zhou, Yuxin Zhang, Xiawu Zheng, Xiaoshuai Sun, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**RegionGPT: Towards Region Understanding Vision Language Model**](https://arxiv.org/abs/2403.02330) （**2024.03.04**）
+
+<font color="gray">Qiushan Guo, Shalini De Mello, Hongxu Yin, Wonmin Byeon, Ka Chun Cheung, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+
+---
+
+[**Non-autoregressive Sequence-to-Sequence Vision-Language Models**](https://arxiv.org/abs/2403.02249) （**2024.03.04**）
+
+<font color="gray">Kunyu Shi, Qi Dong, Luis Goncalves, Zhuowen Tu, S. Soatto </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**](https://arxiv.org/abs/2402.19479) （**2024.02.29**）
+
+<font color="gray">Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, Ekaterina Deyneka, Hsiang-wei Chao, etc </font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Tower: An Open Multilingual Large Language Model for Translation-Related Tasks**](https://doi.org/10.48550/arXiv.2402.17733) （**2024.02.27**）
+
+<font color="gray">Duarte M. Alves, José P. Pombal, Nuno M. Guerreiro, Pedro H. Martins, Joao Alves, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/deep-spin/tower-eval)
+
+---
+
+[**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**](https://doi.org/10.48550/arXiv.2402.17766) （**2024.02.27**）
+
+<font color="gray">Zekun Qi, Runpei Dong, Shaochen Zhang, Haoran Geng, Chunrui Han, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**VRP-SAM: SAM with Visual Reference Prompt**](https://doi.org/10.48550/arXiv.2402.17726) （**2024.02.27**）
+
+<font color="gray">Yanpeng Sun, Jiahui Chen, Shan Zhang, Xinyu Zhang, Qiang Chen, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation**](https://arxiv.org/abs/2402.16846) （**2024.02.26**）
 
 <font color="gray">Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, etc </font>
@@ -21,11 +173,19 @@
 
 ---
 
+[**LLMBind: A Unified Modality-Task Integration Framework**](https://doi.org/10.48550/arXiv.2402.14891) （**2024.02.22**）
+
+<font color="gray">Bin Zhu, Peng Jin, Munan Ning, Bin Lin, Jinfa Huang, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**](https://arxiv.org/abs/2402.13220) （**2024.02.20**）
 
 <font color="gray">Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
 
 ---
 
@@ -33,15 +193,7 @@
 
 <font color="gray">Md Mohaiminul Islam, Ngan Ho, Xitong Yang, Tushar Nagarajan, Lorenzo Torresani, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
----
-
-[**PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**](https://doi.org/10.48550/arXiv.2402.07872) （**2024.02.12**）
-
-<font color="gray">Soroush Nasiriany, Fei Xia, Wenhao Yu, Ted Xiao, Jacky Liang, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
 
 ---
 
@@ -161,7 +313,7 @@
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-135-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-165-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -201,7 +353,7 @@
 
 <font color="gray">Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-90-blue)](https://github.com/OPPOMKLab/u-LLaVA)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-108-blue)](https://github.com/OPPOMKLab/u-LLaVA)
 
 ---
 
@@ -393,7 +545,7 @@
 
 <font color="gray">Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-58-red)  [![](https://img.shields.io/badge/Github%20Stars-152-blue)](https://github.com/JiauZhang/hyperdreambooth)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-64-red)  [![](https://img.shields.io/badge/Github%20Stars-153-blue)](https://github.com/JiauZhang/hyperdreambooth)
 
 ---
 
@@ -549,11 +701,27 @@
 
 ---
 
+[**Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations**](https://arxiv.org/abs/2305.14618) （**2023.05.24**）
+
+<font color="gray">Wenting Zhao, Justin T. Chiu, Claire Cardie, Alexander M. Rush </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+
+---
+
 [**Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks**](https://arxiv.org/abs/2305.14201) （**2023.05.23**）
 
 <font color="gray">Tiedong Liu, Bryan Kian Hsiang Low </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-52-red)  [![](https://img.shields.io/badge/Github%20Stars-159-blue)](https://github.com/liutiedong/goat)
+
+---
+
+[**Masked Path Modeling for Vision-and-Language Navigation**](https://doi.org/10.48550/arXiv.2305.14268) （**2023.05.23**）
+
+<font color="gray">Zi-Yi Dou, Feng Gao, Nanyun Peng .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -785,7 +953,7 @@
 
 <font color="gray">Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 

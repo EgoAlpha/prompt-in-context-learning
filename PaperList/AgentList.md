@@ -5,6 +5,110 @@
 <div style="line-height:0.2em;">
 
 
+[**Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy**](https://arxiv.org/abs/2403.16956) （**2024.03.25**）
+
+<font color="gray">R. S. Hallyburton, Miroslav Pajic </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**AIOS: LLM Agent Operating System**](https://arxiv.org/abs/2403.16971) （**2024.03.25**）
+
+<font color="gray">Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**](https://arxiv.org/abs/2403.14589) （**2024.03.21**）
+
+<font color="gray">Zonghan Yang, Peng Li, Ming Yan, Ji Zhang, Fei Huang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**](https://arxiv.org/abs/2403.10517) （**2024.03.15**）
+
+<font color="gray">Xiaohan Wang, Yuhui Zhang, Orr Zohar, Serena Yeung-Levy </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents**](https://arxiv.org/abs/2403.08715) （**2024.03.13**）
+
+<font color="gray">Ruiyi Wang, Haofei Yu, W. Zhang, Zhengyang Qi, Maarten Sap, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**](https://arxiv.org/abs/2403.06397) （**2024.03.11**）
+
+<font color="gray">Xuefeng Wang, Henglin Pu, Hyung Jun Kim, Husheng Li </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following**](https://arxiv.org/abs/2403.03017) （**2024.03.05**）
+
+<font color="gray">Haochen Shi, Zhiyuan Sun, Xingdi Yuan, Marc-Alexandre Cot'e, Bang Liu </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study**](https://arxiv.org/abs/2403.03186) （**2024.03.05**）
+
+<font color="gray">Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, etc </font>
+
+![](https://img.shields.io/badge/Citations-2-green)
+
+---
+
+[**Learning to Use Tools via Cooperative and Interactive Agents**](https://arxiv.org/abs/2403.03031) （**2024.03.05**）
+
+<font color="gray">Zhengliang Shi, Shen Gao, Xiuyi Chen, Lingyong Yan, Haibo Shi, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**](https://arxiv.org/abs/2403.03101) （**2024.03.05**）
+
+<font color="gray">Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Ningyu Zhang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL**](https://arxiv.org/abs/2402.19446) （**2024.02.29**）
+
+<font color="gray">Yifei Zhou, Andrea Zanette, Jiayi Pan, Sergey Levine, Aviral Kumar </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://doi.org/10.48550/arXiv.2402.17753) （**2024.02.27**）
+
+<font color="gray">A. Maharana, Dong-Ho Lee, S. Tulyakov, Mohit Bansal, Francesco Barbieri, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Language Agents as Optimizable Graphs**](https://doi.org/10.48550/arXiv.2402.16823) （**2024.02.26**）
+
+<font color="gray">Mingchen Zhuge, Wenyi Wang, Louis Kirsch, Francesco Faccio, Dmitrii Khizbullin, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**](https://arxiv.org/abs/2402.15506) （**2024.02.23**）
 
 <font color="gray">Jianguo Zhang, Tian Lan, Rithesh Murthy, Zhiwei Liu, Weiran Yao, etc </font>
@@ -177,7 +281,7 @@
 
 <font color="gray">Mahyar Abbasian, Iman Azimi, Amir M. Rahmani, Ramesh Jain .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-32-blue)](https://github.com/Institute4FutureHealth/CHA)
 
 ---
 
@@ -209,7 +313,7 @@
 
 <font color="gray">Guangyao Chen, Siwei Dong, Yu Shu, Ge Zhang, Jaward Sesay, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-12-green)
+![](https://img.shields.io/badge/Citations-12-green)  [![](https://img.shields.io/badge/Github%20Stars-975-blue)](https://github.com/Link-AGI/AutoAgents)
 
 ---
 
@@ -249,7 +353,7 @@
 
 <font color="gray">T. Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-534-blue)](https://github.com/ysymyth/awesome-language-agents)
+![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-571-blue)](https://github.com/ysymyth/awesome-language-agents)
 
 ---
 
@@ -529,7 +633,7 @@
 
 <font color="gray">Ronald Römer, P. B. Graben, Markus Huber-Liebl, M. Wolff .  - 【Frontiers of Computer Science】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
 
 ---
 

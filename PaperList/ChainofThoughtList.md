@@ -5,6 +5,54 @@
 <div style="line-height:0.2em;">
 
 
+[**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
+
+<font color="gray">Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**](https://arxiv.org/abs/2403.14565) （**2024.03.21**）
+
+<font color="gray">Clayton Cohn, Nicole M. Hutchins, Tuan Le, Gautam Biswas </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**](https://arxiv.org/abs/2403.07376) （**2024.03.12**）
+
+<font color="gray">Bingqian Lin, Yunshuang Nie, Ziming Wei, Jiaqi Chen, Shikui Ma, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis**](https://arxiv.org/abs/2403.06932) （**2024.03.11**）
+
+<font color="gray">Yanming Liu, Xinyue Peng, Tianyu Du, Jianwei Yin, Weihao Liu, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought**](https://arxiv.org/abs/2403.05518) （**2024.03.08**）
+
+<font color="gray">James Chua, Edward Rees, Hunar Batra, Samuel R. Bowman, Julian Michael, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Chain-of-Thought Unfaithfulness as Disguised Accuracy**](https://doi.org/10.48550/arXiv.2402.14897) （**2024.02.22**）
+
+<font color="gray">Oliver Bentham, Nathan Stringham, Ana Marasovi'c .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Chain-of-Thought Reasoning Without Prompting**](https://doi.org/10.48550/arXiv.2402.10200) （**2024.02.15**）
 
 <font color="gray">Xuezhi Wang, Denny Zhou .  - 【arXiv.org】</font>
@@ -57,7 +105,7 @@
 
 <font color="gray">Liqi He, Zuchao Li, Xiantao Cai, Ping Wang </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
@@ -153,7 +201,7 @@
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-135-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-165-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -201,7 +249,7 @@
 
 <font color="gray">Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson, Peter Wirnsberger, Meire Fortunato, etc .  - 【Science】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-458-red)
+![](https://img.shields.io/badge/Citations-8-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-451-red)
 
 ---
 
@@ -209,7 +257,7 @@
 
 <font color="gray">Hongxuan Zhang, Zhining Liu, Jiaqi Zheng, Chenyi Zhuang, Jinjie Gu, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-205-blue)](https://github.com/alipay/PainlessInferenceAcceleration)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-222-blue)](https://github.com/alipay/PainlessInferenceAcceleration)
 
 ---
 
@@ -281,7 +329,7 @@
 
 <font color="gray">Joseph Gatto, Omar Sharif, S. Preum .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-704-blue)](https://github.com/lastmile-ai/aiconfig)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-812-blue)](https://github.com/lastmile-ai/aiconfig)
 
 ---
 
@@ -321,7 +369,7 @@
 
 <font color="gray">Zayne Sprague, Xi Ye, Kaj Bostrom, Swarat Chaudhuri, Greg Durrett .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-7-blue)](https://github.com/zayne-sprague/musr)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-8-blue)](https://github.com/zayne-sprague/musr)
 
 ---
 
@@ -337,7 +385,7 @@
 
 <font color="gray">Tengxiao Liu, Qipeng Guo, Yuqing Yang, Xiangkun Hu, Yue Zhang, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/tengxiaoliu/xot)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-21-blue)](https://github.com/tengxiaoliu/xot)
 
 ---
 
@@ -493,14 +541,6 @@
 
 ---
 
-[**AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?**](https://doi.org/10.48550/arXiv.2307.16368) （**2023.07.31**）
-
-<font color="gray">Qipeng Zhao, Ce Zhang, Shijie Wang, Changcheng Fu, Nakul Agarwal, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
 [**Math Agents: Computational Infrastructure, Mathematical Embedding, and Genomics**](https://doi.org/10.48550/arXiv.2307.02502) （**2023.07.04**）
 
 <font color="gray">M. Swan, Takashi Kido, Eric Roland, R. P. D. Santos .  - 【arXiv.org】</font>
@@ -561,7 +601,7 @@
 
 <font color="gray">Yao Yao, Z. Li, Hai Zhao .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-541-blue)](https://github.com/opendrivelab/drivelm)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -737,7 +777,7 @@
 
 <font color="gray">Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-459-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-480-blue)](https://github.com/agi-edgerunners/plan-and-solve-prompting)
 
 ---
 

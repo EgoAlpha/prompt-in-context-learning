@@ -5,43 +5,163 @@
 <div style="line-height:0.2em;">
 
 
-[**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**](https://arxiv.org/abs/2402.13228) （**2024.02.20**）
+[**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**](https://arxiv.org/abs/2403.13258) （**2024.03.20**）
 
-<font color="gray">Arka Pal, Deep Karkhanis, Samuel Dooley, Manley Roberts, Siddartha Naidu, etc </font>
-
-![](https://img.shields.io/badge/Citations-0-green)
-
----
-
-[**PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**](https://doi.org/10.48550/arXiv.2402.07872) （**2024.02.12**）
-
-<font color="gray">Soroush Nasiriany, Fei Xia, Wenhao Yu, Ted Xiao, Jacky Liang, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)
-
----
-
-[**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**](https://doi.org/10.48550/arXiv.2402.05935) （**2024.02.08**）
-
-<font color="gray">Peng Gao, Renrui Zhang, Chris Liu, Longtian Qiu, Siyuan Huang, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)
-
----
-
-[**EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models**](https://doi.org/10.48550/arXiv.2402.05868) （**2024.02.08**）
-
-<font color="gray">Guo Lin, Wenyue Hua, Yongfeng Zhang .  - 【arXiv.org】</font>
+<font color="gray">Xian Lin, Yangyang Xiang, Zhehao Wang, Kwang-Ting Cheng, Zengqiang Yan, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
-[**Large Language Model Meets Graph Neural Network in Knowledge Distillation**](https://doi.org/10.48550/arXiv.2402.05894) （**2024.02.08**）
+[**AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models**](https://arxiv.org/abs/2403.13269) （**2024.03.20**）
 
-<font color="gray">Shengxiang Hu, Guobing Zou, Song Yang, Yanglan Gan, Bofeng Zhang, etc .  - 【arXiv.org】</font>
+<font color="gray">Zeyu Liu, Souvik Kundu, Anni Li, Junrui Wan, Lianghao Jiang, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt**](https://arxiv.org/abs/2403.09857) （**2024.03.14**）
+
+<font color="gray">Chenxi Liu, Zhenyi Wang, Tianyi Xiong, Ruibo Chen, Yihan Wu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+[**Unveiling the Generalization Power of Fine-Tuned Large Language Models**](https://arxiv.org/abs/2403.09162) （**2024.03.14**）
+
+<font color="gray">Haoran Yang, Yumeng Zhang, Jiaqi Xu, Hongyuan Lu, P. Heng, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**](https://arxiv.org/abs/2403.06978) （**2024.03.11**）
+
+<font color="gray">W. G. C. Bandara, Vishal M. Patel </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**](https://arxiv.org/abs/2403.06098) （**2024.03.10**）
+
+<font color="gray">Wenhao Wang, Yi Yang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Localized Zeroth-Order Prompt Optimization**](https://arxiv.org/abs/2403.02993) （**2024.03.05**）
+
+<font color="gray">Wenyang Hu, Yao Shu, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**RIFF: Learning to Rephrase Inputs for Few-shot Fine-tuning of Language Models**](https://arxiv.org/abs/2403.02271) （**2024.03.04**）
+
+<font color="gray">Saeed Najafi, Alona Fyshe </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization**](https://arxiv.org/abs/2402.18447) （**2024.02.28**）
+
+<font color="gray">Deng Li, Aming Wu, Yaowei Wang, Yahong Han </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Meta-Task Prompting Elicits Embedding from Large Language Models**](https://arxiv.org/abs/2402.18458) （**2024.02.28**）
+
+<font color="gray">Yibin Lei, Di Wu, Tianyi Zhou, Tao Shen, Yu Cao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**GISTEmbed: Guided In-sample Selection of Training Negatives for Text Embedding Fine-tuning**](https://doi.org/10.48550/arXiv.2402.16829) （**2024.02.26**）
+
+<font color="gray">Aivin V. Solatorio .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/avsolatorio/gistembed)
+
+---
+
+[**OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)**](https://doi.org/10.48550/arXiv.2402.16810) （**2024.02.26**）
+
+<font color="gray">Fujian Jia, Xin Liu, Lixi Deng, Jiwen Gu, Chunchao Pu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Stepwise Self-Consistent Mathematical Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2402.17786) （**2024.02.24**）
+
+<font color="gray">Zilong Zhao, Yao Rong, Dongyang Guo, Emek Gözlüklü, Emir Gülboy, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Double-I Watermark: Protecting Model Copyright for LLM Fine-tuning**](https://doi.org/10.48550/arXiv.2402.14883) （**2024.02.22**）
+
+<font color="gray">Shen Li, Liuyi Yao, Jinyang Gao, Lan Zhang, Yaliang Li .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs**](https://doi.org/10.48550/arXiv.2402.14872) （**2024.02.21**）
+
+<font color="gray">Xiaoxia Li, Siyuan Liang, Jiyi Zhang, Hansheng Fang, Aishan Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding**](https://doi.org/10.48550/arXiv.2402.11889) （**2024.02.19**）
+
+<font color="gray">Qihuang Zhong, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Self-Discover: Large Language Models Self-Compose Reasoning Structures**](https://doi.org/10.48550/arXiv.2402.03620) （**2024.02.06**）
+
+<font color="gray">Pei Zhou, J. Pujara, Xiang Ren, Xinyun Chen, Heng-Tze Cheng, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-5-green)
+
+---
+
+[**Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**](https://doi.org/10.48550/arXiv.2401.12954) （**2024.01.23**）
+
+<font color="gray">Mirac Suzgun, A. Kalai .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-8-green)
+
+---
+
+[**Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**](https://doi.org/10.48550/arXiv.2401.04398) （**2024.01.09**）
+
+<font color="gray">Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
+[**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**](https://doi.org/10.48550/arXiv.2311.04205) （**2023.11.07**）
+
+<font color="gray">Yihe Deng, Weitong Zhang, Zixiang Chen, Quanquan Gu .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-19-green)
 
 ---
 
@@ -66,14 +186,6 @@
 <font color="gray">S. Dhuliawala, M. Komeili, Jing Xu, Roberta Raileanu, Xian Li, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-704-blue)](https://github.com/lastmile-ai/aiconfig/tree/main/cookbooks/Chain-of-Verification)
-
----
-
-[**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**](https://doi.org/10.48550/arXiv.2308.11131) （**2023.08.22**）
-
-<font color="gray">Jianghao Lin, Rongjie Shan, Chenxu Zhu, Kounianhua Du, Bo Chen, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-1-green)
 
 ---
 
@@ -106,14 +218,6 @@
 <font color="gray">Zheng Yuan, Hongyi Yuan, Cheng Li, Guanting Dong, Chuanqi Tan, etc .  - 【arXiv.org】</font>
 
 ![](https://img.shields.io/badge/Citations-11-green)  [![](https://img.shields.io/badge/Github%20Stars-134-blue)](https://github.com/ofa-sys/gsm8k-screl)
-
----
-
-[**AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?**](https://doi.org/10.48550/arXiv.2307.16368) （**2023.07.31**）
-
-<font color="gray">Qipeng Zhao, Ce Zhang, Shijie Wang, Changcheng Fu, Nakul Agarwal, etc .  - 【arXiv.org】</font>
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -173,6 +277,14 @@
 
 ---
 
+[**AutoPlan: Automatic Planning of Interactive Decision-Making Tasks With Large Language Models**](https://doi.org/10.18653/v1/2023.findings-emnlp.205) （**2023.05.24**）
+
+<font color="gray">Siqi Ouyang, Lei Li .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**OverPrompt: Enhancing ChatGPT Capabilities through an Efficient In-Context Learning Approach**](https://arxiv.org/abs/2305.14973) （**2023.05.24**）
 
 <font color="gray">Jiazheng Li, Runcong Zhao, Yulan He, Lin Gui </font>
@@ -210,6 +322,14 @@
 <font color="gray">Sohee Yang, Jonghyeon Kim, Joel Jang, Seonghyeon Ye, Hyunji Lee, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+[**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**](https://arxiv.org/abs/2305.14795) （**2023.05.24**）
+
+<font color="gray">Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)  [![](https://img.shields.io/badge/Github%20Stars-62-blue)](https://github.com/princeton-nlp/mquake)
 
 ---
 
@@ -361,7 +481,7 @@
 
 <font color="gray">Zemin Liu, Xingtong Yu, Yuan Fang, Xinming Zhang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-112-blue)](https://github.com/Starlien95/GraphPrompt)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-114-blue)](https://github.com/Starlien95/GraphPrompt)
 
 ---
 

@@ -5,6 +5,54 @@
 <div style="line-height:0.2em;">
 
 
+[**ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**](https://arxiv.org/abs/2403.05266) （**2024.03.08**）
+
+<font color="gray">Jio Oh, Soyeon Kim, Junseok Seo, Jindong Wang, Ruochen Xu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/dilab-kaist/erbench)
+
+---
+
+[**Benchmarking the Text-to-SQL Capability of Large Language Models: A Comprehensive Evaluation**](https://arxiv.org/abs/2403.02951) （**2024.03.05**）
+
+<font color="gray">Bin Zhang, Yuxiao Ye, Guoqing Du, Xiaoru Hu, Zhishuai Li, etc </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Beyond Specialization: Assessing the Capabilities of MLLMs in Age and Gender Estimation**](https://arxiv.org/abs/2403.02302) （**2024.03.04**）
+
+<font color="gray">Maksim Kuprashevich, Grigorii Alekseenko, Irina Tolstykh </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**](https://arxiv.org/abs/2402.18409) （**2024.02.28**）
+
+<font color="gray">Xiujie Song, Mengyue Wu, Ke Zhu, Chunhao Zhang, Yanyi Chen </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://doi.org/10.48550/arXiv.2402.17753) （**2024.02.27**）
+
+<font color="gray">A. Maharana, Dong-Ho Lee, S. Tulyakov, Mohit Bansal, Francesco Barbieri, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs**](https://doi.org/10.48550/arXiv.2402.14872) （**2024.02.21**）
+
+<font color="gray">Xiaoxia Li, Siyuan Liang, Jiyi Zhang, Hansheng Fang, Aishan Liu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization**](https://arxiv.org/abs/2402.13249) （**2024.02.20**）
 
 <font color="gray">Liyan Tang, Igor Shalyminov, Amy Wing-mei Wong, Jon Burnsky, Jake W. Vincent, etc </font>
@@ -369,7 +417,7 @@
 
 <font color="gray">Sina J. Semnani, Violet Z. Yao, Heidi C. Zhang, M. Lam </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-22-red)
 
 ---
 
@@ -717,19 +765,19 @@
 
 ---
 
-[**Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models**](https://arxiv.org/abs/2305.12759) （**2023.05.22**）
-
-<font color="gray">Hao Wang, Hirofumi Shimizu, Daisuke Kawahara </font>
-
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/nlp-waseda/kanbun-lm)
-
----
-
 [**SEAHORSE: A Multilingual, Multifaceted Dataset for Summarization Evaluation**](https://arxiv.org/abs/2305.13194) （**2023.05.22**）
 
 <font color="gray">Elizabeth Clark, Shruti Rijhwani, Sebastian Gehrmann, Joshua Maynez, Roee Aharoni, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+
+---
+
+[**Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models**](https://arxiv.org/abs/2305.12759) （**2023.05.22**）
+
+<font color="gray">Hao Wang, Hirofumi Shimizu, Daisuke Kawahara </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/nlp-waseda/kanbun-lm)
 
 ---
 
@@ -961,7 +1009,7 @@
 
 <font color="gray">Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, John Kernion, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-181-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
+![](https://img.shields.io/badge/Citations-21-green)  [![](https://img.shields.io/badge/Github%20Stars-188-blue)](https://github.com/anthropics/constitutionalharmlessnesspaper)
 
 ---
 
@@ -993,7 +1041,7 @@
 
 <font color="gray">Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-40-green)  [![](https://img.shields.io/badge/Github%20Stars-1.5k-blue)](https://github.com/stanford-crfm/helm)
+![](https://img.shields.io/badge/Citations-40-green)  [![](https://img.shields.io/badge/Github%20Stars-1.6k-blue)](https://github.com/stanford-crfm/helm)
 
 ---
 

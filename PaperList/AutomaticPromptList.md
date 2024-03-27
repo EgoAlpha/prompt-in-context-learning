@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning**](https://arxiv.org/abs/2403.03677) （**2024.03.06**）
+
+<font color="gray">Shaoyu Yang, Xiang Chen, Ke Liu, Guang Yang, Chi Yu </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts**](https://doi.org/10.48550/arXiv.2402.16822) （**2024.02.26**）
+
+<font color="gray">Mikayel Samvelyan, S. Raparthy, Andrei Lupu, Eric Hambro, Aram H. Markosyan, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)**](https://doi.org/10.48550/arXiv.2402.16810) （**2024.02.26**）
+
+<font color="gray">Fujian Jia, Xin Liu, Lixi Deng, Jiwen Gu, Chunchao Pu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**](https://arxiv.org/abs/2402.13228) （**2024.02.20**）
 
 <font color="gray">Arka Pal, Deep Karkhanis, Samuel Dooley, Manley Roberts, Siddartha Naidu, etc </font>
@@ -17,7 +41,7 @@
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-135-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-165-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -49,7 +73,7 @@
 
 <font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-352-blue)](https://github.com/HKUDS/GraphGPT)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-385-blue)](https://github.com/HKUDS/GraphGPT)
 
 ---
 
@@ -98,6 +122,22 @@
 <font color="gray">Xingchen Wan, Ruoxi Sun, Hootan Nakhost, Hanjun Dai, Julian Martin Eisenschlos, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+
+---
+
+[**PromptClass: Weakly-Supervised Text Classification with Prompting Enhanced Noise-Robust Self-Training**](https://arxiv.org/abs/2305.13723) （**2023.05.23**）
+
+<font color="gray">Yunyi Zhang, Minhao Jiang, Yu Meng, Yu Zhang, Jiawei Han </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+
+---
+
+[**PaD: Program-aided Distillation Specializes Large Models in Reasoning**](https://arxiv.org/abs/2305.13888) （**2023.05.23**）
+
+<font color="gray">Xuekai Zhu, Biqing Qi, Kaiyan Zhang, Xingwei Long, Bowen Zhou </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
 
 ---
 

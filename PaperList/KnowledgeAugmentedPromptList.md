@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**Retrieval-Augmented Generation for AI-Generated Content: A Survey**](https://arxiv.org/abs/2402.19473) （**2024.02.29**）
+
+<font color="gray">Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models**](https://arxiv.org/abs/2402.18374) （**2024.02.28**）
+
+<font color="gray">Seoyeon Kim, Kwangwook Seo, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**LLM Augmented LLMs: Expanding Capabilities through Composition**](https://doi.org/10.48550/arXiv.2401.02412) （**2024.01.04**）
 
 <font color="gray">Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, etc .  - 【arXiv.org】</font>
@@ -17,7 +33,7 @@
 
 <font color="gray">Jon Saad-Falcon, O. Khattab, Christopher Potts, Matei Zaharia .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-183-blue)](https://github.com/stanford-futuredata/ares)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-237-blue)](https://github.com/stanford-futuredata/ares)
 
 ---
 
@@ -81,7 +97,7 @@
 
 <font color="gray">Fangyuan Xu, Weijia Shi, Eunsol Choi .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/carriex/recomp)
+![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-36-blue)](https://github.com/carriex/recomp)
 
 ---
 
@@ -361,7 +377,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-600-blue)](https://github.com/zjunlp/promptkg)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-614-blue)](https://github.com/zjunlp/promptkg)
 
 ---
 
@@ -401,7 +417,7 @@
 
 <font color="gray">Jiacheng Liu, Alisa Liu, Ximing Lu, S. Welleck, Peter West, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-226-red)  [![](https://img.shields.io/badge/Github%20Stars-79-blue)](https://github.com/liujch1998/gkp)
+![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-227-red)  [![](https://img.shields.io/badge/Github%20Stars-80-blue)](https://github.com/liujch1998/gkp)
 
 ---
 
