@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.3.27]**
+  - 🔥🔥🔥[Stability AI open-sources 3B code generation model: it's patchable, and it can Debug](https://huggingface.co/stabilityai/stable-code-instruct-3b)
+  - 🔥🔥🔥[Suno, the "AI Songwriter", is a hit in the music industry.](https://www.techradar.com/computing/artificial-intelligence/what-is-suno-ai)
+  - Paper: [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473)
+  
+- **[2024.3.26]**
+  - Paper: [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
+  - Paper: [Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy](https://arxiv.org/abs/2403.16956)
+  - Paper: [Multi-Agent Optimization for Safety Analysis of Cyber-Physical Systems: Position Paper](https://arxiv.org/abs/2403.16904)
+
+- **[2024.3.25]**
+  - Paper: [DreamLIP: Language-Image Pre-training with Long Captions](https://arxiv.org/abs/2403.17007)
+  - Paper: [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models](https://arxiv.org/abs/2403.16999)
+  - Paper: [Comp4D: LLM-Guided Compositional 4D Scene Generation](https://arxiv.org/abs/2403.16993)
+
 - **[2024.3.24]**
   - 🔥🔥🔥Paper: [SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models](https://arxiv.org/abs/2403.13263)
   - Paper: [Enhancing Code Generation Performance of Smaller Models by Distilling the Reasoning Ability of LLMs](https://arxiv.org/abs/2403.13271)
