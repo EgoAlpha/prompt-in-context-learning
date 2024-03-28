@@ -1,6 +1,6 @@
 # 💥 History News
 
-## 2023
+## 2024
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
@@ -368,6 +368,8 @@
 
 **[2024.1.1]**
 - Paper:[Generative AI for Math: Part I MATHPILE: A Billion-Token-Scale Pretraining Corpus for Math](https://arxiv.org/pdf/2312.17120.pdf)
+
+## 2023
 
 **[2023.12.31]**
 - [Hugging Face Year in Review: 2023, The Year of Open Source LLMs](https://huggingface.co/blog/2023-in-llms)
