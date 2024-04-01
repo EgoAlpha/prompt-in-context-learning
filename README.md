@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.1]**
+  - Paper: [LUQ: Long-text Uncertainty Quantification for LLMs](https://arxiv.org/abs/2403.20279)
+  - Paper: [ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models](https://arxiv.org/abs/2403.20262)
+  - Paper: [ChatGPT v.s. Media Bias: A Comparative Study of GPT-3.5 and Fine-tuned Language Models](https://arxiv.org/abs/2403.20158)
+
+- **[2024.3.31]**
+  - Paper: [MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)
+  - Paper: [Convolutional Prompting meets Language Models for Continual Learning](https://arxiv.org/abs/2403.20317)
+  - Paper: [Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference](https://arxiv.org/abs/2403.20306)
+
+- **[2024.3.30]**
+  - Paper: [Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/abs/2403.20331)
+  - Paper: [ReALM: Reference Resolution As Language Modeling](https://arxiv.org/abs/2403.20329)
+  - Paper: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/abs/2403.20327)
+
 - **[2024.3.29]**
   - Paper: [RSMamba: Remote Sensing Image Classification with State Space Model](https://arxiv.org/abs/2403.19654)
   - Paper: [Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning](https://arxiv.org/abs/2403.19646)
