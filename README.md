@@ -99,6 +99,16 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.7]**
+  - Paper: [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)
+  - Paper: [nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States](https://arxiv.org/abs/2404.03361)
+  - Paper: [Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers](https://arxiv.org/abs/2404.03192)
+
+- **[2024.4.6]**
+  - Paper: [Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought](https://arxiv.org/abs/2404.03414)
+  - Paper: [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/abs/2404.03413)
+  - Paper: [Scaling Up Video Summarization Pretraining with Large Language Models](https://arxiv.org/abs/2404.03398)
+
 - **[2024.4.5]**
   - Paper:[Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602)
   - Paper:[Laser Learning Environment: A new environment for coordination-critical multi-agent tasks](https://arxiv.org/abs/2404.03596)
