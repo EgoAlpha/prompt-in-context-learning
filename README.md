@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.12]**
+  - Paper: [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
+  - Paper: [Generating consistent PDDL domains with Large Language Models](https://arxiv.org/abs/2404.07751)
+  - Paper: [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738)
+
+- **[2024.4.11]**
+  - Paper: [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947)
+  - Paper: [InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models](https://arxiv.org/abs/2404.07940)
+  - Paper: [High-Dimension Human Value Representation in Large Language Models](https://arxiv.org/abs/2404.07900)
+
+- **[2024.4.10]**
+  - Paper: [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
+  - Paper: [EduAgent: Generative Student Agents in Learning](https://arxiv.org/abs/2404.07963)
+  - Paper: [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](https://arxiv.org/abs/2404.07960)
+
 - **[2024.4.9]**
   - Paper: [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719)
   - Paper: [MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation](https://arxiv.org/abs/2404.05674)
