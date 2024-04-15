@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.15]**
+  - Paper: [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](https://arxiv.org/abs/2404.06910)
+  - Paper: [BRAVE: Broadening the visual encoding of vision-language models](https://arxiv.org/abs/2404.07204)
+  - Paper: [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](https://arxiv.org/abs/2404.07108)
+
+- **[2024.4.14]**
+  - Paper: [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947)
+  - Paper: [ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling](https://arxiv.org/abs/2404.07031)
+  - Paper: [MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models](https://arxiv.org/abs/2404.06948)
+
+- **[2024.4.13]**
+  - Paper: [OpenBias: Open-set Bias Detection in Text-to-Image Generative Models](https://arxiv.org/abs/2404.07990)
+  - Paper: [Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding](https://arxiv.org/abs/2404.07989)
+  - Paper: [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
+
 - **[2024.4.12]**
   - Paper: [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
   - Paper: [Generating consistent PDDL domains with Large Language Models](https://arxiv.org/abs/2404.07751)
