@@ -99,11 +99,19 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.22]**
+  - Paper: [Unified Scene Representation and Reconstruction for 3D Large Language Models](https://arxiv.org/abs/2404.13044)
+  - Paper: [Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs](https://arxiv.org/abs/2404.13033)
+  - Paper: [Stronger Random Baselines for In-Context Learning](https://arxiv.org/abs/2404.13020)
+
 - **[2024.4.21]**
   - Paper: [When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes](https://arxiv.org/abs/2404.12365)
+  - Paper: [Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs](https://arxiv.org/abs/2404.12994)
+  - Paper: [Private Agent-Based Modeling](https://arxiv.org/abs/2404.12983)
 
 - **[2024.4.20]**
   - 🔥🔥🔥[Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
+  - Paper: [Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction](https://arxiv.org/abs/2404.12957)
 
 - **[2024.4.19]**
   - Paper: [V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](https://arxiv.org/abs/2404.12353)
