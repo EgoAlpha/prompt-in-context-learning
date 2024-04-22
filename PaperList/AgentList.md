@@ -5,6 +5,62 @@
 <div style="line-height:0.2em;">
 
 
+[**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**](https://arxiv.org/abs/2404.07972) （**2024.04.11**）
+
+<font color="gray">Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models**](https://arxiv.org/abs/2404.07738) （**2024.04.11**）
+
+<font color="gray">Jinheon Baek, S. Jauhar, Silviu Cucerzan, Sung Ju Hwang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**](https://arxiv.org/abs/2404.03596) （**2024.04.04**）
+
+<font color="gray">Yannick Molinghen, Raphael Avalos, Mark Van Achter, A. Nowé, Tom Lenaerts </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**](https://arxiv.org/abs/2404.03648) （**2024.04.04**）
+
+<font color="gray">Hanyu Lai, Xiao Liu, Iat Long Iong, Shuntian Yao, Yuxuan Chen, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise**](https://arxiv.org/abs/2404.04285) （**2024.04.03**）
+
+<font color="gray">Chunyuan Deng, Xiangru Tang, Yilun Zhao, Hanming Wang, Haoran Wang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models**](https://doi.org/10.48550/arXiv.2403.20262) （**2024.03.29**）
+
+<font color="gray">Thibaut Thonet, Jos Rozen, Laurent Besacier .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**](https://doi.org/10.48550/arXiv.2403.19646) （**2024.03.28**）
+
+<font color="gray">Chenyang Liu, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy**](https://arxiv.org/abs/2403.16956) （**2024.03.25**）
 
 <font color="gray">R. S. Hallyburton, Miroslav Pajic </font>
@@ -16,6 +72,22 @@
 [**AIOS: LLM Agent Operating System**](https://arxiv.org/abs/2403.16971) （**2024.03.25**）
 
 <font color="gray">Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**EduAgent: Generative Student Agents in Learning**](https://arxiv.org/abs/2404.07963) （**2024.03.23**）
+
+<font color="gray">Songlin Xu, Xinyu Zhang, Lianhui Qin </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)**](https://arxiv.org/abs/2404.07960) （**2024.03.22**）
+
+<font color="gray">Kaiqi Yang, Yucheng Chu, Taylor Darwin, Ahreum Han, Hang Li, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation**](https://arxiv.org/abs/2404.06910) （**2024.04.10**）
+
+<font color="gray">Thomas Merth, Qichen Fu, Mohammad Rastegari, Mahyar Najibi </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**](https://arxiv.org/abs/2404.03577) （**2024.04.04**）
+
+<font color="gray">Yan-Tie Liu, Zijun Yao, Xin Lv, Yuchen Fan, S. Cao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**](https://arxiv.org/abs/2404.03623) （**2024.04.04**）
+
+<font color="gray">Marco Bronzini, Carlo Nicolini, Bruno Lepri, Jacopo Staiano, Andrea Passerini </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Retrieval-Augmented Generation for AI-Generated Content: A Survey**](https://arxiv.org/abs/2402.19473) （**2024.02.29**）
 
 <font color="gray">Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, etc </font>

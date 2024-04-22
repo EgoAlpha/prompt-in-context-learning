@@ -5,6 +5,118 @@
 <div style="line-height:0.2em;">
 
 
+[**Manipulating Large Language Models to Increase Product Visibility**](https://arxiv.org/abs/2404.07981) （**2024.04.11**）
+
+<font color="gray">Aounon Kumar, Himabindu Lakkaraju </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Generating consistent PDDL domains with Large Language Models**](https://arxiv.org/abs/2404.07751) （**2024.04.11**）
+
+<font color="gray">Pavel Smirnov, F. Joublin, A. Ceravola, Michael Gienger </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**High-Dimension Human Value Representation in Large Language Models**](https://arxiv.org/abs/2404.07900) （**2024.04.11**）
+
+<font color="gray">Samuel Cahyawijaya, Delong Chen, Yejin Bang, Leila Khalatbari, Bryan Wilie, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models**](https://arxiv.org/abs/2404.06948) （**2024.04.10**）
+
+<font color="gray">Rahul Mehta, Andrew Hoblitzell, Jack O'Keefe, Hyeju Jang, Vasudeva Varma </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**](https://arxiv.org/abs/2404.07108) （**2024.04.10**）
+
+<font color="gray">Yongqiang Ma, Lizhi Qin, Jiawei Liu, Yangyang Kang, Yue Zhang, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding**](https://arxiv.org/abs/2404.05225) （**2024.04.08**）
+
+<font color="gray">Chuwei Luo, Yufan Shen, Zhaoqing Zhu, Qi Zheng, Zhi Yu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models**](https://arxiv.org/abs/2404.05291) （**2024.04.08**）
+
+<font color="gray">Yutao Ouyang, Jinhan Li, Yunfei Li, Zhongyu Li, Chao Yu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Topic-based Watermarks for LLM-Generated Text**](https://arxiv.org/abs/2404.02138) （**2024.04.02**）
+
+<font color="gray">Alexander Nemecek, Yuzhou Jiang, Erman Ayday </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**](https://arxiv.org/abs/2404.02151) （**2024.04.02**）
+
+<font color="gray">Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**](https://doi.org/10.48550/arXiv.2403.20306) （**2024.03.29**）
+
+<font color="gray">Jovan Stojkovic, Esha Choukse, Chaojie Zhang, Íñigo Goiri, Josep Torrellas .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**LUQ: Long-text Uncertainty Quantification for LLMs**](https://doi.org/10.48550/arXiv.2403.20279) （**2024.03.29**）
+
+<font color="gray">Caiqi Zhang, Fangyu Liu, Marco Basaldella, Nigel Collier .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Gecko: Versatile Text Embeddings Distilled from Large Language Models**](https://doi.org/10.48550/arXiv.2403.20327) （**2024.03.29**）
+
+<font color="gray">Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models**](https://doi.org/10.48550/arXiv.2403.19548) （**2024.03.28**）
+
+<font color="gray">Piotr Molenda, Adian Liusie, Mark J. F. Gales .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model**](https://doi.org/10.48550/arXiv.2403.18760) （**2024.03.27**）
+
+<font color="gray">Yike Wu, Jiatao Zhang, Nan Hu, LanLing Tang, Guilin Qi, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Comp4D: LLM-Guided Compositional 4D Scene Generation**](https://arxiv.org/abs/2403.16993) （**2024.03.25**）
 
 <font color="gray">Dejia Xu, Hanwen Liang, N. Bhatt, Hezhen Hu, Hanxue Liang, etc </font>
@@ -40,6 +152,14 @@
 [**Towards Robots That Know When They Need Help: Affordance-Based Uncertainty for Large Language Model Planners**](https://arxiv.org/abs/2403.13198) （**2024.03.19**）
 
 <font color="gray">James F. Mullen, Dinesh Manocha </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference**](https://arxiv.org/abs/2404.07947) （**2024.03.15**）
+
+<font color="gray">Hyungjun Oh, Kihong Kim, Jaemin Kim, Sungkyun Kim, Junyeol Lee, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -88,6 +208,14 @@
 [**Big City Bias: Evaluating the Impact of Metropolitan Size on Computational Job Market Abilities of Language Models**](https://arxiv.org/abs/2403.08046) （**2024.03.12**）
 
 <font color="gray">Charlie Campanella, R. Goot .  - 【NLP4HR】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models**](https://arxiv.org/abs/2404.07940) （**2024.03.11**）
+
+<font color="gray">Linyi Li, Shijie Geng, Zhenwen Li, Yibo He, Hao Yu, etc </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)
 

@@ -117,133 +117,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
   - Paper: [V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](https://arxiv.org/abs/2404.12353)
   - Paper: [Point-In-Context: Understanding Point Cloud via In-Context Learning](https://arxiv.org/abs/2404.12352)
   - Paper: [Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training Models](https://arxiv.org/abs/2404.12139)
-
-- **[2024.4.18]**
-  - Paper: [Quantifying Multilingual Performance of Large Language Models Across Languages](https://arxiv.org/abs/2404.11553)
-  - Paper: [Moving Object Segmentation: All You Need Is SAM (and Flow)](https://arxiv.org/abs/2404.12389)
-  - Paper: [When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes](https://arxiv.org/abs/2404.12365)
-
-- **[2024.4.17]**
-  - Paper: [Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding](https://arxiv.org/abs/2404.11589)
-  - Survey Paper: [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
-  - Paper: [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/abs/2404.11581)
-
-- **[2024.4.16]**
-  - Paper: [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://arxiv.org/abs/2404.09992)
-  - Paper: [Memory Sharing for Large Language Model based Agents](https://arxiv.org/abs/2404.09982)
-  - Paper: [LLMorpheus: Mutation Testing using Large Language Models](https://arxiv.org/abs/2404.09952)
-
-
-- **[2024.4.15]**
-  - Paper: [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](https://arxiv.org/abs/2404.06910)
-  - Paper: [BRAVE: Broadening the visual encoding of vision-language models](https://arxiv.org/abs/2404.07204)
-  - Paper: [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](https://arxiv.org/abs/2404.07108)
-
-- **[2024.4.14]**
-  - Paper: [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947)
-  - Paper: [ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling](https://arxiv.org/abs/2404.07031)
-  - Paper: [MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models](https://arxiv.org/abs/2404.06948)
-
-- **[2024.4.13]**
-  - Paper: [OpenBias: Open-set Bias Detection in Text-to-Image Generative Models](https://arxiv.org/abs/2404.07990)
-  - Paper: [Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding](https://arxiv.org/abs/2404.07989)
-  - Paper: [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
-
-- **[2024.4.12]**
-  - Paper: [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
-  - Paper: [Generating consistent PDDL domains with Large Language Models](https://arxiv.org/abs/2404.07751)
-  - Paper: [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738)
-
-- **[2024.4.11]**
-  - Paper: [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947)
-  - Paper: [InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models](https://arxiv.org/abs/2404.07940)
-  - Paper: [High-Dimension Human Value Representation in Large Language Models](https://arxiv.org/abs/2404.07900)
-
-- **[2024.4.10]**
-  - Paper: [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
-  - Paper: [EduAgent: Generative Student Agents in Learning](https://arxiv.org/abs/2404.07963)
-  - Paper: [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](https://arxiv.org/abs/2404.07960)
-
-- **[2024.4.9]**
-  - Paper: [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719)
-  - Paper: [MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation](https://arxiv.org/abs/2404.05674)
-  - Paper: [MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise](https://arxiv.org/abs/2404.04285)
-
-- **[2024.4.8]**
-  - Paper: [Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models](https://arxiv.org/abs/2404.05291)
-  - Paper: [LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding](https://arxiv.org/abs/2404.05225)
-  - Paper: [DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model](https://arxiv.org/abs/2404.05182)
-
-- **[2024.4.7]**
-  - Paper: [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)
-  - Paper: [nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States](https://arxiv.org/abs/2404.03361)
-  - Paper: [Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers](https://arxiv.org/abs/2404.03192)
-
-- **[2024.4.6]**
-  - Paper: [Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought](https://arxiv.org/abs/2404.03414)
-  - Paper: [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/abs/2404.03413)
-  - Paper: [Scaling Up Video Summarization Pretraining with Large Language Models](https://arxiv.org/abs/2404.03398)
-
-- **[2024.4.5]**
-  - Paper:[Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602)
-  - Paper:[Laser Learning Environment: A new environment for coordination-critical multi-agent tasks](https://arxiv.org/abs/2404.03596)
-  - Paper:[Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](https://arxiv.org/abs/2404.03577)
-
-- **[2024.4.4]**
-  - Paper:[AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648)
-  - Paper:[Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph](https://arxiv.org/abs/2404.03623)
-  - Paper:[Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2404.03622)
-
-- **[2024.4.3]**
-  - Paper: [Topic-based Watermarks for LLM-Generated Text](https://arxiv.org/abs/2404.02138)
-  - Paper: [ViTamin: Designing Scalable Vision Models in the Vision-Language Era](https://arxiv.org/abs/2404.02132)
-  - Paper: [Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners](https://arxiv.org/abs/2404.02117)
-
-- **[2024.4.2]**
-  - Paper: [Segment Any 3D Object with Language](https://arxiv.org/abs/2404.02157)
-  - Paper: [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151)
-  - Paper: [Iterated Learning Improves Compositionality in Large Vision-Language Models](https://arxiv.org/abs/2404.02145)
-
-- **[2024.4.1]**
-  - Paper: [LUQ: Long-text Uncertainty Quantification for LLMs](https://arxiv.org/abs/2403.20279)
-  - Paper: [ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models](https://arxiv.org/abs/2403.20262)
-  - Paper: [ChatGPT v.s. Media Bias: A Comparative Study of GPT-3.5 and Fine-tuned Language Models](https://arxiv.org/abs/2403.20158)
-
-- **[2024.3.31]**
-  - Paper: [MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)
-  - Paper: [Convolutional Prompting meets Language Models for Continual Learning](https://arxiv.org/abs/2403.20317)
-  - Paper: [Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference](https://arxiv.org/abs/2403.20306)
-
-- **[2024.3.30]**
-  - Paper: [Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/abs/2403.20331)
-  - Paper: [ReALM: Reference Resolution As Language Modeling](https://arxiv.org/abs/2403.20329)
-  - Paper: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/abs/2403.20327)
-
-- **[2024.3.29]**
-  - Paper: [RSMamba: Remote Sensing Image Classification with State Space Model](https://arxiv.org/abs/2403.19654)
-  - Paper: [Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning](https://arxiv.org/abs/2403.19646)
-  - Paper: [WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models](https://arxiv.org/abs/2403.19548)
-
-- **[2024.3.28]**
-  - Paper: [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://arxiv.org/abs/2403.18814)
-  - Paper: [3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation](https://arxiv.org/abs/2403.18778)
-  - Paper: [MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model](https://arxiv.org/abs/2403.18760)
-
-- **[2024.3.27]**
-  - 🔥🔥🔥[Stability AI open-sources 3B code generation model: it's patchable, and it can Debug](https://huggingface.co/stabilityai/stable-code-instruct-3b)
-  - 🔥🔥🔥[Suno, the "AI Songwriter", is a hit in the music industry.](https://www.techradar.com/computing/artificial-intelligence/what-is-suno-ai)
-  - Paper: [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473)
   
-- **[2024.3.26]**
-  - Paper: [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
-  - Paper: [Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy](https://arxiv.org/abs/2403.16956)
-  - Paper: [Multi-Agent Optimization for Safety Analysis of Cyber-Physical Systems: Position Paper](https://arxiv.org/abs/2403.16904)
-
-- **[2024.3.25]**
-  - Paper: [DreamLIP: Language-Image Pre-training with Long Captions](https://arxiv.org/abs/2403.17007)
-  - Paper: [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models](https://arxiv.org/abs/2403.16999)
-  - Paper: [Comp4D: LLM-Guided Compositional 4D Scene Generation](https://arxiv.org/abs/2403.16993)
-
 [👉 Complete history news 👈](./historynews.md)
 
 <img width="200%" src="./figures/hr.gif" />
@@ -316,6 +190,14 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model**](https://arxiv.org/abs/2404.05182) （**2024.04.08**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**](https://doi.org/10.48550/arXiv.2403.18778) （**2024.03.27**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**](https://arxiv.org/abs/2403.13258) （**2024.03.20**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -348,14 +230,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization**](https://arxiv.org/abs/2402.18447) （**2024.02.28**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Meta-Task Prompting Elicits Embedding from Large Language Models**](https://arxiv.org/abs/2402.18458) （**2024.02.28**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 
 </div>
 
@@ -366,6 +240,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States**](https://arxiv.org/abs/2404.03361) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought**](https://arxiv.org/abs/2404.03414) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
 
@@ -392,18 +278,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ![](https://img.shields.io/badge/Citations-0-green)
 
 [**Chain-of-Thought Reasoning Without Prompting**](https://doi.org/10.48550/arXiv.2402.10200) （**2024.02.15**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**](https://doi.org/10.48550/arXiv.2401.04398) （**2024.01.09**）
-
-![](https://img.shields.io/badge/Citations-3-green)
-
-[**A Logically Consistent Chain-of-Thought Approach for Stance Detection**](https://arxiv.org/abs/2312.16054) （**2023.12.26**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Assessing the Impact of Prompting, Persona, and Chain of Thought Methods on ChatGPT's Arithmetic Capabilities**](https://arxiv.org/abs/2312.15006) （**2023.12.22**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -470,6 +344,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation**](https://arxiv.org/abs/2404.06910) （**2024.04.10**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**](https://arxiv.org/abs/2404.03577) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**](https://arxiv.org/abs/2404.03623) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Retrieval-Augmented Generation for AI-Generated Content: A Survey**](https://arxiv.org/abs/2402.19473) （**2024.02.29**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -498,18 +384,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/mosheber/token_elimination)
 
-[**Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**](https://doi.org/10.48550/arXiv.2310.11511) （**2023.10.17**）
-
-![](https://img.shields.io/badge/Citations-13-green)
-
-[**Retrieve Anything To Augment Large Language Models**](https://doi.org/10.48550/arXiv.2310.07554) （**2023.10.11**）
-
-![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-3.6k-blue)](https://github.com/flagopen/flagembedding)
-
-[**Self-Knowledge Guided Retrieval Augmentation for Large Language Models**](https://doi.org/10.48550/arXiv.2310.05002) （**2023.10.08**）
-
-![](https://img.shields.io/badge/Citations-3-green)
-
 
 </div>
 
@@ -521,6 +395,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <div style="line-height:0.2em;">
 
 
+
+[**Evaluating LLMs at Detecting Errors in LLM Responses**](https://arxiv.org/abs/2404.03602) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers**](https://arxiv.org/abs/2404.03192) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**](https://doi.org/10.48550/arXiv.2403.20331) （**2024.03.29**）
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 [**ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**](https://arxiv.org/abs/2403.05266) （**2024.03.08**）
 
@@ -550,18 +436,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**](https://doi.org/10.48550/arXiv.2402.05863) （**2024.02.08**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**Can Large Language Models Understand Context?**](https://doi.org/10.48550/arXiv.2402.00858) （**2024.02.01**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**Evaluating Large Language Models for Generalization and Robustness via Data Compression**](https://doi.org/10.48550/arXiv.2402.00861) （**2024.02.01**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
 
 </div>
 
@@ -573,6 +447,34 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**](https://arxiv.org/abs/2404.07972) （**2024.04.11**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models**](https://arxiv.org/abs/2404.07738) （**2024.04.11**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**](https://arxiv.org/abs/2404.03596) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**](https://arxiv.org/abs/2404.03648) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise**](https://arxiv.org/abs/2404.04285) （**2024.04.03**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models**](https://doi.org/10.48550/arXiv.2403.20262) （**2024.03.29**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis**](https://doi.org/10.48550/arXiv.2403.19646) （**2024.03.28**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
 [**Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy**](https://arxiv.org/abs/2403.16956) （**2024.03.25**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -581,35 +483,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training**](https://arxiv.org/abs/2403.14589) （**2024.03.21**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**](https://arxiv.org/abs/2403.10517) （**2024.03.15**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents**](https://arxiv.org/abs/2403.08715) （**2024.03.13**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**](https://arxiv.org/abs/2403.06397) （**2024.03.11**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following**](https://arxiv.org/abs/2403.03017) （**2024.03.05**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study**](https://arxiv.org/abs/2403.03186) （**2024.03.05**）
-
-![](https://img.shields.io/badge/Citations-2-green)
-
-[**Learning to Use Tools via Cooperative and Interactive Agents**](https://arxiv.org/abs/2403.03031) （**2024.03.05**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**](https://arxiv.org/abs/2403.03101) （**2024.03.05**）
+[**EduAgent: Generative Student Agents in Learning**](https://arxiv.org/abs/2404.07963) （**2024.03.23**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -624,43 +498,43 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-[**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
+[**BRAVE: Broadening the visual encoding of vision-language models**](https://arxiv.org/abs/2404.07204) （**2024.04.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning**](https://arxiv.org/abs/2403.14616) （**2024.03.21**）
+[**ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling**](https://arxiv.org/abs/2404.07031) （**2024.04.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**MyVLM: Personalizing VLMs for User-Specific Queries**](https://arxiv.org/abs/2403.14599) （**2024.03.21**）
+[**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**](https://arxiv.org/abs/2404.05674) （**2024.04.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**](https://arxiv.org/abs/2403.14624) （**2024.03.21**）
+[**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**](https://arxiv.org/abs/2404.05719) （**2024.04.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**](https://arxiv.org/abs/2403.14598) （**2024.03.21**）
+[**MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens**](https://arxiv.org/abs/2404.03413) （**2024.04.04**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models**](https://arxiv.org/abs/2403.13263) （**2024.03.20**）
+[**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**](https://arxiv.org/abs/2404.02132) （**2024.04.02**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**](https://arxiv.org/abs/2403.09037) （**2024.03.14**）
+[**Segment Any 3D Object with Language**](https://arxiv.org/abs/2404.02157) （**2024.04.02**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**3D-VLA: A 3D Vision-Language-Action Generative World Model**](https://arxiv.org/abs/2403.09631) （**2024.03.14**）
+[**Iterated Learning Improves Compositionality in Large Vision-Language Models**](https://arxiv.org/abs/2404.02145) （**2024.04.02**）
 
 ![](https://img.shields.io/badge/Citations-1-green)
 
-[**UniCode: Learning a Unified Codebook for Multimodal Large Language Models**](https://arxiv.org/abs/2403.09072) （**2024.03.14**）
+[**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**](https://doi.org/10.48550/arXiv.2403.18814) （**2024.03.27**）
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-3-green)
 
-[**DeepSeek-VL: Towards Real-World Vision-Language Understanding**](https://arxiv.org/abs/2403.05525) （**2024.03.08**）
+[**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -675,43 +549,43 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-[**Comp4D: LLM-Guided Compositional 4D Scene Generation**](https://arxiv.org/abs/2403.16993) （**2024.03.25**）
+[**Manipulating Large Language Models to Increase Product Visibility**](https://arxiv.org/abs/2404.07981) （**2024.04.11**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**](https://arxiv.org/abs/2403.14624) （**2024.03.21**）
+[**Generating consistent PDDL domains with Large Language Models**](https://arxiv.org/abs/2404.07751) （**2024.04.11**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Enhancing Code Generation Performance of Smaller Models by Distilling the Reasoning Ability of LLMs**](https://arxiv.org/abs/2403.13271) （**2024.03.20**）
+[**High-Dimension Human Value Representation in Large Language Models**](https://arxiv.org/abs/2404.07900) （**2024.04.11**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model**](https://arxiv.org/abs/2403.13244) （**2024.03.20**）
+[**MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models**](https://arxiv.org/abs/2404.06948) （**2024.04.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Towards Robots That Know When They Need Help: Affordance-Based Uncertainty for Large Language Model Planners**](https://arxiv.org/abs/2403.13198) （**2024.03.19**）
+[**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**](https://arxiv.org/abs/2404.07108) （**2024.04.10**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning**](https://arxiv.org/abs/2403.09028) （**2024.03.14**）
-
-![](https://img.shields.io/badge/Citations-1-green)
-
-[**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**](https://arxiv.org/abs/2403.09636) （**2024.03.14**）
+[**LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding**](https://arxiv.org/abs/2404.05225) （**2024.04.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Towards Proactive Interactions for In-Vehicle Conversational Assistants Utilizing Large Language Models**](https://arxiv.org/abs/2403.09135) （**2024.03.14**）
+[**Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models**](https://arxiv.org/abs/2404.05291) （**2024.04.08**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Simple and Scalable Strategies to Continually Pre-train Large Language Models**](https://arxiv.org/abs/2403.08763) （**2024.03.13**）
+[**Topic-based Watermarks for LLM-Generated Text**](https://arxiv.org/abs/2404.02138) （**2024.04.02**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**LG-Traj: LLM Guided Pedestrian Trajectory Prediction**](https://arxiv.org/abs/2403.08032) （**2024.03.12**）
+[**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**](https://arxiv.org/abs/2404.02151) （**2024.04.02**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**](https://doi.org/10.48550/arXiv.2403.20306) （**2024.03.29**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -726,6 +600,34 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
+[**RecurrentGemma: Moving Past Transformers for Efficient Open Language Models**](https://arxiv.org/abs/2404.07839) （**2024.04.11**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**](https://arxiv.org/abs/2404.07990) （**2024.04.11**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Scaling Up Video Summarization Pretraining with Large Language Models**](https://arxiv.org/abs/2404.03398) （**2024.04.04**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners**](https://arxiv.org/abs/2404.02117) （**2024.04.02**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**](https://doi.org/10.48550/arXiv.2403.20320) （**2024.03.29**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**ReALM: Reference Resolution As Language Modeling**](https://doi.org/10.48550/arXiv.2403.20329) （**2024.03.29**）
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+[**RSMamba: Remote Sensing Image Classification with State Space Model**](https://doi.org/10.48550/arXiv.2403.19654) （**2024.03.28**）
+
+![](https://img.shields.io/badge/Citations-3-green)
+
 [**DreamLIP: Language-Image Pre-training with Long Captions**](https://arxiv.org/abs/2403.17007) （**2024.03.25**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
@@ -737,34 +639,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 [**VideoMamba: State Space Model for Efficient Video Understanding**](https://arxiv.org/abs/2403.06977) （**2024.03.11**）
 
 ![](https://img.shields.io/badge/Citations-1-green)
-
-[**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**](https://arxiv.org/abs/2403.03900) （**2024.03.06**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**](https://arxiv.org/abs/2402.19427) （**2024.02.29**）
-
-![](https://img.shields.io/badge/Citations-4-green)
-
-[**LeMo-NADe: Multi-Parameter Neural Architecture Discovery with LLMs**](https://arxiv.org/abs/2402.18443) （**2024.02.28**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**LoRA-SP: Streamlined Partial Parameter Adaptation for Resource-Efficient Fine-Tuning of Large Language Models**](https://arxiv.org/abs/2403.08822) （**2024.02.28**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**GISTEmbed: Guided In-sample Selection of Training Negatives for Text Embedding Fine-tuning**](https://doi.org/10.48550/arXiv.2402.16829) （**2024.02.26**）
-
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-15-blue)](https://github.com/avsolatorio/gistembed)
-
-[**Set the Clock: Temporal Alignment of Pretrained Language Models**](https://doi.org/10.48550/arXiv.2402.16797) （**2024.02.26**）
-
-![](https://img.shields.io/badge/Citations-0-green)
-
-[**Generative Pretrained Hierarchical Transformer for Time Series Forecasting**](https://arxiv.org/abs/2402.16516) （**2024.02.26**）
-
-![](https://img.shields.io/badge/Citations-0-green)
 
 
 </div>

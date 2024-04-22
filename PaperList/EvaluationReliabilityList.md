@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**Evaluating LLMs at Detecting Errors in LLM Responses**](https://arxiv.org/abs/2404.03602) （**2024.04.04**）
+
+<font color="gray">Ryo Kamoi, Sarkar Snigdha Sarathi Das, Renze Lou, Jihyun Janice Ahn, Yilun Zhao, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers**](https://arxiv.org/abs/2404.03192) （**2024.04.04**）
+
+<font color="gray">Yuan Wang, Xuyang Wu, Hsin-Tai Wu, Zhiqiang Tao, Yi Fang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**](https://doi.org/10.48550/arXiv.2403.20331) （**2024.03.29**）
+
+<font color="gray">Atsuyuki Miyai, Jingkang Yang, Jingyang Zhang, Yifei Ming, Qing Yu, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**](https://arxiv.org/abs/2403.05266) （**2024.03.08**）
 
 <font color="gray">Jio Oh, Soyeon Kim, Junseok Seo, Jindong Wang, Ruochen Xu, etc </font>

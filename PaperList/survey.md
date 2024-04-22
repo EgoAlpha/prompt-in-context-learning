@@ -125,6 +125,14 @@
 
 ---
 
+[**ChatGPT v.s. Media Bias: A Comparative Study of GPT-3.5 and Fine-tuned Language Models**](https://doi.org/10.54254/2755-2721/21/20231153) （**2023.10.23**）
+
+<font color="gray">Zehao Wen, Rabih Younes .  - 【Applied and Computational Engineering】</font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
 [**Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference**](https://doi.org/10.48550/arXiv.2310.03184) （**2023.10.04**）
 
 <font color="gray">Zachary Levonian, Chenglu Li, Wangda Zhu, Anoushka Gade, Owen Henkel, etc .  - 【arXiv.org】</font>

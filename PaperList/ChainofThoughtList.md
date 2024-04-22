@@ -5,6 +5,30 @@
 <div style="line-height:0.2em;">
 
 
+[**nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States**](https://arxiv.org/abs/2404.03361) （**2024.04.04**）
+
+<font color="gray">Nicolay Rusnachenko, Huizhi Liang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622) （**2024.04.04**）
+
+<font color="gray">Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought**](https://arxiv.org/abs/2404.03414) （**2024.04.04**）
+
+<font color="gray">Jooyoung Lee, Fan Yang, Thanh Tran, Qian Hu, Emre Barut, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
 
 <font color="gray">Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, etc </font>

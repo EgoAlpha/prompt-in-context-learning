@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model**](https://arxiv.org/abs/2404.05182) （**2024.04.08**）
+
+<font color="gray">Chao Gao, Sai Qian Zhang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**](https://doi.org/10.48550/arXiv.2403.18778) （**2024.03.27**）
+
+<font color="gray">Ehsan Latif .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**](https://arxiv.org/abs/2403.13258) （**2024.03.20**）
 
 <font color="gray">Xian Lin, Yangyang Xiang, Zhehao Wang, Kwang-Ting Cheng, Zengqiang Yan, etc </font>

@@ -5,6 +5,22 @@
 <div style="line-height:0.2em;">
 
 
+[**DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model**](https://arxiv.org/abs/2404.05182) （**2024.04.08**）
+
+<font color="gray">Chao Gao, Sai Qian Zhang </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Convolutional Prompting meets Language Models for Continual Learning**](https://doi.org/10.48550/arXiv.2403.20317) （**2024.03.29**）
+
+<font color="gray">Anurag Roy, Riddhiman Moulick, Vinay K. Verma, Saptarshi Ghosh, Abir Das .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning**](https://arxiv.org/abs/2403.03677) （**2024.03.06**）
 
 <font color="gray">Shaoyu Yang, Xiang Chen, Ke Liu, Guang Yang, Chi Yu </font>

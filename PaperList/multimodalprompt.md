@@ -5,6 +5,78 @@
 <div style="line-height:0.2em;">
 
 
+[**BRAVE: Broadening the visual encoding of vision-language models**](https://arxiv.org/abs/2404.07204) （**2024.04.10**）
+
+<font color="gray">Ouguzhan Fatih Kar, A. Tonioni, Petra Poklukar, Achin Kulshrestha, Amir Zamir, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling**](https://arxiv.org/abs/2404.07031) （**2024.04.10**）
+
+<font color="gray">Ege Ozsoy, Chantal Pellegrini, Matthias Keicher, Nassir Navab </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**](https://arxiv.org/abs/2404.05674) （**2024.04.08**）
+
+<font color="gray">Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, A. Elgammal, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**](https://arxiv.org/abs/2404.05719) （**2024.04.08**）
+
+<font color="gray">Keen You, Haotian Zhang, E. Schoop, Floris Weers, Amanda Swearngin, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens**](https://arxiv.org/abs/2404.03413) （**2024.04.04**）
+
+<font color="gray">Kirolos Ataallah, Xiaoqian Shen, Eslam Abdelrahman, Essam Sleiman, Deyao Zhu, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**](https://arxiv.org/abs/2404.02132) （**2024.04.02**）
+
+<font color="gray">Jienneg Chen, Qihang Yu, Xiaohui Shen, Alan Yuille, Liang-Chieh Chen </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Segment Any 3D Object with Language**](https://arxiv.org/abs/2404.02157) （**2024.04.02**）
+
+<font color="gray">Seungjun Lee, Yuyang Zhao, Gim Hee Lee </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Iterated Learning Improves Compositionality in Large Vision-Language Models**](https://arxiv.org/abs/2404.02145) （**2024.04.02**）
+
+<font color="gray">Chenhao Zheng, Jieyu Zhang, Aniruddha Kembhavi, Ranjay Krishna </font>
+
+![](https://img.shields.io/badge/Citations-1-green)
+
+---
+
+[**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**](https://doi.org/10.48550/arXiv.2403.18814) （**2024.03.27**）
+
+<font color="gray">Yanwei Li, Yuechen Zhang, Chengyao Wang, Zhisheng Zhong, Yixin Chen, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
 [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/abs/2403.16999) （**2024.03.25**）
 
 <font color="gray">Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, etc </font>

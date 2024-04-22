@@ -4,6 +4,136 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2024.4.22]**
+- Paper: [Unified Scene Representation and Reconstruction for 3D Large Language Models](https://arxiv.org/abs/2404.13044)
+- Paper: [Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs](https://arxiv.org/abs/2404.13033)
+- Paper: [Stronger Random Baselines for In-Context Learning](https://arxiv.org/abs/2404.13020)
+
+**[2024.4.21]**
+- Paper: [When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes](https://arxiv.org/abs/2404.12365)
+- Paper: [Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs](https://arxiv.org/abs/2404.12994)
+- Paper: [Private Agent-Based Modeling](https://arxiv.org/abs/2404.12983)
+
+**[2024.4.20]**
+- 🔥🔥🔥[Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
+- Paper: [Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction](https://arxiv.org/abs/2404.12957)
+
+**[2024.4.19]**
+- Paper: [V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning](https://arxiv.org/abs/2404.12353)
+- Paper: [Point-In-Context: Understanding Point Cloud via In-Context Learning](https://arxiv.org/abs/2404.12352)
+- Paper: [Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training Models](https://arxiv.org/abs/2404.12139)
+
+**[2024.4.18]**
+- Paper: [Quantifying Multilingual Performance of Large Language Models Across Languages](https://arxiv.org/abs/2404.11553)
+- Paper: [Moving Object Segmentation: All You Need Is SAM (and Flow)](https://arxiv.org/abs/2404.12389)
+- Paper: [When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes](https://arxiv.org/abs/2404.12365)
+
+**[2024.4.17]**
+- Paper: [Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding](https://arxiv.org/abs/2404.11589)
+- Survey Paper: [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
+- Paper: [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/abs/2404.11581)
+
+**[2024.4.16]**
+- Paper: [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://arxiv.org/abs/2404.09992)
+- Paper: [Memory Sharing for Large Language Model based Agents](https://arxiv.org/abs/2404.09982)
+- Paper: [LLMorpheus: Mutation Testing using Large Language Models](https://arxiv.org/abs/2404.09952)
+
+
+**[2024.4.15]**
+- Paper: [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](https://arxiv.org/abs/2404.06910)
+- Paper: [BRAVE: Broadening the visual encoding of vision-language models](https://arxiv.org/abs/2404.07204)
+- Paper: [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](https://arxiv.org/abs/2404.07108)
+
+**[2024.4.14]**
+- Paper: [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947)
+- Paper: [ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling](https://arxiv.org/abs/2404.07031)
+- Paper: [MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models](https://arxiv.org/abs/2404.06948)
+
+**[2024.4.13]**
+- Paper: [OpenBias: Open-set Bias Detection in Text-to-Image Generative Models](https://arxiv.org/abs/2404.07990)
+- Paper: [Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding](https://arxiv.org/abs/2404.07989)
+- Paper: [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
+
+**[2024.4.12]**
+- Paper: [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
+- Paper: [Generating consistent PDDL domains with Large Language Models](https://arxiv.org/abs/2404.07751)
+- Paper: [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738)
+
+**[2024.4.11]**
+- Paper: [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/abs/2404.07947)
+- Paper: [InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models](https://arxiv.org/abs/2404.07940)
+- Paper: [High-Dimension Human Value Representation in Large Language Models](https://arxiv.org/abs/2404.07900)
+
+**[2024.4.10]**
+- Paper: [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
+- Paper: [EduAgent: Generative Student Agents in Learning](https://arxiv.org/abs/2404.07963)
+- Paper: [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](https://arxiv.org/abs/2404.07960)
+
+**[2024.4.9]**
+- Paper: [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719)
+- Paper: [MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation](https://arxiv.org/abs/2404.05674)
+- Paper: [MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise](https://arxiv.org/abs/2404.04285)
+
+**[2024.4.8]**
+- Paper: [Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models](https://arxiv.org/abs/2404.05291)
+- Paper: [LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding](https://arxiv.org/abs/2404.05225)
+- Paper: [DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model](https://arxiv.org/abs/2404.05182)
+
+**[2024.4.7]**
+- Paper: [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)
+- Paper: [nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States](https://arxiv.org/abs/2404.03361)
+- Paper: [Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers](https://arxiv.org/abs/2404.03192)
+
+**[2024.4.6]**
+- Paper: [Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought](https://arxiv.org/abs/2404.03414)
+- Paper: [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/abs/2404.03413)
+- Paper: [Scaling Up Video Summarization Pretraining with Large Language Models](https://arxiv.org/abs/2404.03398)
+
+**[2024.4.5]**
+- Paper:[Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602)
+- Paper:[Laser Learning Environment: A new environment for coordination-critical multi-agent tasks](https://arxiv.org/abs/2404.03596)
+- Paper:[Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](https://arxiv.org/abs/2404.03577)
+
+**[2024.4.4]**
+- Paper:[AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648)
+- Paper:[Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph](https://arxiv.org/abs/2404.03623)
+- Paper:[Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2404.03622)
+
+**[2024.4.3]**
+- Paper: [Topic-based Watermarks for LLM-Generated Text](https://arxiv.org/abs/2404.02138)
+- Paper: [ViTamin: Designing Scalable Vision Models in the Vision-Language Era](https://arxiv.org/abs/2404.02132)
+- Paper: [Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners](https://arxiv.org/abs/2404.02117)
+
+**[2024.4.2]**
+- Paper: [Segment Any 3D Object with Language](https://arxiv.org/abs/2404.02157)
+- Paper: [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151)
+- Paper: [Iterated Learning Improves Compositionality in Large Vision-Language Models](https://arxiv.org/abs/2404.02145)
+
+**[2024.4.1]**
+- Paper: [LUQ: Long-text Uncertainty Quantification for LLMs](https://arxiv.org/abs/2403.20279)
+- Paper: [ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models](https://arxiv.org/abs/2403.20262)
+- Paper: [ChatGPT v.s. Media Bias: A Comparative Study of GPT-3.5 and Fine-tuned Language Models](https://arxiv.org/abs/2403.20158)
+
+**[2024.3.31]**
+- Paper: [MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)
+- Paper: [Convolutional Prompting meets Language Models for Continual Learning](https://arxiv.org/abs/2403.20317)
+- Paper: [Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference](https://arxiv.org/abs/2403.20306)
+
+**[2024.3.30]**
+- Paper: [Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/abs/2403.20331)
+- Paper: [ReALM: Reference Resolution As Language Modeling](https://arxiv.org/abs/2403.20329)
+- Paper: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/abs/2403.20327)
+
+**[2024.3.29]**
+- Paper: [RSMamba: Remote Sensing Image Classification with State Space Model](https://arxiv.org/abs/2403.19654)
+- Paper: [Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning](https://arxiv.org/abs/2403.19646)
+- Paper: [WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models](https://arxiv.org/abs/2403.19548)
+
+**[2024.3.28]**
+- Paper: [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://arxiv.org/abs/2403.18814)
+- Paper: [3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation](https://arxiv.org/abs/2403.18778)
+- Paper: [MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model](https://arxiv.org/abs/2403.18760)
+  
 **[2024.3.27]**
 - 🔥🔥🔥[Stability AI open-sources 3B code generation model: it's patchable, and it can Debug](https://huggingface.co/stabilityai/stable-code-instruct-3b)
 - 🔥🔥🔥[Suno, the "AI Songwriter", is a hit in the music industry.](https://www.techradar.com/computing/artificial-intelligence/what-is-suno-ai)

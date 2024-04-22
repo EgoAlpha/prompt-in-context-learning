@@ -5,6 +5,62 @@
 <div style="line-height:0.2em;">
 
 
+[**RecurrentGemma: Moving Past Transformers for Efficient Open Language Models**](https://arxiv.org/abs/2404.07839) （**2024.04.11**）
+
+<font color="gray">Aleksandar Botev, Soham De, Samuel L Smith, Anushan Fernando, George Muraru, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**](https://arxiv.org/abs/2404.07990) （**2024.04.11**）
+
+<font color="gray">Moreno D'Incà, E. Peruzzo, Massimiliano Mancini, Dejia Xu, Vidit Goel, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Scaling Up Video Summarization Pretraining with Large Language Models**](https://arxiv.org/abs/2404.03398) （**2024.04.04**）
+
+<font color="gray">Dawit Mureja Argaw, Seunghyun Yoon, Fabian Caba Heilbron, Hanieh Deilamsalehy, Trung Bui, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners**](https://arxiv.org/abs/2404.02117) （**2024.04.02**）
+
+<font color="gray">Keon-Hee Park, Kyungwoo Song, Gyeong-Moon Park </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**](https://doi.org/10.48550/arXiv.2403.20320) （**2024.03.29**）
+
+<font color="gray">Ahmed A. Agiza, Marina Neseem, S. Reda .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**ReALM: Reference Resolution As Language Modeling**](https://doi.org/10.48550/arXiv.2403.20329) （**2024.03.29**）
+
+<font color="gray">Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf, Halim Cagri Ates, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
+[**RSMamba: Remote Sensing Image Classification with State Space Model**](https://doi.org/10.48550/arXiv.2403.19654) （**2024.03.28**）
+
+<font color="gray">Keyan Chen, Bo-Ying Chen, Chenyang Liu, Wenyuan Li, Zhengxia Zou, etc .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-3-green)
+
+---
+
 [**DreamLIP: Language-Image Pre-training with Long Captions**](https://arxiv.org/abs/2403.17007) （**2024.03.25**）
 
 <font color="gray">Kecheng Zheng, Yifei Zhang, Wei Wu, Fan Lu, Shuailei Ma, etc </font>
