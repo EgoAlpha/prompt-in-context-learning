@@ -99,6 +99,20 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.25]**
+  - Paper: [Cantor: Inspiring Multimodal Chain-of-Thought of MLLM](https://arxiv.org/abs/2404.16033)
+  - Paper: [The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)
+  - Paper: [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/abs/2404.16006)
+
+- **[2024.4.24]**
+  - Survey Paper: [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
+  - Paper: [Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach](https://arxiv.org/abs/2404.15993)
+  - Paper: [Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation](https://arxiv.org/abs/2404.15845)
+
+- **[2024.4.23]**
+  - Paper: [Re-Thinking Inverse Graphics With Large Language Models](https://arxiv.org/abs/2404.15228)
+  - Paper: [Does Instruction Tuning Make LLMs More Consistent?](https://arxiv.org/abs/2404.15206)
+
 - **[2024.4.22]**
   - Paper: [Unified Scene Representation and Reconstruction for 3D Large Language Models](https://arxiv.org/abs/2404.13044)
   - Paper: [Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs](https://arxiv.org/abs/2404.13033)
