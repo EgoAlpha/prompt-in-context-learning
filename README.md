@@ -99,6 +99,16 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.4.27]**
+  - Paper: [AAPL: Adding Attributes to Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2404.16804)
+  - Paper: [SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension](https://arxiv.org/abs/2404.16790)
+  - Paper: [Cooperate or Collapse: Emergence of Sustainability Behaviors in a Society of LLM Agents](https://arxiv.org/abs/2404.16698)
+
+- **[2024.4.26]**
+  - Paper: [IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages](https://arxiv.org/abs/2404.16816)
+  - Paper: [Make Your LLM Fully Utilize the Context](https://arxiv.org/abs/2404.16811)
+  - Paper: [Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning](https://arxiv.org/abs/2404.16807)
+
 - **[2024.4.25]**
   - Paper: [Cantor: Inspiring Multimodal Chain-of-Thought of MLLM](https://arxiv.org/abs/2404.16033)
   - Paper: [The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)
