@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.2]**
+  - Paper: [When Quantization Affects Confidence of Large Language Models?](https://arxiv.org/abs/2405.00632)
+  - Paper: [Causal Evaluation of Language Models](https://arxiv.org/abs/2405.00622)
+  - Paper: [Investigating Automatic Scoring and Feedback using Large Language Models](https://arxiv.org/abs/2405.00602)
+
+- **[2024.5.1]**
+  - Paper: [Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.00675)
+  - Paper: [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3](https://arxiv.org/abs/2405.00664)
+  - Paper: [RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization](https://arxiv.org/abs/2405.00657)
+
+- **[2024.4.30]**
+  - Paper: [EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model](https://arxiv.org/abs/2405.00574)
+  - Paper: [NumLLM: Numeric-Sensitive Large Language Model for Chinese Finance](https://arxiv.org/abs/2405.00566)
+  - Paper: [Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning](https://arxiv.org/abs/2405.00516)
+
 - **[2024.4.29]**
   - [The "Chinese NVIDIA" thousand-card cluster is now in place.](https://jxj.beijing.gov.cn/zwgk/zcjd/202404/t20240425_3637629.html)
   - [XVERSE-V: Unconditionally commercial free, outperforms Claude 3 Sonnet](https://huggingface.co/xverse/XVERSE-V-13B)
