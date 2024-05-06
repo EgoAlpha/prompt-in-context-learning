@@ -99,6 +99,21 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.6]**
+  - Paper: [Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models](https://arxiv.org/abs/2405.02287)
+  - Paper: [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](https://arxiv.org/abs/2405.02266)
+  - Paper: [Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows](https://arxiv.org/abs/2405.02260)
+
+- **[2024.5.5]**
+  - Paper: [What matters when building vision-language models?](https://arxiv.org/abs/2405.02246)
+  - Paper: [REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs](https://arxiv.org/abs/2405.02228)
+  - Paper: [FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems](https://arxiv.org/abs/2405.02219)
+
+- **[2024.5.4]**
+  - Paper: [Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo](https://arxiv.org/abs/2405.02128)
+  - Paper: [Analyzing Narrative Processing in Large Language Models (LLMs): Using GPT4 to test BERT](https://arxiv.org/abs/2405.02024)
+  - Paper: [Auto-Encoding Morph-Tokens for Multimodal LLM](https://arxiv.org/abs/2405.01926)
+
 - **[2024.5.3]**
   - Paper: [Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models](https://arxiv.org/abs/2405.00402)
   - Paper: [CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models](https://arxiv.org/abs/2405.00390)
