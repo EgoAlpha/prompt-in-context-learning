@@ -102,7 +102,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 - **[2024.5.13]**
   - Paper: [Linearizing Large Language Models](https://arxiv.org/abs/2405.06640)
   - Paper: [Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark](https://arxiv.org/abs/2405.06634)
-  - Paper: []()
 
 - **[2024.5.12]**
   - Paper: [UniDM: A Unified Framework for Data Manipulation with Large Language Models](https://arxiv.org/abs/2405.06510)
