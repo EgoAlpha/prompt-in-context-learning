@@ -99,6 +99,16 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.15]**
+  - 🔥🔥🔥[Google strikes back: Project Astra goes head-to-head with GPT-4o, Veo fights Sora, and a new version of Gemini revolutionises search](https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/#creating-the-future)
+  - Paper: [Improving Transformers with Dynamically Composable Multi-Head Attention](https://arxiv.org/abs/2405.08553)
+  - Paper: [Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)
+
+- **[2024.5.14]**
+  - 🔥🔥🔥[OpenAI Turns the World Upside Down: GPT-4o is Completely Free, Real-Time Voice-Video Interaction Rocks the Room](https://openai.com/index/hello-gpt-4o/)
+  - Paper: [Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/abs/2405.08815)
+  - Paper: [Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research](https://arxiv.org/list/cs/recent?skip=0&show=446)
+
 - **[2024.5.13]**
   - Paper: [Linearizing Large Language Models](https://arxiv.org/abs/2405.06640)
   - Paper: [Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark](https://arxiv.org/abs/2405.06634)
