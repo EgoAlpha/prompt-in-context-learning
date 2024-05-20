@@ -99,6 +99,26 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.20]**
+  - Paper: [Libra: Building Decoupled Vision System on Large Language Models](https://arxiv.org/abs/2405.10140)
+  - Paper: [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://arxiv.org/abs/2405.10051)
+
+- **[2024.5.19]**
+  - Paper: [Revisiting OPRO: The Limitations of Small-Scale LLMs as Optimizers](https://arxiv.org/abs/2405.10276)
+  - Survey Paper: [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/abs/2405.10255)
+
+- **[2024.5.18]**
+  - Paper: [HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models](https://arxiv.org/abs/2405.10299)
+  - Paper: [Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning](https://arxiv.org/abs/2405.10292)
+
+- **[2024.5.17]**
+  - Paper: [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311)
+  - Paper: [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
+
+- **[2024.5.16]**
+  - Paper: [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317)
+  - Paper: [Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model](https://arxiv.org/abs/2405.10316)
+
 - **[2024.5.15]**
   - 🔥🔥🔥[Google strikes back: Project Astra goes head-to-head with GPT-4o, Veo fights Sora, and a new version of Gemini revolutionises search](https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/#creating-the-future)
   - Paper: [Improving Transformers with Dynamically Composable Multi-Head Attention](https://arxiv.org/abs/2405.08553)
