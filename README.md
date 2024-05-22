@@ -99,8 +99,19 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.22]**
+  - Paper: [MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning](https://arxiv.org/abs/2405.11446)【KDD2024】
+  - Paper: [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](https://arxiv.org/abs/2405.11466)【1st ACM International Conference on AI-powered Software (AIware), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE) 2024, Porto de Galinhas, Brazil. 】
+  - Paper: [Effective In-Context Example Selection through Data Compression](https://arxiv.org/abs/2405.11465)【ACL2024】
+
+- **[2024.5.21]**
+  - Paper: [Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion](https://arxiv.org/abs/2405.11464)
+  - Paper: [CPS-LLM: Large Language Model based Safe Usage Plan Generator for Human-in-the-Loop Human-in-the-Plant Cyber-Physical System](https://arxiv.org/abs/2405.11458)【AAAI2024】
+  - Paper:[DocReLM: Mastering Document Retrieval with Language Model](https://arxiv.org/abs/2405.11461)
+
 - **[2024.5.20]**
   - Paper: [Libra: Building Decoupled Vision System on Large Language Models](https://arxiv.org/abs/2405.10140)
+  - Paper: [Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement](https://arxiv.org/abs/2405.11478)【CVPR 2024 Workshop NTIRE: New Trends in Image Restoration and Enhancement workshop and Challenges】
   - Paper: [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://arxiv.org/abs/2405.10051)
 
 - **[2024.5.19]**
