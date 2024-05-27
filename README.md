@@ -99,6 +99,26 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.27]**
+  - Paper: [Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models](https://arxiv.org/abs/2405.14555)【ACL2024】
+  - Paper: [Exploring Alignment in Shared Cross-lingual Spaces](https://arxiv.org/list/cs/pastweek?skip=687&show=446)【ACL2024】
+
+- **[2024.5.26]**
+  - Paper: [ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models](https://arxiv.org/list/cs/recent?skip=0&show=446)
+  - Paper: [Disease-informed Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.15728)【MICCAI 2024】
+
+- **[2024.5.25]**
+  - Paper: [Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models](https://arxiv.org/abs/2405.15687)【ICME2024】
+  - Paper: [Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models](https://arxiv.org/abs/2405.15684)
+
+- **[2024.5.24]**
+  - Paper: [Neuromorphic dreaming: A pathway to efficient learning in artificial agents](https://arxiv.org/abs/2405.15616)
+  - Paper: [DAGER: Exact Gradient Inversion for Large Language Models](https://arxiv.org/abs/2405.15586)
+
+- **[2024.5.23]**
+  - Paper: [Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models](https://arxiv.org/abs/2405.15574)
+  - Paper: [When Generative AI Meets Workplace Learning: Creating A Realistic & Motivating Learning Experience With A Generative PCA](https://arxiv.org/list/cs/recent?skip=0&show=446)【ECIS2024】
+
 - **[2024.5.22]**
   - Paper: [MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning](https://arxiv.org/abs/2405.11446)【KDD2024】
   - Paper: [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](https://arxiv.org/abs/2405.11466)【1st ACM International Conference on AI-powered Software (AIware), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE) 2024, Porto de Galinhas, Brazil. 】
