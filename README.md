@@ -99,6 +99,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.5.30]**
+  - Paper: [Visualizing the loss landscape of Self-supervised Vision Transformer](https://arxiv.org/abs/2405.18042)【NIPS2024 workshop】
+  - Paper: [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/list/cs/pastweek?skip=687&show=446)【ACL2024】
+
+- **[2024.5.29]**
+  - Paper: [Cross-Context Backdoor Attacks against Graph Prompt Learning](https://arxiv.org/abs/2405.17984)【KDD2024】
+  - Paper: [Yuan 2.0-M32: Mixture of Experts with Attention Router](https://arxiv.org/abs/2405.17976)
+
+- **[2024.5.28]**
+  - Survey Paper: [Tool Learning with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935)
+  - Paper: [Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models](https://arxiv.org/abs/2405.17915)
+
 - **[2024.5.27]**
   - Paper: [Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models](https://arxiv.org/abs/2405.14555)【ACL2024】
   - Paper: [Exploring Alignment in Shared Cross-lingual Spaces](https://arxiv.org/list/cs/pastweek?skip=687&show=446)【ACL2024】
