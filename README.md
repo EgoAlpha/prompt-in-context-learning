@@ -99,6 +99,22 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.6.3]**
+  - Paper: [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075)
+  - Paper: [Graph External Attention Enhanced Transformer](https://arxiv.org/abs/2405.21061)【ICML2024】
+
+- **[2024.6.2]**
+  - Paper: [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)【ICML2024】
+  - Paper: [LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models](https://arxiv.org/abs/2405.21028)
+
+- **[2024.6.1]**
+  - Paper: [StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond](https://arxiv.org/abs/2405.21013)
+  - Paper: [DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models](https://arxiv.org/abs/2405.20985)
+
+- **[2024.5.31]**
+  - Paper: [Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training](https://arxiv.org/abs/2405.20978)
+  - Paper: [OR-Bench: An Over-Refusal Benchmark for Large Language Models](https://arxiv.org/abs/2405.20947)
+
 - **[2024.5.30]**
   - Paper: [Visualizing the loss landscape of Self-supervised Vision Transformer](https://arxiv.org/abs/2405.18042)【NIPS2024 workshop】
   - Paper: [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/list/cs/pastweek?skip=687&show=446)【ACL2024】
