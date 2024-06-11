@@ -99,6 +99,35 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.6.11]**
+  - Paper: [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/abs/2406.06525)
+  - Paper: [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)【ACL2024】
+
+- **[2024.6.10]**
+  - Survey Paper: [Towards a Personal Health Large Language Model](https://arxiv.org/abs/2406.06474)
+  - Technical Report: [Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning](https://arxiv.org/abs/2406.06469)
+
+- **[2024.6.9]**
+  - Paper: [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](https://arxiv.org/abs/2406.05132)
+  - Technical Report: [Towards Semantic Equivalence of Tokenization in Multimodal LLM](https://arxiv.org/abs/2406.05127)
+
+- **[2024.6.8]**
+  - Paper: [An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models](https://arxiv.org/abs/2406.05130)
+
+- **[2024.6.7]**
+  - Paper: [Language models emulate certain cognitive profiles: An investigation of how predictability measures interact with individual differences](https://arxiv.org/abs/2406.04988)【ACL2024】
+
+- **[2024.6.6]**
+  - Paper: [Verbalized Machine Learning: Revisiting Machine Learning with Language Models](https://arxiv.org/abs/2406.04344)
+  - Paper: [PaCE: Parsimonious Concept Engineering for Large Language Models](https://arxiv.org/abs/2406.04331)
+
+- **[2024.6.5]**
+  - Paper: [Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training](https://arxiv.org/abs/2406.03488)
+
+- **[2024.6.4]**
+  - Paper: [Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks](https://arxiv.org/abs/2406.02550)
+  - Paper: [Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning](https://arxiv.org/abs/2406.02547)
+
 - **[2024.6.3]**
   - Paper: [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075)
   - Paper: [Graph External Attention Enhanced Transformer](https://arxiv.org/abs/2405.21061)【ICML2024】
