@@ -99,6 +99,31 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.6.20]**
+  - Paper: [LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation](https://arxiv.org/abs/2406.12832)
+  - Paper: [From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](https://arxiv.org/abs/2406.12824)
+
+- **[2024.6.19]**
+  - Paper: [Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)
+  - Paper: [AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation](https://arxiv.org/abs/2406.12805)
+
+- **[2024.6.18]**
+  - Paper: [LLaNA: Large Language and NeRF Assistant](https://arxiv.org/abs/2406.11840)
+
+- **[2024.6.17]**
+  - Paper: [Unveiling Encoder-Free Vision-Language Models](https://arxiv.org/abs/2406.11832)
+  - Paper: [VideoLLM-online: Online Video Large Language Model for Streaming Video](https://arxiv.org/abs/2406.11816)
+
+- **[2024.6.16]**
+  - Paper: [RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content](https://arxiv.org/abs/2406.11811)
+
+- **[2024.6.15]**
+  - Paper: [VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models](https://arxiv.org/abs/2406.10228)
+  - Paper: [EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models](https://arxiv.org/abs/2406.10224)
+
+- **[2024.6.14]**
+  - Paper: [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/abs/2406.10216)
+
 - **[2024.6.13]**
   - Paper: [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/abs/2406.08487)
   - Paper: [Enhancing End-to-End Autonomous Driving with Latent World Model](https://arxiv.org/abs/2406.08481)
