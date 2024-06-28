@@ -99,6 +99,31 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.6.28]**
+  - Paper: [Dataset Size Recovery from LoRA Weights](https://arxiv.org/abs/2406.19395)
+
+- **[2024.6.27]**
+  - Paper: [OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding](https://arxiv.org/abs/2406.19389)
+
+- **[2024.6.26]**
+  - Paper: [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/abs/2406.19354)
+  - Paper: [PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation](https://arxiv.org/list/cs/recent?skip=422&show=446)
+
+- **[2024.6.25]**
+  - Paper: [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532)
+
+- **[2024.6.24]**
+  - Paper: [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/abs/2406.19384)
+
+- **[2024.6.23]**
+  - Paper: [Efficient World Models with Context-Aware Tokenization](https://arxiv.org/abs/2406.19320)
+
+- **[2024.6.22]**
+  - Paper: [Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models](https://arxiv.org/abs/2406.16866)
+
+- **[2024.6.21]**
+  - Paper: [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/abs/2406.16860)
+
 - **[2024.6.20]**
   - Paper: [LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation](https://arxiv.org/abs/2406.12832)
   - Paper: [From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](https://arxiv.org/abs/2406.12824)
