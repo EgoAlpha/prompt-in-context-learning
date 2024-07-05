@@ -41,7 +41,7 @@
 
 <font color="gray">Seoyeon Kim, Kwangwook Seo, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)  [![](https://img.shields.io/badge/Github%20Stars-3-blue)](https://github.com/emseoyk/verifiner)
 
 ---
 
@@ -49,7 +49,7 @@
 
 <font color="gray">Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-120-blue)](https://github.com/lucidrains/CALM-pytorch)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-145-blue)](https://github.com/lucidrains/CALM-pytorch)
 
 ---
 
@@ -57,7 +57,7 @@
 
 <font color="gray">Jon Saad-Falcon, O. Khattab, Christopher Potts, Matei Zaharia .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-237-blue)](https://github.com/stanford-futuredata/ares)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-368-blue)](https://github.com/stanford-futuredata/ares)
 
 ---
 
@@ -81,7 +81,7 @@
 
 <font color="gray">Moshe Berchansky, Peter Izsak, Avi Caciularu, Ido Dagan, Moshe Wasserblat .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/mosheber/token_elimination)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/mosheber/token_elimination)
 
 ---
 
@@ -97,7 +97,7 @@
 
 <font color="gray">Peitian Zhang, Shitao Xiao, Zheng Liu, Zhicheng Dou, Jian-Yun Nie .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-3.6k-blue)](https://github.com/flagopen/flagembedding)
+![](https://img.shields.io/badge/Citations-10-green)  [![](https://img.shields.io/badge/Github%20Stars-5.9k-blue)](https://github.com/flagopen/flagembedding)
 
 ---
 
@@ -121,7 +121,7 @@
 
 <font color="gray">Fangyuan Xu, Weijia Shi, Eunsol Choi .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-36-blue)](https://github.com/carriex/recomp)
+![](https://img.shields.io/badge/Citations-16-green)  [![](https://img.shields.io/badge/Github%20Stars-55-blue)](https://github.com/carriex/recomp)
 
 ---
 
@@ -153,7 +153,7 @@
 
 <font color="gray">Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-115-blue)](https://github.com/chen700564/RGB)
+![](https://img.shields.io/badge/Citations-8-green)  [![](https://img.shields.io/badge/Github%20Stars-220-blue)](https://github.com/chen700564/RGB)
 
 ---
 
@@ -177,7 +177,7 @@
 
 <font color="gray">Vaibhav Adlakha, Parishad BehnamGhader, Xing Han Lu, Nicholas Meade, Siva Reddy .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-17-green)  [![](https://img.shields.io/badge/Github%20Stars-60-blue)](https://github.com/mcgill-nlp/instruct-qa)
+![](https://img.shields.io/badge/Citations-17-green)  [![](https://img.shields.io/badge/Github%20Stars-72-blue)](https://github.com/mcgill-nlp/instruct-qa)
 
 ---
 
@@ -193,7 +193,7 @@
 
 <font color="gray">Kangxi Wu, Liang Pang, Huawei Shen, Xueqi Cheng, Tat-Seng Chua </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
 
 ---
 
@@ -217,7 +217,7 @@
 
 <font color="gray">Yucheng Cai, Hong Liu, Zhijian Ou, Y. Huang, Junlan Feng </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)  [![](https://img.shields.io/badge/Github%20Stars-1-blue)](https://github.com/thu-spmi/jsa-krtod)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/thu-spmi/jsa-krtod)
 
 ---
 
@@ -225,7 +225,7 @@
 
 <font color="gray">Shohei Yoda, Hayato Tsukagoshi, Ryohei Sasano, Koichi Takeda </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -249,7 +249,7 @@
 
 <font color="gray">Qian Chen, Wen Wang, Qinglin Zhang, Siqi Zheng, Chong Deng, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-75-blue)](https://github.com/alibaba-damo-academy/spokennlp)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-97-blue)](https://github.com/alibaba-damo-academy/spokennlp)
 
 ---
 
@@ -265,7 +265,7 @@
 
 <font color="gray">Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jingyuan Wang, J. Nie, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-9-blue)](https://github.com/rucaibox/uniweb)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-10-blue)](https://github.com/rucaibox/uniweb)
 
 ---
 
@@ -305,7 +305,7 @@
 
 <font color="gray">Daixuan Cheng, Shaohan Huang, Junyu Bi, Yu-Wei Zhan, Jianfeng Liu, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-3.0k-blue)](https://github.com/microsoft/lmops)
+![](https://img.shields.io/badge/Citations-20-green)  [![](https://img.shields.io/badge/Github%20Stars-3.4k-blue)](https://github.com/microsoft/lmops)
 
 ---
 
@@ -313,7 +313,7 @@
 
 <font color="gray">Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-534-blue)](https://github.com/intellabs/fastrag)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-1.1k-blue)](https://github.com/intellabs/fastrag)
 
 ---
 
@@ -361,7 +361,7 @@
 
 <font color="gray">Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou .  - 【International Conference on Learning Representations】</font>
 
-![](https://img.shields.io/badge/Citations-42-green)  [![](https://img.shields.io/badge/Github%20Stars-81-blue)](https://github.com/edward-sun/recite)
+![](https://img.shields.io/badge/Citations-42-green)  [![](https://img.shields.io/badge/Github%20Stars-87-blue)](https://github.com/edward-sun/recite)
 
 ---
 
@@ -369,7 +369,7 @@
 
 <font color="gray">W. Yu, Dan Iter, Shuohang Wang, Yichong Xu, Mingxuan Ju, etc .  - 【International Conference on Learning Representations】</font>
 
-![](https://img.shields.io/badge/Citations-144-green)  [![](https://img.shields.io/badge/Github%20Stars-255-blue)](https://github.com/wyu97/GenRead)
+![](https://img.shields.io/badge/Citations-144-green)  [![](https://img.shields.io/badge/Github%20Stars-272-blue)](https://github.com/wyu97/GenRead)
 
 ---
 
@@ -393,7 +393,7 @@
 
 <font color="gray">Xiaolei Wang, Kun Zhou, Ji-rong Wen, Wayne Xin Zhao .  - 【Knowledge Discovery and Data Mining】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-53-red)  [![](https://img.shields.io/badge/Github%20Stars-68-blue)](https://github.com/rucaibox/unicrs)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-59-red)  [![](https://img.shields.io/badge/Github%20Stars-71-blue)](https://github.com/rucaibox/unicrs)
 
 ---
 
@@ -401,7 +401,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-614-blue)](https://github.com/zjunlp/promptkg)
+![](https://img.shields.io/badge/Citations-7-green)  [![](https://img.shields.io/badge/Github%20Stars-660-blue)](https://github.com/zjunlp/promptkg)
 
 ---
 
@@ -409,7 +409,7 @@
 
 <font color="gray">Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, etc .  - 【Annual International ACM SIGIR Conference on Research and Development in Information Retrieval】</font>
 
-![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-34-red)  [![](https://img.shields.io/badge/Github%20Stars-600-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)
+![](https://img.shields.io/badge/Citations-4-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-35-red)  [![](https://img.shields.io/badge/Github%20Stars-660-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)
 
 ---
 
@@ -417,7 +417,7 @@
 
 <font color="gray">Xiaozhuan Liang, Ningyu Zhang, Ningyu Zhang, Siyuan Cheng, Zhen Bi, etc .  - 【Conference on Empirical Methods in Natural Language Processing】</font>
 
-![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-600-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
+![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-660-blue)](https://github.com/zjunlp/PromptKG/tree/main/research/Demo-Tuning)
 
 ---
 
@@ -441,7 +441,7 @@
 
 <font color="gray">Jiacheng Liu, Alisa Liu, Ximing Lu, S. Welleck, Peter West, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-227-red)  [![](https://img.shields.io/badge/Github%20Stars-80-blue)](https://github.com/liujch1998/gkp)
+![](https://img.shields.io/badge/Citations-37-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-249-red)  [![](https://img.shields.io/badge/Github%20Stars-84-blue)](https://github.com/liujch1998/gkp)
 
 ---
 
@@ -449,7 +449,7 @@
 
 <font color="gray">Shengding Hu, Ning Ding, Huadong Wang, Zhiyuan Liu, Juan-Zi Li, etc .  - 【Annual Meeting of the Association for Computational Linguistics】</font>
 
-![](https://img.shields.io/badge/Citations-95-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-266-red)  [![](https://img.shields.io/badge/Github%20Stars-196-blue)](https://github.com/thunlp/knowledgeableprompttuning)
+![](https://img.shields.io/badge/Citations-95-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-273-red)  [![](https://img.shields.io/badge/Github%20Stars-205-blue)](https://github.com/thunlp/knowledgeableprompttuning)
 
 ---
 

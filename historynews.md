@@ -4,6 +4,303 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2024.7.5]**
+- Paper: [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+
+**[2024.7.4]**
+- Paper: [Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks](https://arxiv.org/abs/2407.03280)
+
+**[2024.7.3]**
+- Paper: [TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts](https://arxiv.org/abs/2407.03203)
+
+**[2024.7.2]**
+- Technical Paper: [Motion meets Attention: Video Motion Prompts](https://arxiv.org/abs/2407.03179)
+
+**[2024.7.1]**
+- Paper: [Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs](https://arxiv.org/abs/2406.20098)
+
+**[2024.6.30]**
+- Paper: [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095)
+- Paper: [Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs](https://arxiv.org/abs/2406.20086)
+
+**[2024.6.29]**
+- Paper: [LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression](https://arxiv.org/abs/2406.20092)
+
+**[2024.6.28]**
+- Paper: [Dataset Size Recovery from LoRA Weights](https://arxiv.org/abs/2406.19395)
+
+**[2024.6.27]**
+- Paper: [OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding](https://arxiv.org/abs/2406.19389)
+
+**[2024.6.26]**
+- Paper: [Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?](https://arxiv.org/abs/2406.19354)
+- Paper: [PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation](https://arxiv.org/list/cs/recent?skip=422&show=446)
+
+**[2024.6.25]**
+- Paper: [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532)
+
+**[2024.6.24]**
+- Paper: [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/abs/2406.19384)
+
+**[2024.6.23]**
+- Paper: [Efficient World Models with Context-Aware Tokenization](https://arxiv.org/abs/2406.19320)
+
+**[2024.6.22]**
+- Paper: [Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models](https://arxiv.org/abs/2406.16866)
+
+**[2024.6.21]**
+- Paper: [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/abs/2406.16860)
+
+**[2024.6.20]**
+- Paper: [LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation](https://arxiv.org/abs/2406.12832)
+- Paper: [From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](https://arxiv.org/abs/2406.12824)
+
+**[2024.6.19]**
+- Paper: [Adversarial Attacks on Multimodal Agents](https://arxiv.org/abs/2406.12814)
+- Paper: [AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation](https://arxiv.org/abs/2406.12805)
+
+**[2024.6.18]**
+- Paper: [LLaNA: Large Language and NeRF Assistant](https://arxiv.org/abs/2406.11840)
+
+**[2024.6.17]**
+- Paper: [Unveiling Encoder-Free Vision-Language Models](https://arxiv.org/abs/2406.11832)
+- Paper: [VideoLLM-online: Online Video Large Language Model for Streaming Video](https://arxiv.org/abs/2406.11816)
+
+**[2024.6.16]**
+- Paper: [RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content](https://arxiv.org/abs/2406.11811)
+
+**[2024.6.15]**
+- Paper: [VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models](https://arxiv.org/abs/2406.10228)
+- Paper: [EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models](https://arxiv.org/abs/2406.10224)
+
+**[2024.6.14]**
+- Paper: [Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/abs/2406.10216)
+
+**[2024.6.13]**
+- Paper: [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/abs/2406.08487)
+- Paper: [Enhancing End-to-End Autonomous Driving with Latent World Model](https://arxiv.org/abs/2406.08481)
+
+**[2024.6.12]**
+- Paper: [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
+- Paper: [The Impact of Initialization on LoRA Finetuning Dynamics](https://arxiv.org/abs/2406.08447)
+
+**[2024.6.11]**
+- Paper: [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/abs/2406.06525)
+- Paper: [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)【ACL2024】
+
+**[2024.6.10]**
+- Survey Paper: [Towards a Personal Health Large Language Model](https://arxiv.org/abs/2406.06474)
+- Technical Report: [Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning](https://arxiv.org/abs/2406.06469)
+
+**[2024.6.9]**
+- Paper: [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](https://arxiv.org/abs/2406.05132)
+  - Technical Report: [Towards Semantic Equivalence of Tokenization in Multimodal LLM](https://arxiv.org/abs/2406.05127)
+
+**[2024.6.8]**
+- Paper: [An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models](https://arxiv.org/abs/2406.05130)
+
+**[2024.6.7]**
+- Paper: [Language models emulate certain cognitive profiles: An investigation of how predictability measures interact with individual differences](https://arxiv.org/abs/2406.04988)【ACL2024】
+
+**[2024.6.6]**
+- Paper: [Verbalized Machine Learning: Revisiting Machine Learning with Language Models](https://arxiv.org/abs/2406.04344)
+- Paper: [PaCE: Parsimonious Concept Engineering for Large Language Models](https://arxiv.org/abs/2406.04331)
+
+**[2024.6.5]**
+- Paper: [Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training](https://arxiv.org/abs/2406.03488)
+
+**[2024.6.4]**
+- Paper: [Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks](https://arxiv.org/abs/2406.02550)
+- Paper: [Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning](https://arxiv.org/abs/2406.02547)
+
+**[2024.6.3]**
+- Paper: [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075)
+- Paper: [Graph External Attention Enhanced Transformer](https://arxiv.org/abs/2405.21061)【ICML2024】
+
+**[2024.6.2]**
+- Paper: [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)【ICML2024】
+- Paper: [LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models](https://arxiv.org/abs/2405.21028)
+
+**[2024.6.1]**
+- Paper: [StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond](https://arxiv.org/abs/2405.21013)
+- Paper: [DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models](https://arxiv.org/abs/2405.20985)
+
+**[2024.5.31]**
+- Paper: [Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training](https://arxiv.org/abs/2405.20978)
+- Paper: [OR-Bench: An Over-Refusal Benchmark for Large Language Models](https://arxiv.org/abs/2405.20947)
+
+**[2024.5.30]**
+- Paper: [Visualizing the loss landscape of Self-supervised Vision Transformer](https://arxiv.org/abs/2405.18042)【NIPS2024 workshop】
+- Paper: [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/list/cs/pastweek?skip=687&show=446)【ACL2024】
+
+**[2024.5.29]**
+- Paper: [Cross-Context Backdoor Attacks against Graph Prompt Learning](https://arxiv.org/abs/2405.17984)【KDD2024】
+- Paper: [Yuan 2.0-M32: Mixture of Experts with Attention Router](https://arxiv.org/abs/2405.17976)
+
+**[2024.5.28]**
+- Survey Paper: [Tool Learning with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935)
+- Paper: [Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models](https://arxiv.org/abs/2405.17915)
+
+**[2024.5.27]**
+- Paper: [Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models](https://arxiv.org/abs/2405.14555)【ACL2024】
+- Paper: [Exploring Alignment in Shared Cross-lingual Spaces](https://arxiv.org/list/cs/pastweek?skip=687&show=446)【ACL2024】
+
+**[2024.5.26]**
+- Paper: [ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models](https://arxiv.org/list/cs/recent?skip=0&show=446)
+- Paper: [Disease-informed Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.15728)【MICCAI 2024】
+
+**[2024.5.25]**
+- Paper: [Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models](https://arxiv.org/abs/2405.15687)【ICME2024】
+- Paper: [Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models](https://arxiv.org/abs/2405.15684)
+
+**[2024.5.24]**
+- Paper: [Neuromorphic dreaming: A pathway to efficient learning in artificial agents](https://arxiv.org/abs/2405.15616)
+- Paper: [DAGER: Exact Gradient Inversion for Large Language Models](https://arxiv.org/abs/2405.15586)
+
+**[2024.5.23]**
+- Paper: [Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models](https://arxiv.org/abs/2405.15574)
+- Paper: [When Generative AI Meets Workplace Learning: Creating A Realistic & Motivating Learning Experience With A Generative PCA](https://arxiv.org/list/cs/recent?skip=0&show=446)【ECIS2024】
+
+**[2024.5.22]**
+- Paper: [MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning](https://arxiv.org/abs/2405.11446)【KDD2024】
+- Paper: [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](https://arxiv.org/abs/2405.11466)【1st ACM International Conference on AI-powered Software (AIware), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE) 2024, Porto de Galinhas, Brazil. 】
+- Paper: [Effective In-Context Example Selection through Data Compression](https://arxiv.org/abs/2405.11465)【ACL2024】
+
+**[2024.5.21]**
+- Paper: [Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion](https://arxiv.org/abs/2405.11464)
+- Paper: [CPS-LLM: Large Language Model based Safe Usage Plan Generator for Human-in-the-Loop Human-in-the-Plant Cyber-Physical System](https://arxiv.org/abs/2405.11458)【AAAI2024】
+- Paper:[DocReLM: Mastering Document Retrieval with Language Model](https://arxiv.org/abs/2405.11461)
+
+**[2024.5.20]**
+- Paper: [Libra: Building Decoupled Vision System on Large Language Models](https://arxiv.org/abs/2405.10140)
+- Paper: [Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement](https://arxiv.org/abs/2405.11478)【CVPR 2024 Workshop NTIRE: New Trends in Image Restoration and Enhancement workshop and Challenges】
+- Paper: [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://arxiv.org/abs/2405.10051)
+
+**[2024.5.19]**
+- Paper: [Revisiting OPRO: The Limitations of Small-Scale LLMs as Optimizers](https://arxiv.org/abs/2405.10276)
+- Survey Paper: [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/abs/2405.10255)
+
+**[2024.5.18]**
+- Paper: [HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models](https://arxiv.org/abs/2405.10299)
+- Paper: [Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning](https://arxiv.org/abs/2405.10292)
+
+**[2024.5.17]**
+- Paper: [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311)
+- Paper: [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
+
+**[2024.5.16]**
+- Paper: [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317)
+- Paper: [Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model](https://arxiv.org/abs/2405.10316)
+
+**[2024.5.15]**
+- 🔥🔥🔥[Google strikes back: Project Astra goes head-to-head with GPT-4o, Veo fights Sora, and a new version of Gemini revolutionises search](https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/#creating-the-future)
+- Paper: [Improving Transformers with Dynamically Composable Multi-Head Attention](https://arxiv.org/abs/2405.08553)
+- Paper: [Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550)
+
+**[2024.5.14]**
+- 🔥🔥🔥[OpenAI Turns the World Upside Down: GPT-4o is Completely Free, Real-Time Voice-Video Interaction Rocks the Room](https://openai.com/index/hello-gpt-4o/)
+- Paper: [Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/abs/2405.08815)
+- Paper: [Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research](https://arxiv.org/list/cs/recent?skip=0&show=446)
+
+**[2024.5.13]**
+- Paper: [Linearizing Large Language Models](https://arxiv.org/abs/2405.06640)
+- Paper: [Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark](https://arxiv.org/abs/2405.06634)
+
+**[2024.5.12]**
+- Paper: [UniDM: A Unified Framework for Data Manipulation with Large Language Models](https://arxiv.org/abs/2405.06510)
+- Paper: [Storypark: Leveraging Large Language Models to Enhance Children Story Learning Through Child-AI collaboration Storytelling](https://arxiv.org/abs/2405.06495)
+
+**[2024.5.11]**
+- Paper: [Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification](https://arxiv.org/abs/2405.06468)
+
+**[2024.5.10]**
+- Paper: [FlockGPT: Guiding UAV Flocking with Linguistic Orchestration](https://arxiv.org/abs/2405.05872)
+- Paper: [An Automatic Prompt Generation System for Tabular Data Tasks](https://arxiv.org/abs/2405.05618)
+- Paper: [Memory-Space Visual Prompting for Efficient Vision-Language Fine-Tuning](https://arxiv.org/abs/2405.05615)
+
+**[2024.5.9]**
+- Paper: [Probing Multimodal LLMs as World Models for Driving](https://arxiv.org/abs/2405.05956)
+- Paper: [Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning](https://arxiv.org/abs/2405.05955)
+- Paper: [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/abs/2405.05945)
+
+**[2024.5.8]**
+- Paper: [ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning](https://arxiv.org/abs/2405.04533)
+- Paper: [QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://arxiv.org/abs/2405.04532)
+- Paper: [Unveiling Disparities in Web Task Handling Between Human and Web Agent](https://arxiv.org/abs/2405.04497)
+
+**[2024.5.7]**
+- Paper: [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437)
+- Paper: [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+- Survey Paper: [Vision Mamba: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2405.04404)
+
+**[2024.5.6]**
+- Paper: [Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models](https://arxiv.org/abs/2405.02287)
+- Paper: [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](https://arxiv.org/abs/2405.02266)
+- Paper: [Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows](https://arxiv.org/abs/2405.02260)
+
+**[2024.5.5]**
+- Paper: [What matters when building vision-language models?](https://arxiv.org/abs/2405.02246)
+- Paper: [REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs](https://arxiv.org/abs/2405.02228)
+- Paper: [FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems](https://arxiv.org/abs/2405.02219)
+
+**[2024.5.4]**
+- Paper: [Single and Multi-Hop Question-Answering Datasets for Reticular Chemistry with GPT-4-Turbo](https://arxiv.org/abs/2405.02128)
+- Paper: [Analyzing Narrative Processing in Large Language Models (LLMs): Using GPT4 to test BERT](https://arxiv.org/abs/2405.02024)
+- Paper: [Auto-Encoding Morph-Tokens for Multimodal LLM](https://arxiv.org/abs/2405.01926)
+
+**[2024.5.3]**
+- Paper: [Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models](https://arxiv.org/abs/2405.00402)
+- Paper: [CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models](https://arxiv.org/abs/2405.00390)
+- Paper: [AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts](https://arxiv.org/abs/2405.00361)
+
+**[2024.5.2]**
+- Paper: [When Quantization Affects Confidence of Large Language Models?](https://arxiv.org/abs/2405.00632)
+- Paper: [Causal Evaluation of Language Models](https://arxiv.org/abs/2405.00622)
+- Paper: [Investigating Automatic Scoring and Feedback using Large Language Models](https://arxiv.org/abs/2405.00602)
+
+**[2024.5.1]**
+- Paper: [Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.00675)
+- Paper: [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3](https://arxiv.org/abs/2405.00664)
+- Paper: [RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization](https://arxiv.org/abs/2405.00657)
+
+**[2024.4.30]**
+- Paper: [EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model](https://arxiv.org/abs/2405.00574)
+- Paper: [NumLLM: Numeric-Sensitive Large Language Model for Chinese Finance](https://arxiv.org/abs/2405.00566)
+- Paper: [Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning](https://arxiv.org/abs/2405.00516)
+
+**[2024.4.29]**
+- [The "Chinese NVIDIA" thousand-card cluster is now in place.](https://jxj.beijing.gov.cn/zwgk/zcjd/202404/t20240425_3637629.html)
+- [XVERSE-V: Unconditionally commercial free, outperforms Claude 3 Sonnet](https://huggingface.co/xverse/XVERSE-V-13B)
+
+**[2024.4.28]**
+- Paper: [Learning to Beat ByteRL: Exploitability of Collectible Card Game Agents](https://arxiv.org/abs/2404.16689)
+- Paper: [Unifying Asynchronous Logics for Hyperproperties](https://arxiv.org/abs/2404.16778)
+- Paper: [Lost in Recursion: Mining Rich Event Semantics in Knowledge Graphs](https://arxiv.org/abs/2404.16405) 
+
+**[2024.4.27]**
+- Paper: [AAPL: Adding Attributes to Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2404.16804)
+- Paper: [SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension](https://arxiv.org/abs/2404.16790)
+- Paper: [Cooperate or Collapse: Emergence of Sustainability Behaviors in a Society of LLM Agents](https://arxiv.org/abs/2404.16698)
+
+**[2024.4.26]**
+- Paper: [IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages](https://arxiv.org/abs/2404.16816)
+- Paper: [Make Your LLM Fully Utilize the Context](https://arxiv.org/abs/2404.16811)
+- Paper: [Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning](https://arxiv.org/abs/2404.16807)
+
+**[2024.4.25]**
+- Paper: [Cantor: Inspiring Multimodal Chain-of-Thought of MLLM](https://arxiv.org/abs/2404.16033)
+- Paper: [The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)
+- Paper: [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/abs/2404.16006)
+
+**[2024.4.24]**
+- Survey Paper: [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
+- Paper: [Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach](https://arxiv.org/abs/2404.15993)
+- Paper: [Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation](https://arxiv.org/abs/2404.15845)
+
+**[2024.4.23]**
+- Paper: [Re-Thinking Inverse Graphics With Large Language Models](https://arxiv.org/abs/2404.15228)
+  - Paper: [Does Instruction Tuning Make LLMs More Consistent?](https://arxiv.org/abs/2404.15206)
+
 **[2024.4.22]**
 - Paper: [Unified Scene Representation and Reconstruction for 3D Large Language Models](https://arxiv.org/abs/2404.13044)
 - Paper: [Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs](https://arxiv.org/abs/2404.13033)

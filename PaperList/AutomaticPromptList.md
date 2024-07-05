@@ -9,7 +9,7 @@
 
 <font color="gray">Chao Gao, Sai Qian Zhang </font>
 
-![](https://img.shields.io/badge/Citations-0-green)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
@@ -57,7 +57,7 @@
 
 <font color="gray">Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-165-blue)](https://github.com/embodied-generalist/embodied-generalist)
+![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-282-blue)](https://github.com/embodied-generalist/embodied-generalist)
 
 ---
 
@@ -89,7 +89,7 @@
 
 <font color="gray">Jiabin Tang, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-385-blue)](https://github.com/HKUDS/GraphGPT)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-473-blue)](https://github.com/HKUDS/GraphGPT)
 
 ---
 
@@ -121,7 +121,7 @@
 
 <font color="gray">Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, etc .  - 【arXiv.org】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-1.6k-blue)](https://github.com/thudm/agentbench)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-2.0k-blue)](https://github.com/thudm/agentbench)
 
 ---
 
@@ -137,7 +137,7 @@
 
 <font color="gray">Xingchen Wan, Ruoxi Sun, Hootan Nakhost, Hanjun Dai, Julian Martin Eisenschlos, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
 
 ---
 
@@ -145,7 +145,7 @@
 
 <font color="gray">Yunyi Zhang, Minhao Jiang, Yu Meng, Yu Zhang, Jiawei Han </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
 
 ---
 
@@ -153,7 +153,7 @@
 
 <font color="gray">Xuekai Zhu, Biqing Qi, Kaiyan Zhang, Xingwei Long, Bowen Zhou </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
 
 ---
 
@@ -161,7 +161,7 @@
 
 <font color="gray">Sukmin Cho, Soyeong Jeong, Jeongyeon Seo, Jong C. Park </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/zomss/co-prompt)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)  [![](https://img.shields.io/badge/Github%20Stars-2-blue)](https://github.com/zomss/co-prompt)
 
 ---
 
@@ -173,11 +173,27 @@
 
 ---
 
+[**Learning to Rank Utterances for Query-Focused Meeting Summarization**](https://arxiv.org/abs/2305.12753) （**2023.05.22**）
+
+<font color="gray">Xingxian Liu, Yajing Xu </font>
+
+![](https://img.shields.io/badge/Citations-0-green)
+
+---
+
 [**Learning Easily Updated General Purpose Text Representations with Adaptable Task-Specific Prefixes**](https://arxiv.org/abs/2305.13499) （**2023.05.22**）
 
 <font color="gray">Kuan-Hao Huang, L Tan, Rui Hou, Sinong Wang, Amjad Almahairi, etc </font>
 
-![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+[**Small Language Models Improve Giants by Rewriting Their Outputs**](https://arxiv.org/abs/2305.13514) （**2023.05.22**）
+
+<font color="gray">Giorgos Vernikos, Arthur Bravzinskas, Jakub Adamek, Jonathan Mallinson, Aliaksei Severyn, etc </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)  [![](https://img.shields.io/badge/Github%20Stars-4-blue)](https://github.com/georgevern/lmcor)
 
 ---
 
@@ -186,6 +202,14 @@
 <font color="gray">Rami Aly, Xingjian Shi, Kaixiang Lin, Aston Zhang, A. Wilson </font>
 
 ![](https://img.shields.io/badge/Citations-0-green)  ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)  [![](https://img.shields.io/badge/Github%20Stars-6-blue)](https://github.com/raldir/aut-few)
+
+---
+
+[**Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions**](https://doi.org/10.48550/arXiv.2305.11460) （**2023.05.19**）
+
+<font color="gray">Shiyao Ding, Takayuki Ito .  - 【arXiv.org】</font>
+
+![](https://img.shields.io/badge/Citations-0-green)
 
 ---
 
@@ -233,7 +257,7 @@
 
 <font color="gray">Kashun Shum, Shizhe Diao, Tong Zhang .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-19-blue)](https://github.com/shizhediao/automate-cot)
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github%20Stars-21-blue)](https://github.com/shizhediao/automate-cot)
 
 ---
 
@@ -257,7 +281,7 @@
 
 <font color="gray">Yuxin Wen, Neel Jain, John Kirchenbauer, Micah Goldblum, Jonas Geiping, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-547-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
+![](https://img.shields.io/badge/Citations-2-green)  [![](https://img.shields.io/badge/Github%20Stars-579-blue)](https://github.com/YuxinWenRick/hard-prompts-made-easy)
 
 ---
 
@@ -265,7 +289,7 @@
 
 <font color="gray">Simran Arora, A. Narayan, Mayee F. Chen, Laurel J. Orr, Neel Guha, etc .  - 【ArXiv】</font>
 
-![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-524-blue)](https://github.com/hazyresearch/ama_prompting)
+![](https://img.shields.io/badge/Citations-14-green)  [![](https://img.shields.io/badge/Github%20Stars-533-blue)](https://github.com/hazyresearch/ama_prompting)
 
 ---
 
