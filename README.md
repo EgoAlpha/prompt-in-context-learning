@@ -99,6 +99,20 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.7.15]**
+  - 🔥🔥🔥[The world's first big open-source model for chip design is born! 5 years to reshape the $500 billion semiconductor industry!](https://www.semikong.ai/)
+  - Paper: [On LLM Wizards: Identifying Large Language Models' Behaviors for Wizard of Oz Experiments](https://arxiv.org/abs/2407.08067)
+
+- **[2024.7.14]**
+  - 🔥🔥🔥[The Big Model Authority Test was exposed as a flop! Favouring closed source models such as GPT-4 even more, even the cue words are treated differently](https://www.reddit.com/r/LocalLLaMA/comments/1dw8l3j/comment/lbu6efr/?)
+  - Paper: [RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization](https://arxiv.org/abs/2407.08044)
+
+- **[2024.7.13]**
+  - Paper: [FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3](https://arxiv.org/abs/2407.09467)
+
+- **[2024.7.12]**
+  - Paper: [MUSCLE: A Model Update Strategy for Compatible LLM Evolution](https://arxiv.org/abs/2407.09435)
+
 - **[2024.7.11]**
   - 🔥🔥🔥NVIDIA release: Paper[Data, Data Everywhere:A Guide for Pretraining Dataset Construction](https://arxiv.org/pdf/2407.06380)
 
