@@ -99,6 +99,28 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.8.5]**
+  - Paper: [Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting](https://arxiv.org/abs/2408.01423)
+  - Paper: [Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation](https://arxiv.org/abs/2408.01363)
+
+- **[2024.8.4]**
+  - Paper: [Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs](https://arxiv.org/abs/2408.01417)
+
+- **[2024.8.3]**
+  - Paper: [Coalitions of Large Language Models Increase the Robustness of AI Agents](https://arxiv.org/abs/2408.01380)
+
+- **[2024.8.2]**
+  - Paper: [Large-scale AI performance art: 'Humans stop' posting, 17 large models spamming like crazy](https://github.com/CubicalBatch/deaddit)
+
+- **[2024.8.1]**
+  - Paper: [LLM4CP: Adapting Large Language Models for Channel Prediction](https://www.infocomm-journal.com/dxkx/CN/10.11959/j.issn.1000-0801.2021011)
+
+- **[2024.7.31]**
+  - Paper: [UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813)
+
+- **[2024.7.30]**
+  - 🔥🔥🔥[Apple's AI version of iOS is hot on its first day](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models)
+
 - **[2024.7.29]**
   -🔥🔥🔥Paper: [Wolf: Captioning Everything with a World Summarization Framework](https://arxiv.org/abs/2407.18908)
 
