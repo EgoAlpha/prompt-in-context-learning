@@ -99,6 +99,27 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.8.12]**
+  - Survey Paper: [Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](https://arxiv.org/abs/2408.05212)
+
+- **[2024.8.11]**
+  - Paper: [VITA: Towards Open-Source Interactive Omni Multimodal LLM](https://arxiv.org/abs/2408.05211)
+
+- **[2024.8.10]**
+  - Paper: [TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning](https://arxiv.org/abs/2408.05200)
+
+- **[2024.8.9]**
+  - Paper: [How Well Do LLMs Identify Cultural Unity in Diversity?](https://arxiv.org/abs/2408.05102)
+
+- **[2024.8.8]**
+  - Paper: [Hyperbolic Learning with Multimodal Large Language Models](https://arxiv.org/abs/2408.05097)
+
+- **[2024.8.7]**
+  - Paper: [Instruction Tuning-free Visual Token Complement for Multimodal LLMs](https://arxiv.org/abs/2408.05019)
+
+- **[2024.8.6]**
+  - Paper: [ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation](https://arxiv.org/abs/2408.04883)
+
 - **[2024.8.5]**
   - Paper: [Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting](https://arxiv.org/abs/2408.01423)
   - Paper: [Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation](https://arxiv.org/abs/2408.01363)
