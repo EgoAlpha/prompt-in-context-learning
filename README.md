@@ -99,6 +99,27 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.8.19]**
+  - Paper: [LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning](https://arxiv.org/abs/2408.07981)
+
+- **[2024.8.18]**
+  - Paper: [FuseChat: Knowledge Fusion of Chat Models](https://arxiv.org/abs/2408.07990)
+
+- **[2024.8.17]**
+  - Paper: [mhGPT: A Lightweight Generative Pre-Trained Transformer for Mental Health Text Analysis](https://arxiv.org/abs/2408.08261)
+
+- **[2024.8.16]**
+  - Paper: [Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model](https://arxiv.org/abs/2408.08282)
+
+- **[2024.8.15]**
+  - Technical Report: [Can Large Language Models Understand Symbolic Graphics Programs?](https://arxiv.org/abs/2408.08313)
+
+- **[2024.8.14]**
+  - Paper: [LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation](https://arxiv.org/abs/2408.08208)
+
+- **[2024.8.13]**
+  - Paper: [When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding](https://arxiv.org/abs/2408.08093)
+
 - **[2024.8.12]**
   - Survey Paper: [Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](https://arxiv.org/abs/2408.05212)
 
