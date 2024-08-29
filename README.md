@@ -99,6 +99,36 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.8.29]**
+  - Paper: [LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings](https://arxiv.org/abs/2408.14512)
+
+- **[2024.8.28]**
+  - Survey Paper: [Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods](https://arxiv.org/abs/2408.14511)
+
+- **[2024.8.27]**
+  - Paper: [A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models](https://arxiv.org/abs/2408.14496)
+
+- **[2024.8.26]**
+  - Paper: [CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2408.14419)
+
+- **[2024.8.25]**
+  - Paper: [Language-specific Calibration for Pruning Multilingual Language Models](https://arxiv.org/abs/2408.14398)
+
+- **[2024.8.24]**
+  - Paper: [Enhancing Depression Diagnosis with Chain-of-Thought Prompting](https://arxiv.org/abs/2408.14053)
+
+- **[2024.8.23]**
+  - Paper: [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](https://arxiv.org/abs/2408.14033)
+
+- **[2024.8.22]**
+  - Paper: [LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models](https://arxiv.org/abs/2408.14008)
+
+- **[2024.8.21]**
+  - Paper: [AgentMove: Predicting Human Mobility Anywhere Using Large Language Model based Agentic Framework](https://arxiv.org/abs/2408.13986)
+
+- **[2024.8.20]**
+  - Paper: [Geo-Llama: Leveraging LLMs for Human Mobility Trajectory Generation with Spatiotemporal Constraints](https://arxiv.org/abs/2408.13918)
+
 - **[2024.8.19]**
   - Paper: [LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning](https://arxiv.org/abs/2408.07981)
 
