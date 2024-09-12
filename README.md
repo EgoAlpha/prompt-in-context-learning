@@ -99,8 +99,11 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.9.13]**
+  - Paper: [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289)
+
 - **[2024.9.12]**
-  - Paper: [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](https://arxiv.org/abs/2409.05929)
+  - 🔥🔥🔥Paper: [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](https://arxiv.org/abs/2409.05929)
 
 - **[2024.9.11]**
   - Paper: [Assessing SPARQL capabilities of Large Language Models](https://arxiv.org/list/cs/pastweek?skip=687&show=446)
@@ -118,7 +121,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
   - Paper: [General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://arxiv.org/pdf/2409.01704)
 
 - **[2024.9.6]**
-  - [Tech giants fight voice model battle! Amazon upgrades Alexa with Claude, Cerebras voice model is lightning fast](https://www.reuters.com/technology/artificial-intelligence/amazon-turns-anthropics-claude-alexa-ai-revamp-2024-08-30/)
+  - 🔥🔥🔥[Tech giants fight voice model battle! Amazon upgrades Alexa with Claude, Cerebras voice model is lightning fast](https://www.reuters.com/technology/artificial-intelligence/amazon-turns-anthropics-claude-alexa-ai-revamp-2024-08-30/)
 
 [👉 Complete history news 👈](./historynews.md)
 
