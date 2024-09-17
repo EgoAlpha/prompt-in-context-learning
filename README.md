@@ -99,6 +99,18 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.9.17]**
+  - Paper: [Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030)
+
+- **[2024.9.16]**
+  - 🔥🔥🔥[New Scaling Law puts an end to ‘non-profit games’](https://fortune.com/2024/09/13/sam-altman-openai-non-profit-structure-change-next-year/)
+
+- **[2024.9.15]**
+  - 🔥🔥🔥[Conspiracy theories don't work with big models! From MIT's latest research丨Science cover](https://www.debunkbot.com/)
+
+- **[2024.9.14]**
+  - 🔥🔥🔥[Mistral Releases First Multimodal Model, 12B Open Source Download](https://huggingface.co/mistralai/Pixtral-12B-2409)
+
 - **[2024.9.13]**
   - 🔥🔥🔥[OpenAI Shock Release o1 Big Model! Reinforcement Learning Pushes the Limits of LLM Reasoning](https://openai.com/index/introducing-openai-o1-preview/)
   - Paper: [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289)
