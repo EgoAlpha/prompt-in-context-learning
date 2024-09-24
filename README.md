@@ -99,6 +99,27 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.9.24]**
+  - Paper: [PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions](https://arxiv.org/abs/2409.15278)
+
+- **[2024.9.23]**
+  - Paper: [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/abs/2409.15272)
+
+- **[2024.9.22]**
+  - Paper: [Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking](https://arxiv.org/abs/2409.15268)
+
+- **[2024.9.21]**
+  - Paper: [Domino: Eliminating Communication in LLM Training via Generic Tensor Slicing and Overlapping](https://arxiv.org/abs/2409.15241)
+
+- **[2024.9.20]**
+  - Paper: [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](https://arxiv.org/abs/2409.15146)
+
+- **[2024.9.19]**
+  - Paper: [Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning](https://arxiv.org/abs/2409.15135)
+
+- **[2024.9.18]**
+  - Paper: [Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation](https://arxiv.org/abs/2409.15125)
+
 - **[2024.9.17]**
   - Paper: [Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030)
 
