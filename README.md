@@ -99,6 +99,40 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.10.5]**
+  - Paper: [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](https://arxiv.org/abs/2410.02763)
+
+- **[2024.10.4]**
+  - Paper: [FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](https://arxiv.org/abs/2410.02761)
+
+- **[2024.10.3]**
+  - 🔥🔥🔥[OpenAI release Canvas!!!](https://openai.com/index/introducing-canvas/)
+  - Paper: [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757)
+
+- **[2024.10.2]**
+  - Paper: [ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI](https://arxiv.org/abs/2410.02751)
+
+- **[2024.10.1]**
+  - Paper: [AVG-LLaVA: A Multimodal Large Model with Adaptive Visual Granularity](https://arxiv.org/abs/2410.02745)
+
+- **[2024.9.30]**
+  - Paper: [Grounding Large Language Models In Embodied Environment With Imperfect World Models](https://arxiv.org/abs/2410.02742)
+
+- **[2024.9.29]**
+  - Paper: [Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization](https://arxiv.org/abs/2410.02721)
+
+- **[2024.9.28]**
+  - Paper: [LLaVA-Critic: Learning to Evaluate Multimodal Models](https://arxiv.org/abs/2410.02712)
+
+- **[2024.9.27]**
+  - Paper: [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](https://arxiv.org/abs/2410.02707)
+
+- **[2024.9.26]**
+  - Paper: [Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2410.02681)
+
+- **[2024.9.25]**
+  - Survey Paper: [Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650)
+
 - **[2024.9.24]**
   - 🔥🔥🔥 Paper: [On the Diagram of Thought](https://arxiv.org/pdf/2409.10038)
   - Paper: [PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions](https://arxiv.org/abs/2409.15278)
