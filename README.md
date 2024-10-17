@@ -99,6 +99,42 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.10.17]**
+  - Paper: [In-Context Learning Enables Robot Action Prediction in LLMs](https://arxiv.org/abs/2410.12782)
+
+- **[2024.10.16]**
+  - Paper: [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](https://arxiv.org/abs/2410.11829)
+
+- **[2024.10.15]**
+  - Paper: [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](https://arxiv.org/abs/2410.11772)
+
+- **[2024.10.14]**
+  - Paper: [Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)
+
+- **[2024.10.13]**
+  - Paper: [Mentor-KD: Making Small Language Models Better Multi-step Reasoners](https://arxiv.org/abs/2410.09037)
+
+- **[2024.10.12]**
+  - Paper: [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://arxiv.org/abs/2410.09024)
+
+- **[2024.10.11]**
+  - Paper: [SubZero: Random Subspace Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2410.08989)
+
+- **[2024.10.10]**
+  - Paper: [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/abs/2410.11701)
+
+- **[2024.10.9]**
+  - Paper: [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](https://arxiv.org/abs/2410.11674)
+
+- **[2024.10.8]**
+  - Paper: [Enhance Graph Alignment for Large Language Models](https://arxiv.org/abs/2410.11370)
+
+- **[2024.10.7]**
+  - Paper: [HR-Agent: A Task-Oriented Dialogue (TOD) LLM Agent Tailored for HR Applications](https://arxiv.org/abs/2410.11239)
+
+- **[2024.10.6]**
+  - Paper: [Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models](https://arxiv.org/abs/2410.11195)
+
 - **[2024.10.5]**
   - Paper: [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](https://arxiv.org/abs/2410.02763)
 
