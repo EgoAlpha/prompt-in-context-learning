@@ -99,134 +99,26 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
-- **[2024.10.17]**
-  - Paper: [In-Context Learning Enables Robot Action Prediction in LLMs](https://arxiv.org/abs/2410.12782)
+- **[2024.11.17]**
+  - Paper: [DROJ: A Prompt-Driven Attack against Large Language Models](https://arxiv.org/abs/2411.09125)
 
-- **[2024.10.16]**
-  - Paper: [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](https://arxiv.org/abs/2410.11829)
+- **[2024.11.16]**
+  - Paper:[On the Surprising Effectiveness of Attention Transfer for Vision Transformers](https://arxiv.org/abs/2411.09702)【NeurIPS2024】
 
-- **[2024.10.15]**
-  - Paper: [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](https://arxiv.org/abs/2410.11772)
+- **[2024.11.15]**
+  - Paper:[Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
 
-- **[2024.10.14]**
-  - Paper: [Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)
+- **[2024.11.14]**
+  - Paper:[The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models](https://arxiv.org/abs/2411.08870)【EMNLP2024】
 
-- **[2024.10.13]**
-  - Paper: [Mentor-KD: Making Small Language Models Better Multi-step Reasoners](https://arxiv.org/abs/2410.09037)
+- **[2024.11.13]**
+  - Paper:[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862)【AAAI2025】
 
-- **[2024.10.12]**
-  - Paper: [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://arxiv.org/abs/2410.09024)
+- **[2024.11.12]**
+  - Paper:[LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models](https://arxiv.org/abs/2411.08027)
 
-- **[2024.10.11]**
-  - Paper: [SubZero: Random Subspace Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2410.08989)
-
-- **[2024.10.10]**
-  - Paper: [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/abs/2410.11701)
-
-- **[2024.10.9]**
-  - Paper: [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](https://arxiv.org/abs/2410.11674)
-
-- **[2024.10.8]**
-  - Paper: [Enhance Graph Alignment for Large Language Models](https://arxiv.org/abs/2410.11370)
-
-- **[2024.10.7]**
-  - Paper: [HR-Agent: A Task-Oriented Dialogue (TOD) LLM Agent Tailored for HR Applications](https://arxiv.org/abs/2410.11239)
-
-- **[2024.10.6]**
-  - Paper: [Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models](https://arxiv.org/abs/2410.11195)
-
-- **[2024.10.5]**
-  - Paper: [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](https://arxiv.org/abs/2410.02763)
-
-- **[2024.10.4]**
-  - Paper: [FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](https://arxiv.org/abs/2410.02761)
-
-- **[2024.10.3]**
-  - 🔥🔥🔥[OpenAI release Canvas!!!](https://openai.com/index/introducing-canvas/)
-  - Paper: [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757)
-
-- **[2024.10.2]**
-  - Paper: [ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI](https://arxiv.org/abs/2410.02751)
-
-- **[2024.10.1]**
-  - Paper: [AVG-LLaVA: A Multimodal Large Model with Adaptive Visual Granularity](https://arxiv.org/abs/2410.02745)
-
-- **[2024.9.30]**
-  - Paper: [Grounding Large Language Models In Embodied Environment With Imperfect World Models](https://arxiv.org/abs/2410.02742)
-
-- **[2024.9.29]**
-  - Paper: [Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization](https://arxiv.org/abs/2410.02721)
-
-- **[2024.9.28]**
-  - Paper: [LLaVA-Critic: Learning to Evaluate Multimodal Models](https://arxiv.org/abs/2410.02712)
-
-- **[2024.9.27]**
-  - Paper: [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](https://arxiv.org/abs/2410.02707)
-
-- **[2024.9.26]**
-  - Paper: [Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2410.02681)
-
-- **[2024.9.25]**
-  - Survey Paper: [Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650)
-
-- **[2024.9.24]**
-  - 🔥🔥🔥 Paper: [On the Diagram of Thought](https://arxiv.org/pdf/2409.10038)
-  - Paper: [PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions](https://arxiv.org/abs/2409.15278)
-
-- **[2024.9.23]**
-  - Paper: [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/abs/2409.15272)
-
-- **[2024.9.22]**
-  - Paper: [Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking](https://arxiv.org/abs/2409.15268)
-
-- **[2024.9.21]**
-  - Paper: [Domino: Eliminating Communication in LLM Training via Generic Tensor Slicing and Overlapping](https://arxiv.org/abs/2409.15241)
-
-- **[2024.9.20]**
-  - Paper: [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](https://arxiv.org/abs/2409.15146)
-
-- **[2024.9.19]**
-  - Paper: [Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning](https://arxiv.org/abs/2409.15135)
-
-- **[2024.9.18]**
-  - Paper: [Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation](https://arxiv.org/abs/2409.15125)
-
-- **[2024.9.17]**
-  - Paper: [Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030)
-
-- **[2024.9.16]**
-  - 🔥🔥🔥[New Scaling Law puts an end to ‘non-profit games’](https://fortune.com/2024/09/13/sam-altman-openai-non-profit-structure-change-next-year/)
-
-- **[2024.9.15]**
-  - 🔥🔥🔥[Conspiracy theories don't work with big models! From MIT's latest research丨Science cover](https://www.debunkbot.com/)
-
-- **[2024.9.14]**
-  - 🔥🔥🔥[Mistral Releases First Multimodal Model, 12B Open Source Download](https://huggingface.co/mistralai/Pixtral-12B-2409)
-
-- **[2024.9.13]**
-  - 🔥🔥🔥[OpenAI Shock Release o1 Big Model! Reinforcement Learning Pushes the Limits of LLM Reasoning](https://openai.com/index/introducing-openai-o1-preview/)
-  - Paper: [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289)
-
-- **[2024.9.12]**
-  - 🔥🔥🔥Paper: [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](https://arxiv.org/abs/2409.05929)
-
-- **[2024.9.11]**
-  - Paper: [Assessing SPARQL capabilities of Large Language Models](https://arxiv.org/list/cs/pastweek?skip=687&show=446)
-
-- **[2024.9.10]**
-  - Paper: [OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models](https://arxiv.org/abs/2409.05902)
-
-- **[2024.9.9]**
-  - Paper: [Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs](https://arxiv.org/abs/2409.07246)
-
-- **[2024.9.8]**
-  - Paper: [Large Language Models and the Extended Church-Turing Thesis](https://arxiv.org/abs/2409.06978)
-
-- **[2024.9.7]**
-  - Paper: [General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://arxiv.org/pdf/2409.01704)
-
-- **[2024.9.6]**
-  - 🔥🔥🔥[Tech giants fight voice model battle! Amazon upgrades Alexa with Claude, Cerebras voice model is lightning fast](https://www.reuters.com/technology/artificial-intelligence/amazon-turns-anthropics-claude-alexa-ai-revamp-2024-08-30/)
+- **[2024.11.11]**
+  - Paper:[Towards Low-bit Communication for Tensor Parallel LLM Inference](https://arxiv.org/abs/2411.07942)
 
 [👉 Complete history news 👈](./historynews.md)
 

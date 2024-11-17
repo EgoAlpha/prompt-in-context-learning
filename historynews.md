@@ -4,8 +4,209 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2024.11.16]**
+- Paper:[On the Surprising Effectiveness of Attention Transfer for Vision Transformers](https://arxiv.org/abs/2411.09702)【NeurIPS2024】
+
+**[2024.11.15]**
+- Paper:[Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
+
+**[2024.11.14]**
+- Paper:[The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models](https://arxiv.org/abs/2411.08870)【EMNLP2024】
+
+**[2024.11.13]**
+- Paper:[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862)【AAAI2025】
+
+**[2024.11.12]**
+- Paper:[LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models](https://arxiv.org/abs/2411.08027)
+
+**[2024.11.11]**
+- Paper:[Towards Low-bit Communication for Tensor Parallel LLM Inference](https://arxiv.org/abs/2411.07942)
+
+**[2024.11.10]**
+- Paper:[CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts](https://arxiv.org/abs/2411.07917)
+
+**[2024.11.9]**
+- Paper:[Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders](https://arxiv.org/abs/2411.07870)
+
+**[2024.11.8]**
+- Paper:[Recycled Attention: Efficient inference for long-context language models](https://arxiv.org/abs/2411.05787)
+
+**[2024.11.7]**
+- Paper:[Using Language Models to Disambiguate Lexical Choices in Translation](https://arxiv.org/abs/2411.05781)
+
+**[2024.11.6]**
+- 🔥🔥🔥Paper:[SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding](https://arxiv.org/abs/2407.03200)
+
+**[2024.11.5]**
+- Paper:[The Oscars of AI Theater: A Survey on Role-Playing with Language Models](https://arxiv.org/abs/2407.11484)
+
+**[2024.11.4]**
+- 🔥🔥🔥[Microsoft Bets on Agents, Releasing Ten AI Agents They Hold High Hopes For.](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/unlocking-autonomous-agent-capabilities-with-microsoft-copilot-studio/)
+
+**[2024.11.3]**
+- 🔥🔥🔥Paper:[AgentSquare: Automatic LLM Agent Search In Modular Design Space](https://arxiv.org/abs/2410.06153)
+
+**[2024.11.2]**
+- [The World's First 100 Billion AI Agent Civilization is Born! Peking University Alumni Create a Real-Life "Westworld," with All Technical Details Fully Disclosed.](https://x.com/GuangyuRobert/status/1852397383939960926)
+
+**[2024.11.1]**
+- Paper:[LBPE: Long-token-first Tokenization to Improve Large Language Models][(](https://arxiv.org/abs/2411.05504))
+
+**[2024.10.31]**
+- Paper:[VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM][(](https://arxiv.org/abs/2411.05423))
+
+**[2024.10.30]**
+- Paper:[Benchmarking Distributional Alignment of Large Language Models](https://arxiv.org/abs/2411.05403)
+
+**[2024.10.29]**
+- Paper:[LLM-PySC2: Starcraft II learning environment for Large Language Models](https://arxiv.org/abs/2411.05348)
+
+**[2024.10.28]**
+- [Robots Easily Imitate Humans and Generalize to Different Tasks and Agents! Microsoft’s New Research on Learning Unified Action Representations for Humans and Robots.](https://aka.ms/project-igor-paper)
+
+**[2024.10.27]**
+- 🔥🔥🔥Agent-as-a-Judge! AI Agents Conduct Self-Judgment, Reducing Costs by 97%【Paper】:[Agent-as-a-Judge: Evaluate Agents with Agents
+](https://arxiv.org/abs/2410.10934v1)
+
+**[2024.10.26]**
+- 🔥🔥🔥[Scaling Laws Encounter Bottlenecks, OpenAI Reportedly Bets on the Agent "Operator."
+](https://www.reddit.com/r/singularity/comments/1gqn099/openai_nears_launch_of_ai_agent_tool_to_automate/)
+
+**[2024.10.25]**
+- Paper:[Multitask Neural Networks for Predicting Physical Properties of Many-Body Quantum States.](https://www.nature.com/articles/s41467-024-53101-y)
+
+**[2024.10.24]**
+- [Open Source FLUX Image Inpainting and Distillation Acceleration Model.](https://huggingface.co/alimama-creative/FLUX.1-dev-ControlNet-Inpainting-Beta)
+
+**[2024.10.23]**
+- [A More Powerful Text-to-Image Model Than Flux Has Arrived! The Secret Lies in "Integrating the Strengths of Many."
+](https://huggingface.co/comin/IterComp)
+
+**[2024.10.22]**
+- 🔥🔥🔥[Fei-Fei Li's Latest Interview: The World She Envisions for AI in the Next Decade.](https://www.youtube.com/watch?v=JgQ1FJ_wow8)
+
+**[2024.10.21]**
+- [Real-Time Generation of "Minecraft" Without a Game Engine: Large Models Achieve 20 Frames Per Second with Zero Latency Interactivity, Now Open Source.](https://oasis-model.github.io/)
+
+**[2024.10.20]**
+- [NVIDIA Collaborates with MIT and Tsinghua University to Unveil the Sana Architecture, Outperforming FLUX in Performance.](https://arxiv.org/abs/2410.10629)
+
+**[2024.10.19]**
+- [NVIDIA has open-sourced the powerful model Nemotron-70B, which, upon release, surpassed GPT-4o and Claude 3.5 Sonnet, ranking just below OpenAI's o1!](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
+
+**[2024.10.18]**
+- Paper:[AI Solves 132-Year-Old Mathematical Problem! Transformer Successfully Identifies New Lyapunov Functions Related to the Three-Body Problem.](https://x.com/f_charton/status/1846884416930402633)
+
+**[2024.10.17]**
+- Paper: [In-Context Learning Enables Robot Action Prediction in LLMs](https://arxiv.org/abs/2410.12782)
+
+**[2024.10.16]**
+- Paper: [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding](https://arxiv.org/abs/2410.11829)
+
+**[2024.10.15]**
+- Paper: [Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models](https://arxiv.org/abs/2410.11772)
+
+**[2024.10.14]**
+- Paper: [Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)
+
+**[2024.10.13]**
+- Paper: [Mentor-KD: Making Small Language Models Better Multi-step Reasoners](https://arxiv.org/abs/2410.09037)
+
+**[2024.10.12]**
+- Paper: [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://arxiv.org/abs/2410.09024)
+
+**[2024.10.11]**
+- Paper: [SubZero: Random Subspace Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2410.08989)
+
+**[2024.10.10]**
+- Paper: [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/abs/2410.11701)
+
+**[2024.10.9]**
+- Paper: [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](https://arxiv.org/abs/2410.11674)
+
+**[2024.10.8]**
+- Paper: [Enhance Graph Alignment for Large Language Models](https://arxiv.org/abs/2410.11370)
+
+**[2024.10.7]**
+- Paper: [HR-Agent: A Task-Oriented Dialogue (TOD) LLM Agent Tailored for HR Applications](https://arxiv.org/abs/2410.11239)
+
+**[2024.10.6]**
+- Paper: [Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models](https://arxiv.org/abs/2410.11195)
+
+**[2024.10.5]**
+- Paper: [Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos](https://arxiv.org/abs/2410.02763)
+
+**[2024.10.4]**
+- Paper: [FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](https://arxiv.org/abs/2410.02761)
+
+**[2024.10.3]**
+- 🔥🔥🔥[OpenAI release Canvas!!!](https://openai.com/index/introducing-canvas/)
+- Paper: [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757)
+
+**[2024.10.2]**
+- Paper: [ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI](https://arxiv.org/abs/2410.02751)
+
+**[2024.10.1]**
+- Paper: [AVG-LLaVA: A Multimodal Large Model with Adaptive Visual Granularity](https://arxiv.org/abs/2410.02745)
+
+**[2024.9.30]**
+- Paper: [Grounding Large Language Models In Embodied Environment With Imperfect World Models](https://arxiv.org/abs/2410.02742)
+
+**[2024.9.29]**
+- Paper: [Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization](https://arxiv.org/abs/2410.02721)
+
+**[2024.9.28]**
+- Paper: [LLaVA-Critic: Learning to Evaluate Multimodal Models](https://arxiv.org/abs/2410.02712)
+
+**[2024.9.27]**
+- Paper: [LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations](https://arxiv.org/abs/2410.02707)
+
+**[2024.9.26]**
+- Paper: [Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2410.02681)
+
+**[2024.9.25]**
+- Survey Paper: [Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650)
+
+**[2024.9.24]**
+- 🔥🔥🔥 Paper: [On the Diagram of Thought](https://arxiv.org/pdf/2409.10038)
+- Paper: [PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions](https://arxiv.org/abs/2409.15278)
+
+**[2024.9.23]**
+- Paper: [OmniBench: Towards The Future of Universal Omni-Language Models](https://arxiv.org/abs/2409.15272)
+
+**[2024.9.22]**
+- Paper: [Style over Substance: Failure Modes of LLM Judges in Alignment Benchmarking](https://arxiv.org/abs/2409.15268)
+
+**[2024.9.21]**
+- Paper: [Domino: Eliminating Communication in LLM Training via Generic Tensor Slicing and Overlapping](https://arxiv.org/abs/2409.15241)
+
+**[2024.9.20]**
+- Paper: [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](https://arxiv.org/abs/2409.15146)
+
+**[2024.9.19]**
+- Paper: [Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning](https://arxiv.org/abs/2409.15135)
+
+**[2024.9.18]**
+- Paper: [Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation](https://arxiv.org/abs/2409.15125)
+
+**[2024.9.17]**
+- Paper: [Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030)
+
+**[2024.9.16]**
+- 🔥🔥🔥[New Scaling Law puts an end to ‘non-profit games’](https://fortune.com/2024/09/13/sam-altman-openai-non-profit-structure-change-next-year/)
+
+**[2024.9.15]**
+- 🔥🔥🔥[Conspiracy theories don't work with big models! From MIT's latest research丨Science cover](https://www.debunkbot.com/)
+
+**[2024.9.14]**
+- 🔥🔥🔥[Mistral Releases First Multimodal Model, 12B Open Source Download](https://huggingface.co/mistralai/Pixtral-12B-2409)
+
+**[2024.9.13]**
+🔥🔥🔥[OpenAI Shock Release o1 Big Model! Reinforcement Learning Pushes the Limits of LLM Reasoning](https://openai.com/index/introducing-openai-o1-preview/)
+- Paper: [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289)
+
 **[2024.9.12]**
-- Paper: [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](https://arxiv.org/abs/2409.05929)
+Paper: [Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models](https://arxiv.org/abs/2409.05929)
 
 **[2024.9.11]**
 - Paper: [Assessing SPARQL capabilities of Large Language Models](https://arxiv.org/list/cs/pastweek?skip=687&show=446)
