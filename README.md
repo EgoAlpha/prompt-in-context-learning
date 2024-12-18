@@ -99,6 +99,48 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.12.18]**
+  - 🔥🔥🔥[Veo2&Imagen3: The "Google version" of Sora launched late at night, heralding the arrival of the 4K video generation era.](https://labs.google/fx/zh/tools/video-fx)
+  - 【Survery】
+    - Paper: [Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey](https://arxiv.org/abs/2412.06602)
+    - Paper: [Steps are all you need: Rethinking STEM Education with Prompt Engineering](https://arxiv.org/abs/2412.05023)
+    - Paper: [Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges](https://arxiv.org/abs/2412.03220)
+  - 【ICL】
+    - Paper: [Unlocking LLMs: Addressing Scarce Data and Bias Challenges in Mental Health](https://arxiv.org/abs/2412.12981)
+    - Paper: [Jailbreaking? One Step Is Enough!](https://arxiv.org/abs/2412.12621)
+  - 【Agent】
+    - Paper: [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194)
+    - Paper: [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178)
+    - Paper: [Bayesian Persuasion with Externalities: Exploiting Agent Types](https://arxiv.org/abs/2412.12859)
+  - 【RAG】
+    - Paper: [C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System](https://arxiv.org/abs/2412.13163)
+    - Paper: [AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark](https://arxiv.org/abs/2412.13102)
+    - Paper: [OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](https://arxiv.org/abs/2412.13018)
+  - 【Chain-of-thought】
+    - Paper: [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://arxiv.org/abs/2412.12932)
+    - Paper: [Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning](https://arxiv.org/abs/2412.11974)  
+
+- **[2024.12.17]**
+  - 🔥🔥🔥[ChatGPT Search, globally free! Her interactive voice search enables real-time querying, effectively challenging Google with simultaneous conversation and search.](https://x.com/OpenAI/status/1868715324885156177)
+
+- **[2024.12.16]**
+  - Paper: [Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs](https://arxiv.org/abs/2412.11747)
+
+- **[2024.12.15]**
+  - Paper: [C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664)
+
+- **[2024.12.14]**
+  - Paper: [SAMIC: Segment Anything with In-Context Spatial Prompt Engineering](https://arxiv.org/abs/2412.11998)
+
+- **[2024.12.13]**
+  - Paper: [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627)
+
+- **[2024.12.12]**
+  - Paper: [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
+
+- **[2024.11.18]**
+  - Paper: [IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities](https://www.arxiv.org/abs/2408.12902)
+
 - **[2024.11.17]**
   - Paper: [DROJ: A Prompt-Driven Attack against Large Language Models](https://arxiv.org/abs/2411.09125)
 

@@ -4,6 +4,51 @@
 
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+**[2024.12.18]**
+- 🔥🔥🔥[Veo2&Imagen3: The "Google version" of Sora launched late at night, heralding the arrival of the 4K video generation era.](https://labs.google/fx/zh/tools/video-fx)
+
+**[2024.12.17]**
+- 🔥🔥🔥[ChatGPT Search, globally free! Her interactive voice search enables real-time querying, effectively challenging Google with simultaneous conversation and search.](https://x.com/OpenAI/status/1868715324885156177)
+
+**[2024.12.16]**
+- Paper: [Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs](https://arxiv.org/abs/2412.11747)
+
+**[2024.12.15]**
+- Paper: [C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664)
+
+**[2024.12.14]**
+- Paper: [SAMIC: Segment Anything with In-Context Spatial Prompt Engineering](https://arxiv.org/abs/2412.11998)
+
+**[2024.12.13]**
+- Paper: [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627)
+
+**[2024.12.12]**
+- Paper: [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
+
+**[2024.11.18]**
+- Paper: [IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities](https://www.arxiv.org/abs/2408.12902)
+
+**[2024.11.17]**
+- Paper: [DROJ: A Prompt-Driven Attack against Large Language Models](https://arxiv.org/abs/2411.09125)
+
+**[2024.11.16]**
+- Paper:[On the Surprising Effectiveness of Attention Transfer for Vision Transformers](https://arxiv.org/abs/2411.09702)【NeurIPS2024】
+
+**[2024.11.15]**
+- Paper:[Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
+
+**[2024.11.14]**
+- Paper:[The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models](https://arxiv.org/abs/2411.08870)【EMNLP2024】
+
+**[2024.11.13]**
+- Paper:[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862)【AAAI2025】
+
+**[2024.11.12]**
+- Paper:[LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models](https://arxiv.org/abs/2411.08027)
+
+**[2024.11.11]**
+- Paper:[Towards Low-bit Communication for Tensor Parallel LLM Inference](https://arxiv.org/abs/2411.07942)
+
 **[2024.11.16]**
 - Paper:[On the Surprising Effectiveness of Attention Transfer for Vision Transformers](https://arxiv.org/abs/2411.09702)【NeurIPS2024】
 
