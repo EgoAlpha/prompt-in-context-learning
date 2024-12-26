@@ -99,6 +99,39 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 ☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
 
+- **[2024.12.26]**
+  - 🔥🔥🔥Big Event in this week:
+    - [The OpenAI launch event concluded successfully: o3 dominated the ARC-AGI test; how far are we from AGI?
+](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693?st=ng5hBi)
+    - [NeurIPS Showdown: Fei-Fei Li discusses visual intelligence in a 180-page presentation, Kai-Ming He talks about AI fatalism, and Bengio engages in a debate with OpenAI employees.
+](https://spectrum.ieee.org/fei-fei-li-world-labs)
+    - [Ilya declares: the era of pre-training is coming to an end.
+](https://x.com/vincentweisser/status/1867719020444889118)
+    - [The list of 2025 IEEE Fellows has been announced.
+](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/fellows/fellow-committee/2025-fellows-class-announcement.pdf)
+  - Paper List Recently:
+    - 【Survery】
+      - Paper: [Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388)
+      - Paper: [Towards Graph Prompt Learning: A Survey and Beyond](https://arxiv.org/abs/2408.14520)
+    - 【ICL】
+      - Paper: [The Power of Adaptation: Boosting In-Context Learning through Adaptive Prompting](https://arxiv.org/abs/2412.17891)
+      - Paper: [Revisiting In-Context Learning with Long Context Language Models](https://arxiv.org/abs/2412.16926)
+    - 【Foundation Models】
+      - Paper: [Byte Latent Transformer: Patches Scale Better Than Tokens ](https://arxiv.org/abs/2412.09871)【From Meta】
+      - Paper: [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://arxiv.org/abs/2412.07548)
+    - 【RAG】
+      - Paper: [GeAR: Graph-enhanced Agent for Retrieval-augmented Generation](https://arxiv.org/abs/2412.18431)
+      - Paper: [A Reality Check on Context Utilisation for Retrieval-Augmented Generation](https://arxiv.org/abs/2412.17031)
+      - Paper: [Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks](https://arxiv.org/abs/2412.16708)
+    - 【Chain-of-thought】
+      - Paper: [Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration](https://arxiv.org/abs/2412.18292)
+      - Paper: [Knowledge Editing through Chain-of-Thought](https://arxiv.org/abs/2412.17727)
+      - Paper: [DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/abs/2412.17498)
+    - 【Multimodal Prompts】
+      - Paper: [MetaMorph: Multimodal Understanding and Generation via Instruction Tuning](https://arxiv.org/pdf/2412.14164v1)【From Feifei Li】
+      - Paper: [HyperSeg: Towards Universal Visual Segmentation with Large Language Model](https://arxiv.org/abs/2411.17606)
+      - Paper: [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730)【APPLE-version Sora】
+
 - **[2024.12.18]**
   - 🔥🔥🔥[Veo2&Imagen3: The "Google version" of Sora launched late at night, heralding the arrival of the 4K video generation era.](https://labs.google/fx/zh/tools/video-fx)
   - 【Survery】
