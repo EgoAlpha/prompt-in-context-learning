@@ -95,105 +95,330 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <img width="200%" src="./figures/hr.gif" />
 
-# 📢 News
+# 🔥 AI Spotlight: Trending Research Papers
 <!-- 🔥🔥🔥 -->
-☄️ **EgoAlpha releases the TrustGPT focuses on reasoning. Trust the GPT with the strongest reasoning abilities for authentic and reliable answers. You can click [here](https://trustgpt.co) or visit the [Playgrounds](./Playground.md) directly to experience it。**
+☄️ **May 3, 2025** *– Buzzing papers everyone’s talking about*
 
-- **[2024.12.26]**
-  - 🔥🔥🔥Big Event in this week:
-    - [The OpenAI launch event concluded successfully: o3 dominated the ARC-AGI test; how far are we from AGI?
-](https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693?st=ng5hBi)
-    - [NeurIPS Showdown: Fei-Fei Li discusses visual intelligence in a 180-page presentation, Kai-Ming He talks about AI fatalism, and Bengio engages in a debate with OpenAI employees.
-](https://spectrum.ieee.org/fei-fei-li-world-labs)
-    - [Ilya declares: the era of pre-training is coming to an end.
-](https://x.com/vincentweisser/status/1867719020444889118)
-    - [The list of 2025 IEEE Fellows has been announced.
-](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/fellows/fellow-committee/2025-fellows-class-announcement.pdf)
-  - Paper List Recently:
-    - 【Survery】
-      - Paper: [Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388)
-      - Paper: [Towards Graph Prompt Learning: A Survey and Beyond](https://arxiv.org/abs/2408.14520)
-    - 【ICL】
-      - Paper: [The Power of Adaptation: Boosting In-Context Learning through Adaptive Prompting](https://arxiv.org/abs/2412.17891)
-      - Paper: [Revisiting In-Context Learning with Long Context Language Models](https://arxiv.org/abs/2412.16926)
-    - 【Foundation Models】
-      - Paper: [Byte Latent Transformer: Patches Scale Better Than Tokens ](https://arxiv.org/abs/2412.09871)【From Meta】
-      - Paper: [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://arxiv.org/abs/2412.07548)
-    - 【RAG】
-      - Paper: [GeAR: Graph-enhanced Agent for Retrieval-augmented Generation](https://arxiv.org/abs/2412.18431)
-      - Paper: [A Reality Check on Context Utilisation for Retrieval-Augmented Generation](https://arxiv.org/abs/2412.17031)
-      - Paper: [Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks](https://arxiv.org/abs/2412.16708)
-    - 【Chain-of-thought】
-      - Paper: [Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration](https://arxiv.org/abs/2412.18292)
-      - Paper: [Knowledge Editing through Chain-of-Thought](https://arxiv.org/abs/2412.17727)
-      - Paper: [DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/abs/2412.17498)
-    - 【Multimodal Prompts】
-      - Paper: [MetaMorph: Multimodal Understanding and Generation via Instruction Tuning](https://arxiv.org/pdf/2412.14164v1)【From Feifei Li】
-      - Paper: [HyperSeg: Towards Universal Visual Segmentation with Large Language Model](https://arxiv.org/abs/2411.17606)
-      - Paper: [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730)【APPLE-version Sora】
+### **[2025-05-01]**
 
-- **[2024.12.18]**
-  - 🔥🔥🔥[Veo2&Imagen3: The "Google version" of Sora launched late at night, heralding the arrival of the 4K video generation era.](https://labs.google/fx/zh/tools/video-fx)
-  - 【Survery】
-    - Paper: [Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey](https://arxiv.org/abs/2412.06602)
-    - Paper: [Steps are all you need: Rethinking STEM Education with Prompt Engineering](https://arxiv.org/abs/2412.05023)
-    - Paper: [Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges](https://arxiv.org/abs/2412.03220)
-  - 【ICL】
-    - Paper: [Unlocking LLMs: Addressing Scarce Data and Bias Challenges in Mental Health](https://arxiv.org/abs/2412.12981)
-    - Paper: [Jailbreaking? One Step Is Enough!](https://arxiv.org/abs/2412.12621)
-  - 【Agent】
-    - Paper: [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194)
-    - Paper: [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178)
-    - Paper: [Bayesian Persuasion with Externalities: Exploiting Agent Types](https://arxiv.org/abs/2412.12859)
-  - 【RAG】
-    - Paper: [C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System](https://arxiv.org/abs/2412.13163)
-    - Paper: [AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark](https://arxiv.org/abs/2412.13102)
-    - Paper: [OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](https://arxiv.org/abs/2412.13018)
-  - 【Chain-of-thought】
-    - Paper: [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://arxiv.org/abs/2412.12932)
-    - Paper: [Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning](https://arxiv.org/abs/2412.11974)  
+[**MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance**](https://arxiv.org/abs/2503.13509) 
 
-- **[2024.12.17]**
-  - 🔥🔥🔥[ChatGPT Search, globally free! Her interactive voice search enables real-time querying, effectively challenging Google with simultaneous conversation and search.](https://x.com/OpenAI/status/1868715324885156177)
+<font color="gray">Jia Xu,Tianyi Wei,Bojian Hou,Patryk Orzechowski,Shu Yang,etc - [arXiv]</font>
 
-- **[2024.12.16]**
-  - Paper: [Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs](https://arxiv.org/abs/2412.11747)
+![](https://img.shields.io/badge/GitHub%20Stars-2-blue)
+![](https://img.shields.io/badge/Social%20Mentions-6-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
-- **[2024.12.15]**
-  - Paper: [C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664)
+---
 
-- **[2024.12.14]**
-  - Paper: [SAMIC: Segment Anything with In-Context Spatial Prompt Engineering](https://arxiv.org/abs/2412.11998)
+[**Sleep-time Compute: Beyond Inference Scaling at Test-time**](https://arxiv.org/abs/2504.13171) 
 
-- **[2024.12.13]**
-  - Paper: [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627)
+<font color="gray">Kevin Lin,Charlie Snell,Yu Wang,Charles Packer,Sarah Wooders,etc - [arXiv]</font>
 
-- **[2024.12.12]**
-  - Paper: [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://arxiv.org/abs/2412.09605)
+![](https://img.shields.io/badge/GitHub%20Stars-73-blue)
+![](https://img.shields.io/badge/Social%20Mentions-44-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-1-9cf)
 
-- **[2024.11.18]**
-  - Paper: [IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities](https://www.arxiv.org/abs/2408.12902)
+---
 
-- **[2024.11.17]**
-  - Paper: [DROJ: A Prompt-Driven Attack against Large Language Models](https://arxiv.org/abs/2411.09125)
+[**End-to-End Conformal Calibration for Optimization Under Uncertainty**](https://arxiv.org/abs/2409.20534) 
 
-- **[2024.11.16]**
-  - Paper:[On the Surprising Effectiveness of Attention Transfer for Vision Transformers](https://arxiv.org/abs/2411.09702)【NeurIPS2024】
+<font color="gray">Christopher Yeh,Nicolas Christianson,Alan Wu,Adam Wierman,Yisong Yue - [arXiv]</font>
 
-- **[2024.11.15]**
-  - Paper:[Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
+![](https://img.shields.io/badge/GitHub%20Stars-8-blue)
+![](https://img.shields.io/badge/Social%20Mentions-4-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Citations-3-9cf)
 
-- **[2024.11.14]**
-  - Paper:[The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models](https://arxiv.org/abs/2411.08870)【EMNLP2024】
+---
 
-- **[2024.11.13]**
-  - Paper:[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862)【AAAI2025】
 
-- **[2024.11.12]**
-  - Paper:[LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models](https://arxiv.org/abs/2411.08027)
+### **[2025-04-28]**
 
-- **[2024.11.11]**
-  - Paper:[Towards Low-bit Communication for Tensor Parallel LLM Inference](https://arxiv.org/abs/2411.07942)
+[**MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance**](https://arxiv.org/abs/2503.13509) 
+
+<font color="gray">Jia Xu,Tianyi Wei,Bojian Hou,Patryk Orzechowski,Shu Yang,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-2-blue)
+![](https://img.shields.io/badge/Social%20Mentions-6-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**BitNet b1.58 2B4T Technical Report**](https://arxiv.org/abs/2504.12285) 
+
+<font color="gray">Shuming Ma,Hongyu Wang,Shaohan Huang,Xingxing Zhang,Ying Hu,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-73-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
+![](https://img.shields.io/badge/News%20Mentions-7-green)
+
+---
+
+[**Sleep-time Compute: Beyond Inference Scaling at Test-time**](https://arxiv.org/abs/2504.13171) 
+
+<font color="gray">Kevin Lin,Charlie Snell,Yu Wang,Charles Packer,Sarah Wooders,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-66-blue)
+![](https://img.shields.io/badge/Social%20Mentions-41-black)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+[**End-to-End Conformal Calibration for Optimization Under Uncertainty**](https://arxiv.org/abs/2409.20534) （**New**）
+
+<font color="gray">Christopher Yeh,Nicolas Christianson,Alan Wu,Adam Wierman,Yisong Yue - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-8-blue)
+![](https://img.shields.io/badge/Social%20Mentions-4-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Citations-3-9cf)
+
+---
+
+[**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**](https://arxiv.org/abs/2403.05530) 
+
+<font color="gray">Gemini Team,Petko Georgiev,Ving Ian Lei,Ryan Burnell,Libin Bai,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-139-blue)
+![](https://img.shields.io/badge/Social%20Mentions-143-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-319-red)
+![](https://img.shields.io/badge/News%20Mentions-14-green)
+![](https://img.shields.io/badge/Citations-1,421-9cf)
+
+---
+
+[**SkyReels-V2: Infinite-length Film Generative Model**](http://arxiv.org/pdf/2504.13074) （**New**）
+
+<font color="gray">Guibin Chen,Dixuan Lin,Jiangping Yang,Chunze Lin,Junchen Zhu,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-1,500-blue)
+![](https://img.shields.io/badge/Social%20Mentions-52-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+
+---
+
+
+### **[2025-04-26]**
+
+[**MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance**](https://arxiv.org/abs/2503.13509) （**New**）
+
+<font color="gray">Jia Xu,Tianyi Wei,Bojian Hou,Patryk Orzechowski,Shu Yang,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-2-blue)
+![](https://img.shields.io/badge/Social%20Mentions-6-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Sleep-time Compute: Beyond Inference Scaling at Test-time**](https://arxiv.org/abs/2504.13171) （**New**）
+
+<font color="gray">Kevin Lin,Charlie Snell,Yu Wang,Charles Packer,Sarah Wooders,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-58-blue)
+![](https://img.shields.io/badge/Social%20Mentions-37-black)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+### **[2025-04-22]**
+
+[**System of Agentic AI for the Discovery of Metal-Organic Frameworks**](https://arxiv.org/abs/2504.14110) （**New**）
+
+<font color="gray">Theo Jaffrelot Inizan,Sherry Yang,Aaron Kaplan,Yen-hsu Lin,Jian Yin,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-4-black)
+
+---
+
+[**One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**](https://arxiv.org/abs/2504.12451) 
+
+<font color="gray">Jia-Peng Zhang,Cheng-Feng Pu,Meng-Hao Guo,Yan-Pei Cao,Shi-Min Hu - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-26-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Pushing the Limits of Large Language Model Quantization via the Linearity Theorem**](https://arxiv.org/pdf/2411.17525) （**New**）
+
+<font color="gray">Vladimir Malinovskii,Andrei Panferov,Ivan Ilin,Han Guo,Peter Richtárik,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-358-blue)
+![](https://img.shields.io/badge/Social%20Mentions-69-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+![](https://img.shields.io/badge/News%20Mentions-6-green)
+![](https://img.shields.io/badge/Citations-4-9cf)
+
+---
+
+[**BitNet b1.58 2B4T Technical Report**](https://arxiv.org/abs/2504.12285) （**New**）
+
+<font color="gray">Shuming Ma,Hongyu Wang,Shaohan Huang,Xingxing Zhang,Ying Hu,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-58-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/News%20Mentions-6-green)
+
+---
+
+[**Adaptive AI decision interface for autonomous electronic material discovery**](https://arxiv.org/abs/2504.13344) （**New**）
+
+<font color="gray">Yahao Dai,Henry Chan,Aikaterini Vriza,Fredrick Kim,Yunfei Wang,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-1-black)
+
+---
+
+[**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**](https://arxiv.org/abs/2403.05530) （**New**）
+
+<font color="gray">Gemini Team,Petko Georgiev,Ving Ian Lei,Ryan Burnell,Libin Bai,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-138-blue)
+![](https://img.shields.io/badge/Social%20Mentions-141-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-316-red)
+![](https://img.shields.io/badge/News%20Mentions-14-green)
+![](https://img.shields.io/badge/Citations-1,379-9cf)
+
+---
+
+[**PooDLe: Pooled and dense self-supervised learning from naturalistic videos**](https://arxiv.org/abs/2408.11208) （**New**）
+
+<font color="gray">Alex N. Wang,Christopher Hoang,Yuwen Xiong,Yann LeCun,Mengye Ren - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-3-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+
+---
+
+
+### **[2025-04-19]**
+
+[**InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework**](https://arxiv.org/abs/2504.12395) （**New**）
+
+<font color="gray">Jiale Tao,Yanbing Zhang,Qixun Wang,Yiji Cheng,Haofan Wang,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-578-blue)
+![](https://img.shields.io/badge/Social%20Mentions-10-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+
+---
+
+[**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**](https://arxiv.org/pdf/2504.13055) （**New**）
+
+<font color="gray">Xiangyan Liu,Jinjie Ni,Zijian Wu,Chao Du,Longxu Dou,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-47-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**One Model to Rig Them All: Diverse Skeleton Rigging with UniRig**](https://arxiv.org/abs/2504.12451) （**New**）
+
+<font color="gray">Jia-Peng Zhang,Cheng-Feng Pu,Meng-Hao Guo,Yan-Pei Cao,Shi-Min Hu - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-448-blue)
+![](https://img.shields.io/badge/Social%20Mentions-26-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**Byte Latent Transformer: Patches Scale Better Than Tokens**](https://arxiv.org/pdf/2412.09871) （**New**）
+
+<font color="gray">Artidoro Pagnoni,Ram Pasunuru,Pedro Rodriguez,John Nguyen,Benjamin Muller,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-1,510-blue)
+![](https://img.shields.io/badge/Social%20Mentions-149-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-101-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-17-9cf)
+
+---
+
+
+### **[2025-04-16]**
+
+[**Amuse: Human-AI Collaborative Songwriting with Multimodal Inspirations**](https://arxiv.org/abs/2412.18940) （**New**）
+
+<font color="gray">Yewon Kim,Sung-Ju Lee,Chris Donahue - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-38-black)
+
+---
+
+[**Language Model Alignment in Multilingual Trolley Problems**](http://arxiv.org/abs/2407.02273) （**New**）
+
+<font color="gray">Zhijing Jin,Max Kleiman-Weiner,Giorgio Piatti,Sydney Levine,Jiarui Liu,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-9-blue)
+![](https://img.shields.io/badge/Social%20Mentions-28-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+
+---
+
+[**Survey on Evaluation of LLM-based Agents**](https://arxiv.org/pdf/2503.16416]) （**New**）
+
+<font color="gray">Asaf Yehudai,Lilach Eden,Alan Li,Guy Uziel,Yilun Zhao,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-146-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-19-red)
+![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+[**Concise Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2504.05185) （**New**）
+
+<font color="gray">Mehdi Fatemi,Banafsheh Rafiee,Mingjie Tang,Kartik Talamadupula - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-238-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+![](https://img.shields.io/badge/News%20Mentions-2-green)
+
+---
+
+[**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**](https://arxiv.org/abs/2502.15657) （**New**）
+
+<font color="gray">Yoshua Bengio,Michael Cohen,Damiano Fornasiere,Joumana Ghosn,Pietro Greiner,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-68-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/News%20Mentions-4-green)
+
+---
+
+[**Optimizing Safe and Aligned Language Generation: A Multi-Objective GRPO Approach**](http://arxiv.org/abs/2503.21819) （**New**）
+
+<font color="gray">Xuying Li,Zhuo Li,Yuji Kosuga,Victor Bian - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-8-black)
+
+---
+
+[**Agent S: An Open Agentic Framework that Uses Computers Like a Human**](https://arxiv.org/abs/2410.08164) （**New**）
+
+<font color="gray">Saaket Agashe,Jiuzhou Han,Shuyu Gan,Jiachen Yang,Ang Li,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/GitHub%20Stars-2,408-blue)
+![](https://img.shields.io/badge/Social%20Mentions-49-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-30-red)
+
+---
+
+[**Ctrl-Z: Controlling AI Agents via Resampling**](https://arxiv.org/abs/2504.10374) （**New**）
+
+<font color="gray">Aryan Bhatt,Cody Rushing,Adam Kaufman,Tyler Tracy,Vasil Georgiev,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-4-black)
+
+---
+
+
 
 [👉 Complete history news 👈](./historynews.md)
 
