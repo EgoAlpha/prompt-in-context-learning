@@ -76,7 +76,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <img width="200%" src="./figures/hr.gif" />
 
 # Table of Contents
-- [📢 News](#-news)
+- [🔥 AI Spotlight](#-ai-spotlight-trending-research-papers)
 - [📜 Papers](#-papers)
   - [Survey](#survey)
   - [Prompt Engineering](#prompt-engineering)
@@ -97,7 +97,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 # 🔥 AI Spotlight: Trending Research Papers
 <!-- 🔥🔥🔥 -->
-☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about*
+<!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
 ### **[2025-05-01]**
 
