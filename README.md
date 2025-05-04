@@ -99,13 +99,73 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 <!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
+### **[2025-05-04]**
+
+[**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**](https://arxiv.org/abs/2411.11401) （**New**）
+
+<font color="gray">Rosalia Tufano,Alberto Martin-Lopez,Ahmad Tayeb,Ozren Dabić,Sonia Haiduc,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-4-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+
+---
+
+[**Knowledge Graph Guided Evaluation of Abstention Techniques**](http://arxiv.org/abs/2412.07430) （**New**）
+
+<font color="gray">Kinshuk Vasisht,Navreet Kaur,Danish Pruthi - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-3-black)
+
+---
+
+[**Memorization and Knowledge Injection in Gated LLMs**](https://arxiv.org/pdf/2504.21239) （**New**）
+
+<font color="gray">Xu Pan,Ely Hahami,Zechen Zhang,Haim Sompolinsky - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-16-black)
+
+---
+
+[**End-to-End Conformal Calibration for Optimization Under Uncertainty**](https://arxiv.org/abs/2409.20534) 
+
+<font color="gray">Christopher Yeh,Nicolas Christianson,Alan Wu,Adam Wierman,Yisong Yue - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-8-blue)](https://github.com/chrisyeh96/e2e-conformal)
+![](https://img.shields.io/badge/Social%20Mentions-6-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Citations-3-9cf)
+
+---
+
+[**A Practical Examination of AI-Generated Text Detectors for Large Language Models**](https://arxiv.org/abs/2412.05139) （**New**）
+
+<font color="gray">Brian Tufts,Xuandong Zhao,Lei Li - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-8-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+[**SkyReels-V2: Infinite-length Film Generative Model**](http://arxiv.org/pdf/2504.13074) 
+
+<font color="gray">Guibin Chen,Dixuan Lin,Jiangping Yang,Chunze Lin,Junchen Zhu,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,870-blue)](https://github.com/skyworkai/skyreels-v2)
+![](https://img.shields.io/badge/Social%20Mentions-58-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+
+---
+
+
 ### **[2025-05-01]**
 
 [**MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance**](https://arxiv.org/abs/2503.13509) 
 
 <font color="gray">Jia Xu,Tianyi Wei,Bojian Hou,Patryk Orzechowski,Shu Yang,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-2-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-2-blue)](https://github.com/ChiaPatricia/MentalChat16K)
 ![](https://img.shields.io/badge/Social%20Mentions-6-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
@@ -115,7 +175,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Kevin Lin,Charlie Snell,Yu Wang,Charles Packer,Sarah Wooders,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-73-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/letta-ai/sleep-time-compute)
 ![](https://img.shields.io/badge/Social%20Mentions-44-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 ![](https://img.shields.io/badge/News%20Mentions-1-green)
@@ -127,7 +187,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Christopher Yeh,Nicolas Christianson,Alan Wu,Adam Wierman,Yisong Yue - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-8-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-8-blue)](https://github.com/chrisyeh96/e2e-conformal)
 ![](https://img.shields.io/badge/Social%20Mentions-4-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 ![](https://img.shields.io/badge/Citations-3-9cf)
@@ -141,7 +201,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Jia Xu,Tianyi Wei,Bojian Hou,Patryk Orzechowski,Shu Yang,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-2-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-2-blue)](https://github.com/ChiaPatricia/MentalChat16K)
 ![](https://img.shields.io/badge/Social%20Mentions-6-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
@@ -161,7 +221,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Kevin Lin,Charlie Snell,Yu Wang,Charles Packer,Sarah Wooders,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-66-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-66-blue)](https://github.com/letta-ai/sleep-time-compute)
 ![](https://img.shields.io/badge/Social%20Mentions-41-black)
 ![](https://img.shields.io/badge/News%20Mentions-1-green)
 ![](https://img.shields.io/badge/Citations-1-9cf)
@@ -172,7 +232,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Christopher Yeh,Nicolas Christianson,Alan Wu,Adam Wierman,Yisong Yue - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-8-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-8-blue)](https://github.com/chrisyeh96/e2e-conformal)
 ![](https://img.shields.io/badge/Social%20Mentions-4-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 ![](https://img.shields.io/badge/Citations-3-9cf)
@@ -183,7 +243,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Gemini Team,Petko Georgiev,Ving Ian Lei,Ryan Burnell,Libin Bai,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-139-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-139-blue)](https://github.com/dlvuldet/primevul)
 ![](https://img.shields.io/badge/Social%20Mentions-143-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-319-red)
 ![](https://img.shields.io/badge/News%20Mentions-14-green)
@@ -195,7 +255,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Guibin Chen,Dixuan Lin,Jiangping Yang,Chunze Lin,Junchen Zhu,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-1,500-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,500-blue)](https://github.com/skyworkai/skyreels-v2)
 ![](https://img.shields.io/badge/Social%20Mentions-52-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
 ![](https://img.shields.io/badge/News%20Mentions-1-green)
@@ -209,7 +269,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Jia Xu,Tianyi Wei,Bojian Hou,Patryk Orzechowski,Shu Yang,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-2-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-2-blue)](https://github.com/ChiaPatricia/MentalChat16K)
 ![](https://img.shields.io/badge/Social%20Mentions-6-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
@@ -219,7 +279,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Kevin Lin,Charlie Snell,Yu Wang,Charles Packer,Sarah Wooders,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-58-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/letta-ai/sleep-time-compute)
 ![](https://img.shields.io/badge/Social%20Mentions-37-black)
 ![](https://img.shields.io/badge/News%20Mentions-1-green)
 ![](https://img.shields.io/badge/Citations-1-9cf)
@@ -250,7 +310,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Vladimir Malinovskii,Andrei Panferov,Ivan Ilin,Han Guo,Peter Richtárik,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-358-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-358-blue)](https://github.com/hanguo97/flute)
 ![](https://img.shields.io/badge/Social%20Mentions-69-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
 ![](https://img.shields.io/badge/News%20Mentions-6-green)
@@ -280,7 +340,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Gemini Team,Petko Georgiev,Ving Ian Lei,Ryan Burnell,Libin Bai,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-138-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/dlvuldet/primevul)
 ![](https://img.shields.io/badge/Social%20Mentions-141-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-316-red)
 ![](https://img.shields.io/badge/News%20Mentions-14-green)
@@ -304,7 +364,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Jiale Tao,Yanbing Zhang,Qixun Wang,Yiji Cheng,Haofan Wang,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-578-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-578-blue)](https://github.com/tencent/instantcharacter)
 ![](https://img.shields.io/badge/Social%20Mentions-10-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
 
@@ -323,7 +383,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Jia-Peng Zhang,Cheng-Feng Pu,Meng-Hao Guo,Yan-Pei Cao,Shi-Min Hu - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-448-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-448-blue)](https://github.com/VAST-AI-Research/UniRig)
 ![](https://img.shields.io/badge/Social%20Mentions-26-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
@@ -333,7 +393,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Artidoro Pagnoni,Ram Pasunuru,Pedro Rodriguez,John Nguyen,Benjamin Muller,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-1,510-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,510-blue)](https://github.com/facebookresearch/blt)
 ![](https://img.shields.io/badge/Social%20Mentions-149-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-101-red)
 ![](https://img.shields.io/badge/News%20Mentions-1-green)
@@ -356,7 +416,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Zhijing Jin,Max Kleiman-Weiner,Giorgio Piatti,Sydney Levine,Jiarui Liu,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-9-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-9-blue)](https://github.com/causalNLP/moralmachine)
 ![](https://img.shields.io/badge/Social%20Mentions-28-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
@@ -404,7 +464,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 <font color="gray">Saaket Agashe,Jiuzhou Han,Shuyu Gan,Jiachen Yang,Ang Li,etc - [arXiv]</font>
 
-![](https://img.shields.io/badge/GitHub%20Stars-2,408-blue)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,408-blue)](https://github.com/simular-ai/agent-s)
 ![](https://img.shields.io/badge/Social%20Mentions-49-black)
 ![](https://img.shields.io/badge/Mendeley%20Readers-30-red)
 
@@ -417,6 +477,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ![](https://img.shields.io/badge/Social%20Mentions-4-black)
 
 ---
+
+
 
 
 
