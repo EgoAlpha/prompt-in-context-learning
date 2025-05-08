@@ -99,6 +99,17 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 <!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
+### **[2025-05-07]**
+
+[**Practical Efficiency of Muon for Pretraining**](https://arxiv.org/abs/2505.02222) （**New**）
+
+<font color="gray">Essential AI,:,Ishaan Shah,Anthony M. Polloreno,Karl Stratos,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-9-black)
+
+---
+
+
 ### **[2025-05-04]**
 
 [**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**](https://arxiv.org/abs/2411.11401) （**New**）
@@ -477,6 +488,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ![](https://img.shields.io/badge/Social%20Mentions-4-black)
 
 ---
+
 
 
 
