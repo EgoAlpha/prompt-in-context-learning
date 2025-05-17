@@ -99,6 +99,203 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- 🔥🔥🔥 -->
 <!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
+### **[2025-05-16]**
+
+[**The Philosophic Turn for AI Agents: Replacing centralized digital rhetoric with decentralized truth-seeking**](https://arxiv.org/abs/2504.18601) 
+
+<font color="gray">Philipp Koralus - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-33-black)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+
+---
+
+[**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**](http://arxiv.org/pdf/2505.08617) （**New**）
+
+<font color="gray">Zhaochen Su,Linjie Li,Mingyang Song,Yunzhuo Hao,Zhengyuan Yang,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/zhaochen0110/openthinkimg)
+![](https://img.shields.io/badge/Social%20Mentions-18-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+[**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**](http://arxiv.org/abs/2505.04608) （**New**）
+
+<font color="gray">Drew Prinster,Xing Han,Anqi Liu,Suchi Saria - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-13-black)
+
+---
+
+[**A Survey of Interactive Generative Video**](https://arxiv.org/abs/2504.21853) （**New**）
+
+<font color="gray">Jiwen Yu,Yiran Qin,Haoxuan Che,Quande Liu,Xintao Wang,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-17-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+
+---
+
+[**Fast Text-to-Audio Generation with Adversarial Post-Training**](https://arxiv.org/abs/2505.08175) （**New**）
+
+<font color="gray">Zachary Novack,Zach Evans,Zack Zukowski,Josiah Taylor,CJ Carr,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-3,139-blue)](https://github.com/stability-ai/stable-audio-tools)
+![](https://img.shields.io/badge/Social%20Mentions-73-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+[**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**](https://arxiv.org/abs/2505.05197) 
+
+<font color="gray">Joel Z. Leibo,Alexander Sasha Vezhnevets,William A. Cunningham,Sébastien Krier,Manfred Diaz,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-26-black)
+
+---
+
+[**SkyReels-V2: Infinite-length Film Generative Model**](http://arxiv.org/pdf/2504.13074) 
+
+<font color="gray">Guibin Chen,Dixuan Lin,Jiangping Yang,Chunze Lin,Junchen Zhu,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,245-blue)](https://github.com/skyworkai/skyreels-v2)
+![](https://img.shields.io/badge/Social%20Mentions-61-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+[**Continuous Thought Machines**](https://arxiv.org/abs/2505.05522) 
+
+<font color="gray">Luke Darlow,Ciaran Regan,Sebastian Risi,Jeffrey Seely,Llion Jones - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-660-blue)](https://github.com/SakanaAI/continuous-thought-machines)
+![](https://img.shields.io/badge/Social%20Mentions-52-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/News%20Mentions-6-green)
+
+---
+
+
+### **[2025-05-13]**
+
+[**The Philosophic Turn for AI Agents: Replacing centralized digital rhetoric with decentralized truth-seeking**](https://arxiv.org/abs/2504.18601) （**New**）
+
+<font color="gray">Philipp Koralus - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-30-black)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+
+---
+
+[**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**](https://arxiv.org/abs/2503.09594) 
+
+<font color="gray">Katrin Renz,Long Chen,Elahe Arani,Oleg Sinavski - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-28-blue)](https://github.com/RenzKa/simlingo)
+![](https://img.shields.io/badge/Social%20Mentions-14-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+
+---
+
+[**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**](https://arxiv.org/abs/2505.03335) （**New**）
+
+<font color="gray">Andrew Zhao,Yiran Wu,Yang Yue,Tong Wu,Quentin Xu,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-761-blue)](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
+![](https://img.shields.io/badge/Social%20Mentions-139-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-30-red)
+![](https://img.shields.io/badge/News%20Mentions-2-green)
+
+---
+
+[**CoSER: Coordinating LLM-Based Persona Simulation of Established Roles**](https://arxiv.org/pdf/2502.09082) （**New**）
+
+<font color="gray">Xintao Wang,Heng Wang,Yifei Zhang,Xinfeng Yuan,Rui Xu,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/Neph0s/CoSER)
+![](https://img.shields.io/badge/Social%20Mentions-10-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-3-9cf)
+
+---
+
+[**Practical Efficiency of Muon for Pretraining**](https://arxiv.org/abs/2505.02222) 
+
+<font color="gray">Essential AI,:,Ishaan Shah,Anthony M. Polloreno,Karl Stratos,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-18-black)
+
+---
+
+[**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**](https://arxiv.org/abs/2505.05197) 
+
+<font color="gray">Joel Z. Leibo,Alexander Sasha Vezhnevets,William A. Cunningham,Sébastien Krier,Manfred Diaz,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-25-black)
+
+---
+
+[**SkyReels-V2: Infinite-length Film Generative Model**](http://arxiv.org/pdf/2504.13074) 
+
+<font color="gray">Guibin Chen,Dixuan Lin,Jiangping Yang,Chunze Lin,Junchen Zhu,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,177-blue)](https://github.com/skyworkai/skyreels-v2)
+![](https://img.shields.io/badge/Social%20Mentions-58-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+[**Continuous Thought Machines**](https://arxiv.org/abs/2505.05522) （**New**）
+
+<font color="gray">Luke Darlow,Ciaran Regan,Sebastian Risi,Jeffrey Seely,Llion Jones - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-402-blue)](https://github.com/SakanaAI/continuous-thought-machines)
+![](https://img.shields.io/badge/Social%20Mentions-43-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/News%20Mentions-3-green)
+
+---
+
+
+### **[2025-05-10]**
+
+[**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**](https://arxiv.org/abs/2503.09594) （**New**）
+
+<font color="gray">Katrin Renz,Long Chen,Elahe Arani,Oleg Sinavski - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-21-blue)](https://github.com/RenzKa/simlingo)
+![](https://img.shields.io/badge/Social%20Mentions-13-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+
+---
+
+[**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**](https://arxiv.org/abs/2505.05197) （**New**）
+
+<font color="gray">Joel Z. Leibo,Alexander Sasha Vezhnevets,William A. Cunningham,Sébastien Krier,Manfred Diaz,etc - [arXiv]</font>
+
+![](https://img.shields.io/badge/Social%20Mentions-20-black)
+
+---
+
+[**SkyReels-V2: Infinite-length Film Generative Model**](http://arxiv.org/pdf/2504.13074) 
+
+<font color="gray">Guibin Chen,Dixuan Lin,Jiangping Yang,Chunze Lin,Junchen Zhu,etc - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,093-blue)](https://github.com/skyworkai/skyreels-v2)
+![](https://img.shields.io/badge/Social%20Mentions-58-black)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+![](https://img.shields.io/badge/News%20Mentions-1-green)
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
 ### **[2025-05-07]**
 
 [**Practical Efficiency of Muon for Pretraining**](https://arxiv.org/abs/2505.02222) （**New**）
@@ -411,85 +608,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 ![](https://img.shields.io/badge/Citations-17-9cf)
 
 ---
-
-
-### **[2025-04-16]**
-
-[**Amuse: Human-AI Collaborative Songwriting with Multimodal Inspirations**](https://arxiv.org/abs/2412.18940) （**New**）
-
-<font color="gray">Yewon Kim,Sung-Ju Lee,Chris Donahue - [arXiv]</font>
-
-![](https://img.shields.io/badge/Social%20Mentions-38-black)
-
----
-
-[**Language Model Alignment in Multilingual Trolley Problems**](http://arxiv.org/abs/2407.02273) （**New**）
-
-<font color="gray">Zhijing Jin,Max Kleiman-Weiner,Giorgio Piatti,Sydney Levine,Jiarui Liu,etc - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-9-blue)](https://github.com/causalNLP/moralmachine)
-![](https://img.shields.io/badge/Social%20Mentions-28-black)
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
----
-
-[**Survey on Evaluation of LLM-based Agents**](https://arxiv.org/pdf/2503.16416]) （**New**）
-
-<font color="gray">Asaf Yehudai,Lilach Eden,Alan Li,Guy Uziel,Yilun Zhao,etc - [arXiv]</font>
-
-![](https://img.shields.io/badge/Social%20Mentions-146-black)
-![](https://img.shields.io/badge/Mendeley%20Readers-19-red)
-![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-[**Concise Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2504.05185) （**New**）
-
-<font color="gray">Mehdi Fatemi,Banafsheh Rafiee,Mingjie Tang,Kartik Talamadupula - [arXiv]</font>
-
-![](https://img.shields.io/badge/Social%20Mentions-238-black)
-![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
-![](https://img.shields.io/badge/News%20Mentions-2-green)
-
----
-
-[**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**](https://arxiv.org/abs/2502.15657) （**New**）
-
-<font color="gray">Yoshua Bengio,Michael Cohen,Damiano Fornasiere,Joumana Ghosn,Pietro Greiner,etc - [arXiv]</font>
-
-![](https://img.shields.io/badge/Social%20Mentions-68-black)
-![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
-![](https://img.shields.io/badge/News%20Mentions-4-green)
-
----
-
-[**Optimizing Safe and Aligned Language Generation: A Multi-Objective GRPO Approach**](http://arxiv.org/abs/2503.21819) （**New**）
-
-<font color="gray">Xuying Li,Zhuo Li,Yuji Kosuga,Victor Bian - [arXiv]</font>
-
-![](https://img.shields.io/badge/Social%20Mentions-8-black)
-
----
-
-[**Agent S: An Open Agentic Framework that Uses Computers Like a Human**](https://arxiv.org/abs/2410.08164) （**New**）
-
-<font color="gray">Saaket Agashe,Jiuzhou Han,Shuyu Gan,Jiachen Yang,Ang Li,etc - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,408-blue)](https://github.com/simular-ai/agent-s)
-![](https://img.shields.io/badge/Social%20Mentions-49-black)
-![](https://img.shields.io/badge/Mendeley%20Readers-30-red)
-
----
-
-[**Ctrl-Z: Controlling AI Agents via Resampling**](https://arxiv.org/abs/2504.10374) （**New**）
-
-<font color="gray">Aryan Bhatt,Cody Rushing,Adam Kaufman,Tyler Tracy,Vasil Georgiev,etc - [arXiv]</font>
-
-![](https://img.shields.io/badge/Social%20Mentions-4-black)
-
----
-
-
 
 
 
