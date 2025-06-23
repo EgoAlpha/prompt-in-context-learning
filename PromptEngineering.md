@@ -11,24 +11,23 @@
 
 ## 1. Introduction
 
-Prompt engineering is an effective tool that can help us better navigate generative large language models and will greatly improve our productivity. In the near future, it is an inevitable trend that human-machine collaboration will become the main production method. Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
+Prompt engineering is a powerful tool that significantly enhances our interaction with generative large language models, boosting productivity. Human-machine collaboration is rapidly becoming the primary mode of production, an undeniable trend. Prompt engineering focuses on designing, creating, and refining prompts to elicit accurate, consistent, and unbiased outputs from large language models (LLMs).
 
-> The aforementioned is also applicable to other large generative models, such as text-to-image synthesizers. For the sake of brevity, we will temporarily focus on language models.
+> This concept also applies to other large generative models, such as text-to-image synthesizers. For conciseness, this discussion will primarily focus on language models.
 
+LLMs are trained on extensive text datasets, enabling them to capture a vast amount of real-world information. Their ability to generate human-like text has led to their widespread adoption in applications like chatbots and virtual assistants. However, without proper prompt engineering, their outputs can be unpredictable and potentially problematic.
 
-LLMs are trained on vast amounts of text data, allowing them to encode a substantial amount of factual information about the world. Their popularity has surged in recent years due to their ability to generate human-like text, making them ideal for chatbots, virtual assistants, and similar applications. However, it is essential to note that without appropriate prompt engineering, the generated outputs can be unpredictable and potentially result in harmful consequences.
+The core objective of prompt engineering is to craft effective prompts that guide LLMs to generate responses capable of solving complex, specific tasks.
 
-The goal of prompt engineering is to identify an appropriate prompt to be given to LLMs, in such a way that they generate responses that can effectively solve our specified complex tasks. 
+A prompt can be any form of natural language—statements, instructions, questions, or even paragraphs—that stimulates the LLM's creativity and directs it toward exploring various topics and tasks.
 
-A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraphs, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
+> To simplify understanding for beginners, we will temporarily set aside the concept of soft prompts.
 
-> For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.
+Upon receiving diverse prompts, LLMs can produce a wide array of output formats, including complete sentences, Q&A pairs, translations, conversational scripts, and other text generations, all possessing broad applications and immense creative potential.
 
-After receiving various types of prompts, LLMs have the ability to generate a diverse range of output formats, including completed sentences, question-answers, translations, conversational scripts, and other text generation, all of which have wide-ranging applications and great creative potential. 
+Leveraging the knowledge and experience gained from vast language data during training, LLMs serve not only as conversational chatbots but also as highly effective problem-solvers.
 
-Depending on the knowledge and experience acquired from vast amounts of language data during training, LLMs are not just used for chatbot conversations, but also highly effective problem solvers. 
-
-### 💥 Highlight: To enhance the problem-solving ability of LLMs, high-quality prompts are crucial.
+### 💥 Highlight: High-quality prompts are essential for enhancing the problem-solving capabilities of LLMs.
 
 <img width="200%" src="./figures/hr.gif" />
 
@@ -36,34 +35,34 @@ Depending on the knowledge and experience acquired from vast amounts of language
 A good prompt is one that is specific and provides enough context for LLMs to be able to generate a response that is relevant to the task.
 
 ### 2.1 Design principle
-To ensure the effectiveness and accuracy of the prompts, we need to follow the following principles:
+To ensure prompt effectiveness and accuracy, adhere to these principles:
 
-- **1. Clear and specific instructions:** The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt, which may lead to unclear or irrelevant answers.
--	**2. Simple and clear wording:** We should use simple, clear and explicit language to convey meaning and avoid overly complex or vague words to help the model better understand our prompt.
--	**3. Avoid complex sentence types:** We should try to avoid using complex sentence types and grammatical structures in order to reduce the difficulty and complexity of the model's comprehension.
--	**4. Avoid ambiguity:** Prompts need to express exactly what we intend and avoid words that are ambiguous or unclear in intent to ensure that the model understands and answers the question correctly.
--	**5.Use keywords**: Use keywords in the prompt that are relevant to the topic of the conversation. This helps the LLM to understand the context and respond appropriately.
--	**6.Consider the intended audience**: Consider the intended audience for the generated responses and tailor the prompts accordingly. Use appropriate language, terminology, and examples that the audience is likely to understand .
--	**7.Test and refine**: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
+- **1. Clear and specific instructions:** Clearly state the task or question. Avoid ambiguity or vagueness, which can lead to unclear or irrelevant answers.
+- **2. Simple and clear wording:** Use straightforward, explicit language. Avoid overly complex or vague terms to enhance model comprehension.
+- **3. Avoid complex sentence structures:** Minimize complex sentence types and grammatical structures to simplify model understanding.
+- **4. Eliminate ambiguity:** Ensure prompts precisely convey your intent. Avoid ambiguous words to guarantee correct model interpretation and response.
+- **5. Utilize keywords:** Incorporate relevant keywords to the conversation topic. This aids the LLM in understanding context and responding appropriately.
+- **6. Consider the intended audience:** Tailor prompts to the target audience of the generated responses. Use appropriate language, terminology, and examples for better understanding.
+- **7. Test and refine:** Experiment with prompts and iteratively refine them based on response quality. Continue until generated responses achieve high quality and relevance.
 
-Following the above design principles when designing prompts can improve the quality and accuracy of the output results of the large language model, thus improving our user experience.
+Adhering to these design principles will enhance the quality and accuracy of large language model outputs, thereby improving the user experience.
 ### 2.2 Framework
-We propose a prompt design framework consisting of five key components, which include: Context, Instruction,Relevance,Constraints, and Demonstration. Following the standardized structure of these five key parts can help simplify the prompt design, resulting in a more effective and targeted prompt design.
+We propose a prompt design framework comprising five key components: Context, Instruction, Relevance, Constraints, and Demonstration. Adhering to the standardized structure of these components simplifies prompt design, leading to more effective and targeted prompts.
 
 - 🕐**Context**:  
-  - Context is key when designing a prompt. Make sure to provide enough background information surrounding to the designated task so that the model can understands the situation and generate text that is relevant and accurate. 
+  - Context is paramount in prompt design. Provide sufficient background information relevant to the task, enabling the model to understand the situation and generate accurate, pertinent text.
 
-- 🕜**Instruction**:
-  - Instruction is crucial as it guides the model on what to do and what is expected of it. It is important to be clear, concise and specific. When dealing with complex reasoning tasks, consider breaking the tasks down into smaller, more manageable steps to help the model understand the task at hand.
+- 🕜**Instruction**:  
+  - Instructions are vital for guiding the model on expected actions. Be clear, concise, and specific. For complex reasoning tasks, consider breaking them into smaller, manageable steps to aid model comprehension.
 
-- 🕑**Relevance**:
-  - Relevance is essential when specific information needs to be referenced. This information could be links to relevant articles or data, or specific input provided by the user. By utilizing this specific information, the model can tailor its output to be personalized, reliable, and consistent with the user's needs.
+- 🕑**Relevance**:  
+  - Relevance is crucial when specific information needs referencing. This can include links to articles, data, or user-provided input. Utilizing such information allows the model to personalize its output, ensuring reliability and consistency with user needs.
 
 - 🕝**Constraint**:    
-  - Constraint is helpful as guiding LLMs on what it can and cannot do, ultimately leading to more accurate results. This may involve specifying the format of the output, the type of language to be used, or even the length of the output. Additionally, specifying the difficulty level and style can further refine the output.
+  - Constraints help define what LLMs can and cannot do, ultimately yielding more accurate results. This may involve specifying output format, language style, or length. Additionally, defining difficulty levels and stylistic preferences can further refine the output.
 
 - 🕒**Demonstration**: 
-  - Demonstration is valuable as it allow LLMs to understand what is expected through examples, particularly when instructions alone cannot effectively convey specific details and accuracy. By offering examples of input and output pairs, LLMs can automatically identify patterns and then generate text that is aligned with the user's expectations.
+  - Demonstrations are invaluable for helping LLMs understand expectations through examples, especially when instructions alone cannot fully convey specific details or accuracy. By providing input-output pairs, LLMs can automatically identify patterns and generate text aligned with user expectations.
 
 ## 💥 Based on the complexity and characteristics of the task, you can select a few components from them to form your prompt. 
 
