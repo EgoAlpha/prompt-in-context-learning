@@ -2,14 +2,14 @@
 
 # Table Of Contents
 
-- <a href = '#jj'>1.Introduction</a>
-- <a href = '#sjyz'>2.Design Principle and Framework</a>
-- <a href = '#tsjs'>3.Prompt Techniques</a> 
+- [1. Introduction](#introduction)
+- [2. Design Principle and Framework](#design-principle-and-framework)
+- [3. Prompt Techniques](#prompt-techniques) 
 
 
 <img width="200%" src="./figures/hr.gif" />
 
-## Introduction
+## 1. Introduction
 
 Prompt engineering is an effective tool that can help us better navigate generative large language models and will greatly improve our productivity. In the near future, it is an inevitable trend that human-machine collaboration will become the main production method. Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
 
@@ -32,7 +32,7 @@ Depending on the knowledge and experience acquired from vast amounts of language
 
 <img width="200%" src="./figures/hr.gif" />
 
-## <span id='sjyz'>2. Design Principle and Framework </span> 
+## 2. Design Principle and Framework 
 A good prompt is one that is specific and provides enough context for LLMs to be able to generate a response that is relevant to the task.
 
 ### 2.1 Design principle
@@ -201,7 +201,7 @@ As we can see, the large language model will follow the format of the given demo
 
     Technology
 
-## <span id='tsjs'>3.Prompt Techniques</span>
+## 3. Prompt Techniques
 #### Basic prompting
 
 
