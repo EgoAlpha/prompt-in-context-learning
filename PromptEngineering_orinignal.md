@@ -21,7 +21,7 @@ The goal of prompt engineering is to identify an appropriate prompt to be given 
 
 A prompt can take on any form of sentence such as statements, instructions, questions, or even paragraphs, as long as it inspires the imagination of LLMs and guides them to explore a variety of topics and tasks.
 
-> For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.**
+> For the sake of making it easier for beginners to understand, we will temporarily set aside the concept of soft prompts.
 
 After receiving various types of prompts, LLMs have the ability to generate a diverse range of output formats, including completed sentences, question-answers, translations, conversational scripts, and other text generation, all of which have wide-ranging applications and great creative potential. 
 
