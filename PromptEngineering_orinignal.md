@@ -2,13 +2,13 @@
 
 # Table Of Contents
 
-- [Introduction](#introduction)
-- [Design Principle and Framework](#design-principle-and-framework)
-- [Prompt Techniques](#prompt-techniques)
+- [1. Introduction](#introduction)
+- [2. Design Principle and Framework](#design-principle-and-framework)
+- [3. Prompt Techniques](#prompt-techniques)
 
 <img width="200%" src="./figures/hr.gif" />
 
-## Introduction
+## 1. Introduction
 
 Prompt engineering involves designing, creating, and optimizing prompts for the purpose of extracting accurate, consistent, and fair outputs from large language models (LLMs). 
 
@@ -31,10 +31,10 @@ Depending on the knowledge and experience acquired from vast amounts of language
 
 <img width="200%" src="./figures/hr.gif" />
 
-## Design Principle and Framework 
+## 2. Design Principle and Framework 
 A good prompt is one that is specific and provides enough context for LLMs to be able to generate a response that is relevant to the task.
 
-### Design principle
+### 2.1 Design principle
 By following design principles, you can improve the quality and accuracy of the LLM’s responses and enhance the overall user experience.
 
 - **Be clear and specific**: The prompt should clearly state the task or question that the model is expected to answer. Avoid ambiguity or vagueness in the prompt as this can lead to unclear or irrelevant responses.
@@ -48,7 +48,7 @@ By following design principles, you can improve the quality and accuracy of the 
 -	**Use appropriate formatting**: Use appropriate formatting such as bullet points, numbered lists, or bold text to highlight key information in the prompt. This can help the model understand the structure and organization of the prompt.
 -	**Test and refine**: Test the prompts with the model and refine them based on the quality of the generated responses. Iteratively refine the prompts until the generated responses are of high quality and relevance.
 
-### Framework
+### 2.2 Framework
 We propose a framework for prompt design that consists of five key components: context, instructions, relevance, constraints, and demonstration. This standardized structure can help streamline prompt design and ensure that a consistent process is followed, resulting in more effective prompts.
 
 - 🕐**Context**:  
@@ -117,13 +117,13 @@ Neutral
 
 <img width="200%" src="./figures/hr.gif" />
 
-## Prompt Techniques
+## 3. Prompt Techniques
 
-#### Basic prompting
+### 3.1 Basic prompting
 
 Prompt-based approaches offer a powerful and flexible tool for resolving a wide range of NLP tasks.  We can complete the task by expressing ourselves in natural language, so there's no need to adhere to a specific format. 
 
-**Sentiment Analysis**: LLMs can be trained to identify the sentiment expressed in a piece of text, such as positive, negative, or neutral. This can be useful for analyzing customer feedback, social media posts, and product reviews.
+#### Sentiment Analysis: LLMs can be trained to identify the sentiment expressed in a piece of text, such as positive, negative, or neutral. This can be useful for analyzing customer feedback, social media posts, and product reviews.
 
 👁️ **[Prompt example]**: 
 
