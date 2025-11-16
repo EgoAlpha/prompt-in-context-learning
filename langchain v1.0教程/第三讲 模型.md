@@ -1,0 +1,109 @@
+# **第三讲 LangChain关键组件——模型model**
+
+
+
+**版本：**
+
+python 3.12
+
+pip install langchain==1.0.3
+
+## 1.基本的模型创建
+
+```Python
+import os
+from langchain.chat_models import init_chat_model
+from dotenv import load_dotenv
+load_dotenv()
+# 设置API密钥
+os.environ["OPENAI_API_KEY"] ="sk-...."
+# 初始化模型
+model = init_chat_model("openai:gpt-4.1")
+
+# 基础调用
+response = model.invoke("你好")
+print(response.content)
+```
+
+## 2.常用参数配置
+
+```Python
+
+from langchain.chat_models import init_chat_model
+model = init_chat_model("openai:gpt-4.1",
+                        temperature =  0.7,
+                        max_tokens = 1000,
+                        timeout = 30,
+                        max_retries = 2,
+                        # 模型代理设置（可选）
+                        api_key="sk-...",
+                        base_url="https://...",
+                        )
+```
+
+## 3.动态参数配置
+
+```Python
+response = model.invoke(
+    "生成一个创意故事",   # 用户的询问
+    config = {
+        "temperature":0.9,
+        "max_tokens":500
+    }
+)
+```
+
+## 4.多种调用方式
+
+```python
+# 同步调用
+response = model.invoke("你好")
+print(response)
+
+    
+```
+
+```python
+# 批量调用
+responses = model.batch([
+    "为什么鹦鹉的羽毛是彩色的？", 
+    "飞机是如何飞行的？",
+    "什么是量子计算？"])
+print(responses)
+```
+
+```python
+# 流式调用（基础文本流式输出）
+for chunk in model.stream("为什么鹦鹉的羽毛是彩色的？"):
+    print(chunk.content,end = "",flush=True)
+
+```
+
+```python
+# 流式调用（完整）
+full_response = None
+for chunk in model.stream("为什么鹦鹉的羽毛是彩色的？"):
+    full_response = chunk.content if full_response is None else full_response + chunk
+    print(full_response.content)
+```
+
+```python
+# 异步调用
+import asyncio
+
+async def async_invoke():
+    response = await model.ainvoke("为什么鹦鹉会学习人类说话？")
+    return response 
+
+res = asyncio.run(async_invoke())
+print(res)
+```
+
+```python
+# 异步流式调用
+async def async_stream():
+    async for chunk in model.astream("解释机械学习"):
+        print(chunk.content, end ="",flush=True)
+asyncio.run(async_stream())
+```
+
