@@ -1,0 +1,171 @@
+# **第十五讲 LangChain  ——1.1/1.2 更新解读**
+
+
+
+**版本：**
+
+python 3.12
+
+pip install langchain==1.2.0
+
+pip deepagents == 0.3.0
+
+## 1.模型配置文件
+
+
+
+```Python
+from langchain.chat_models import init_chat_model
+from langchain.agents import create_agent
+
+model = init_chat_model(
+    "claude-sonnet-4-5-20250929",
+    temperature=0.7,)
+print(model.profile)
+```
+
+## 2.自定义模型配置文件
+
+模型信息网站：models.dev
+
+```Python
+custom_profile = {
+'max_input_tokens': 200000,
+ 'max_output_tokens': 64000,
+ 'structured_output': True,
+ #省略部分内容
+}
+model = init_chat_model(
+    # 此处添加为你要修改的模型
+    "...", 
+    profile=custom_profile)
+```
+
+## 3.结构化输出
+
+定义格式
+
+```Python
+from pydantic import BaseModel, Field
+from langchain.agents.structured_output import ProviderStrategy
+
+class ContactInfo(BaseModel):
+    """个人联系方式格式"""
+    name: str = Field(description="姓名")
+    email: str = Field(description="个人邮箱地址")
+    phone: str = Field(description="个人电话号码")
+
+```
+
+支持原生结构化输出模型（provider strategy）
+
+
+
+```Python
+agent = create_agent(
+    # 需要定义自己的API-key,也可自行传入
+    model="gpt-5",
+    response_format=
+    ProviderStrategy(ContactInfo,strict=True)
+)
+result = agent.invoke({     
+    "messages": [{"role": "user", 
+    "content": """从以下信息中提取联系人信息:
+    张强,zhang@example.com,(0411) 123-4567"""}]
+})
+print(result["structured_response"])
+```
+
+不支持原生结构化输出模型（tool strategy）
+
+
+
+```Python
+from langchain.agents.structured_output import ToolStrategy
+api_key="sk-..."
+base_url="https://..."
+
+model = init_chat_model("openai:gpt-4o-mini",
+                        api_key=api_key,
+                        base_url=base_url
+)
+
+agent = create_agent(
+    model=model,
+    response_format=ToolStrategy(ContactInfo)
+)
+result = agent.invoke({
+    "messages": [{"role": "user", 
+    "content": """从以下信息中提取联系人信息:
+    张强,zhang@example.com,(0411) 123-4567"""}]
+})
+
+print(result["structured_response"])
+```
+
+## 4.extra参数示例
+
+仅为示例代码，根据自身需求调整
+
+```Python
+from anthropic.types.beta import BetaToolSearchToolRegex20251119Param 
+from langchain_anthropic import ChatAnthropic
+from langchain.tools import tool
+
+
+
+@tool(extras={"defer_loading": True}) 
+def get_weather(location: str, unit: str = "fahrenheit") -> str:
+    """Get the current weather for a location.
+
+    Args:
+        location: City name
+        unit: Temperature unit (celsius or fahrenheit)
+    """
+    return f"Weather in {location}: Sunny"
+
+@tool(extras={"defer_loading": True}) 
+def search_files(query: str) -> str:
+    """Search through files in the workspace.
+
+    Args:
+        query: Search query
+    """
+    return f"Found files matching '{query}'"
+
+model = ChatAnthropic(model="claude-sonnet-4-5-20250929")
+
+tool_search = BetaToolSearchToolRegex20251119Param( 
+    name="tool_search_tool_regex", 
+    type="tool_search_tool_regex_20251119", 
+) 
+
+model_with_tools = model.bind_tools([
+    tool_search, 
+    get_weather,
+    search_files,
+])
+response = model_with_tools.invoke("What's the weather in San Francisco?")agents=[custom_subagent]
+)
+```
+
+
+
+## 5.strict 模式
+
+只可在provider strategy情况下使用
+
+```Python
+agent = create_agent(
+    model="gpt-5",
+    response_format=
+    ProviderStrategy(ContactInfo,strict=True)
+)
+result = agent.invoke({     
+    "messages": [{"role": "user", 
+    "content": """从以下信息中提取联系人信息:
+    张强,zhang@example.com,(0411) 123-4567"""}]
+})
+print(result["structured_response"])
+```
+
