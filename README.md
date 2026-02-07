@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-02-06]**
+### **[2026-02-07]**
 
-[**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**](https://huggingface.co/papers/2602.04634) （**New**）
+[**DFlash: Block Diffusion for Flash Speculative Decoding**](https://huggingface.co/papers/2602.06036) （**New**）
 
-*Published: 2026-02-04*
+*Published: 2026-02-05*
 
-<font color="gray">Zelai Xu, Zhexuan Xu, Ruize Zhang, Chunyang Zhu, Shi Yu, Weilin Liu, Quanlu Zhang, Wenbo Ding, Chao Yu, Yu Wang - [arXiv]</font>
+<font color="gray">Jian Chen, Yesheng Liang, Zhijian Liu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,382-blue)](https://github.com/RLinf/RLinf/tree/main/examples/wideseek_r1)
-
----
-
-
-[**RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System**](https://huggingface.co/papers/2602.02488) （**New**）
-
-*Published: 2026-02-02*
-
-<font color="gray">Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-222-blue)](https://github.com/Gen-Verse/Open-AgentRL) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-475-blue)](https://github.com/z-lab/dflash)
 
 ---
 
 
-[**Closing the Loop: Universal Repository Representation with RPG-Encoder**](https://huggingface.co/papers/2602.02084) （**New**）
+[**CL-bench: A Benchmark for Context Learning**](https://huggingface.co/papers/2602.03587) （**New**）
 
-*Published: 2026-02-02*
+*Published: 2026-02-03*
 
-<font color="gray">Jane Luo, Chengyu Yin, Xin Zhang, Qingtao Li, Steven Liu, Yiming Huang, Jie Wu, Hao Liu, Yangyu Huang, Yu Kang, Fangkai Yang, Ying Xin, Scarlett Li - [arXiv]</font>
+<font color="gray">Shihan Dou, Ming Zhang, Zhangyue Yin, Chenhao Huang, Yujiong Shen, Junzhe Wang, Jiayi Chen, Yuchen Ni, Junjie Ye, Cheng Zhang, Huaibing Xie, Jianglu Hu, Shaolei Wang, Weichao Wang, Yanling Xiao, Yitin - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-196-blue)](https://github.com/microsoft/RPG-ZeroRepo)
-
----
-
-
-[**PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss**](https://huggingface.co/papers/2602.02493) （**New**）
-
-*Published: 2026-02-02*
-
-<font color="gray">Zehong Ma, Ruihan Xu, Shiliang Zhang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-121-blue)](https://github.com/Zehong-Ma/PixelGen)
+[![](https://img.shields.io/badge/GitHub%20Stars-324-blue)](https://github.com/Tencent-Hunyuan/CL-bench)
 
 ---
 
 
-[**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**](https://huggingface.co/papers/2602.01538) （**New**）
+[**Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning**](https://huggingface.co/papers/2602.00298) （**New**）
 
-*Published: 2026-02-02*
+*Published: 2026-01-30*
 
-<font color="gray">Youliang Zhang, Zhengguang Zhou, Zhentao Yu, Ziyao Huang, Teng Hu, Sen Liang, Guozhen Zhang, Ziqiao Peng, Shunkai Li, Yi Chen, Zixiang Zhou, Yuan Zhou, Qinglin Lu, Xiu Li - [arXiv]</font>
+<font color="gray">Abhishek Mishra, Mugilan Arulvanan, Reshma Ashok, Polina Petrova, Deepesh Suranjandass, Donnie Winkelmann - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/angzong/InteractAvatar)
+[![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/emergent-misalignment/emergent-misalignment)
+
+---
+
+
+[**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**](https://arxiv.org/abs/2602.03604) （**New**）
+
+*Published: 2026-02-03*
+
+<font color="gray">Basile Terver, Randall Balestriero, Megi Dervishi, David Fan, Quentin Garrido, Tushar Nagarajan, Koustuv Sinha, Wancong Zhang, Mike Rabbat, Yann LeCun, Amir Bar - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-211-blue)](https://github.com/facebookresearch/eb_jepa)
+
+---
+
+
+[**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**](https://huggingface.co/papers/2602.03828) （**New**）
+
+*Published: 2026-02-03*
+
+<font color="gray">Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-111-blue)](https://github.com/ResearAI/AutoFigure-Edit) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
