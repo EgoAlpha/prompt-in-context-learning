@@ -11,26 +11,85 @@ Complete history news
 
 
 
-### 2026-02-07
+### 2026-02-08
 
-**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)** NEW
+**[UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization](https://huggingface.co/papers/2602.04683)** NEW
 
 *Published: 2026-02-05*
 
-*Jian Chen, Yesheng Liang, Zhijian Liu*
+*Dongchao Yang, Yuanyuan Wang, Dading Chong, Songxiang Liu, Xixin Wu, Helen Meng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-475-blue)](https://github.com/z-lab/dflash)
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/yangdongchao/UniAudio2)
 
 ---
 
 
-**[CL-bench: A Benchmark for Context Learning](https://huggingface.co/papers/2602.03587)** NEW
+**[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](https://huggingface.co/papers/2602.01382)** NEW
+
+*Published: 2026-02-01*
+
+*Fu-Yun Wang, Han Zhang, Michael Gharbi, Hongsheng Li, Taesung Park*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/G-U-N/UniRL)
+
+---
+
+
+**[A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces](https://huggingface.co/papers/2602.03442)** NEW
 
 *Published: 2026-02-03*
 
-*Shihan Dou, Ming Zhang, Zhangyue Yin, Chenhao Huang, Yujiong Shen, Junzhe Wang, Jiayi Chen, Yuchen Ni, Junjie Ye, Cheng Zhang, Huaibing Xie, Jianglu Hu, Shaolei Wang, Weichao Wang, Yanling Xiao, Yiting Liu, Zenan Xu, Zhen Guo, Pluto Zhou, Tao Gui, Zuxuan Wu, Xipeng Qiu, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang, etc.*
+*Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-324-blue)](https://github.com/Tencent-Hunyuan/CL-bench)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/Ayanami0730/arag)
+
+---
+
+
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)** NEW
+
+*Published: 2026-01-22*
+
+*Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-288-red) [![](https://img.shields.io/badge/GitHub%20Stars-7,113-blue)](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+
+**[Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation](https://huggingface.co/papers/2602.01756)** NEW
+
+*Published: 2026-02-02*
+
+*Jun He, Junyan Ye, Zilong Huang, Dongzhi Jiang, Chenjue Zhang, Leqi Zhu, Renrui Zhang, Xiang Zhang, Weijia Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/PicoTrex/Mind-Brush)
+
+---
+
+
+
+
+### 2026-02-07
+
+**[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://huggingface.co/papers/2602.03828)** NEW
+
+*Published: 2026-02-03*
+
+*Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/ResearAI/AutoFigure-Edit) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604)** NEW
+
+*Published: 2026-02-03*
+
+*Basile Terver, Randall Balestriero, Megi Dervishi, David Fan, Quentin Garrido, Tushar Nagarajan, Koustuv Sinha, Wancong Zhang, Mike Rabbat, Yann LeCun, Amir Bar*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-213-blue)](https://github.com/facebookresearch/eb_jepa)
 
 ---
 
@@ -46,24 +105,24 @@ Complete history news
 ---
 
 
-**[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604)** NEW
+**[CL-bench: A Benchmark for Context Learning](https://huggingface.co/papers/2602.03587)** NEW
 
 *Published: 2026-02-03*
 
-*Basile Terver, Randall Balestriero, Megi Dervishi, David Fan, Quentin Garrido, Tushar Nagarajan, Koustuv Sinha, Wancong Zhang, Mike Rabbat, Yann LeCun, Amir Bar*
+*Shihan Dou, Ming Zhang, Zhangyue Yin, Chenhao Huang, Yujiong Shen, Junzhe Wang, Jiayi Chen, Yuchen Ni, Junjie Ye, Cheng Zhang, Huaibing Xie, Jianglu Hu, Shaolei Wang, Weichao Wang, Yanling Xiao, Yiting Liu, Zenan Xu, Zhen Guo, Pluto Zhou, Tao Gui, Zuxuan Wu, Xipeng Qiu, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-211-blue)](https://github.com/facebookresearch/eb_jepa)
+[![](https://img.shields.io/badge/GitHub%20Stars-341-blue)](https://github.com/Tencent-Hunyuan/CL-bench)
 
 ---
 
 
-**[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://huggingface.co/papers/2602.03828)** NEW
+**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)** NEW
 
-*Published: 2026-02-03*
+*Published: 2026-02-05*
 
-*Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang*
+*Jian Chen, Yesheng Liang, Zhijian Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-111-blue)](https://github.com/ResearAI/AutoFigure-Edit) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-479-blue)](https://github.com/z-lab/dflash)
 
 ---
 
@@ -78,7 +137,7 @@ Complete history news
 
 *Youliang Zhang, Zhengguang Zhou, Zhentao Yu, Ziyao Huang, Teng Hu, Sen Liang, Guozhen Zhang, Ziqiao Peng, Shunkai Li, Yi Chen, Zixiang Zhou, Yuan Zhou, Qinglin Lu, Xiu Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-87-blue)](https://github.com/angzong/InteractAvatar)
+[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/angzong/InteractAvatar)
 
 ---
 
@@ -100,7 +159,7 @@ Complete history news
 
 *Jane Luo, Chengyu Yin, Xin Zhang, Qingtao Li, Steven Liu, Yiming Huang, Jie Wu, Hao Liu, Yangyu Huang, Yu Kang, Fangkai Yang, Ying Xin, Scarlett Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-225-blue)](https://github.com/microsoft/RPG-ZeroRepo)
+[![](https://img.shields.io/badge/GitHub%20Stars-235-blue)](https://github.com/microsoft/RPG-ZeroRepo)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, Yujie Zhou, Cheng Jin, Jiaqi Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-696-blue)](https://github.com/CodeGoat24/UnifiedReward)
+[![](https://img.shields.io/badge/GitHub%20Stars-698-blue)](https://github.com/CodeGoat24/UnifiedReward)
 
 ---
 
