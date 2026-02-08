@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-02-07]**
+### **[2026-02-08]**
 
-[**DFlash: Block Diffusion for Flash Speculative Decoding**](https://huggingface.co/papers/2602.06036) （**New**）
+[**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**](https://huggingface.co/papers/2602.04683) （**New**）
 
 *Published: 2026-02-05*
 
-<font color="gray">Jian Chen, Yesheng Liang, Zhijian Liu - [arXiv]</font>
+<font color="gray">Dongchao Yang, Yuanyuan Wang, Dading Chong, Songxiang Liu, Xixin Wu, Helen Meng - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-475-blue)](https://github.com/z-lab/dflash)
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/yangdongchao/UniAudio2)
 
 ---
 
 
-[**CL-bench: A Benchmark for Context Learning**](https://huggingface.co/papers/2602.03587) （**New**）
+[**PromptRL: Prompt Matters in RL for Flow-Based Image Generation**](https://huggingface.co/papers/2602.01382) （**New**）
+
+*Published: 2026-02-01*
+
+<font color="gray">Fu-Yun Wang, Han Zhang, Michael Gharbi, Hongsheng Li, Taesung Park - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/G-U-N/UniRL)
+
+---
+
+
+[**A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces**](https://huggingface.co/papers/2602.03442) （**New**）
 
 *Published: 2026-02-03*
 
-<font color="gray">Shihan Dou, Ming Zhang, Zhangyue Yin, Chenhao Huang, Yujiong Shen, Junzhe Wang, Jiayi Chen, Yuchen Ni, Junjie Ye, Cheng Zhang, Huaibing Xie, Jianglu Hu, Shaolei Wang, Weichao Wang, Yanling Xiao, Yitin - [arXiv]</font>
+<font color="gray">Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-324-blue)](https://github.com/Tencent-Hunyuan/CL-bench)
-
----
-
-
-[**Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning**](https://huggingface.co/papers/2602.00298) （**New**）
-
-*Published: 2026-01-30*
-
-<font color="gray">Abhishek Mishra, Mugilan Arulvanan, Reshma Ashok, Polina Petrova, Deepesh Suranjandass, Donnie Winkelmann - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/emergent-misalignment/emergent-misalignment)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/Ayanami0730/arag)
 
 ---
 
 
-[**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**](https://arxiv.org/abs/2602.03604) （**New**）
+[**Qwen3-TTS Technical Report**](https://huggingface.co/papers/2601.15621) （**New**）
 
-*Published: 2026-02-03*
+*Published: 2026-01-22*
 
-<font color="gray">Basile Terver, Randall Balestriero, Megi Dervishi, David Fan, Quentin Garrido, Tushar Nagarajan, Koustuv Sinha, Wancong Zhang, Mike Rabbat, Yann LeCun, Amir Bar - [arXiv]</font>
+<font color="gray">Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-211-blue)](https://github.com/facebookresearch/eb_jepa)
+[![](https://img.shields.io/badge/GitHub%20Stars-7,113-blue)](https://github.com/QwenLM/Qwen3-TTS) ![](https://img.shields.io/badge/Mendeley%20Readers-288-red)
 
 ---
 
 
-[**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**](https://huggingface.co/papers/2602.03828) （**New**）
+[**Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation**](https://huggingface.co/papers/2602.01756) （**New**）
 
-*Published: 2026-02-03*
+*Published: 2026-02-02*
 
-<font color="gray">Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang - [arXiv]</font>
+<font color="gray">Jun He, Junyan Ye, Zilong Huang, Dongzhi Jiang, Chenjue Zhang, Leqi Zhu, Renrui Zhang, Xiang Zhang, Weijia Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-111-blue)](https://github.com/ResearAI/AutoFigure-Edit) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/PicoTrex/Mind-Brush)
 
 ---
 
