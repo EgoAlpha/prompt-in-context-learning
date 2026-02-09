@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-02-08]**
+### **[2026-02-09]**
 
-[**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**](https://huggingface.co/papers/2602.04683) （**New**）
+[**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**](https://huggingface.co/papers/2601.07372) （**New**）
 
-*Published: 2026-02-05*
+*Published: 2026-01-12*
 
-<font color="gray">Dongchao Yang, Yuanyuan Wang, Dading Chong, Songxiang Liu, Xixin Wu, Helen Meng - [arXiv]</font>
+<font color="gray">Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Yukun Li, Han Zhang, Huishuai Zhang, Dongyan Zhao, Wenfeng Liang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/yangdongchao/UniAudio2)
-
----
-
-
-[**PromptRL: Prompt Matters in RL for Flow-Based Image Generation**](https://huggingface.co/papers/2602.01382) （**New**）
-
-*Published: 2026-02-01*
-
-<font color="gray">Fu-Yun Wang, Han Zhang, Michael Gharbi, Hongsheng Li, Taesung Park - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/G-U-N/UniRL)
+[![](https://img.shields.io/badge/GitHub%20Stars-3,608-blue)](https://github.com/deepseek-ai/Engram) ![](https://img.shields.io/badge/Mendeley%20Readers-53-red) ![](https://img.shields.io/badge/Citations-4-9cf)
 
 ---
 
 
-[**A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces**](https://huggingface.co/papers/2602.03442) （**New**）
+[**Agentic Reasoning for Large Language Models**](https://huggingface.co/papers/2601.12538) （**New**）
 
-*Published: 2026-02-03*
+*Published: 2026-01-18*
 
-<font color="gray">Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao - [arXiv]</font>
+<font color="gray">Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/Ayanami0730/arag)
-
----
-
-
-[**Qwen3-TTS Technical Report**](https://huggingface.co/papers/2601.15621) （**New**）
-
-*Published: 2026-01-22*
-
-<font color="gray">Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-7,113-blue)](https://github.com/QwenLM/Qwen3-TTS) ![](https://img.shields.io/badge/Mendeley%20Readers-288-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-905-blue)](https://github.com/weitianxin/Awesome-Agentic-Reasoning) ![](https://img.shields.io/badge/Mendeley%20Readers-25-red)
 
 ---
 
 
-[**Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation**](https://huggingface.co/papers/2602.01756) （**New**）
+[**LTX-2: Efficient Joint Audio-Visual Foundation Model**](https://huggingface.co/papers/2601.03233) （**New**）
 
-*Published: 2026-02-02*
+*Published: 2026-01-06*
 
-<font color="gray">Jun He, Junyan Ye, Zilong Huang, Dongzhi Jiang, Chenjue Zhang, Leqi Zhu, Renrui Zhang, Xiang Zhang, Weijia Li - [arXiv]</font>
+<font color="gray">Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jo - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/PicoTrex/Mind-Brush)
+[![](https://img.shields.io/badge/GitHub%20Stars-3,683-blue)](https://github.com/Lightricks/LTX-2) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red) ![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+
+[**DeepSeek-OCR 2: Visual Causal Flow**](https://huggingface.co/papers/2601.20552) （**New**）
+
+*Published: 2026-01-28*
+
+<font color="gray">Haoran Wei, Yaofeng Sun, Yukun Li - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,144-blue)](https://github.com/deepseek-ai/DeepSeek-OCR-2) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**SimpleMem: Efficient Lifelong Memory for LLM Agents**](https://huggingface.co/papers/2601.02553) （**New**）
+
+*Published: 2026-01-29*
+
+<font color="gray">Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,731-blue)](https://github.com/aiming-lab/SimpleMem) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
