@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-02-09]**
+### **[2026-02-10]**
 
-[**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**](https://huggingface.co/papers/2601.07372) （**New**）
+[**On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models**](https://huggingface.co/papers/2602.03392) （**New**）
 
-*Published: 2026-01-12*
+*Published: 2026-02-03*
 
-<font color="gray">Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Yukun Li, Han Zhang, Huishuai Zhang, Dongyan Zhao, Wenfeng Liang - [arXiv]</font>
+<font color="gray">Shumin Wang, Yuexiang Xie, Wenhao Zhang, Yuchang Sun, Yanxi Chen, Yaliang Li, Yanyong Zhang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-3,608-blue)](https://github.com/deepseek-ai/Engram) ![](https://img.shields.io/badge/Mendeley%20Readers-53-red) ![](https://img.shields.io/badge/Citations-4-9cf)
-
----
-
-
-[**Agentic Reasoning for Large Language Models**](https://huggingface.co/papers/2601.12538) （**New**）
-
-*Published: 2026-01-18*
-
-<font color="gray">Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-905-blue)](https://github.com/weitianxin/Awesome-Agentic-Reasoning) ![](https://img.shields.io/badge/Mendeley%20Readers-25-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-521-blue)](https://github.com/agentscope-ai/Trinity-RFT)
 
 ---
 
 
-[**LTX-2: Efficient Joint Audio-Visual Foundation Model**](https://huggingface.co/papers/2601.03233) （**New**）
+[**Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion**](https://huggingface.co/papers/2602.06724) （**New**）
 
-*Published: 2026-01-06*
+*Published: 2026-02-06*
 
-<font color="gray">Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jo - [arXiv]</font>
+<font color="gray">Tian Lan, Felix Henry, Bin Zhu, Qianghuai Jia, Junyang Ren, Qihang Pu, Haijun Li, Longyue Wang, Zhao Xu, Weihua Luo - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-3,683-blue)](https://github.com/Lightricks/LTX-2) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red) ![](https://img.shields.io/badge/Citations-2-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-246-blue)](https://github.com/AIDC-AI/Marco-DeepResearch/)
 
 ---
 
 
-[**DeepSeek-OCR 2: Visual Causal Flow**](https://huggingface.co/papers/2601.20552) （**New**）
+[**A Pragmatic VLA Foundation Model**](https://huggingface.co/papers/2601.18692) （**New**）
+
+*Published: 2026-01-26*
+
+<font color="gray">Wei Wu, Fan Lu, Yunnan Wang, Shuai Yang, Shi Liu, Fangjing Wang, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-735-blue)](https://github.com/robbyant/lingbot-vla) ![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+
+---
+
+
+[**Advancing Open-source World Models**](https://huggingface.co/papers/2601.20540) （**New**）
 
 *Published: 2026-01-28*
 
-<font color="gray">Haoran Wei, Yaofeng Sun, Yukun Li - [arXiv]</font>
+<font color="gray">Robbyant Team, Zelin Gao, Qiuyu Wang, Yanhong Zeng, Jiapeng Zhu, Ka Leong Cheng, Yixuan Li, Hanlin Wang, Yinghao Xu, Shuailei Ma, Yihang Chen, Jie Liu, Yansong Cheng, Yao Yao, Jiayi Zhu, Yihao Meng, K - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,144-blue)](https://github.com/deepseek-ai/DeepSeek-OCR-2) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,687-blue)](https://github.com/Robbyant/lingbot-world/) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
 
 ---
 
 
-[**SimpleMem: Efficient Lifelong Memory for LLM Agents**](https://huggingface.co/papers/2601.02553) （**New**）
+[**EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning**](https://huggingface.co/papers/2601.02163) （**New**）
 
-*Published: 2026-01-29*
+*Published: 2026-01-09*
 
-<font color="gray">Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao - [arXiv]</font>
+<font color="gray">Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,731-blue)](https://github.com/aiming-lab/SimpleMem) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,987-blue)](https://github.com/EverMind-AI/EverMemOS) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
