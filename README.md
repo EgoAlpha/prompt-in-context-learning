@@ -225,6 +225,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ## Prompt Engineering
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested prompt engineering patterns for multi-agent orchestration. Identity blocks, anti-duplication, quality gates, and context enrichment.
 ### Prompt Design
 
 <div style="line-height:0.2em;">
