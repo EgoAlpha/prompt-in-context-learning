@@ -11,354 +11,59 @@ Complete history news
 
 
 
-### 2026-02-13
+### 2026-05-02
 
-**[Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604)** NEW
+**[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://huggingface.co/papers/2604.14228)** NEW
 
-*Published: 2026-02-11*
+*Published: 2026-04-14*
 
-*Ailin Huang, Ang Li, Aobo Kong, Bin Wang, Binxing Jiao, Bo Dong, Bojun Wang, Boyu Chen, Brian Li, Buyun Ma, Chang Su, Changxin Miao, Changyi Wan, Chao Lou, Chen Hu, Chen Xu, Chenfeng Yu, Chengting Feng, Chengyuan Yao, Chunrui Han, Dan Ma, Dapeng Shi, Daxin Jiang, Dehua Ma, Deshan Sun, etc.*
+*Jiacheng Liu, Xiaohan Zhao, Xinyi Shang, Zhiqiang Shen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,245-blue)](https://github.com/stepfun-ai/Step-3.5-Flash)
-
----
-
-
-**[QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085)** NEW
-
-*Published: 2026-02-06*
-
-*Jun Han, Shuo Zhang, Wei Li, Zhi Yang, Yifan Dong, Tu Hu, Jialuo Yuan, Xiaomin Yu, Yumo Zhu, Fangqi Lou, Xin Guo, Zhaowei Liu, Tianyi Jiang, Ruichuan An, Jingping Liu, Biao Wu, Rongze Chen, Kunyi Wang, Yifan Wang, Sen Hu, Xinbing Kong, Liwen Zhang, Ronghao Chen, Huacan Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-248-blue)](https://github.com/QuantaAlpha/QuantaAlpha)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red) [![](https://img.shields.io/badge/GitHub%20Stars-929-blue)](https://github.com/VILA-Lab/Dive-into-Claude-Code) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
 
-**[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](https://huggingface.co/papers/2602.10652)** NEW
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)** NEW
 
-*Published: 2026-02-11*
+*Published: 2026-04-16*
 
-*Yongshi Ye, Hui Jiang, Feihu Jiang, Tian Lan, Yichao Du, Biao Fu, Xiaodong Shi, Qianghuai Jia, Longyue Wang, Weihua Luo*
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen, Ka Leong Cheng, Yipengjing Sun, Liangxiao Hu, Nan Xue, Xing Zhu, Yujun Shen, Yao Yao, Yinghao Xu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-247-blue)](https://github.com/AIDC-AI/Marco-DeepResearch)
-
----
-
-
-**[Masked Depth Modeling for Spatial Perception](https://huggingface.co/papers/2601.17895)** NEW
-
-*Published: 2026-01-25*
-
-*Bin Tan, Changjiang Sun, Xiage Qin, Hanat Adai, Zelin Fu, Tianxiang Zhou, Han Zhang, Yinghao Xu, Xing Zhu, Yujun Shen, Nan Xue*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-862-blue)](https://github.com/Robbyant/lingbot-depth) ![](https://img.shields.io/badge/Citations-2-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-11-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,496-blue)](https://github.com/robbyant/lingbot-map)
 
 ---
 
 
-**[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833)** NEW
+**[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796)** NEW
 
-*Published: 2026-01-28*
+*Published: 2026-04-22*
 
-*Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang, Kris Chen*
+*Inclusion AI, Tiwei Bie, Haoxing Chen, Tieyuan Chen, Zhenglin Cheng, Long Cui, Kai Gan, Zhicheng Huang, Zhenzhong Lan, Haoquan Li, Jianguo Li, Tao Lin, Qi Qin, Hongjun Wang, Xiaomei Wang, Haoyuan Wu, Yi Xin, Junbo Zhao*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
-
----
-
-
-
-
-### 2026-02-12
-
-**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)** NEW
-
-*Published: 2026-01-17*
-
-*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-614-blue)](https://github.com/laude-institute/harbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red) [![](https://img.shields.io/badge/GitHub%20Stars-719-blue)](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
 ---
 
 
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)** NEW
+**[GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](https://huggingface.co/papers/2604.17091)** NEW
 
-*Published: 2026-01-26*
+*Published: 2026-04-18*
 
-*Dongchao Yang, Yuxin Xie, Yuguo Yin, Zheyu Wang, Xiaoyu Yi, Gongxi Zhu, Xiaolong Weng, Zihan Xiong, Yingzhe Ma, Dading Cong, Jingliang Liu, Zihang Huang, Jinghan Ru, Rongjie Huang, Haoran Wan, Peixu Wang, Kuoxi Yu, Helin Wang, Liming Liang, Xianwei Zhuang, Yuanyuan Wang, Dingdong, Wang, Haohan Guo, Junjie Cao, etc.*
+*Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, Zishang Jiang, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Jiang, Yanghua Xiao*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,491-blue)](https://github.com/HeartMuLa/heartlib)
-
----
-
-
-**[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://huggingface.co/papers/2602.10102)** NEW
-
-*Published: 2026-02-10*
-
-*Zhongwei Ren, Yunchao Wei, Xiao Yu, Guixun Luo, Yao Zhao, Bingyi Kang, Jiashi Feng, Xiaojie Jin*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-685-blue)](https://github.com/ByteDance-Seed/VideoWorld/tree/main/VideoWorld2)
+[![](https://img.shields.io/badge/GitHub%20Stars-8,623-blue)](https://github.com/lsdefine/GenericAgent)
 
 ---
 
 
-**[RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI](https://huggingface.co/papers/2602.07837)** NEW
+**[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)** NEW
 
-*Published: 2026-02-10*
+*Published: 2026-04-20*
 
-*Hongzhi Zang, Shu'ang Yu, Hao Lin, Tianxing Zhou, Zefang Huang, Zhen Guo, Xin Xu, Jiakai Zhou, Yuze Sheng, Shizhe Zhang, Feng Gao, Wenhao Tang, Yufeng Yue, Quanlu Zhang, Xinlei Chen, Chao Yu, Yu Wang*
+*Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,464-blue)](https://github.com/RLinf/RLinf/blob/main/examples/embodiment/run_realworld_async.sh)
-
----
-
-
-**[UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082)** NEW
-
-*Published: 2026-02-09*
-
-*Veuns-Team, Changlong Gao, Zhangxuan Gu, Yulin Liu, Xinyu Qiu, Shuheng Shen, Yue Wen, Tianyu Xia, Zhenyu Xu, Zhengwen Zeng, Beitong Zhou, Xingran Zhou, Weizhi Chen, Sunhao Dai, Jingya Dou, Yichen Gong, Yuan Guo, Zhenlin Guo, Feng Li, Qian Li, Jinzhen Lin, Yuqi Zhou, Linchao Zhu, Liang Chen, Zhenyu Guo, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-723-blue)](https://github.com/inclusionAI/UI-Venus/blob/UI-Venus-1.5)
-
----
-
-
-
-
-### 2026-02-11
-
-**[MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794)** NEW
-
-*Published: 2026-02-09*
-
-*SII-OpenMOSS Team, Donghua Yu, Mingshu Chen, Qi Chen, Qi Luo, Qianyi Wu, Qinyuan Cheng, Ruixiao Li, Tianyi Liang, Wenbo Zhang, Wenming Tu, Xiangyu Peng, Yang Gao, Yanru Huo, Ying Zhu, Yinze Luo, Yiyang Zhang, Yuerong Song, Zhe Xu, Zhiyu Zhang, Chenchen Yang, Cheng Chang, Chushu Zhou, Hanfu Chen, Hongnan Ma, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-622-blue)](https://github.com/OpenMOSS/MOVA)
-
----
-
-
-**[InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery](https://huggingface.co/papers/2602.08990)** NEW
-
-*Published: 2026-02-09*
-
-*Shiyang Feng, Runmin Ma, Xiangchao Yan, Yue Fan, Yusong Hu, Songtao Huang, Shuaiyu Zhang, Zongsheng Cao, Tianshuo Peng, Jiakang Yuan, Zijie Guo, Zhijie Zhong, Shangheng Du, Weida Wang, Jinxin Shi, Yuhao Zhou, Xiaohan He, Zhiyin Yu, Fangchen Yu, Qihao Zheng, Jiamin Wu, Mianxin Liu, Chi Zhang, Shaowei Hou, Shuya Li, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-898-blue)](https://github.com/InternScience/InternAgent)
-
----
-
-
-**[AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research](https://huggingface.co/papers/2602.06540)** NEW
-
-*Published: 2026-02-06*
-
-*Yishan Li, Wentong Chen, Yukun Yan, Mingwei Li, Sen Mei, Xiaorong Wang, Kunpeng Liu, Xin Cong, Shuo Wang, Zhong Zhang, Yaxi Lu, Zhenghao Liu, Yankai Lin, Zhiyuan Liu, Maosong Sun*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-732-blue)](https://github.com/OpenBMB/AgentCPM/tree/main/AgentCPM-Report)
-
----
-
-
-**[LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://huggingface.co/papers/2602.08676)** NEW
-
-*Published: 2026-02-09*
-
-*Tiwei Bie, Maosong Cao, Xiang Cao, Bingsen Chen, Fuyuan Chen, Kun Chen, Lun Du, Daozhuo Feng, Haibo Feng, Mingliang Gong, Zhuocheng Gong, Yanmei Gu, Jian Guan, Kaiyuan Guan, Hongliang He, Zenan Huang, Juyong Jiang, Zhonghui Jiang, Zhenzhong Lan, Chengxi Li, Jianguo Li, Zehuan Li, Huabin Liu, Lin Liu, Guoshan Lu, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-320-blue)](https://github.com/inclusionAI/LLaDA2.X)
-
----
-
-
-**[EchoJEPA: A Latent Predictive Foundation Model for Echocardiography](https://arxiv.org/abs/2602.02603)** NEW
-
-*Published: 2026-02-04*
-
-*Alif Munim, Adibvafa Fallahpour, Teodora Szasz, Ahmadreza Attarpour, River Jiang, Brana Sooriyakanthan, Maala Sooriyakanthan, Heather Whitney, Jeremy Slivnick, Barry Rubin, Wendy Tsang, Bo Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-214-blue)](https://github.com/bowang-lab/EchoJEPA)
-
----
-
-
-
-
-### 2026-02-10
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)** NEW
-
-*Published: 2026-01-09*
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,044-blue)](https://github.com/EverMind-AI/EverMemOS) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-**[Advancing Open-source World Models](https://huggingface.co/papers/2601.20540)** NEW
-
-*Published: 2026-01-28*
-
-*Robbyant Team, Zelin Gao, Qiuyu Wang, Yanhong Zeng, Jiapeng Zhu, Ka Leong Cheng, Yixuan Li, Hanlin Wang, Yinghao Xu, Shuailei Ma, Yihang Chen, Jie Liu, Yansong Cheng, Yao Yao, Jiayi Zhu, Yihao Meng, Kecheng Zheng, Qingyan Bai, Jingye Chen, Zehong Shen, Yue Yu, Xing Zhu, Yujun Shen, Hao Ouyang*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-8-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,804-blue)](https://github.com/Robbyant/lingbot-world/)
-
----
-
-
-**[A Pragmatic VLA Foundation Model](https://huggingface.co/papers/2601.18692)** NEW
-
-*Published: 2026-01-26*
-
-*Wei Wu, Fan Lu, Yunnan Wang, Shuai Yang, Shi Liu, Fangjing Wang, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-10-red) [![](https://img.shields.io/badge/GitHub%20Stars-794-blue)](https://github.com/robbyant/lingbot-vla)
-
----
-
-
-**[Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion](https://huggingface.co/papers/2602.06724)** NEW
-
-*Published: 2026-02-06*
-
-*Tian Lan, Felix Henry, Bin Zhu, Qianghuai Jia, Junyang Ren, Qihang Pu, Haijun Li, Longyue Wang, Zhao Xu, Weihua Luo*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-247-blue)](https://github.com/AIDC-AI/Marco-DeepResearch/)
-
----
-
-
-**[On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://huggingface.co/papers/2602.03392)** NEW
-
-*Published: 2026-02-03*
-
-*Shumin Wang, Yuexiang Xie, Wenhao Zhang, Yuchang Sun, Yanxi Chen, Yaliang Li, Yanyong Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-526-blue)](https://github.com/agentscope-ai/Trinity-RFT)
-
----
-
-
-
-
-### 2026-02-09
-
-**[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://huggingface.co/papers/2601.07372)** NEW
-
-*Published: 2026-01-12*
-
-*Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Yukun Li, Han Zhang, Huishuai Zhang, Dongyan Zhao, Wenfeng Liang*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-53-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,660-blue)](https://github.com/deepseek-ai/Engram) ![](https://img.shields.io/badge/Citations-4-9cf)
-
----
-
-
-**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)** NEW
-
-*Published: 2026-01-18*
-
-*Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, etc.*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-25-red) [![](https://img.shields.io/badge/GitHub%20Stars-933-blue)](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
-
----
-
-
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)** NEW
-
-*Published: 2026-01-06*
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jonathan Chetboun, Michael Finkelson, Michael Kupchick, Nir Zabari, Nitzan Guetta, Noa Kotler, Ofir Bibi, Ori Gordon, Poriya Panet, Roi Benita, Shahar Armon, Victor Kulikov, etc.*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-14-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,793-blue)](https://github.com/Lightricks/LTX-2) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-**[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)** NEW
-
-*Published: 2026-01-28*
-
-*Haoran Wei, Yaofeng Sun, Yukun Li*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-10-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,228-blue)](https://github.com/deepseek-ai/DeepSeek-OCR-2) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)** NEW
-
-*Published: 2026-01-29*
-
-*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-9-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,773-blue)](https://github.com/aiming-lab/SimpleMem) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-
-
-### 2026-02-08
-
-**[Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation](https://huggingface.co/papers/2602.01756)** NEW
-
-*Published: 2026-02-02*
-
-*Jun He, Junyan Ye, Zilong Huang, Dongzhi Jiang, Chenjue Zhang, Leqi Zhu, Renrui Zhang, Xiang Zhang, Weijia Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/PicoTrex/Mind-Brush)
-
----
-
-
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)** NEW
-
-*Published: 2026-01-22*
-
-*Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-288-red) [![](https://img.shields.io/badge/GitHub%20Stars-7,451-blue)](https://github.com/QwenLM/Qwen3-TTS)
-
----
-
-
-**[A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces](https://huggingface.co/papers/2602.03442)** NEW
-
-*Published: 2026-02-03*
-
-*Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-114-blue)](https://github.com/Ayanami0730/arag)
-
----
-
-
-**[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](https://huggingface.co/papers/2602.01382)** NEW
-
-*Published: 2026-02-01*
-
-*Fu-Yun Wang, Han Zhang, Michael Gharbi, Hongsheng Li, Taesung Park*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-69-blue)](https://github.com/G-U-N/UniRL)
-
----
-
-
-**[UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization](https://huggingface.co/papers/2602.04683)** NEW
-
-*Published: 2026-02-05*
-
-*Dongchao Yang, Yuanyuan Wang, Dading Chong, Songxiang Liu, Xixin Wu, Helen Meng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-312-blue)](https://github.com/yangdongchao/UniAudio2)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,775-blue)](https://github.com/leigest519/OpenGame)
 
 ---
 
