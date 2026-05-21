@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-20]**
+### **[2026-05-21]**
 
-[**LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation**](https://huggingface.co/papers/2605.18739) （**New**）
+[**AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration**](https://huggingface.co/papers/2605.20025) （**New**）
 
-*Published: 2026-05-18*
+*Published: 2026-05-19*
 
-<font color="gray">Yukang Chen, Luozhou Wang, Wei Huang, Shuai Yang, Bohan Zhang, Yicheng Xiao, Ruihang Chu, Weian Mao, Qixin Hu, Shaoteng Liu, Yuyang Zhao, Huizi Mao, Ying-Cong Chen, Enze Xie, Xiaojuan Qi, Song Han - [arXiv]</font>
+<font color="gray">Jiaqi Liu, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, Zihan Dong, Congyu Zhang, Letian Zhang, Guiming Chen, Haoqin Tu, Xinyu Yang, Lu Feng, Xujiang Zhao, Haifeng Chen, - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,293-blue)](https://github.com/NVlabs/LongLive)
-
----
-
-
-[**Lance: Unified Multimodal Modeling by Multi-Task Synergy**](https://huggingface.co/papers/2605.18678) （**New**）
-
-*Published: 2026-05-18*
-
-<font color="gray">Fengyi Fu, Mengqi Huang, Shaojin Wu, Yunsheng Jiang, Yufei Huo, Hao Li, Yinghang Song, Fei Ding, Jianzhu Guo, Qian He, Zheren Fu, Zhendong Mao, Yongdong Zhang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-308-blue)](https://github.com/bytedance/Lance)
+[![](https://img.shields.io/badge/GitHub%20Stars-12,382-blue)](https://github.com/aiming-lab/AutoResearchClaw)
 
 ---
 
 
-[**SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution**](https://huggingface.co/papers/2605.18401) （**New**）
+[**Relit-LiVE: Relight Video by Jointly Learning Environment Video**](https://huggingface.co/papers/2605.06658) （**New**）
 
-*Published: 2026-05-18*
+*Published: 2026-05-07*
 
-<font color="gray">Hongyi Liu, Haoyan Yang, Tao Jiang, Bo Tang, Feiyu Xiong, Zhiyu Li - [arXiv]</font>
+<font color="gray">Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-219-blue)](https://github.com/MemTensor/skills-vote)
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zhuxing0/Relit-LiVE)
 
 ---
 
 
-[**$δ$-mem: Efficient Online Memory for Large Language Models**](https://huggingface.co/papers/2605.12357) （**New**）
+[**Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models**](https://huggingface.co/papers/2605.09681) （**New**）
+
+*Published: 2026-05-10*
+
+<font color="gray">Yicheng Ji, Zhizhou Zhong, Jun Zhang, Qin Yang, XiTai Jin, Ying Qin, Wenhan Luo, Shuiyang Mao, Wei Liu, Huan Li - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zju-jiyicheng/Forcing-KV)
+
+---
+
+
+[**Self-Distilled Agentic Reinforcement Learning**](https://huggingface.co/papers/2605.15155) （**New**）
+
+*Published: 2026-05-14*
+
+<font color="gray">Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-89-blue)](https://github.com/ZJU-REAL/SDAR)
+
+---
+
+
+[**MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents**](https://huggingface.co/papers/2605.09530) （**New**）
 
 *Published: 2026-05-12*
 
-<font color="gray">Jingdi Lei, Di Zhang, Junxian Li, Weida Wang, Kaixuan Fan, Xiang Liu, Qihan Liu, Xiaoteng Ma, Baian Chen, Soujanya Poria - [arXiv]</font>
+<font color="gray">Yining Chen, Jihao Zhao, Bo Tang, Haofen Wang, Yue Zhang, Fei Huang, Feiyu Xiong, Zhiyu Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-124-blue)](https://github.com/declare-lab/delta-Mem)
-
----
-
-
-[**What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion**](https://huggingface.co/papers/2605.07915) （**New**）
-
-*Published: 2026-05-08*
-
-<font color="gray">Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, Zihao Pan, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-100-blue)](https://github.com/ZhengrongYue/PAE)
+[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/MemTensor/MemPrivacy)
 
 ---
 
