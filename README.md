@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-21]**
+### **[2026-05-22]**
 
-[**AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration**](https://huggingface.co/papers/2605.20025) （**New**）
+[**HRM-Text: Efficient Pretraining Beyond Scaling**](https://huggingface.co/papers/2605.20613) （**New**）
+
+*Published: 2026-05-20*
+
+<font color="gray">Guan Wang, Changling Liu, Chenyu Wang, Cai Zhou, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-626-blue)](https://github.com/sapientinc/HRM-Text)
+
+---
+
+
+[**Toto 2.0: Time Series Forecasting Enters the Scaling Era**](https://huggingface.co/papers/2605.20119) （**New**）
 
 *Published: 2026-05-19*
 
-<font color="gray">Jiaqi Liu, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, Zihan Dong, Congyu Zhang, Letian Zhang, Guiming Chen, Haoqin Tu, Xinyu Yang, Lu Feng, Xujiang Zhao, Haifeng Chen, - [arXiv]</font>
+<font color="gray">Emaad Khwaja, Chris Lettieri, Gerald Woo, Eden Belouadah, Marc Cenac, Guillaume Jarry, Enguerrand Paquin, Xunyi Zhao, Viktoriya Zhukov, Othmane Abou-Amal, Chenghao Liu, Ameet Talwalkar, David Asker - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-12,382-blue)](https://github.com/aiming-lab/AutoResearchClaw)
-
----
-
-
-[**Relit-LiVE: Relight Video by Jointly Learning Environment Video**](https://huggingface.co/papers/2605.06658) （**New**）
-
-*Published: 2026-05-07*
-
-<font color="gray">Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zhuxing0/Relit-LiVE)
+[![](https://img.shields.io/badge/GitHub%20Stars-437-blue)](https://github.com/DataDog/toto)
 
 ---
 
 
-[**Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models**](https://huggingface.co/papers/2605.09681) （**New**）
+[**A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook**](https://huggingface.co/papers/2605.20266) （**New**）
 
-*Published: 2026-05-10*
+*Published: 2026-05-18*
 
-<font color="gray">Yicheng Ji, Zhizhou Zhong, Jun Zhang, Qin Yang, XiTai Jin, Ying Qin, Wenhan Luo, Shuiyang Mao, Wei Liu, Huan Li - [arXiv]</font>
+<font color="gray">Kaiwen Luo, Zhenhong Zhou, Leo Wang, Liang Lin, Yang Xiao, Tianyu Shao, Yuanhe Zhang, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Dongrui Liu, Li Sun, Yueming Wu, Kai Li, Ting Dang, Xiaojun Jia, Ro - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zju-jiyicheng/Forcing-KV)
-
----
-
-
-[**Self-Distilled Agentic Reinforcement Learning**](https://huggingface.co/papers/2605.15155) （**New**）
-
-*Published: 2026-05-14*
-
-<font color="gray">Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-89-blue)](https://github.com/ZJU-REAL/SDAR)
+[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs)
 
 ---
 
 
-[**MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents**](https://huggingface.co/papers/2605.09530) （**New**）
+[**Stable Audio 3**](https://huggingface.co/papers/2605.17991) （**New**）
 
-*Published: 2026-05-12*
+*Published: 2026-05-18*
 
-<font color="gray">Yining Chen, Jihao Zhao, Bo Tang, Haofen Wang, Yue Zhang, Fei Huang, Feiyu Xiong, Zhiyu Li - [arXiv]</font>
+<font color="gray">Zach Evans, Julian D. Parker, Matthew Rice, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/MemTensor/MemPrivacy)
+[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Stability-AI/stable-audio-3)
+
+---
+
+
+[**Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation**](https://huggingface.co/papers/2605.19833) （**New**）
+
+*Published: 2026-05-19*
+
+<font color="gray">Zhifei Xie, Kaiyu Pang, Haobin Zhang, Deheng Ye, Xiaobin Hu, Shuicheng Yan, Chunyan Miao - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/xzf-thu/Mega-ASR)
 
 ---
 
