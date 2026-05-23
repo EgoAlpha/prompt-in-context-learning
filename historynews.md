@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-05-22
+### 2026-05-23
 
-**[HRM-Text: Efficient Pretraining Beyond Scaling](https://huggingface.co/papers/2605.20613)** NEW
-
-*Published: 2026-05-20*
-
-*Guan Wang, Changling Liu, Chenyu Wang, Cai Zhou, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-626-blue)](https://github.com/sapientinc/HRM-Text)
-
----
-
-
-**[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://huggingface.co/papers/2605.20119)** NEW
-
-*Published: 2026-05-19*
-
-*Emaad Khwaja, Chris Lettieri, Gerald Woo, Eden Belouadah, Marc Cenac, Guillaume Jarry, Enguerrand Paquin, Xunyi Zhao, Viktoriya Zhukov, Othmane Abou-Amal, Chenghao Liu, Ameet Talwalkar, David Asker*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-437-blue)](https://github.com/DataDog/toto)
-
----
-
-
-**[A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook](https://huggingface.co/papers/2605.20266)** NEW
+**[Code as Agent Harness](https://huggingface.co/papers/2605.18747)** NEW
 
 *Published: 2026-05-18*
 
-*Kaiwen Luo, Zhenhong Zhou, Leo Wang, Liang Lin, Yang Xiao, Tianyu Shao, Yuanhe Zhang, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Dongrui Liu, Li Sun, Yueming Wu, Kai Li, Ting Dang, Xiaojun Jia, Rohan Kumar Das, Xinfeng Li, Siyuan Liang, Qiufeng Wang, Xingjun Ma, Jing Chen, Kun Wang, Junhao Dong, etc.*
+*Xuying Ning, Katherine Tieu, Dongqi Fu, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li, Xiao Lin, Zhichen Zeng, Ruizhong Qiu, Sirui Chen, Yifan Sun, Xiyuan Yang, Ruida Wang, Rui Pan, Chenyuan Yang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs)
+[![](https://img.shields.io/badge/GitHub%20Stars-197-blue)](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)
+
+---
+
+
+**[AI for Auto-Research: Roadmap & User Guide](https://huggingface.co/papers/2605.18661)** NEW
+
+*Published: 2026-05-18*
+
+*Lingdong Kong, Xian Sun, Wei Chow, Linfeng Li, Kevin Qinghong Lin, Xuan Billy Zhang, Song Wang, Rong Li, Qing Wu, Wei Gao, Yingshuo Wang, Shaoyuan Xie, Jiachen Liu, Leigang Qu, Shijie Li, Lai Xing Ng, Benoit R. Cottereau, Ziwei Liu, Tat-Seng Chua, Wei Tsang Ooi*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-127-blue)](https://github.com/worldbench/awesome-ai-auto-research)
+
+---
+
+
+**[TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation](https://huggingface.co/papers/2605.22355)** NEW
+
+*Published: 2026-05-21*
+
+*Hanyu Guo, Jiedong Yang, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/HotTricker/TransitLM)
+
+---
+
+
+**[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](https://huggingface.co/papers/2605.15198)** NEW
+
+*Published: 2026-05-14*
+
+*Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/ZiyuGuo99/ATLAS)
+
+---
+
+
+**[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](https://huggingface.co/papers/2605.20150)** NEW
+
+*Published: 2026-05-19*
+
+*Chonghao Zhong, Linfeng Shi, Hua Chen, Tiecheng Sun, Hao Zhao, Binhang Yuan, Chaojian Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/sponge-lab/TideGS)
+
+---
+
+
+
+
+### 2026-05-22
+
+**[Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833)** NEW
+
+*Published: 2026-05-19*
+
+*Zhifei Xie, Kaiyu Pang, Haobin Zhang, Deheng Ye, Xiaobin Hu, Shuicheng Yan, Chunyan Miao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-171-blue)](https://github.com/xzf-thu/Mega-ASR)
 
 ---
 
@@ -52,18 +89,40 @@ Complete history news
 
 *Zach Evans, Julian D. Parker, Matthew Rice, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Stability-AI/stable-audio-3)
+[![](https://img.shields.io/badge/GitHub%20Stars-173-blue)](https://github.com/Stability-AI/stable-audio-3)
 
 ---
 
 
-**[Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833)** NEW
+**[A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook](https://huggingface.co/papers/2605.20266)** NEW
+
+*Published: 2026-05-18*
+
+*Kaiwen Luo, Zhenhong Zhou, Leo Wang, Liang Lin, Yang Xiao, Tianyu Shao, Yuanhe Zhang, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Dongrui Liu, Li Sun, Yueming Wu, Kai Li, Ting Dang, Xiaojun Jia, Rohan Kumar Das, Xinfeng Li, Siyuan Liang, Qiufeng Wang, Xingjun Ma, Jing Chen, Kun Wang, Junhao Dong, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-196-blue)](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs)
+
+---
+
+
+**[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://huggingface.co/papers/2605.20119)** NEW
 
 *Published: 2026-05-19*
 
-*Zhifei Xie, Kaiyu Pang, Haobin Zhang, Deheng Ye, Xiaobin Hu, Shuicheng Yan, Chunyan Miao*
+*Emaad Khwaja, Chris Lettieri, Gerald Woo, Eden Belouadah, Marc Cenac, Guillaume Jarry, Enguerrand Paquin, Xunyi Zhao, Viktoriya Zhukov, Othmane Abou-Amal, Chenghao Liu, Ameet Talwalkar, David Asker*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/xzf-thu/Mega-ASR)
+[![](https://img.shields.io/badge/GitHub%20Stars-438-blue)](https://github.com/DataDog/toto)
+
+---
+
+
+**[HRM-Text: Efficient Pretraining Beyond Scaling](https://huggingface.co/papers/2605.20613)** NEW
+
+*Published: 2026-05-20*
+
+*Guan Wang, Changling Liu, Chenyu Wang, Cai Zhou, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-632-blue)](https://github.com/sapientinc/HRM-Text)
 
 ---
 
@@ -72,24 +131,24 @@ Complete history news
 
 ### 2026-05-21
 
-**[MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530)** NEW
+**[AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://huggingface.co/papers/2605.20025)** NEW
 
-*Published: 2026-05-12*
+*Published: 2026-05-19*
 
-*Yining Chen, Jihao Zhao, Bo Tang, Haofen Wang, Yue Zhang, Fei Huang, Feiyu Xiong, Zhiyu Li*
+*Jiaqi Liu, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, Zihan Dong, Congyu Zhang, Letian Zhang, Guiming Chen, Haoqin Tu, Xinyu Yang, Lu Feng, Xujiang Zhao, Haifeng Chen, Jiawei Zhou, Xiao Wang, Weitong Zhang, Hongtu Zhu, Yun Li, Jieru Mei, Hongliang Fei, Jiaheng Zhang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/MemTensor/MemPrivacy)
+[![](https://img.shields.io/badge/GitHub%20Stars-12,390-blue)](https://github.com/aiming-lab/AutoResearchClaw)
 
 ---
 
 
-**[Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155)** NEW
+**[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://huggingface.co/papers/2605.06658)** NEW
 
-*Published: 2026-05-14*
+*Published: 2026-05-07*
 
-*Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen*
+*Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-119-blue)](https://github.com/ZJU-REAL/SDAR)
+[![](https://img.shields.io/badge/GitHub%20Stars-101-blue)](https://github.com/zhuxing0/Relit-LiVE)
 
 ---
 
@@ -105,24 +164,24 @@ Complete history news
 ---
 
 
-**[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://huggingface.co/papers/2605.06658)** NEW
+**[Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155)** NEW
 
-*Published: 2026-05-07*
+*Published: 2026-05-14*
 
-*Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang*
+*Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zhuxing0/Relit-LiVE)
+[![](https://img.shields.io/badge/GitHub%20Stars-119-blue)](https://github.com/ZJU-REAL/SDAR)
 
 ---
 
 
-**[AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://huggingface.co/papers/2605.20025)** NEW
+**[MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530)** NEW
 
-*Published: 2026-05-19*
+*Published: 2026-05-12*
 
-*Jiaqi Liu, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, Zihan Dong, Congyu Zhang, Letian Zhang, Guiming Chen, Haoqin Tu, Xinyu Yang, Lu Feng, Xujiang Zhao, Haifeng Chen, Jiawei Zhou, Xiao Wang, Weitong Zhang, Hongtu Zhu, Yun Li, Jieru Mei, Hongliang Fei, Jiaheng Zhang, etc.*
+*Yining Chen, Jihao Zhao, Bo Tang, Haofen Wang, Yue Zhang, Fei Huang, Feiyu Xiong, Zhiyu Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-12,390-blue)](https://github.com/aiming-lab/AutoResearchClaw)
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/MemTensor/MemPrivacy)
 
 ---
 
@@ -131,35 +190,13 @@ Complete history news
 
 ### 2026-05-20
 
-**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)** NEW
+**[What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion](https://huggingface.co/papers/2605.07915)** NEW
 
-*Published: 2026-05-18*
+*Published: 2026-05-08*
 
-*Yukang Chen, Luozhou Wang, Wei Huang, Shuai Yang, Bohan Zhang, Yicheng Xiao, Ruihang Chu, Weian Mao, Qixin Hu, Shaoteng Liu, Yuyang Zhao, Huizi Mao, Ying-Cong Chen, Enze Xie, Xiaojuan Qi, Song Han*
+*Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, Zihao Pan, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,316-blue)](https://github.com/NVlabs/LongLive)
-
----
-
-
-**[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)** NEW
-
-*Published: 2026-05-18*
-
-*Fengyi Fu, Mengqi Huang, Shaojin Wu, Yunsheng Jiang, Yufei Huo, Hao Li, Yinghang Song, Fei Ding, Jianzhu Guo, Qian He, Zheren Fu, Zhendong Mao, Yongdong Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-346-blue)](https://github.com/bytedance/Lance)
-
----
-
-
-**[SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401)** NEW
-
-*Published: 2026-05-18*
-
-*Hongyi Liu, Haoyan Yang, Tao Jiang, Bo Tang, Feiyu Xiong, Zhiyu Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-219-blue)](https://github.com/MemTensor/skills-vote)
+[![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/ZhengrongYue/PAE)
 
 ---
 
@@ -170,18 +207,40 @@ Complete history news
 
 *Jingdi Lei, Di Zhang, Junxian Li, Weida Wang, Kaixuan Fan, Xiang Liu, Qihan Liu, Xiaoteng Ma, Baian Chen, Soujanya Poria*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-124-blue)](https://github.com/declare-lab/delta-Mem)
+[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/declare-lab/delta-Mem)
 
 ---
 
 
-**[What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion](https://huggingface.co/papers/2605.07915)** NEW
+**[SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401)** NEW
 
-*Published: 2026-05-08*
+*Published: 2026-05-18*
 
-*Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, Zihao Pan, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang*
+*Hongyi Liu, Haoyan Yang, Tao Jiang, Bo Tang, Feiyu Xiong, Zhiyu Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-100-blue)](https://github.com/ZhengrongYue/PAE)
+[![](https://img.shields.io/badge/GitHub%20Stars-253-blue)](https://github.com/MemTensor/skills-vote)
+
+---
+
+
+**[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)** NEW
+
+*Published: 2026-05-18*
+
+*Fengyi Fu, Mengqi Huang, Shaojin Wu, Yunsheng Jiang, Yufei Huo, Hao Li, Yinghang Song, Fei Ding, Jianzhu Guo, Qian He, Zheren Fu, Zhendong Mao, Yongdong Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-763-blue)](https://github.com/bytedance/Lance)
+
+---
+
+
+**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)** NEW
+
+*Published: 2026-05-18*
+
+*Yukang Chen, Luozhou Wang, Wei Huang, Shuai Yang, Bohan Zhang, Yicheng Xiao, Ruihang Chu, Weian Mao, Qixin Hu, Shaoteng Liu, Yuyang Zhao, Huizi Mao, Ying-Cong Chen, Enze Xie, Xiaojuan Qi, Song Han*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,621-blue)](https://github.com/NVlabs/LongLive)
 
 ---
 
@@ -190,35 +249,13 @@ Complete history news
 
 ### 2026-05-19
 
-**[PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents](https://huggingface.co/papers/2605.10341)** NEW
+**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)** NEW
 
-*Published: 2026-05-11*
+*Published: 2026-04-15*
 
-*Bihui Yu, Xinglong Xu, Junjie Jiang, Jiabei Cheng, Caijun Jia, Siyuan Li, Conghui He, Jingxuan Wei, Cheng Tan*
+*Team HY-World, Chenjie Cao, Xuhui Zuo, Zhenwei Wang, Yisu Zhang, Junta Wu, Zhenyang Liu, Yuning Gong, Yang Liu, Bo Yuan, Chao Zhang, Coopers Li, Dongyuan Guo, Fan Yang, Haiyu Zhang, Hang Cao, Jianchen Zhu, Jiaxin Lin, Jie Xiao, Jihong Zhang, Junlin Yu, Lei Wang, Lifu Wang, Lilin Wang, Linus, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-143-blue)](https://github.com/OpenRaiser/PaperFit)
-
----
-
-
-**[Continual Harness: Online Adaptation for Self-Improving Foundation Agents](https://huggingface.co/papers/2605.09998)** NEW
-
-*Published: 2026-05-11*
-
-*Seth Karten, Joel Zhang, Tersoo Upaa Jr, Ruirong Feng, Wenzhe Li, Chengshuai Shi, Chi Jin, Kiran Vodrahalli*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/sethkarten/continual-harness)
-
----
-
-
-**[MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527)** NEW
-
-*Published: 2026-05-14*
-
-*Kangning Zhang, Shuai Shao, Qingyao Li, Jianghao Lin, Lingyue Fu, Shijian Wang, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-132-blue)](https://github.com/DeepExperience/MMSkills)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,072-blue)](https://github.com/Tencent-Hunyuan/HY-World-2.0) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -234,13 +271,35 @@ Complete history news
 ---
 
 
-**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)** NEW
+**[MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527)** NEW
 
-*Published: 2026-04-15*
+*Published: 2026-05-14*
 
-*Team HY-World, Chenjie Cao, Xuhui Zuo, Zhenwei Wang, Yisu Zhang, Junta Wu, Zhenyang Liu, Yuning Gong, Yang Liu, Bo Yuan, Chao Zhang, Coopers Li, Dongyuan Guo, Fan Yang, Haiyu Zhang, Hang Cao, Jianchen Zhu, Jiaxin Lin, Jie Xiao, Jihong Zhang, Junlin Yu, Lei Wang, Lifu Wang, Lilin Wang, Linus, etc.*
+*Kangning Zhang, Shuai Shao, Qingyao Li, Jianghao Lin, Lingyue Fu, Shijian Wang, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,072-blue)](https://github.com/Tencent-Hunyuan/HY-World-2.0) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-132-blue)](https://github.com/DeepExperience/MMSkills)
+
+---
+
+
+**[Continual Harness: Online Adaptation for Self-Improving Foundation Agents](https://huggingface.co/papers/2605.09998)** NEW
+
+*Published: 2026-05-11*
+
+*Seth Karten, Joel Zhang, Tersoo Upaa Jr, Ruirong Feng, Wenzhe Li, Chengshuai Shi, Chi Jin, Kiran Vodrahalli*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-108-blue)](https://github.com/sethkarten/continual-harness)
+
+---
+
+
+**[PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents](https://huggingface.co/papers/2605.10341)** NEW
+
+*Published: 2026-05-11*
+
+*Bihui Yu, Xinglong Xu, Junjie Jiang, Jiabei Cheng, Caijun Jia, Siyuan Li, Conghui He, Jingxuan Wei, Cheng Tan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-273-blue)](https://github.com/OpenRaiser/PaperFit)
 
 ---
 
@@ -249,13 +308,35 @@ Complete history news
 
 ### 2026-05-18
 
-**[Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion](https://huggingface.co/papers/2605.12825)** NEW
+**[LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://huggingface.co/papers/2605.08083)** NEW
 
-*Published: 2026-05-12*
+*Published: 2026-05-08*
 
-*Chien Van Nguyen, Chaitra Hegde, Van Cuong Pham, Ryan A. Rossi, Franck Dernoncourt, Thien Huu Nguyen*
+*Tong Zheng, Haolin Liu, Chengsong Huang, Huiwen Bao, Sheng Zhang, Rui Liu, Runpeng Dai, Ruibo Chen, Chenxi Liu, Tianyi Xiong, Xidong Wu, Hongming Zhang, Heng Huang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-328-blue)](https://github.com/chiennv2000/orthrus)
+[![](https://img.shields.io/badge/GitHub%20Stars-132-blue)](https://github.com/zhengkid/AutoTTS)
+
+---
+
+
+**[HumanNet: Scaling Human-centric Video Learning to One Million Hours](https://huggingface.co/papers/2605.06747)** NEW
+
+*Published: 2026-05-07*
+
+*Yufan Deng, Daquan Zhou*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-175-blue)](https://github.com/DAGroup-PKU/HumanNet)
+
+---
+
+
+**[X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://huggingface.co/papers/2605.05765)** NEW
+
+*Published: 2026-05-07*
+
+*Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Qi Qi, Quanlong Zheng, Qi Wu, Zhenyi Liao, Binqiang Pan, Haobo Ji, Haonan Lu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-184-blue)](https://github.com/OPPO-Mente-Lab/X-OmniClaw)
 
 ---
 
@@ -271,94 +352,13 @@ Complete history news
 ---
 
 
-**[X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://huggingface.co/papers/2605.05765)** NEW
-
-*Published: 2026-05-07*
-
-*Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Qi Qi, Quanlong Zheng, Qi Wu, Zhenyi Liao, Binqiang Pan, Haobo Ji, Haonan Lu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-161-blue)](https://github.com/OPPO-Mente-Lab/X-OmniClaw)
-
----
-
-
-**[HumanNet: Scaling Human-centric Video Learning to One Million Hours](https://huggingface.co/papers/2605.06747)** NEW
-
-*Published: 2026-05-07*
-
-*Yufan Deng, Daquan Zhou*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-148-blue)](https://github.com/DAGroup-PKU/HumanNet)
-
----
-
-
-**[LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://huggingface.co/papers/2605.08083)** NEW
-
-*Published: 2026-05-08*
-
-*Tong Zheng, Haolin Liu, Chengsong Huang, Huiwen Bao, Sheng Zhang, Rui Liu, Runpeng Dai, Ruibo Chen, Chenxi Liu, Tianyi Xiong, Xidong Wu, Hongming Zhang, Heng Huang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/zhengkid/AutoTTS)
-
----
-
-
-
-
-### 2026-05-17
-
-**[UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning](https://huggingface.co/papers/2605.11400)** NEW
+**[Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion](https://huggingface.co/papers/2605.12825)** NEW
 
 *Published: 2026-05-12*
 
-*Hayes Bai, Yinyi Luo, Wenwen Wang, Qingsong Wen, Jindong Wang*
+*Chien Van Nguyen, Chaitra Hegde, Van Cuong Pham, Ryan A. Rossi, Franck Dernoncourt, Thien Huu Nguyen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/AIFrontierLab/TorchUMM)
-
----
-
-
-**[EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](https://huggingface.co/papers/2605.13841)** NEW
-
-*Published: 2026-05-13*
-
-*Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz, Oluwanifemi Bamgbose, Fanny Riols, Hoang H. Nguyen, Raghav Mehndiratta, Lindsay Devon Brin, Joseph Marinier, Hari Subramani, Anil Madamala, Sridhar Krishna Nemala, Srinivas Sunkara*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-124-blue)](https://github.com/ServiceNow/eva)
-
----
-
-
-**[Continuous-Time Distribution Matching for Few-Step Diffusion Distillation](https://huggingface.co/papers/2605.06376)** NEW
-
-*Published: 2026-05-07*
-
-*Tao Liu, Hao Yan, Mengting Chen, Taihang Hu, Zhengrong Yue, Zihao Pan, Jinsong Lan, Xiaoyong Zhu, Ming-Ming Cheng, Bo Zheng, Yaxing Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-130-blue)](https://github.com/byliutao/cdm)
-
----
-
-
-**[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063)** NEW
-
-*Published: 2026-05-08*
-
-*Zhen Fang, Wenxuan Huang, Yu Zeng, Yiming Zhao, Shuang Chen, Kaituo Feng, Yunlong Lin, Lin Chen, Zehui Chen, Shaosheng Cao, Feng Zhao*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-166-blue)](https://github.com/CostaliyA/Flow-OPD)
-
----
-
-
-**[World Action Models: The Next Frontier in Embodied AI](https://huggingface.co/papers/2605.12090)** NEW
-
-*Published: 2026-05-12*
-
-*Siyin Wang, Junhao Shi, Zhaoyang Fu, Xinzhe He, Feihong Liu, Chenchen Yang, Yikang Zhou, Zhaoye Fei, Jingjing Gong, Jinlan Fu, Mike Zheng Shou, Xuanjing Huang, Xipeng Qiu, Yu-Gang Jiang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-356-blue)](https://github.com/OpenMOSS/Awesome-WAM)
+[![](https://img.shields.io/badge/GitHub%20Stars-328-blue)](https://github.com/chiennv2000/orthrus)
 
 ---
 
