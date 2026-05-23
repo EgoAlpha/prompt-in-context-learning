@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-22]**
+### **[2026-05-23]**
 
-[**HRM-Text: Efficient Pretraining Beyond Scaling**](https://huggingface.co/papers/2605.20613) （**New**）
-
-*Published: 2026-05-20*
-
-<font color="gray">Guan Wang, Changling Liu, Chenyu Wang, Cai Zhou, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-626-blue)](https://github.com/sapientinc/HRM-Text)
-
----
-
-
-[**Toto 2.0: Time Series Forecasting Enters the Scaling Era**](https://huggingface.co/papers/2605.20119) （**New**）
-
-*Published: 2026-05-19*
-
-<font color="gray">Emaad Khwaja, Chris Lettieri, Gerald Woo, Eden Belouadah, Marc Cenac, Guillaume Jarry, Enguerrand Paquin, Xunyi Zhao, Viktoriya Zhukov, Othmane Abou-Amal, Chenghao Liu, Ameet Talwalkar, David Asker - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-437-blue)](https://github.com/DataDog/toto)
-
----
-
-
-[**A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook**](https://huggingface.co/papers/2605.20266) （**New**）
+[**Code as Agent Harness**](https://huggingface.co/papers/2605.18747) （**New**）
 
 *Published: 2026-05-18*
 
-<font color="gray">Kaiwen Luo, Zhenhong Zhou, Leo Wang, Liang Lin, Yang Xiao, Tianyu Shao, Yuanhe Zhang, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Dongrui Liu, Li Sun, Yueming Wu, Kai Li, Ting Dang, Xiaojun Jia, Ro - [arXiv]</font>
+<font color="gray">Xuying Ning, Katherine Tieu, Dongqi Fu, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li,  - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs)
+[![](https://img.shields.io/badge/GitHub%20Stars-197-blue)](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)
 
 ---
 
 
-[**Stable Audio 3**](https://huggingface.co/papers/2605.17991) （**New**）
+[**AI for Auto-Research: Roadmap & User Guide**](https://huggingface.co/papers/2605.18661) （**New**）
 
 *Published: 2026-05-18*
 
-<font color="gray">Zach Evans, Julian D. Parker, Matthew Rice, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons - [arXiv]</font>
+<font color="gray">Lingdong Kong, Xian Sun, Wei Chow, Linfeng Li, Kevin Qinghong Lin, Xuan Billy Zhang, Song Wang, Rong Li, Qing Wu, Wei Gao, Yingshuo Wang, Shaoyuan Xie, Jiachen Liu, Leigang Qu, Shijie Li, Lai Xing Ng, - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Stability-AI/stable-audio-3)
+[![](https://img.shields.io/badge/GitHub%20Stars-127-blue)](https://github.com/worldbench/awesome-ai-auto-research)
 
 ---
 
 
-[**Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation**](https://huggingface.co/papers/2605.19833) （**New**）
+[**TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation**](https://huggingface.co/papers/2605.22355) （**New**）
+
+*Published: 2026-05-21*
+
+<font color="gray">Hanyu Guo, Jiedong Yang, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/HotTricker/TransitLM)
+
+---
+
+
+[**ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both**](https://huggingface.co/papers/2605.15198) （**New**）
+
+*Published: 2026-05-14*
+
+<font color="gray">Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/ZiyuGuo99/ATLAS)
+
+---
+
+
+[**TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization**](https://huggingface.co/papers/2605.20150) （**New**）
 
 *Published: 2026-05-19*
 
-<font color="gray">Zhifei Xie, Kaiyu Pang, Haobin Zhang, Deheng Ye, Xiaobin Hu, Shuicheng Yan, Chunyan Miao - [arXiv]</font>
+<font color="gray">Chonghao Zhong, Linfeng Shi, Hua Chen, Tiecheng Sun, Hao Zhao, Binhang Yuan, Chaojian Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/xzf-thu/Mega-ASR)
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/sponge-lab/TideGS)
 
 ---
 
