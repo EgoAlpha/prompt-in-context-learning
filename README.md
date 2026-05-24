@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-23]**
+### **[2026-05-24]**
 
-[**Code as Agent Harness**](https://huggingface.co/papers/2605.18747) （**New**）
-
-*Published: 2026-05-18*
-
-<font color="gray">Xuying Ning, Katherine Tieu, Dongqi Fu, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li,  - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-197-blue)](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)
-
----
-
-
-[**AI for Auto-Research: Roadmap & User Guide**](https://huggingface.co/papers/2605.18661) （**New**）
-
-*Published: 2026-05-18*
-
-<font color="gray">Lingdong Kong, Xian Sun, Wei Chow, Linfeng Li, Kevin Qinghong Lin, Xuan Billy Zhang, Song Wang, Rong Li, Qing Wu, Wei Gao, Yingshuo Wang, Shaoyuan Xie, Jiachen Liu, Leigang Qu, Shijie Li, Lai Xing Ng, - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-127-blue)](https://github.com/worldbench/awesome-ai-auto-research)
-
----
-
-
-[**TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation**](https://huggingface.co/papers/2605.22355) （**New**）
+[**Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention**](https://huggingface.co/papers/2605.22791) （**New**）
 
 *Published: 2026-05-21*
 
-<font color="gray">Hanyu Guo, Jiedong Yang, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu - [arXiv]</font>
+<font color="gray">Ali Hatamizadeh, Yejin Choi, Jan Kautz - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/HotTricker/TransitLM)
-
----
-
-
-[**ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both**](https://huggingface.co/papers/2605.15198) （**New**）
-
-*Published: 2026-05-14*
-
-<font color="gray">Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/ZiyuGuo99/ATLAS)
+[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/NVlabs/GatedDeltaNet-2)
 
 ---
 
 
-[**TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization**](https://huggingface.co/papers/2605.20150) （**New**）
+[**IndustryBench: Probing the Industrial Knowledge Boundaries of LLMs**](https://huggingface.co/papers/2605.10267) （**New**）
 
-*Published: 2026-05-19*
+*Published: 2026-05-12*
 
-<font color="gray">Chonghao Zhong, Linfeng Shi, Hua Chen, Tiecheng Sun, Hao Zhao, Binhang Yuan, Chaojian Li - [arXiv]</font>
+<font color="gray">Songlin Bai, Xintong Wang, Linlin Yu, Bin Chen, Zhiang Xu, Yuyang Sheng, Changtong Zan, Xiaofeng Zhu, Yizhe Zhang, Jiru Li, Mingze Guo, Ling Zou, Yalong Li, Chengfu Huo, Liang Ding - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/sponge-lab/TideGS)
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/alibaba-multimodal-industrial-ai/IndustryBench)
+
+---
+
+
+[**FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization**](https://huggingface.co/papers/2605.15824) （**New**）
+
+*Published: 2026-05-15*
+
+<font color="gray">Quanjian Song, Yefeng Shen, Mengting Chen, Hao Sun, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Liujuan Cao - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/quanjiansong/FashionChameleon)
+
+---
+
+
+[**Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling**](https://huggingface.co/papers/2605.13301) （**New**）
+
+*Published: 2026-05-13*
+
+<font color="gray">Yafu Li, Runzhe Zhan, Haoran Zhang, Shunkai Zhang, Yizhuo Li, Zhilin Wang, Jiacheng Chen, Futing Wang, Xuyang Hu, Yuchen Fan, Bangjie Xu, Yucheng Su, Xinmiao Han, Chenxi Li, Haodi Lei, Yufeng Zhao, Ze - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/Simplified-Reasoning/SU-01)
+
+---
+
+
+[**Unlocking Dense Metric Depth Estimation in VLMs**](https://huggingface.co/papers/2605.15876) （**New**）
+
+*Published: 2026-05-15*
+
+<font color="gray">Hanxun Yu, Xuan Qu, Yuxin Wang, Jianke Zhu, Lei ke - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/hanxunyu/DepthVLM)
 
 ---
 
