@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-24]**
+### **[2026-05-25]**
 
-[**Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention**](https://huggingface.co/papers/2605.22791) （**New**）
+[**Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis**](https://huggingface.co/papers/2605.18451) （**New**）
 
-*Published: 2026-05-21*
+*Published: 2026-05-18*
 
-<font color="gray">Ali Hatamizadeh, Yejin Choi, Jan Kautz - [arXiv]</font>
+<font color="gray">Yixuan Yang, Zhen Luo, Wanshui Gan, Jinkun Hao, Junru Lu, Jinghao Yan, Zhaoyang Lyu, Xudong Xu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/NVlabs/GatedDeltaNet-2)
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/YxuanAr/Code-as-Room)
 
 ---
 
 
-[**IndustryBench: Probing the Industrial Knowledge Boundaries of LLMs**](https://huggingface.co/papers/2605.10267) （**New**）
+[**TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking**](https://huggingface.co/papers/2605.12587) （**New**）
 
 *Published: 2026-05-12*
 
-<font color="gray">Songlin Bai, Xintong Wang, Linlin Yu, Bin Chen, Zhiang Xu, Yuyang Sheng, Changtong Zan, Xiaofeng Zhu, Yizhe Zhang, Jiru Li, Mingze Guo, Ling Zou, Yalong Li, Chengfu Huo, Liang Ding - [arXiv]</font>
+<font color="gray">Jisu Nam, Jahyeok Koo, Soowon Son, Jaewoo Jung, Honggyu An, Junhwa Hur, Seungryong Kim - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/alibaba-multimodal-industrial-ai/IndustryBench)
-
----
-
-
-[**FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization**](https://huggingface.co/papers/2605.15824) （**New**）
-
-*Published: 2026-05-15*
-
-<font color="gray">Quanjian Song, Yefeng Shen, Mengting Chen, Hao Sun, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Liujuan Cao - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/quanjiansong/FashionChameleon)
+[![](https://img.shields.io/badge/GitHub%20Stars-80-blue)](https://github.com/cvlab-kaist/TrackCraft3r)
 
 ---
 
 
-[**Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling**](https://huggingface.co/papers/2605.13301) （**New**）
+[**RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark**](https://huggingface.co/papers/2605.10921) （**New**）
 
-*Published: 2026-05-13*
+*Published: 2026-05-11*
 
-<font color="gray">Yafu Li, Runzhe Zhan, Haoran Zhang, Shunkai Zhang, Yizhuo Li, Zhilin Wang, Jiacheng Chen, Futing Wang, Xuyang Hu, Yuchen Fan, Bangjie Xu, Yucheng Su, Xinmiao Han, Chenxi Li, Haodi Lei, Yufeng Zhao, Ze - [arXiv]</font>
+<font color="gray">Huashuo Lei, Wenxuan Song, Huarui Zhang, Jieyuan Pei, Jiayi Chen, Haodong Yan, Han Zhao, Pengxiang Ding, Zhipeng Zhang, Lida Huang, Donglin Wang, Yan Wang, Haoang Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/Simplified-Reasoning/SU-01)
+[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/OpenHelix-Team/RoboMemArena)
 
 ---
 
 
-[**Unlocking Dense Metric Depth Estimation in VLMs**](https://huggingface.co/papers/2605.15876) （**New**）
+[**Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?**](https://huggingface.co/papers/2605.10848) （**New**）
 
-*Published: 2026-05-15*
+*Published: 2026-05-11*
 
-<font color="gray">Hanxun Yu, Xuan Qu, Yuxin Wang, Jianke Zhu, Lei ke - [arXiv]</font>
+<font color="gray">Tz-Huan Hsu, Jheng-Hong Yang, Jimmy Lin - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/hanxunyu/DepthVLM)
+[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/justram/pi-serini)
+
+---
+
+
+[**Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image**](https://huggingface.co/papers/2605.14984) （**New**）
+
+*Published: 2026-05-14*
+
+<font color="gray">Ming Qian, Zimin Xia, Changkun Liu, Shuailei Ma, Wen Wang, Zeran Ke, Bin Tan, Hang Zhang, Gui-Song Xia - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/qianmingduowan/Sat3DGen)
 
 ---
 
