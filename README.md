@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-25]**
+### **[2026-05-26]**
 
-[**Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis**](https://huggingface.co/papers/2605.18451) （**New**）
+[**SkillOpt: Executive Strategy for Self-Evolving Agent Skills**](https://huggingface.co/papers/2605.23904) （**New**）
+
+*Published: 2026-05-22*
+
+<font color="gray">Yifan Yang, Ziyang Gong, Weiquan Huang, Qihao Yang, Ziwei Zhou, Zisu Huang, Yan Li, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Yuqing Yang, Dongdong Chen, Xue Yang, Chong Luo - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-178-blue)](https://github.com/microsoft/SkillOpt)
+
+---
+
+
+[**Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models**](https://huggingface.co/papers/2605.21573) （**New**）
+
+*Published: 2026-05-20*
+
+<font color="gray">Dong Chen, Fangyun Wei, Ziyu Wan, Dongdong Chen, Jiawei Zhang, Jinjing Zhao, Sirui Zhang, Yang Yue, Zhiyang Liang, Baining Guo, Chong Luo, Jianmin Bao, Ji Li, Lei Shi, Qinhong Yang, Xiuyu Wu, Xuelu Fe - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/microsoft/Lens)
+
+---
+
+
+[**See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding**](https://huggingface.co/papers/2605.18018) （**New**）
 
 *Published: 2026-05-18*
 
-<font color="gray">Yixuan Yang, Zhen Luo, Wanshui Gan, Jinkun Hao, Junru Lu, Jinghao Yan, Zhaoyang Lyu, Xudong Xu - [arXiv]</font>
+<font color="gray">Boyuan Sun, Bowen Yin, Yuanming Li, Xihan Wei, Qibin Hou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/YxuanAr/Code-as-Room)
-
----
-
-
-[**TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking**](https://huggingface.co/papers/2605.12587) （**New**）
-
-*Published: 2026-05-12*
-
-<font color="gray">Jisu Nam, Jahyeok Koo, Soowon Son, Jaewoo Jung, Honggyu An, Junhwa Hur, Seungryong Kim - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-80-blue)](https://github.com/cvlab-kaist/TrackCraft3r)
+[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/HumanMLLM/SWIM)
 
 ---
 
 
-[**RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark**](https://huggingface.co/papers/2605.10921) （**New**）
+[**Semantic Generative Tuning for Unified Multimodal Models**](https://huggingface.co/papers/2605.18714) （**New**）
 
-*Published: 2026-05-11*
+*Published: 2026-05-18*
 
-<font color="gray">Huashuo Lei, Wenxuan Song, Huarui Zhang, Jieyuan Pei, Jiayi Chen, Haodong Yan, Han Zhao, Pengxiang Ding, Zhipeng Zhang, Lida Huang, Donglin Wang, Yan Wang, Haoang Li - [arXiv]</font>
+<font color="gray">Songsong Yu, Yuxin Chen, Ying Shan, Yanwei Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/OpenHelix-Team/RoboMemArena)
-
----
-
-
-[**Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?**](https://huggingface.co/papers/2605.10848) （**New**）
-
-*Published: 2026-05-11*
-
-<font color="gray">Tz-Huan Hsu, Jheng-Hong Yang, Jimmy Lin - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/justram/pi-serini)
+[![](https://img.shields.io/badge/GitHub%20Stars-74-blue)](https://github.com/song2yu/SGT)
 
 ---
 
 
-[**Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image**](https://huggingface.co/papers/2605.14984) （**New**）
+[**DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo**](https://huggingface.co/papers/2605.16257) （**New**）
 
-*Published: 2026-05-14*
+*Published: 2026-05-15*
 
-<font color="gray">Ming Qian, Zimin Xia, Changkun Liu, Shuailei Ma, Wen Wang, Zeran Ke, Bin Tan, Hang Zhang, Gui-Song Xia - [arXiv]</font>
+<font color="gray">Hanwen Wang, Weizhi Zhao, Xiangyu Wang, Siyuan Huang, He Lin, Boyuan Zheng, Rongtao Xu, Gang Wang, Yao Mu, He Wang, Lue Fan, Hongsheng Li, Zhaoxiang Zhang, Tieniu Tan - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/qianmingduowan/Sat3DGen)
+[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/brave-eai/dexjoco)
 
 ---
 
