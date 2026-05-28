@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-27]**
+### **[2026-05-28]**
 
-[**PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects**](https://huggingface.co/papers/2605.21572) （**New**）
-
-*Published: 2026-05-20*
-
-<font color="gray">Ziang Cao, Yinghao Liu, Haitian Li, Runmao Yao, Fangzhou Hong, Zhaoxi Chen, Liang Pan, Ziwei Liu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/physx-omni/PhysX-Omni)
-
----
-
-
-[**TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**](https://huggingface.co/papers/2605.26115) （**New**）
+[**LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence**](https://huggingface.co/papers/2605.25979) （**New**）
 
 *Published: 2026-05-25*
 
-<font color="gray">Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang - [arXiv]</font>
+<font color="gray">Xiang An, Yin Xie, Feilong Tang, Yunyao Yan, Huajie Tan, Didi Zhu, Changrui Chen, Xiuwei Zhao, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Kaichen Zhang, Wenkang Zhang, Zheng Cheng, Nansen Zhan - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-119-blue)](https://github.com/ziplab/TriSplat)
+[![](https://img.shields.io/badge/GitHub%20Stars-964-blue)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2)
 
 ---
 
 
-[**WavFlow: Audio Generation in Waveform Space**](https://huggingface.co/papers/2605.18749) （**New**）
+[**LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding**](https://huggingface.co/papers/2605.27365) （**New**）
+
+*Published: 2026-05-26*
+
+<font color="gray">Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei, Yangzhou Liu, Zhiqi Li, Yunze Man, Guo Chen, Andrew Tao, Guilin Liu, Jan Kautz, Lei Zhang, Zhiding Yu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,018-blue)](https://github.com/NVlabs/Eagle)
+
+---
+
+
+[**PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents**](https://huggingface.co/papers/2605.19932) （**New**）
+
+*Published: 2026-05-19*
+
+<font color="gray">Zhuohan Gu, Qizheng Zhang, Omar Khattab, Samuel Madden - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/zhuohangu/peek)
+
+---
+
+
+[**RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting**](https://huggingface.co/papers/2605.18263) （**New**）
 
 *Published: 2026-05-18*
 
-<font color="gray">Feiyan Zhou, Luyuan Wang, Shoufa Chen, Zhe Wang, Zhiheng Liu, Yuren Cong, Xiaohui Zhang, Fanny Yang, Belinda Zeng - [arXiv]</font>
+<font color="gray">Ji Shi, Xianghua Ying, Bowei Xing, Ruohao Guo, Wenzhen Yue - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-105-blue)](https://github.com/facebookresearch/WavFlow)
-
----
-
-
-[**OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization**](https://huggingface.co/papers/2605.17757) （**New**）
-
-*Published: 2026-05-18*
-
-<font color="gray">Zhongzhu Zhou, Donglin Zhuang, Jisen Li, Ziyan Chen, Shuaiwen Leon Song, Ben Athiwaratkun, Xiaoxia Wu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/FutureMLS-Lab/OSCAR)
+[![](https://img.shields.io/badge/GitHub%20Stars-84-blue)](https://github.com/sjj118/RT-Splatting)
 
 ---
 
 
-[**Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution**](https://huggingface.co/papers/2605.23264) （**New**）
+[**Anisotropic Modality Align**](https://huggingface.co/papers/2605.07825) （**New**）
 
-*Published: 2026-05-22*
+*Published: 2026-05-08*
 
-<font color="gray">Hongbo Wang, Huaibo Huang, Pin Wang, Jinhua Hao, Chao Zhou, Ran He - [arXiv]</font>
+<font color="gray">Xiaomin Yu, Yijiang Li, Yuhui Zhang, Hanzhen Zhao, Yue Yang, Hao Tang, Yue Song, Xiaobin Hu, Chengwei Qin, Shuicheng Yan, Hui Xiong - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/wafer-bob/ASASR)
+[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/Yu-xm/Modality_Gap_Theory)
 
 ---
 
