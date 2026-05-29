@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-28]**
+### **[2026-05-29]**
 
-[**LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence**](https://huggingface.co/papers/2605.25979) （**New**）
+[**CubePart: An Open-Vocabulary Part-Controllable 3D Generator**](https://huggingface.co/papers/2605.28763) （**New**）
 
-*Published: 2026-05-25*
+*Published: 2026-05-27*
 
-<font color="gray">Xiang An, Yin Xie, Feilong Tang, Yunyao Yan, Huajie Tan, Didi Zhu, Changrui Chen, Xiuwei Zhao, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Kaichen Zhang, Wenkang Zhang, Zheng Cheng, Nansen Zhan - [arXiv]</font>
+<font color="gray">Yiheng Zhu, Kangle Deng, Jean-Philippe Fauconnier, Inaki Navarro, Daiqing Li, Ava Pun, Yinan Zhang, Peiye Zhuang, Xiaoxia Sun, Maneesh Agrawala, Kiran Bhat, Tinghui Zhou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-964-blue)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2)
-
----
-
-
-[**LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding**](https://huggingface.co/papers/2605.27365) （**New**）
-
-*Published: 2026-05-26*
-
-<font color="gray">Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei, Yangzhou Liu, Zhiqi Li, Yunze Man, Guo Chen, Andrew Tao, Guilin Liu, Jan Kautz, Lei Zhang, Zhiding Yu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,018-blue)](https://github.com/NVlabs/Eagle)
+[![](https://img.shields.io/badge/GitHub%20Stars-958-blue)](https://github.com/Roblox/cube/tree/main/cubepart)
 
 ---
 
 
-[**PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents**](https://huggingface.co/papers/2605.19932) （**New**）
+[**From Pixels to Words -- Towards Native One-Vision Models at Scale**](https://huggingface.co/papers/2605.28820) （**New**）
+
+*Published: 2026-05-27*
+
+<font color="gray">Haiwen Diao, Jiahao Wang, Penghao Wu, Yuhao Dong, Yuwei Niu, Yue Zhu, Zhongang Cai, Weichen Fan, Linjun Dai, Silei Wu, Xuanyu Zheng, Mingxuan Li, Yuanhan Zhang, Bo Li, Hanming Deng, Huchuan Lu, Quan W - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-775-blue)](https://github.com/EvolvingLMMs-Lab/NEO)
+
+---
+
+
+[**ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations**](https://huggingface.co/papers/2605.27908) （**New**）
+
+*Published: 2026-05-27*
+
+<font color="gray">Jie Zhu, Huaixia Dou, Shuo Jiang, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang, Fang Kong - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-470-blue)](https://github.com/aliyun/qwen-dianjin)
+
+---
+
+
+[**Beyond Mode Collapse: Distribution Matching for Diverse Reasoning**](https://huggingface.co/papers/2605.19461) （**New**）
 
 *Published: 2026-05-19*
 
-<font color="gray">Zhuohan Gu, Qizheng Zhang, Omar Khattab, Samuel Madden - [arXiv]</font>
+<font color="gray">Xiaozhe Li, Yang Li, Xinyu Fang, Shengyuan Ding, Peiji Li, Yongkang Chen, Yichuan Ma, Tianyi Lyu, Linyang Li, Dahua Lin, Qipeng Guo, Qingwen Liu, Kai Chen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/zhuohangu/peek)
-
----
-
-
-[**RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting**](https://huggingface.co/papers/2605.18263) （**New**）
-
-*Published: 2026-05-18*
-
-<font color="gray">Ji Shi, Xianghua Ying, Bowei Xing, Ruohao Guo, Wenzhen Yue - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-84-blue)](https://github.com/sjj118/RT-Splatting)
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/OliverLeeXZ/DMPO)
 
 ---
 
 
-[**Anisotropic Modality Align**](https://huggingface.co/papers/2605.07825) （**New**）
+[**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**](https://huggingface.co/papers/2605.19660) （**New**）
 
-*Published: 2026-05-08*
+*Published: 2026-05-19*
 
-<font color="gray">Xiaomin Yu, Yijiang Li, Yuhui Zhang, Hanzhen Zhao, Yue Yang, Hao Tang, Yue Song, Xiaobin Hu, Chengwei Qin, Shuicheng Yan, Hui Xiong - [arXiv]</font>
+<font color="gray">Zunhai Su, Rui Yang, Chao Zhang, Yaxiu Liu, Yifan Zhang, Wei Wu, Jing Xiong, Dayou Du, Xialie Zhuang, Yulei Qian, Yuchen Xie, Yik-Chung Wu, Hongxia Yang, Ngai Wong - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/Yu-xm/Modality_Gap_Theory)
+[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/ZunhaiSu/OScaR-KV-Quant)
 
 ---
 
