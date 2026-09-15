@@ -5,6 +5,14 @@
 <div style="line-height:0.2em;">
 
 
+[**Learning to Select Visual In-Context Demonstrations**](https://arxiv.org/abs/2603.26775) （**2026.03.24**）
+
+<font color="gray">Eugene Lee, Yu-Chi Lin, Jiajie Diao </font>
+
+![](https://img.shields.io/badge/Citations-0-green)  [![](https://img.shields.io/badge/Github-blue)](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations)
+
+---
+
 [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**](https://arxiv.org/abs/2407.03320) （**2024.07.03**）
 
 <font color="gray">Pan Zhang, Xiao-wen Dong, Yuhang Zang, Yuhang Cao, Rui Qian, etc </font>
