@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-29]**
+### **[2026-10-26]**
 
-[**CubePart: An Open-Vocabulary Part-Controllable 3D Generator**](https://huggingface.co/papers/2605.28763) （**New**）
+[**Harness^2: Recursive Agent Harnessing for an Open World**](https://huggingface.co/papers/2610.14224) （**New**）
 
-*Published: 2026-05-27*
+*Published: 2026-10-09*
 
-<font color="gray">Yiheng Zhu, Kangle Deng, Jean-Philippe Fauconnier, Inaki Navarro, Daiqing Li, Ava Pun, Yinan Zhang, Peiye Zhuang, Xiaoxia Sun, Maneesh Agrawala, Kiran Bhat, Tinghui Zhou - [arXiv]</font>
+<font color="gray">Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu, Bhavana Dalvi Mishra, Yifei Ming, Han Yu, Rujun Han, Chen-Yu Lee, Tomas Pfister - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-958-blue)](https://github.com/Roblox/cube/tree/main/cubepart)
-
----
-
-
-[**From Pixels to Words -- Towards Native One-Vision Models at Scale**](https://huggingface.co/papers/2605.28820) （**New**）
-
-*Published: 2026-05-27*
-
-<font color="gray">Haiwen Diao, Jiahao Wang, Penghao Wu, Yuhao Dong, Yuwei Niu, Yue Zhu, Zhongang Cai, Weichen Fan, Linjun Dai, Silei Wu, Xuanyu Zheng, Mingxuan Li, Yuanhan Zhang, Bo Li, Hanming Deng, Huchuan Lu, Quan W - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-775-blue)](https://github.com/EvolvingLMMs-Lab/NEO)
+[![](https://img.shields.io/badge/GitHub%20Stars-19,745-blue)](https://github.com/google-research/harness2) ![](https://img.shields.io/badge/Mendeley%20Readers-11-red) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
 
-[**ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations**](https://huggingface.co/papers/2605.27908) （**New**）
+[**Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation**](https://huggingface.co/papers/2610.14162) （**New**）
 
-*Published: 2026-05-27*
+*Published: 2026-10-09*
 
-<font color="gray">Jie Zhu, Huaixia Dou, Shuo Jiang, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang, Fang Kong - [arXiv]</font>
+<font color="gray">Hermann Kumbong, Ishan S. Khare, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora, Azalia Mirhoseini, Christopher Ré - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-470-blue)](https://github.com/aliyun/qwen-dianjin)
-
----
-
-
-[**Beyond Mode Collapse: Distribution Matching for Diverse Reasoning**](https://huggingface.co/papers/2605.19461) （**New**）
-
-*Published: 2026-05-19*
-
-<font color="gray">Xiaozhe Li, Yang Li, Xinyu Fang, Shengyuan Ding, Peiji Li, Yongkang Chen, Yichuan Ma, Tianyi Lyu, Linyang Li, Dahua Lin, Qipeng Guo, Qingwen Liu, Kai Chen - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/OliverLeeXZ/DMPO)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,029-blue)](https://github.com/HazyResearch/ncm) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
 
 ---
 
 
-[**OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond**](https://huggingface.co/papers/2605.19660) （**New**）
+[**StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions**](https://huggingface.co/papers/2610.17309) （**New**）
 
-*Published: 2026-05-19*
+*Published: 2026-10-20*
 
-<font color="gray">Zunhai Su, Rui Yang, Chao Zhang, Yaxiu Liu, Yifan Zhang, Wei Wu, Jing Xiong, Dayou Du, Xialie Zhuang, Yulei Qian, Yuchen Xie, Yik-Chung Wu, Hongxia Yang, Ngai Wong - [arXiv]</font>
+<font color="gray">Xialie Zhuang, Zunhai Su, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/ZunhaiSu/OScaR-KV-Quant)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,566-blue)](https://github.com/StartLuxLabs/StartLux-Decision) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training**](https://huggingface.co/papers/2610.05416) （**New**）
+
+*Published: 2026-10-04*
+
+<font color="gray">Shuyuan Tu, Qi Tian, Yinming Huang, Yue Wu, Xintong Han, Kaihang Pan, Weijie Kong, Jiangfeng Xiong, Jian-Wei Zhang, Zuxuan Wu, Yu-Gang Jiang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,145-blue)](https://github.com/Tencent-Hunyuan/Prism) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**nanoMuse: An Open-Source Personal Agent for Every Device You Own**](https://huggingface.co/papers/2610.08699) （**New**）
+
+*Published: 2026-10-06*
+
+<font color="gray">Guangyi Liu, Yong Liu, Jiangning Zhang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,596-blue)](https://github.com/nano-muse/nanoMuse) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
