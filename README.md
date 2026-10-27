@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-10-26]**
+### **[2026-10-27]**
 
-[**Harness^2: Recursive Agent Harnessing for an Open World**](https://huggingface.co/papers/2610.14224) （**New**）
+[**MOSS-Image Technical Report**](https://huggingface.co/papers/2610.23374) （**New**）
 
-*Published: 2026-10-09*
+*Published: 2026-10-16*
 
-<font color="gray">Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu, Bhavana Dalvi Mishra, Yifei Ming, Han Yu, Rujun Han, Chen-Yu Lee, Tomas Pfister - [arXiv]</font>
+<font color="gray">MOSI.AI - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-19,745-blue)](https://github.com/google-research/harness2) ![](https://img.shields.io/badge/Mendeley%20Readers-11-red) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation**](https://huggingface.co/papers/2610.14162) （**New**）
-
-*Published: 2026-10-09*
-
-<font color="gray">Hermann Kumbong, Ishan S. Khare, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora, Azalia Mirhoseini, Christopher Ré - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,029-blue)](https://github.com/HazyResearch/ncm) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,866-blue)](https://github.com/OpenMOSS/MOSS-Image)
 
 ---
 
 
-[**StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions**](https://huggingface.co/papers/2610.17309) （**New**）
+[**OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use**](https://huggingface.co/papers/2610.22200) （**New**）
 
-*Published: 2026-10-20*
+*Published: 2026-10-15*
 
-<font color="gray">Xialie Zhuang, Zunhai Su, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo - [arXiv]</font>
+<font color="gray">Hanzhang Zhou, Long Li, Quyu Kong, Lei Wang, Panrong Tong, Long Chen, Tianyu Xia, Gongjie Zhang, Xu Zhang, Chen Liu, Jianan Zhang, Chenglin Cai, Zhengwen Zeng, Steven Hoi, Yue Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,566-blue)](https://github.com/StartLuxLabs/StartLux-Decision) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training**](https://huggingface.co/papers/2610.05416) （**New**）
-
-*Published: 2026-10-04*
-
-<font color="gray">Shuyuan Tu, Qi Tian, Yinming Huang, Yue Wu, Xintong Han, Kaihang Pan, Weijie Kong, Jiangfeng Xiong, Jian-Wei Zhang, Zuxuan Wu, Yu-Gang Jiang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,145-blue)](https://github.com/Tencent-Hunyuan/Prism) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-497-blue)](https://github.com/Tongyi-MAI/OpenGCUA) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
 
-[**nanoMuse: An Open-Source Personal Agent for Every Device You Own**](https://huggingface.co/papers/2610.08699) （**New**）
+[**REMORY: Learning Residual Memory for Context Compaction**](https://huggingface.co/papers/2610.11287) （**New**）
 
-*Published: 2026-10-06*
+*Published: 2026-10-21*
 
-<font color="gray">Guangyi Liu, Yong Liu, Jiangning Zhang - [arXiv]</font>
+<font color="gray">Hanchen Xia, Baoyou Chen, Yutang Ge, Naihao Deng, Senqiao Yang, Zilong Dong, Weihao Yuan, Siyu Zhu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,596-blue)](https://github.com/nano-muse/nanoMuse) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-495-blue)](https://github.com/1ring2rta/Remory)
+
+---
+
+
+[**Hybrid Reasoning Agents**](https://huggingface.co/papers/2610.18861) （**New**）
+
+*Published: 2026-10-13*
+
+<font color="gray">Jiaru Zou, Yunzhe Qi, Sirui Chen, Federico Bianchi, Shang Zhu, Pan Lu, Jingrui He, James Zou - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-441-blue)](https://github.com/togethercomputer/HybridAgent)
+
+---
+
+
+[**Self-Evolving Agent Harness**](https://huggingface.co/papers/2610.18813) （**New**）
+
+*Published: 2026-10-13*
+
+<font color="gray">Chuyang Wei, Haoxiang Guan, Minghang Zhu, Kexin Zhou, Jiyan He, Xiren Zhou, Huanhuan Chen, Yifei Shen - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-414-blue)](https://github.com/zgcagi/Harness-RSI)
 
 ---
 
