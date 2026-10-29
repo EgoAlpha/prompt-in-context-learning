@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-10-28]**
+### **[2026-10-29]**
 
-[**S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning**](https://huggingface.co/papers/2610.35518) （**New**）
+[**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**](https://huggingface.co/papers/2610.13912) （**New**）
 
-*Published: 2026-10-26*
+*Published: 2026-10-09*
 
-<font color="gray">Shuo Shen, Guangran Cheng, Chengqi Lyu, Xiangsen Wang, Yanan Sun, Wenwei Zhang - [arXiv]</font>
+<font color="gray">Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-5,220-blue)](https://github.com/InternLM/xtuner)
-
----
-
-
-[**StreamEval: Evaluating Interactive Streaming Video Generation Models**](https://huggingface.co/papers/2610.28402) （**New**）
-
-*Published: 2026-10-26*
-
-<font color="gray">StreamEval Team - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-463-blue)](https://github.com/StreamEval/StreamEval)
+[![](https://img.shields.io/badge/GitHub%20Stars-990-blue)](https://github.com/Gen-Verse/RSI-Anything) ![](https://img.shields.io/badge/Citations-3-9cf)
 
 ---
 
 
-[**MemT-1.0: Towards Memory-Native Evolution**](https://huggingface.co/papers/2610.26825) （**New**）
+[**Recurrent Looped Transformer**](https://huggingface.co/papers/2610.07591) （**New**）
 
-*Published: 2026-10-20*
+*Published: 2026-10-11*
 
-<font color="gray">Zhiyu Li, Zeyu Zhang, Linyun Liu, Yiwei Bu, Chenyang Xi, Xichong Zhang, Yi Yu, Yu Yu, Zhichen Liu, Yuxiao Yi, Chunyu Li, Haoran Liu, Zhenkai Ding, Le Zhou, Juncheng Zhang, Boyu Chen, Zehao Lin, Guorui - [arXiv]</font>
+<font color="gray">Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-403-blue)](https://github.com/MemTensor/MemT-1.0) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds**](https://huggingface.co/papers/2610.28698) （**New**）
-
-*Published: 2026-10-20*
-
-<font color="gray">Kuan Zhang, Yukun Chen, Zhihao Yang, Yue Su, Xiangnan Wu, Zirong Chen, Run Luo, Jinkun Hou, Tao Tan, Yinhe Zheng, Yiming Li - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-388-blue)](https://github.com/THUSI-Lab/GameScaling)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,083-blue)](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
 
 ---
 
 
-[**HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction**](https://huggingface.co/papers/2610.31635) （**New**）
+[**SUPRA-TEX: 3D Generation with Super-Aligned Texture**](https://huggingface.co/papers/2610.22352) （**New**）
 
-*Published: 2026-10-22*
+*Published: 2026-10-15*
 
-<font color="gray">Zunnan Xu, Shangchen Zhou, Yihang Luo, Chen Change Loy - [arXiv]</font>
+<font color="gray">Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-388-blue)](https://github.com/HiP3Rs/HiP3R)
+[![](https://img.shields.io/badge/GitHub%20Stars-379-blue)](https://github.com/Supra-3D/SUPRA-Tex) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**UniMate: One Unified Model to Animate Diverse Skeletons**](https://huggingface.co/papers/2609.05415) （**New**）
+
+*Published: 2026-09-04*
+
+<font color="gray">Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue Song, Adam Finkelstein, Szymon Rusinkiewicz - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,273-blue)](https://github.com/Friedrich-M/UniMate) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality**](https://huggingface.co/papers/2609.33757) （**New**）
+
+*Published: 2026-09-27*
+
+<font color="gray">Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou, Jiankai Sun, Yizhi Li, Ge Zhang, Yicheng Gu, Zeyue Tian, Junyu Dai, Hanfeng Lin, Kai Li, Shangda Wu, Xuanjie Liu, Jiaming Wang, Zihan Liu,  - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-12,820-blue)](https://github.com/multimodal-art-projection/YuE) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
