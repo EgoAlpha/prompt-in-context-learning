@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-10-29
+### 2026-10-30
 
-**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)** NEW
-
-*Published: 2026-10-09*
-
-*Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-990-blue)](https://github.com/Gen-Verse/RSI-Anything) ![](https://img.shields.io/badge/Citations-3-9cf)
-
----
-
-
-**[Recurrent Looped Transformer](https://huggingface.co/papers/2610.07591)** NEW
-
-*Published: 2026-10-11*
-
-*Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,083-blue)](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
-
----
-
-
-**[SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://huggingface.co/papers/2610.22352)** NEW
+**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)** NEW
 
 *Published: 2026-10-15*
 
-*Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian*
+*Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-379-blue)](https://github.com/Supra-3D/SUPRA-Tex) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-687-blue)](https://github.com/microsoft/TokenEconomizer)
+
+---
+
+
+**[Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729)** NEW
+
+*Published: 2026-10-27*
+
+*Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou, Jiaqi Li, Yifan Liu, Tao Lu, Junshu Tang, Yu Tang, Yao Teng, Yu Tian, Heng Wang, Weizhi Wang, Xiyao Wang, Xilun Wu, Mingyu Yang, Yangbin Yu, Rui Zhao, Longjun Cao, Linghao Chen, Haoyi Duan, Jiaming Han, Mingji Han, Enhua Jiang, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-361-blue)](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+
+---
+
+
+**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)** NEW
+
+*Published: 2026-09-27*
+
+*EverMind AI*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,878-blue)](https://github.com/EverMind-AI/Raven) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)** NEW
+
+*Published: 2026-09-17*
+
+*Yu Lin, Yiming Wang, Runyuan Cai, Hanze Liu, Xiaodong Zeng*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-7,384-blue)](https://github.com/Edge0-AI/edge0)
+
+---
+
+
+**[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)** NEW
+
+*Published: 2026-09-27*
+
+*Siran Peng, Tianshuo Zhang, Tianyu Fu, Weisong Zhao, Haoyuan Zhang, Jiankuo Zhao, Minghui Wu, Ping Jiang, Xiangyu Zhu, Chenxu Zhao, Zhen Lei*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,292-blue)](https://github.com/PSRben/VisionHOPE)
+
+---
+
+
+
+
+### 2026-10-29
+
+**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)** NEW
+
+*Published: 2026-09-27*
+
+*Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou, Jiankai Sun, Yizhi Li, Ge Zhang, Yicheng Gu, Zeyue Tian, Junyu Dai, Hanfeng Lin, Kai Li, Shangda Wu, Xuanjie Liu, Jiaming Wang, Zihan Liu, Yue Wang, Yinghao Ma, Hanzhi Yin, Kangrui Chen, Xinyue Zhang, Ziyang Ma, Mengqi Liao, Hejia Zhao, etc.*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-12,820-blue)](https://github.com/multimodal-art-projection/YuE) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)** NEW
+**[SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://huggingface.co/papers/2610.22352)** NEW
 
-*Published: 2026-09-27*
+*Published: 2026-10-15*
 
-*Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou, Jiankai Sun, Yizhi Li, Ge Zhang, Yicheng Gu, Zeyue Tian, Junyu Dai, Hanfeng Lin, Kai Li, Shangda Wu, Xuanjie Liu, Jiaming Wang, Zihan Liu, Yue Wang, Yinghao Ma, Hanzhi Yin, Kangrui Chen, Xinyue Zhang, Ziyang Ma, Mengqi Liao, Hejia Zhao, etc.*
+*Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-12,820-blue)](https://github.com/multimodal-art-projection/YuE) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-379-blue)](https://github.com/Supra-3D/SUPRA-Tex) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Recurrent Looped Transformer](https://huggingface.co/papers/2610.07591)** NEW
+
+*Published: 2026-10-11*
+
+*Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,091-blue)](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
+
+---
+
+
+**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)** NEW
+
+*Published: 2026-10-09*
+
+*Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,002-blue)](https://github.com/Gen-Verse/RSI-Anything) ![](https://img.shields.io/badge/Citations-3-9cf)
 
 ---
 
@@ -83,24 +142,13 @@ Complete history news
 ---
 
 
-**[StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402)** NEW
+**[HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction](https://huggingface.co/papers/2610.31635)** NEW
 
-*Published: 2026-10-26*
+*Published: 2026-10-22*
 
-*StreamEval Team*
+*Zunnan Xu, Shangchen Zhou, Yihang Luo, Chen Change Loy*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-476-blue)](https://github.com/StreamEval/StreamEval)
-
----
-
-
-**[MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825)** NEW
-
-*Published: 2026-10-20*
-
-*Zhiyu Li, Zeyu Zhang, Linyun Liu, Yiwei Bu, Chenyang Xi, Xichong Zhang, Yi Yu, Yu Yu, Zhichen Liu, Yuxiao Yi, Chunyu Li, Haoran Liu, Zhenkai Ding, Le Zhou, Juncheng Zhang, Boyu Chen, Zehao Lin, Guorui Li, Renyu Fu, Ji Li, Youyang Xia, Jiajun Shen, Harvey Li, Jingsong Zhou, Helan Hu, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-443-blue)](https://github.com/MemTensor/MemT-1.0) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-389-blue)](https://github.com/HiP3Rs/HiP3R)
 
 ---
 
@@ -116,13 +164,24 @@ Complete history news
 ---
 
 
-**[HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction](https://huggingface.co/papers/2610.31635)** NEW
+**[MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825)** NEW
 
-*Published: 2026-10-22*
+*Published: 2026-10-20*
 
-*Zunnan Xu, Shangchen Zhou, Yihang Luo, Chen Change Loy*
+*Zhiyu Li, Zeyu Zhang, Linyun Liu, Yiwei Bu, Chenyang Xi, Xichong Zhang, Yi Yu, Yu Yu, Zhichen Liu, Yuxiao Yi, Chunyu Li, Haoran Liu, Zhenkai Ding, Le Zhou, Juncheng Zhang, Boyu Chen, Zehao Lin, Guorui Li, Renyu Fu, Ji Li, Youyang Xia, Jiajun Shen, Harvey Li, Jingsong Zhou, Helan Hu, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-389-blue)](https://github.com/HiP3Rs/HiP3R)
+[![](https://img.shields.io/badge/GitHub%20Stars-443-blue)](https://github.com/MemTensor/MemT-1.0) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402)** NEW
+
+*Published: 2026-10-26*
+
+*StreamEval Team*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-476-blue)](https://github.com/StreamEval/StreamEval)
 
 ---
 
@@ -131,35 +190,13 @@ Complete history news
 
 ### 2026-10-27
 
-**[MOSS-Image Technical Report](https://huggingface.co/papers/2610.23374)** NEW
+**[Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813)** NEW
 
-*Published: 2026-10-16*
+*Published: 2026-10-13*
 
-*MOSI.AI*
+*Chuyang Wei, Haoxiang Guan, Minghang Zhu, Kexin Zhou, Jiyan He, Xiren Zhou, Huanhuan Chen, Yifei Shen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,132-blue)](https://github.com/OpenMOSS/MOSS-Image)
-
----
-
-
-**[OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200)** NEW
-
-*Published: 2026-10-15*
-
-*Hanzhang Zhou, Long Li, Quyu Kong, Lei Wang, Panrong Tong, Long Chen, Tianyu Xia, Gongjie Zhang, Xu Zhang, Chen Liu, Jianan Zhang, Chenglin Cai, Zhengwen Zeng, Steven Hoi, Yue Wang*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-540-blue)](https://github.com/Tongyi-MAI/OpenGCUA)
-
----
-
-
-**[REMORY: Learning Residual Memory for Context Compaction](https://huggingface.co/papers/2610.11287)** NEW
-
-*Published: 2026-10-21*
-
-*Hanchen Xia, Baoyou Chen, Yutang Ge, Naihao Deng, Senqiao Yang, Zilong Dong, Weihao Yuan, Siyu Zhu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-547-blue)](https://github.com/1ring2rta/Remory)
+[![](https://img.shields.io/badge/GitHub%20Stars-424-blue)](https://github.com/zgcagi/Harness-RSI)
 
 ---
 
@@ -175,13 +212,35 @@ Complete history news
 ---
 
 
-**[Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813)** NEW
+**[REMORY: Learning Residual Memory for Context Compaction](https://huggingface.co/papers/2610.11287)** NEW
 
-*Published: 2026-10-13*
+*Published: 2026-10-21*
 
-*Chuyang Wei, Haoxiang Guan, Minghang Zhu, Kexin Zhou, Jiyan He, Xiren Zhou, Huanhuan Chen, Yifei Shen*
+*Hanchen Xia, Baoyou Chen, Yutang Ge, Naihao Deng, Senqiao Yang, Zilong Dong, Weihao Yuan, Siyu Zhu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-424-blue)](https://github.com/zgcagi/Harness-RSI)
+[![](https://img.shields.io/badge/GitHub%20Stars-547-blue)](https://github.com/1ring2rta/Remory)
+
+---
+
+
+**[OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200)** NEW
+
+*Published: 2026-10-15*
+
+*Hanzhang Zhou, Long Li, Quyu Kong, Lei Wang, Panrong Tong, Long Chen, Tianyu Xia, Gongjie Zhang, Xu Zhang, Chen Liu, Jianan Zhang, Chenglin Cai, Zhengwen Zeng, Steven Hoi, Yue Wang*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-540-blue)](https://github.com/Tongyi-MAI/OpenGCUA)
+
+---
+
+
+**[MOSS-Image Technical Report](https://huggingface.co/papers/2610.23374)** NEW
+
+*Published: 2026-10-16*
+
+*MOSI.AI*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,132-blue)](https://github.com/OpenMOSS/MOSS-Image)
 
 ---
 
@@ -201,24 +260,13 @@ Complete history news
 ---
 
 
-**[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://huggingface.co/papers/2610.14162)** NEW
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)** NEW
 
-*Published: 2026-10-09*
+*Published: 2026-10-06*
 
-*Hermann Kumbong, Ishan S. Khare, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora, Azalia Mirhoseini, Christopher Ré*
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,180-blue)](https://github.com/HazyResearch/ncm)
-
----
-
-
-**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)** NEW
-
-*Published: 2026-10-20*
-
-*Xialie Zhuang, Zunhai Su, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,600-blue)](https://github.com/StartLuxLabs/StartLux-Decision) ![](https://img.shields.io/badge/Citations-1-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,767-blue)](https://github.com/nano-muse/nanoMuse)
 
 ---
 
@@ -234,13 +282,24 @@ Complete history news
 ---
 
 
-**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)** NEW
+**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)** NEW
 
-*Published: 2026-10-06*
+*Published: 2026-10-20*
 
-*Guangyi Liu, Yong Liu, Jiangning Zhang*
+*Xialie Zhuang, Zunhai Su, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-2-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,767-blue)](https://github.com/nano-muse/nanoMuse)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,600-blue)](https://github.com/StartLuxLabs/StartLux-Decision) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://huggingface.co/papers/2610.14162)** NEW
+
+*Published: 2026-10-09*
+
+*Hermann Kumbong, Ishan S. Khare, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora, Azalia Mirhoseini, Christopher Ré*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,180-blue)](https://github.com/HazyResearch/ncm)
 
 ---
 
