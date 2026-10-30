@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-10-29]**
+### **[2026-10-30]**
 
-[**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**](https://huggingface.co/papers/2610.13912) （**New**）
-
-*Published: 2026-10-09*
-
-<font color="gray">Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-990-blue)](https://github.com/Gen-Verse/RSI-Anything) ![](https://img.shields.io/badge/Citations-3-9cf)
-
----
-
-
-[**Recurrent Looped Transformer**](https://huggingface.co/papers/2610.07591) （**New**）
-
-*Published: 2026-10-11*
-
-<font color="gray">Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,083-blue)](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
-
----
-
-
-[**SUPRA-TEX: 3D Generation with Super-Aligned Texture**](https://huggingface.co/papers/2610.22352) （**New**）
+[**TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents**](https://huggingface.co/papers/2610.22732) （**New**）
 
 *Published: 2026-10-15*
 
-<font color="gray">Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian - [arXiv]</font>
+<font color="gray">Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-379-blue)](https://github.com/Supra-3D/SUPRA-Tex) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**UniMate: One Unified Model to Animate Diverse Skeletons**](https://huggingface.co/papers/2609.05415) （**New**）
-
-*Published: 2026-09-04*
-
-<font color="gray">Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue Song, Adam Finkelstein, Szymon Rusinkiewicz - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,273-blue)](https://github.com/Friedrich-M/UniMate) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-687-blue)](https://github.com/microsoft/TokenEconomizer)
 
 ---
 
 
-[**YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality**](https://huggingface.co/papers/2609.33757) （**New**）
+[**Hy-Nomas: Towards Free-form Interactive World Generation**](https://huggingface.co/papers/2610.36729) （**New**）
+
+*Published: 2026-10-27*
+
+<font color="gray">Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou, Jiaqi Li, Yifan Liu, Tao Lu, Junshu Tang, Yu Tang, Yao Teng, Yu Tian, Heng Wang, Weizhi Wang, Xiyao Wang, Xilun Wu, Mingyu Yang, Yang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-361-blue)](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+
+---
+
+
+[**Raven: The Harness of Harnesses for Composable Agentic Intelligence**](https://huggingface.co/papers/2609.33439) （**New**）
 
 *Published: 2026-09-27*
 
-<font color="gray">Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou, Jiankai Sun, Yizhi Li, Ge Zhang, Yicheng Gu, Zeyue Tian, Junyu Dai, Hanfeng Lin, Kai Li, Shangda Wu, Xuanjie Liu, Jiaming Wang, Zihan Liu,  - [arXiv]</font>
+<font color="gray">EverMind AI - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-12,820-blue)](https://github.com/multimodal-art-projection/YuE) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-5,878-blue)](https://github.com/EverMind-AI/Raven) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction**](https://huggingface.co/papers/2609.18063) （**New**）
+
+*Published: 2026-09-17*
+
+<font color="gray">Yu Lin, Yiming Wang, Runyuan Cai, Hanze Liu, Xiaodong Zeng - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-7,384-blue)](https://github.com/Edge0-AI/edge0) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+
+[**VisionHOPE: Visual Backbones as Self-Modifying Learning Systems**](https://huggingface.co/papers/2609.33325) （**New**）
+
+*Published: 2026-09-27*
+
+<font color="gray">Siran Peng, Tianshuo Zhang, Tianyu Fu, Weisong Zhao, Haoyuan Zhang, Jiankuo Zhao, Minghui Wu, Ping Jiang, Xiangyu Zhu, Chenxu Zhao, Zhen Lei - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,292-blue)](https://github.com/PSRben/VisionHOPE) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
