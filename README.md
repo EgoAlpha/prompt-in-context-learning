@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-10-30]**
+### **[2026-10-31]**
 
-[**TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents**](https://huggingface.co/papers/2610.22732) （**New**）
+[**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**](https://huggingface.co/papers/2610.31329) （**New**）
 
-*Published: 2026-10-15*
+*Published: 2026-10-22*
 
-<font color="gray">Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao - [arXiv]</font>
+<font color="gray">Tianming Liang, Junyi Pan, Yuxi Li, Canmiao Fu, Zhipeng Huang, Chong Sun, Chen Li, Jing Lyu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-687-blue)](https://github.com/microsoft/TokenEconomizer)
-
----
-
-
-[**Hy-Nomas: Towards Free-form Interactive World Generation**](https://huggingface.co/papers/2610.36729) （**New**）
-
-*Published: 2026-10-27*
-
-<font color="gray">Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou, Jiaqi Li, Yifan Liu, Tao Lu, Junshu Tang, Yu Tang, Yao Teng, Yu Tian, Heng Wang, Weizhi Wang, Xiyao Wang, Xilun Wu, Mingyu Yang, Yang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-361-blue)](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+[![](https://img.shields.io/badge/GitHub%20Stars-461-blue)](https://github.com/Tencent/WeVisOne-VL)
 
 ---
 
 
-[**Raven: The Harness of Harnesses for Composable Agentic Intelligence**](https://huggingface.co/papers/2609.33439) （**New**）
+[**Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities**](https://huggingface.co/papers/2610.39301) （**New**）
 
-*Published: 2026-09-27*
+*Published: 2026-10-29*
 
-<font color="gray">EverMind AI - [arXiv]</font>
+<font color="gray">Yunhang Shen, Zhangquan Chen, Xiaotian Li, Zhongpeng Cai, Qing Zhou, Zekai Zhang, Kun Zhang, Zezhong Wu, Jian Hu, Haihan Gao, Heting Gao, Xin Li, Yinsong Liu, Deqian Jiang, Di Yin, Haoyu Cao, Xing Sun - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-5,878-blue)](https://github.com/EverMind-AI/Raven) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction**](https://huggingface.co/papers/2609.18063) （**New**）
-
-*Published: 2026-09-17*
-
-<font color="gray">Yu Lin, Yiming Wang, Runyuan Cai, Hanze Liu, Xiaodong Zeng - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-7,384-blue)](https://github.com/Edge0-AI/edge0) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-347-blue)](https://github.com/TencentCloudADP/youtu-parsing/tree/main/youtu_parsing_omni)
 
 ---
 
 
-[**VisionHOPE: Visual Backbones as Self-Modifying Learning Systems**](https://huggingface.co/papers/2609.33325) （**New**）
+[**SolarRenderer: Few-Step Generative Reference Rendering**](https://huggingface.co/papers/2610.28630) （**New**）
 
-*Published: 2026-09-27*
+*Published: 2026-10-20*
 
-<font color="gray">Siran Peng, Tianshuo Zhang, Tianyu Fu, Weisong Zhao, Haoyuan Zhang, Jiankuo Zhao, Minghui Wu, Ping Jiang, Xiangyu Zhu, Chenxu Zhao, Zhen Lei - [arXiv]</font>
+<font color="gray">Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,292-blue)](https://github.com/PSRben/VisionHOPE) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-346-blue)](https://github.com/Enderfga/SolarRenderer) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**Has GPT-6-Astra Achieved Embodied Intelligence?**](https://huggingface.co/papers/2610.22471) （**New**）
+
+*Published: 2026-10-19*
+
+<font color="gray">SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao, Tailai Chen, Han Chong Chua, Linjun Dai, Hanming Deng, Hokin Deng, Haiwen Diao, Chenjing Ding, Weichen Fan, Xiao Fu, Zerui Gong, Chenyang Gu, Z - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-338-blue)](https://github.com/OpenSenseNova/SenseNova-RoboRSI)
+
+---
+
+
+[**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**](https://huggingface.co/papers/2610.26860) （**New**）
+
+*Published: 2026-10-19*
+
+<font color="gray">Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang Zhang, Zhen Yang, Ruiyi Zhang, Nanyun Peng, Zhe Gan, Kai-Wei Chang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-323-blue)](https://github.com/uclanlp/OpenVLHarness)
 
 ---
 
