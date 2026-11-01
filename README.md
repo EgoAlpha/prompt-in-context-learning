@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-10-31]**
+### **[2026-11-01]**
 
-[**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**](https://huggingface.co/papers/2610.31329) （**New**）
+[**RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution**](https://huggingface.co/papers/2610.15772) （**New**）
 
-*Published: 2026-10-22*
+*Published: 2026-10-11*
 
-<font color="gray">Tianming Liang, Junyi Pan, Yuxi Li, Canmiao Fu, Zhipeng Huang, Chong Sun, Chen Li, Jing Lyu - [arXiv]</font>
+<font color="gray">Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Xiao Luo, Yefeng Zheng, Bo Zhang, Haoxuan Li, Pheng-Ann Heng - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-461-blue)](https://github.com/Tencent/WeVisOne-VL)
-
----
-
-
-[**Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities**](https://huggingface.co/papers/2610.39301) （**New**）
-
-*Published: 2026-10-29*
-
-<font color="gray">Yunhang Shen, Zhangquan Chen, Xiaotian Li, Zhongpeng Cai, Qing Zhou, Zekai Zhang, Kun Zhang, Zezhong Wu, Jian Hu, Haihan Gao, Heting Gao, Xin Li, Yinsong Liu, Deqian Jiang, Di Yin, Haoyu Cao, Xing Sun - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-347-blue)](https://github.com/TencentCloudADP/youtu-parsing/tree/main/youtu_parsing_omni)
+[![](https://img.shields.io/badge/GitHub%20Stars-311-blue)](https://github.com/zfkarl/RSIPO)
 
 ---
 
 
-[**SolarRenderer: Few-Step Generative Reference Rendering**](https://huggingface.co/papers/2610.28630) （**New**）
+[**RSIHub: A Composable Framework for Agent-Evolution Methods**](https://huggingface.co/papers/2610.32253) （**New**）
+
+*Published: 2026-10-23*
+
+<font color="gray">Zimu Wang, Xiaobo Wang, Siyu Ye, Jiaqi Li, Silin Chen, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Zilong Zheng - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-304-blue)](https://github.com/simple-agent-lab/RSIHub)
+
+---
+
+
+[**UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling**](https://huggingface.co/papers/2610.24791) （**New**）
 
 *Published: 2026-10-20*
 
-<font color="gray">Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou - [arXiv]</font>
+<font color="gray">Kien T. Pham, Yuhao Liu, Chong Hou Choi, Zhenqi He, Yanghao Wang, Chenyang Lei, Rui Liu, Qifeng Chen, Long Chen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-346-blue)](https://github.com/Enderfga/SolarRenderer) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Has GPT-6-Astra Achieved Embodied Intelligence?**](https://huggingface.co/papers/2610.22471) （**New**）
-
-*Published: 2026-10-19*
-
-<font color="gray">SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao, Tailai Chen, Han Chong Chua, Linjun Dai, Hanming Deng, Hokin Deng, Haiwen Diao, Chenjing Ding, Weichen Fan, Xiao Fu, Zerui Gong, Chenyang Gu, Z - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-338-blue)](https://github.com/OpenSenseNova/SenseNova-RoboRSI)
+[![](https://img.shields.io/badge/GitHub%20Stars-295-blue)](https://github.com/HKUST-LongGroup/UniAVC)
 
 ---
 
 
-[**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**](https://huggingface.co/papers/2610.26860) （**New**）
+[**VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team**](https://huggingface.co/papers/2610.33106) （**New**）
 
-*Published: 2026-10-19*
+*Published: 2026-10-22*
 
-<font color="gray">Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang Zhang, Zhen Yang, Ruiyi Zhang, Nanyun Peng, Zhe Gan, Kai-Wei Chang - [arXiv]</font>
+<font color="gray">Wenbo Hu, Ken Li, Jiazhe Wei, Yukang Cao, Weiyi Hong, Jiayi Dai, Chenjun Bai, Jiajun Liang, Yucheng Liao, Ruichuan An, Zeyu Lou, Haofan Wang, Yueming Lyu, Jingkang Yang, Ziwei Liu, Chenyang Si - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-323-blue)](https://github.com/uclanlp/OpenVLHarness)
+[![](https://img.shields.io/badge/GitHub%20Stars-294-blue)](https://github.com/tettethu/VibeGame) ![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+
+[**RoboHarness: A Simple Harness Outperforms VLA and World Action Models**](https://huggingface.co/papers/2610.14018) （**New**）
+
+*Published: 2026-10-16*
+
+<font color="gray">Bince Qu, Wei Chen, Bo Zhang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-279-blue)](https://github.com/BinceQu/RoboHarness) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
