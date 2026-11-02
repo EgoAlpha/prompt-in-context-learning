@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-01]**
+### **[2026-11-02]**
 
-[**RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution**](https://huggingface.co/papers/2610.15772) （**New**）
+[**Building Auditable AI Text Detectors with Sparse Autoencoders**](https://huggingface.co/papers/2610.30006) （**New**）
 
-*Published: 2026-10-11*
+*Published: 2026-10-21*
 
-<font color="gray">Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Xiao Luo, Yefeng Zheng, Bo Zhang, Haoxuan Li, Pheng-Ann Heng - [arXiv]</font>
+<font color="gray">Liam Dugan, Callum McDougall, Matthew Denton, Philip Pham, Christine Kaeser-Chen, Chris Callison-Burch - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-311-blue)](https://github.com/zfkarl/RSIPO)
-
----
-
-
-[**RSIHub: A Composable Framework for Agent-Evolution Methods**](https://huggingface.co/papers/2610.32253) （**New**）
-
-*Published: 2026-10-23*
-
-<font color="gray">Zimu Wang, Xiaobo Wang, Siyu Ye, Jiaqi Li, Silin Chen, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Zilong Zheng - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-304-blue)](https://github.com/simple-agent-lab/RSIHub)
+[![](https://img.shields.io/badge/GitHub%20Stars-275-blue)](https://github.com/google-deepmind/detectorscope)
 
 ---
 
 
-[**UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling**](https://huggingface.co/papers/2610.24791) （**New**）
+[**Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players**](https://huggingface.co/papers/2610.33845) （**New**）
 
-*Published: 2026-10-20*
+*Published: 2026-10-24*
 
-<font color="gray">Kien T. Pham, Yuhao Liu, Chong Hou Choi, Zhenqi He, Yanghao Wang, Chenyang Lei, Rui Liu, Qifeng Chen, Long Chen - [arXiv]</font>
+<font color="gray">Changlian Ma, Limin Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-295-blue)](https://github.com/HKUST-LongGroup/UniAVC)
-
----
-
-
-[**VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team**](https://huggingface.co/papers/2610.33106) （**New**）
-
-*Published: 2026-10-22*
-
-<font color="gray">Wenbo Hu, Ken Li, Jiazhe Wei, Yukang Cao, Weiyi Hong, Jiayi Dai, Chenjun Bai, Jiajun Liang, Yucheng Liao, Ruichuan An, Zeyu Lou, Haofan Wang, Yueming Lyu, Jingkang Yang, Ziwei Liu, Chenyang Si - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-294-blue)](https://github.com/tettethu/VibeGame) ![](https://img.shields.io/badge/Citations-2-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-201-blue)](https://github.com/MCG-NJU/AutoTavern)
 
 ---
 
 
-[**RoboHarness: A Simple Harness Outperforms VLA and World Action Models**](https://huggingface.co/papers/2610.14018) （**New**）
+[**DynaFlow: Learning Free-Form Multi-Agent Orchestration**](https://huggingface.co/papers/2610.34467) （**New**）
 
-*Published: 2026-10-16*
+*Published: 2026-10-25*
 
-<font color="gray">Bince Qu, Wei Chen, Bo Zhang - [arXiv]</font>
+<font color="gray">Ruhao Liu, Qi Li, Shizun Wang, Xinchao Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-279-blue)](https://github.com/BinceQu/RoboHarness) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/amiya-special/Dynaflow)
+
+---
+
+
+[**Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation**](https://huggingface.co/papers/2610.29989) （**New**）
+
+*Published: 2026-10-21*
+
+<font color="gray">Ruopeng Gao, Yukun Huang, Jiarui Hu, Shuai Wang, Wenbo Hu, Ying Shan, Limin Wang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-189-blue)](https://github.com/TencentARC/Looking-Ahead)
+
+---
+
+
+[**InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants**](https://huggingface.co/papers/2610.33966) （**New**）
+
+*Published: 2026-10-25*
+
+<font color="gray">Qinsi Wang, Wei Wen, Chong Zhou, Saksham Suri, Zechun Liu, Lemeng Wu, Hai Helen Li, Yiran Chen, Raghuraman Krishnamoorthi, Qi Qian - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-175-blue)](https://github.com/facebookresearch/InteractiveWorld)
 
 ---
 
