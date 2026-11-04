@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-04
+
+**[Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://huggingface.co/papers/2611.01560)** NEW
+
+*Published: 2026-11-01*
+
+*Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang, Kwanyoung Park, Junlin Yang, Tianxiang Zhang, Ruoqu Chen, Yutao Ouyang, Bingxiang He, Xingtai Lv, Hongjin Wu, Jiajun Liu, Jiahao Zhao, Tianwei Luo, Haozhan Li, Cheng Qian, Jiaxin Ge, Huan-ang Gao, Kaisen Yang, Jiaqi Deng, Qixin Xu, Siqiao Huang, Bowen Zhou, Mengdi Xu, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-127-blue)](https://github.com/Open-RUA/uni-robot-agent)
+
+---
+
+
+**[Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859)** NEW
+
+*Published: 2026-10-31*
+
+*Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang, Chuzhi Wang, Jiayang Li, Ruiyang Chen, Chenling Hong, Xu Wang, Zhijie Deng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-104-blue)](https://github.com/SJTU-DENG-Lab/WaveForcing)
+
+---
+
+
+**[CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126)** NEW
+
+*Published: 2026-11-02*
+
+*Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen, Congcong Wang, Shuai Dong, Zelin Peng, Yuqi Xu, Hongrui Wu, Kaiwen Tuo, Cheng Yang, Kaituo Feng, Yifan Wu, Jiayi Zhang, Dongming Wu, Wenqi Shao, Jiaqi Wang, Xiangyu Yue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/xlyu0106/CUA-Master)
+
+---
+
+
+**[CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178)** NEW
+
+*Published: 2026-11-02*
+
+*Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng, Zhuohui Sheng, Guoqiang Wang, Tao Gui, Yutao Zhu, Yujia Chen, Shihong Yi, Binze Hu, Zhixiong Yang, Zhichao Sun, Rui Wang, Han Han, Mingyu Ma, Junhao Huang, Xiaotao Wang, Huicheng Jiang, Yuyang Hu, Xinyu Yang, Wanghan Xu, Yajie Yang, Zhecan Wang, Honglin Guo, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-81-blue)](https://github.com/RUC-NLPIR/CoworkOS)
+
+---
+
+
+**[F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation](https://huggingface.co/papers/2610.31623)** NEW
+
+*Published: 2026-10-22*
+
+*Jinyu Zhang, Haitao Lin, Jiashu Hou, Xiangyang Xue, Yanwei Fu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/jrryzh/F2G-Pose)
+
+---
+
+
+
+
 ### 2026-11-03
 
-**[HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://huggingface.co/papers/2610.40599)** NEW
+**[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342)** NEW
 
-*Published: 2026-10-29*
+*Published: 2026-10-28*
 
-*Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu*
+*Huangfei Jiang, Anning Hu, Kai Sheng, Yuchen Cai, Rui Ge, Xiangyu Kong, Jianghao Lin, Shuzi Chen, Jiyi Weng, Junchi Yan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-696-blue)](https://github.com/hyz317/HairDeck)
-
----
-
-
-**[Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633)** NEW
-
-*Published: 2026-10-29*
-
-*Deyuan Liu, Yansen Han, Kaiwen Zheng, Jun Xie, Jiacheng Liu, Zhenglin Cheng, Peng Sun, Jintao Zhang, Jianguo Li, Tao Lin*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/inclusionAI/IDM)
-
----
-
-
-**[Cache Engineering for Agents](https://huggingface.co/papers/2610.28577)** NEW
-
-*Published: 2026-10-20*
-
-*Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-166-blue)](https://github.com/thu-nics/AKV)
+[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/Prophetlab/Investor-Last-Exam)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342)** NEW
+**[Cache Engineering for Agents](https://huggingface.co/papers/2610.28577)** NEW
 
-*Published: 2026-10-28*
+*Published: 2026-10-20*
 
-*Huangfei Jiang, Anning Hu, Kai Sheng, Yuchen Cai, Rui Ge, Xiangyu Kong, Jianghao Lin, Shuzi Chen, Jiyi Weng, Junchi Yan*
+*Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/Prophetlab/Investor-Last-Exam)
+[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/thu-nics/AKV)
+
+---
+
+
+**[Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633)** NEW
+
+*Published: 2026-10-29*
+
+*Deyuan Liu, Yansen Han, Kaiwen Zheng, Jun Xie, Jiacheng Liu, Zhenglin Cheng, Peng Sun, Jintao Zhang, Jianguo Li, Tao Lin*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/inclusionAI/IDM)
+
+---
+
+
+**[HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://huggingface.co/papers/2610.40599)** NEW
+
+*Published: 2026-10-29*
+
+*Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-696-blue)](https://github.com/hyz317/HairDeck)
 
 ---
 
@@ -122,7 +181,7 @@ Complete history news
 
 *Liam Dugan, Callum McDougall, Matthew Denton, Philip Pham, Christine Kaeser-Chen, Chris Callison-Burch*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-275-blue)](https://github.com/google-deepmind/detectorscope)
+[![](https://img.shields.io/badge/GitHub%20Stars-374-blue)](https://github.com/google-deepmind/detectorscope)
 
 ---
 
@@ -130,6 +189,17 @@ Complete history news
 
 
 ### 2026-11-01
+
+**[UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling](https://huggingface.co/papers/2610.24791)** NEW
+
+*Published: 2026-10-20*
+
+*Kien T. Pham, Yuhao Liu, Chong Hou Choi, Zhenqi He, Yanghao Wang, Chenyang Lei, Rui Liu, Qifeng Chen, Long Chen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-325-blue)](https://github.com/HKUST-LongGroup/UniAVC)
+
+---
+
 
 **[RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://huggingface.co/papers/2610.14018)** NEW
 
@@ -149,17 +219,6 @@ Complete history news
 *Wenbo Hu, Ken Li, Jiazhe Wei, Yukang Cao, Weiyi Hong, Jiayi Dai, Chenjun Bai, Jiajun Liang, Yucheng Liao, Ruichuan An, Zeyu Lou, Haofan Wang, Yueming Lyu, Jingkang Yang, Ziwei Liu, Chenyang Si*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-325-blue)](https://github.com/tettethu/VibeGame) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-**[UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling](https://huggingface.co/papers/2610.24791)** NEW
-
-*Published: 2026-10-20*
-
-*Kien T. Pham, Yuhao Liu, Chong Hou Choi, Zhenqi He, Yanghao Wang, Chenyang Lei, Rui Liu, Qifeng Chen, Long Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-325-blue)](https://github.com/HKUST-LongGroup/UniAVC)
 
 ---
 
@@ -190,17 +249,6 @@ Complete history news
 
 ### 2026-10-31
 
-**[SolarRenderer: Few-Step Generative Reference Rendering](https://huggingface.co/papers/2610.28630)** NEW
-
-*Published: 2026-10-20*
-
-*Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-353-blue)](https://github.com/Enderfga/SolarRenderer) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
 **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860)** NEW
 
 *Published: 2026-10-19*
@@ -219,6 +267,17 @@ Complete history news
 *SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao, Tailai Chen, Han Chong Chua, Linjun Dai, Hanming Deng, Hokin Deng, Haiwen Diao, Chenjing Ding, Weichen Fan, Xiao Fu, Zerui Gong, Chenyang Gu, Zexin He, Zhi Hou, Bo Li, Qinyue Li, Quanzhou Li, Xiaowan Li, Zhichao Liao, Dahua Lin, Zilong Lin, Bo Liu, etc.*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/OpenSenseNova/SenseNova-RoboRSI)
+
+---
+
+
+**[SolarRenderer: Few-Step Generative Reference Rendering](https://huggingface.co/papers/2610.28630)** NEW
+
+*Published: 2026-10-20*
+
+*Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-353-blue)](https://github.com/Enderfga/SolarRenderer) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -249,13 +308,24 @@ Complete history news
 
 ### 2026-10-30
 
+**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)** NEW
+
+*Published: 2026-10-15*
+
+*Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-4,653-blue)](https://github.com/microsoft/TokenEconomizer)
+
+---
+
+
 **[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)** NEW
 
 *Published: 2026-09-27*
 
 *Siran Peng, Tianshuo Zhang, Tianyu Fu, Weisong Zhao, Haoyuan Zhang, Jiankuo Zhao, Minghui Wu, Ping Jiang, Xiangyu Zhu, Chenxu Zhao, Zhen Lei*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,342-blue)](https://github.com/PSRben/VisionHOPE)
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,389-blue)](https://github.com/PSRben/VisionHOPE)
 
 ---
 
@@ -289,76 +359,6 @@ Complete history news
 *Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou, Jiaqi Li, Yifan Liu, Tao Lu, Junshu Tang, Yu Tang, Yao Teng, Yu Tian, Heng Wang, Weizhi Wang, Xiyao Wang, Xilun Wu, Mingyu Yang, Yangbin Yu, Rui Zhao, Longjun Cao, Linghao Chen, Haoyi Duan, Jiaming Han, Mingji Han, Enhua Jiang, etc.*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-458-blue)](https://github.com/Tencent-Hunyuan/Hy-Nomas)
-
----
-
-
-**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)** NEW
-
-*Published: 2026-10-15*
-
-*Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-3,411-blue)](https://github.com/microsoft/TokenEconomizer)
-
----
-
-
-
-
-### 2026-10-29
-
-**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)** NEW
-
-*Published: 2026-10-09*
-
-*Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,103-blue)](https://github.com/Gen-Verse/RSI-Anything) ![](https://img.shields.io/badge/Citations-3-9cf)
-
----
-
-
-**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)** NEW
-
-*Published: 2026-09-27*
-
-*Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou, Jiankai Sun, Yizhi Li, Ge Zhang, Yicheng Gu, Zeyue Tian, Junyu Dai, Hanfeng Lin, Kai Li, Shangda Wu, Xuanjie Liu, Jiaming Wang, Zihan Liu, Yue Wang, Yinghao Ma, Hanzhi Yin, Kangrui Chen, Xinyue Zhang, Ziyang Ma, Mengqi Liao, Hejia Zhao, etc.*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-12,972-blue)](https://github.com/multimodal-art-projection/YuE) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[UniMate: One Unified Model to Animate Diverse Skeletons](https://huggingface.co/papers/2609.05415)** NEW
-
-*Published: 2026-09-04*
-
-*Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue Song, Adam Finkelstein, Szymon Rusinkiewicz*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,393-blue)](https://github.com/Friedrich-M/UniMate) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://huggingface.co/papers/2610.22352)** NEW
-
-*Published: 2026-10-15*
-
-*Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-516-blue)](https://github.com/Supra-3D/SUPRA-Tex) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[Recurrent Looped Transformer](https://huggingface.co/papers/2610.07591)** NEW
-
-*Published: 2026-10-11*
-
-*Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,136-blue)](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
 
 ---
 
