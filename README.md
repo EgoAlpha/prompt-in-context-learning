@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-05]**
+### **[2026-11-06]**
 
-[**ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost**](https://huggingface.co/papers/2611.02079) （**New**）
+[**PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data**](https://huggingface.co/papers/2611.05320) （**New**）
 
-*Published: 2026-11-01*
+*Published: 2026-11-03*
 
-<font color="gray">Xingzhi Qian, Sungho Park, Rongyuan Tan, Jianbo Yu, Jue Zhang, Lorenzo Cavallaro, Menglin Xia, Yanzhi Chen, Xinnuo Xu, Yu Kang, Xinran Zheng, Gagan Somashekar, Xuchao Zhang, Chetan Bansal, Qingwei Lin - [arXiv]</font>
+<font color="gray">Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-248-blue)](https://github.com/microsoft/AutoSaddler/tree/feat/paretosaddler)
+[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
 
 ---
 
 
-[**SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding**](https://huggingface.co/papers/2611.02501) （**New**）
+[**Solv3R: 3D Looped Transformer as a Multi-view Solver**](https://huggingface.co/papers/2611.02857) （**New**）
 
 *Published: 2026-11-02*
 
-<font color="gray">Kunjun Li, Wenhao Chai, Yihao Liang, Yuezhou Hu, Shuyao Xu, Yi Pan, William X. Zheng, Kannan Ramchandran, Kurt Keutzer, Jiantao Jiao - [arXiv]</font>
+<font color="gray">Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/StargazerX0/SpecPilot)
-
----
-
-
-[**Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs**](https://huggingface.co/papers/2610.27103) （**New**）
-
-*Published: 2026-10-19*
-
-<font color="gray">Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ZiiJianLiu/Omni-Woodpecker)
+[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ubc-vision/solv3r)
 
 ---
 
 
-[**What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents**](https://huggingface.co/papers/2610.34491) （**New**）
+[**Turns Matter: Advancing Streaming Video RL via Turn-Level Credit**](https://huggingface.co/papers/2611.06728) （**New**）
 
-*Published: 2026-10-25*
+*Published: 2026-11-04*
 
-<font color="gray">Kaiser Sun, Yongchan Kwon, Zain Hasan, Shang Zhu, Kaitlyn Zhou, Federico Bianchi - [arXiv]</font>
+<font color="gray">Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao, Hongrui Wu, Haowen Hou, Yongfu Zhu, Xuehui Wang, Ziyue Wang, Wenpu Liu, Weichu Xie, Yuqi Xu, Congcong Wang, Kaiwen Tuo, Caoyuan Ma, Taiqiang Wu, Ji  - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/KaiserWhoLearns/ReasoningEffortLLM)
+[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/XD111ds/turn-wise-rl)
 
 ---
 
 
-[**VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step**](https://huggingface.co/papers/2610.40727) （**New**）
+[**VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation**](https://huggingface.co/papers/2611.06796) （**New**）
 
-*Published: 2026-10-29*
+*Published: 2026-11-04*
 
-<font color="gray">Arbaz Siddiqui - [arXiv]</font>
+<font color="gray">Yihong Luo, Tianyu Pang, Tianyang Hu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/arbazsiddiqui/voxlock)
+[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/Luo-Yihong/VA-TDM)
+
+---
+
+
+[**WebHarbor: Docking Real Websites for Evolving GUI Agent Environments**](https://huggingface.co/papers/2611.03634) （**New**）
+
+*Published: 2026-11-02*
+
+<font color="gray">Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongsh - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
