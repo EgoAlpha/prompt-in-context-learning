@@ -11,26 +11,85 @@ Complete history news
 
 
 
-### 2026-11-06
+### 2026-11-07
 
-**[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://huggingface.co/papers/2611.05320)** NEW
+**[SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373)** NEW
 
-*Published: 2026-11-03*
+*Published: 2026-11-05*
 
-*Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou*
+*Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
+[![](https://img.shields.io/badge/GitHub%20Stars-335-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
 
 ---
 
 
-**[Solv3R: 3D Looped Transformer as a Multi-view Solver](https://huggingface.co/papers/2611.02857)** NEW
+**[Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://huggingface.co/papers/2611.06817)** NEW
+
+*Published: 2026-11-05*
+
+*Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang, Guodong Lv, Yufan Deng, Junzhe Tang, Liangzhu Yang, Chen Bian, Shukai Gong, Yintianrun Zhang, Zicong Cao, Baohao Zhu, Jianxin Bi, Tengfei Yan, Yinyuan Zhang, Kewei Zhang, Xinglong Chen, Kaiqi Chen, Duomin Wang, Xiaotian Tang, Liang Tan, Li Li, Yuan Xu, Haosen Yang, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-306-blue)](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)
+
+---
+
+
+**[Towards Foundation Decision Models: Drex](https://huggingface.co/papers/2611.07854)** NEW
+
+*Published: 2026-11-05*
+
+*Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah, Nurmukhamed Ubaidullayev, Raman Saparkhan, Dos Baha, Abulhair Saparov*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/nace-ai/drex-decision-models)
+
+---
+
+
+**[NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale](https://huggingface.co/papers/2611.02102)** NEW
+
+*Published: 2026-11-01*
+
+*Chaoyun Zhang, Bingxuan Li, Pinxue Guo, Yangfan Gao, Zikun Cai, Tianci Xie, Hui Li, Yuqi Huang, Yifei Cao, Bo Mao, Tian Tang, Qichang Zheng, Tongtong Liu, Xiaoxing Wang, Jinxiu Liu, Lizhi Lin, Zhou Shao, Maosen Zhou, Miao Zheng, Shuo Zhang, Yangji He, Kepeng Lei, Ning Zhao, Wei Shen, Zhenjiang Jin, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/beipo-ai/NorthCUA)
+
+---
+
+
+**[History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models](https://huggingface.co/papers/2611.02782)** NEW
 
 *Published: 2026-11-02*
 
-*Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi*
+*Hangyi Kuang, Chengzhi Wang, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ubc-vision/solv3r)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/ziplab/History-Forcing)
+
+---
+
+
+
+
+### 2026-11-06
+
+**[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://huggingface.co/papers/2611.03634)** NEW
+
+*Published: 2026-11-02*
+
+*Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation](https://huggingface.co/papers/2611.06796)** NEW
+
+*Published: 2026-11-04*
+
+*Yihong Luo, Tianyu Pang, Tianyang Hu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-13-blue)](https://github.com/Luo-Yihong/VA-TDM)
 
 ---
 
@@ -46,24 +105,24 @@ Complete history news
 ---
 
 
-**[VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation](https://huggingface.co/papers/2611.06796)** NEW
+**[Solv3R: 3D Looped Transformer as a Multi-view Solver](https://huggingface.co/papers/2611.02857)** NEW
 
-*Published: 2026-11-04*
+*Published: 2026-11-02*
 
-*Yihong Luo, Tianyu Pang, Tianyang Hu*
+*Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/Luo-Yihong/VA-TDM)
+[![](https://img.shields.io/badge/GitHub%20Stars-122-blue)](https://github.com/ubc-vision/solv3r)
 
 ---
 
 
-**[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://huggingface.co/papers/2611.03634)** NEW
+**[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://huggingface.co/papers/2611.05320)** NEW
 
-*Published: 2026-11-02*
+*Published: 2026-11-03*
 
-*Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, etc.*
+*Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-208-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
 
 ---
 
@@ -131,6 +190,17 @@ Complete history news
 
 ### 2026-11-04
 
+**[CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126)** NEW
+
+*Published: 2026-11-02*
+
+*Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen, Congcong Wang, Shuai Dong, Zelin Peng, Yuqi Xu, Hongrui Wu, Kaiwen Tuo, Cheng Yang, Kaituo Feng, Yifan Wu, Jiayi Zhang, Dongming Wu, Wenqi Shao, Jiaqi Wang, Xiangyu Yue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/xlyu0106/CUA-Master)
+
+---
+
+
 **[F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation](https://huggingface.co/papers/2610.31623)** NEW
 
 *Published: 2026-10-22*
@@ -148,18 +218,7 @@ Complete history news
 
 *Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng, Zhuohui Sheng, Guoqiang Wang, Tao Gui, Yutao Zhu, Yujia Chen, Shihong Yi, Binze Hu, Zhixiong Yang, Zhichao Sun, Rui Wang, Han Han, Mingyu Ma, Junhao Huang, Xiaotao Wang, Huicheng Jiang, Yuyang Hu, Xinyu Yang, Wanghan Xu, Yajie Yang, Zhecan Wang, Honglin Guo, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/RUC-NLPIR/CoworkOS)
-
----
-
-
-**[CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126)** NEW
-
-*Published: 2026-11-02*
-
-*Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen, Congcong Wang, Shuai Dong, Zelin Peng, Yuqi Xu, Hongrui Wu, Kaiwen Tuo, Cheng Yang, Kaituo Feng, Yifan Wu, Jiayi Zhang, Dongming Wu, Wenqi Shao, Jiaqi Wang, Xiangyu Yue*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-87-blue)](https://github.com/xlyu0106/CUA-Master)
+[![](https://img.shields.io/badge/GitHub%20Stars-135-blue)](https://github.com/RUC-NLPIR/CoworkOS)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang, Chuzhi Wang, Jiayang Li, Ruiyang Chen, Chenling Hong, Xu Wang, Zhijie Deng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-110-blue)](https://github.com/SJTU-DENG-Lab/WaveForcing)
+[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/SJTU-DENG-Lab/WaveForcing)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang, Kwanyoung Park, Junlin Yang, Tianxiang Zhang, Ruoqu Chen, Yutao Ouyang, Bingxiang He, Xingtai Lv, Hongjin Wu, Jiajun Liu, Jiahao Zhao, Tianwei Luo, Haozhan Li, Cheng Qian, Jiaxin Ge, Huan-ang Gao, Kaisen Yang, Jiaqi Deng, Qixin Xu, Siqiao Huang, Bowen Zhou, Mengdi Xu, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Open-RUA/uni-robot-agent)
+[![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/Open-RUA/uni-robot-agent)
 
 ---
 
@@ -189,17 +248,6 @@ Complete history news
 
 
 ### 2026-11-03
-
-**[Cache Engineering for Agents](https://huggingface.co/papers/2610.28577)** NEW
-
-*Published: 2026-10-20*
-
-*Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/thu-nics/AKV)
-
----
-
 
 **[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342)** NEW
 
@@ -219,6 +267,17 @@ Complete history news
 *Shuyun Wang, Shangchen Zhou, Peiqing Yang, Yuekun Dai, Xin Yu, Chen Change Loy*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/Shuyun-Wang/MatAnyone-E)
+
+---
+
+
+**[Cache Engineering for Agents](https://huggingface.co/papers/2610.28577)** NEW
+
+*Published: 2026-10-20*
+
+*Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/thu-nics/AKV)
 
 ---
 
@@ -248,6 +307,17 @@ Complete history news
 
 
 ### 2026-11-02
+
+**[Building Auditable AI Text Detectors with Sparse Autoencoders](https://huggingface.co/papers/2610.30006)** NEW
+
+*Published: 2026-10-21*
+
+*Liam Dugan, Callum McDougall, Matthew Denton, Philip Pham, Christine Kaeser-Chen, Chris Callison-Burch*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-436-blue)](https://github.com/google-deepmind/detectorscope)
+
+---
+
 
 **[InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966)** NEW
 
@@ -289,76 +359,6 @@ Complete history news
 *Changlian Ma, Limin Wang*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-233-blue)](https://github.com/MCG-NJU/AutoTavern)
-
----
-
-
-**[Building Auditable AI Text Detectors with Sparse Autoencoders](https://huggingface.co/papers/2610.30006)** NEW
-
-*Published: 2026-10-21*
-
-*Liam Dugan, Callum McDougall, Matthew Denton, Philip Pham, Christine Kaeser-Chen, Chris Callison-Burch*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-436-blue)](https://github.com/google-deepmind/detectorscope)
-
----
-
-
-
-
-### 2026-11-01
-
-**[RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution](https://huggingface.co/papers/2610.15772)** NEW
-
-*Published: 2026-10-11*
-
-*Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Xiao Luo, Yefeng Zheng, Bo Zhang, Haoxuan Li, Pheng-Ann Heng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-312-blue)](https://github.com/zfkarl/RSIPO)
-
----
-
-
-**[RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://huggingface.co/papers/2610.14018)** NEW
-
-*Published: 2026-10-16*
-
-*Bince Qu, Wei Chen, Bo Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-288-blue)](https://github.com/BinceQu/RoboHarness) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team](https://huggingface.co/papers/2610.33106)** NEW
-
-*Published: 2026-10-22*
-
-*Wenbo Hu, Ken Li, Jiazhe Wei, Yukang Cao, Weiyi Hong, Jiayi Dai, Chenjun Bai, Jiajun Liang, Yucheng Liao, Ruichuan An, Zeyu Lou, Haofan Wang, Yueming Lyu, Jingkang Yang, Ziwei Liu, Chenyang Si*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-367-blue)](https://github.com/tettethu/VibeGame) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-**[UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling](https://huggingface.co/papers/2610.24791)** NEW
-
-*Published: 2026-10-20*
-
-*Kien T. Pham, Yuhao Liu, Chong Hou Choi, Zhenqi He, Yanghao Wang, Chenyang Lei, Rui Liu, Qifeng Chen, Long Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-293-blue)](https://github.com/HKUST-LongGroup/UniAVC)
-
----
-
-
-**[RSIHub: A Composable Framework for Agent-Evolution Methods](https://huggingface.co/papers/2610.32253)** NEW
-
-*Published: 2026-10-23*
-
-*Zimu Wang, Xiaobo Wang, Siyu Ye, Jiaqi Li, Silin Chen, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Zilong Zheng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-326-blue)](https://github.com/simple-agent-lab/RSIHub)
 
 ---
 
