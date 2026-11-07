@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-06]**
+### **[2026-11-07]**
 
-[**PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data**](https://huggingface.co/papers/2611.05320) （**New**）
+[**SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**](https://huggingface.co/papers/2611.08373) （**New**）
 
-*Published: 2026-11-03*
+*Published: 2026-11-05*
 
-<font color="gray">Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou - [arXiv]</font>
+<font color="gray">Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
+[![](https://img.shields.io/badge/GitHub%20Stars-335-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
 
 ---
 
 
-[**Solv3R: 3D Looped Transformer as a Multi-view Solver**](https://huggingface.co/papers/2611.02857) （**New**）
+[**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**](https://huggingface.co/papers/2611.06817) （**New**）
+
+*Published: 2026-11-05*
+
+<font color="gray">Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang, Guodong Lv, Yufan Deng, Junzhe Tang, Liangzhu Yang, Chen Bian, Shukai Gong, Yintianrun Zhang, Zicong Cao, Baohao Zhu, Jianxin Bi, Tengfei Yan, Yinyuan Zha - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-306-blue)](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)
+
+---
+
+
+[**Towards Foundation Decision Models: Drex**](https://huggingface.co/papers/2611.07854) （**New**）
+
+*Published: 2026-11-05*
+
+<font color="gray">Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah, Nurmukhamed Ubaidullayev, Raman Saparkhan, Dos Baha, Abulhair Saparov - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/nace-ai/drex-decision-models)
+
+---
+
+
+[**NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale**](https://huggingface.co/papers/2611.02102) （**New**）
+
+*Published: 2026-11-01*
+
+<font color="gray">Chaoyun Zhang, Bingxuan Li, Pinxue Guo, Yangfan Gao, Zikun Cai, Tianci Xie, Hui Li, Yuqi Huang, Yifei Cao, Bo Mao, Tian Tang, Qichang Zheng, Tongtong Liu, Xiaoxing Wang, Jinxiu Liu, Lizhi Lin, Zhou Sh - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/beipo-ai/NorthCUA)
+
+---
+
+
+[**History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models**](https://huggingface.co/papers/2611.02782) （**New**）
 
 *Published: 2026-11-02*
 
-<font color="gray">Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi - [arXiv]</font>
+<font color="gray">Hangyi Kuang, Chengzhi Wang, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ubc-vision/solv3r)
-
----
-
-
-[**Turns Matter: Advancing Streaming Video RL via Turn-Level Credit**](https://huggingface.co/papers/2611.06728) （**New**）
-
-*Published: 2026-11-04*
-
-<font color="gray">Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao, Hongrui Wu, Haowen Hou, Yongfu Zhu, Xuehui Wang, Ziyue Wang, Wenpu Liu, Weichu Xie, Yuqi Xu, Congcong Wang, Kaiwen Tuo, Caoyuan Ma, Taiqiang Wu, Ji  - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/XD111ds/turn-wise-rl)
-
----
-
-
-[**VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation**](https://huggingface.co/papers/2611.06796) （**New**）
-
-*Published: 2026-11-04*
-
-<font color="gray">Yihong Luo, Tianyu Pang, Tianyang Hu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/Luo-Yihong/VA-TDM)
-
----
-
-
-[**WebHarbor: Docking Real Websites for Evolving GUI Agent Environments**](https://huggingface.co/papers/2611.03634) （**New**）
-
-*Published: 2026-11-02*
-
-<font color="gray">Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongsh - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/ziplab/History-Forcing)
 
 ---
 
