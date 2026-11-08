@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-07]**
+### **[2026-11-08]**
 
-[**SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**](https://huggingface.co/papers/2611.08373) （**New**）
+[**VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents**](https://huggingface.co/papers/2611.04894) （**New**）
 
-*Published: 2026-11-05*
+*Published: 2026-11-03*
 
-<font color="gray">Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li - [arXiv]</font>
+<font color="gray">ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-335-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
-
----
-
-
-[**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**](https://huggingface.co/papers/2611.06817) （**New**）
-
-*Published: 2026-11-05*
-
-<font color="gray">Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang, Guodong Lv, Yufan Deng, Junzhe Tang, Liangzhu Yang, Chen Bian, Shukai Gong, Yintianrun Zhang, Zicong Cao, Baohao Zhu, Jianxin Bi, Tengfei Yan, Yinyuan Zha - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-306-blue)](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
 
 ---
 
 
-[**Towards Foundation Decision Models: Drex**](https://huggingface.co/papers/2611.07854) （**New**）
+[**Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training**](https://huggingface.co/papers/2611.04277) （**New**）
 
-*Published: 2026-11-05*
+*Published: 2026-11-03*
 
-<font color="gray">Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah, Nurmukhamed Ubaidullayev, Raman Saparkhan, Dos Baha, Abulhair Saparov - [arXiv]</font>
+<font color="gray">Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu, Rong Shan, Shijian Wang, Hao Wang, Yuan Lu, Weiwen Liu, Weinan Zhang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/nace-ai/drex-decision-models)
-
----
-
-
-[**NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale**](https://huggingface.co/papers/2611.02102) （**New**）
-
-*Published: 2026-11-01*
-
-<font color="gray">Chaoyun Zhang, Bingxuan Li, Pinxue Guo, Yangfan Gao, Zikun Cai, Tianci Xie, Hui Li, Yuqi Huang, Yifei Cao, Bo Mao, Tian Tang, Qichang Zheng, Tongtong Liu, Xiaoxing Wang, Jinxiu Liu, Lizhi Lin, Zhou Sh - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/beipo-ai/NorthCUA)
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/DeepExperience/Harness-S)
 
 ---
 
 
-[**History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models**](https://huggingface.co/papers/2611.02782) （**New**）
+[**PhotoGuider: Composition-Aware Cropping and 360$^{\circ}$ View Framing with Explainable Photographic Assessments**](https://huggingface.co/papers/2611.02897) （**New**）
 
 *Published: 2026-11-02*
 
-<font color="gray">Hangyi Kuang, Chengzhi Wang, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang - [arXiv]</font>
+<font color="gray">Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, Yu-Lun Liu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/ziplab/History-Forcing)
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/NTUneillee/PhotoGuider)
+
+---
+
+
+[**Proving and Improving the Platonic Representation Hypothesis with JEPAs**](https://huggingface.co/papers/2610.39302) （**New**）
+
+*Published: 2026-10-29*
+
+<font color="gray">Randall Balestriero, Yann LeCun - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/galilai-group/prh-proof)
+
+---
+
+
+[**FLORA: An Open Model Suite for Scaling Robotics Data Engines**](https://huggingface.co/papers/2610.31779) （**New**）
+
+*Published: 2026-10-22*
+
+<font color="gray">Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang, Yuhe Zhang, Ryan Punamiya, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck, Linx - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/NVIDIA/Flora)
 
 ---
 
