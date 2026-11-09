@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-08]**
+### **[2026-11-09]**
 
-[**VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents**](https://huggingface.co/papers/2611.04894) （**New**）
-
-*Published: 2026-11-03*
-
-<font color="gray">ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
-
----
-
-
-[**Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training**](https://huggingface.co/papers/2611.04277) （**New**）
+[**Axion 1.0: Open Agent Foundation Models, Simplified**](https://huggingface.co/papers/2611.03233) （**New**）
 
 *Published: 2026-11-03*
 
-<font color="gray">Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu, Rong Shan, Shijian Wang, Hao Wang, Yuan Lu, Weiwen Liu, Weinan Zhang - [arXiv]</font>
+<font color="gray">Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/DeepExperience/Harness-S)
-
----
-
-
-[**PhotoGuider: Composition-Aware Cropping and 360$^{\circ}$ View Framing with Explainable Photographic Assessments**](https://huggingface.co/papers/2611.02897) （**New**）
-
-*Published: 2026-11-02*
-
-<font color="gray">Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, Yu-Lun Liu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/NTUneillee/PhotoGuider)
+[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
 
 ---
 
 
-[**Proving and Improving the Platonic Representation Hypothesis with JEPAs**](https://huggingface.co/papers/2610.39302) （**New**）
+[**Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting**](https://huggingface.co/papers/2611.04760) （**New**）
 
-*Published: 2026-10-29*
+*Published: 2026-11-03*
 
-<font color="gray">Randall Balestriero, Yann LeCun - [arXiv]</font>
+<font color="gray">Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/galilai-group/prh-proof)
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
 
 ---
 
 
-[**FLORA: An Open Model Suite for Scaling Robotics Data Engines**](https://huggingface.co/papers/2610.31779) （**New**）
+[**Your Benchmark Is an Empirical Measure Over Difficulty**](https://huggingface.co/papers/2610.29927) （**New**）
 
-*Published: 2026-10-22*
+*Published: 2026-10-21*
 
-<font color="gray">Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang, Yuhe Zhang, Ryan Punamiya, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck, Linx - [arXiv]</font>
+<font color="gray">Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen, Huan Zhang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/NVIDIA/Flora)
+[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/ASTRAL-Group/benchmark-difficulty-measure)
+
+---
+
+
+[**Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models**](https://huggingface.co/papers/2610.35138) （**New**）
+
+*Published: 2026-10-26*
+
+<font color="gray">Xilin Wei, Shengyuan Ding, Xinyu Fang, Tiancheng Gu, Yuchi Wang, Zhixun Li, Ziyu Liu, Yuhang Zang, Weixiang Yu, Cheng Lu, Chonggao Sun, Tong Zhou, Dahua Lin, Hang Zhang, Shuai Bai, Dayiheng Liu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/Wiselnn570/Co-Design-Bench)
+
+---
+
+
+[**Multi-Token Prediction Done Right**](https://huggingface.co/papers/2610.38331) （**New**）
+
+*Published: 2026-10-28*
+
+<font color="gray">Jayden Teoh - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
 
 ---
 
