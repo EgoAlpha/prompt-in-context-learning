@@ -11,26 +11,85 @@ Complete history news
 
 
 
-### 2026-11-08
+### 2026-11-09
 
-**[VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents](https://huggingface.co/papers/2611.04894)** NEW
+**[Axion 1.0: Open Agent Foundation Models, Simplified](https://huggingface.co/papers/2611.03233)** NEW
 
 *Published: 2026-11-03*
 
-*ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang*
+*Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
+[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
 
 ---
 
 
-**[Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277)** NEW
+**[Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://huggingface.co/papers/2611.04760)** NEW
 
 *Published: 2026-11-03*
 
-*Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu, Rong Shan, Shijian Wang, Hao Wang, Yuan Lu, Weiwen Liu, Weinan Zhang*
+*Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/DeepExperience/Harness-S)
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
+
+---
+
+
+**[Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927)** NEW
+
+*Published: 2026-10-21*
+
+*Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen, Huan Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/ASTRAL-Group/benchmark-difficulty-measure)
+
+---
+
+
+**[Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models](https://huggingface.co/papers/2610.35138)** NEW
+
+*Published: 2026-10-26*
+
+*Xilin Wei, Shengyuan Ding, Xinyu Fang, Tiancheng Gu, Yuchi Wang, Zhixun Li, Ziyu Liu, Yuhang Zang, Weixiang Yu, Cheng Lu, Chonggao Sun, Tong Zhou, Dahua Lin, Hang Zhang, Shuai Bai, Dayiheng Liu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/Wiselnn570/Co-Design-Bench)
+
+---
+
+
+**[Multi-Token Prediction Done Right](https://huggingface.co/papers/2610.38331)** NEW
+
+*Published: 2026-10-28*
+
+*Jayden Teoh*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
+
+---
+
+
+
+
+### 2026-11-08
+
+**[FLORA: An Open Model Suite for Scaling Robotics Data Engines](https://huggingface.co/papers/2610.31779)** NEW
+
+*Published: 2026-10-22*
+
+*Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang, Yuhe Zhang, Ryan Punamiya, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck, Linxi "Jim" Fan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-97-blue)](https://github.com/NVIDIA/Flora)
+
+---
+
+
+**[Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302)** NEW
+
+*Published: 2026-10-29*
+
+*Randall Balestriero, Yann LeCun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-205-blue)](https://github.com/galilai-group/prh-proof)
 
 ---
 
@@ -46,24 +105,24 @@ Complete history news
 ---
 
 
-**[Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302)** NEW
+**[Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277)** NEW
 
-*Published: 2026-10-29*
+*Published: 2026-11-03*
 
-*Randall Balestriero, Yann LeCun*
+*Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu, Rong Shan, Shijian Wang, Hao Wang, Yuan Lu, Weiwen Liu, Weinan Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/galilai-group/prh-proof)
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/DeepExperience/Harness-S)
 
 ---
 
 
-**[FLORA: An Open Model Suite for Scaling Robotics Data Engines](https://huggingface.co/papers/2610.31779)** NEW
+**[VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents](https://huggingface.co/papers/2611.04894)** NEW
 
-*Published: 2026-10-22*
+*Published: 2026-11-03*
 
-*Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang, Yuhe Zhang, Ryan Punamiya, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck, Linxi "Jim" Fan*
+*ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/NVIDIA/Flora)
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
 
 ---
 
@@ -148,7 +207,7 @@ Complete history news
 
 *Yihong Luo, Tianyu Pang, Tianyang Hu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-13-blue)](https://github.com/Luo-Yihong/VA-TDM)
+[![](https://img.shields.io/badge/GitHub%20Stars-24-blue)](https://github.com/Luo-Yihong/VA-TDM)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao, Hongrui Wu, Haowen Hou, Yongfu Zhu, Xuehui Wang, Ziyue Wang, Wenpu Liu, Weichu Xie, Yuqi Xu, Congcong Wang, Kaiwen Tuo, Caoyuan Ma, Taiqiang Wu, Ji Zhao, Wenzheng Chang, Dianyi Wang, Siyuan Wang, Zhongyu Wei, Yu Qiao, Jiaqi Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/XD111ds/turn-wise-rl)
+[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/XD111ds/turn-wise-rl)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-122-blue)](https://github.com/ubc-vision/solv3r)
+[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ubc-vision/solv3r)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-208-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
+[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
 
 ---
 
@@ -190,24 +249,13 @@ Complete history news
 
 ### 2026-11-05
 
-**[Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** NEW
-
-*Published: 2026-10-19*
-
-*Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ZiiJianLiu/Omni-Woodpecker)
-
----
-
-
 **[VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step](https://huggingface.co/papers/2610.40727)** NEW
 
 *Published: 2026-10-29*
 
 *Arbaz Siddiqui*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/arbazsiddiqui/voxlock)
+[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/arbazsiddiqui/voxlock)
 
 ---
 
@@ -223,13 +271,24 @@ Complete history news
 ---
 
 
+**[Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** NEW
+
+*Published: 2026-10-19*
+
+*Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ZiiJianLiu/Omni-Woodpecker)
+
+---
+
+
 **[SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding](https://huggingface.co/papers/2611.02501)** NEW
 
 *Published: 2026-11-02*
 
 *Kunjun Li, Wenhao Chai, Yihao Liang, Yuezhou Hu, Shuyao Xu, Yi Pan, William X. Zheng, Kannan Ramchandran, Kurt Keutzer, Jiantao Jiao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-126-blue)](https://github.com/StargazerX0/SpecPilot)
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/StargazerX0/SpecPilot)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang, Kwanyoung Park, Junlin Yang, Tianxiang Zhang, Ruoqu Chen, Yutao Ouyang, Bingxiang He, Xingtai Lv, Hongjin Wu, Jiajun Liu, Jiahao Zhao, Tianwei Luo, Haozhan Li, Cheng Qian, Jiaxin Ge, Huan-ang Gao, Kaisen Yang, Jiaqi Deng, Qixin Xu, Siqiao Huang, Bowen Zhou, Mengdi Xu, etc.*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/Open-RUA/uni-robot-agent)
-
----
-
-
-
-
-### 2026-11-03
-
-**[HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://huggingface.co/papers/2610.40599)** NEW
-
-*Published: 2026-10-29*
-
-*Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-815-blue)](https://github.com/hyz317/HairDeck)
-
----
-
-
-**[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342)** NEW
-
-*Published: 2026-10-28*
-
-*Huangfei Jiang, Anning Hu, Kai Sheng, Yuchen Cai, Rui Ge, Xiangyu Kong, Jianghao Lin, Shuzi Chen, Jiyi Weng, Junchi Yan*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-141-blue)](https://github.com/Prophetlab/Investor-Last-Exam)
-
----
-
-
-**[MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting](https://huggingface.co/papers/2610.35724)** NEW
-
-*Published: 2026-10-26*
-
-*Shuyun Wang, Shangchen Zhou, Peiqing Yang, Yuekun Dai, Xin Yu, Chen Change Loy*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/Shuyun-Wang/MatAnyone-E)
-
----
-
-
-**[Cache Engineering for Agents](https://huggingface.co/papers/2610.28577)** NEW
-
-*Published: 2026-10-20*
-
-*Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/thu-nics/AKV)
-
----
-
-
-**[Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633)** NEW
-
-*Published: 2026-10-29*
-
-*Deyuan Liu, Yansen Han, Kaiwen Zheng, Jun Xie, Jiacheng Liu, Zhenglin Cheng, Peng Sun, Jintao Zhang, Jianguo Li, Tao Lin*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-241-blue)](https://github.com/inclusionAI/IDM)
 
 ---
 
