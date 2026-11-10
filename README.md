@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-09]**
+### **[2026-11-10]**
 
-[**Axion 1.0: Open Agent Foundation Models, Simplified**](https://huggingface.co/papers/2611.03233) （**New**）
+[**Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription**](https://huggingface.co/papers/2611.06043) （**New**）
 
-*Published: 2026-11-03*
+*Published: 2026-11-04*
 
-<font color="gray">Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu - [arXiv]</font>
+<font color="gray">Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng, Yitao Duan - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
-
----
-
-
-[**Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting**](https://huggingface.co/papers/2611.04760) （**New**）
-
-*Published: 2026-11-03*
-
-<font color="gray">Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
+[![](https://img.shields.io/badge/GitHub%20Stars-873-blue)](https://github.com/netease-youdao/Confucius4-R2T2)
 
 ---
 
 
-[**Your Benchmark Is an Empirical Measure Over Difficulty**](https://huggingface.co/papers/2610.29927) （**New**）
+[**Beneath the Surface: What We Overlook When We Talk About Agent Evolution**](https://huggingface.co/papers/2611.07624) （**New**）
 
-*Published: 2026-10-21*
+*Published: 2026-11-05*
 
-<font color="gray">Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen, Huan Zhang - [arXiv]</font>
+<font color="gray">Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang, Jun Bai, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Qi Liu, Zilong Zheng - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/ASTRAL-Group/benchmark-difficulty-measure)
-
----
-
-
-[**Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models**](https://huggingface.co/papers/2610.35138) （**New**）
-
-*Published: 2026-10-26*
-
-<font color="gray">Xilin Wei, Shengyuan Ding, Xinyu Fang, Tiancheng Gu, Yuchi Wang, Zhixun Li, Ziyu Liu, Yuhang Zang, Weixiang Yu, Cheng Lu, Chonggao Sun, Tong Zhou, Dahua Lin, Hang Zhang, Shuai Bai, Dayiheng Liu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/Wiselnn570/Co-Design-Bench)
+[![](https://img.shields.io/badge/GitHub%20Stars-349-blue)](https://github.com/simple-agent-lab/RSIHub)
 
 ---
 
 
-[**Multi-Token Prediction Done Right**](https://huggingface.co/papers/2610.38331) （**New**）
+[**AgentBaton: Efficient Model Collaboration in Agentic Tasks**](https://huggingface.co/papers/2610.35959) （**New**）
 
-*Published: 2026-10-28*
+*Published: 2026-10-25*
 
-<font color="gray">Jayden Teoh - [arXiv]</font>
+<font color="gray">Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, Hao Zhang, Pavlo Molchanov - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,713-blue)](https://github.com/kyegomez/awesome-multi-agent-papers)
+
+---
+
+
+[**SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes**](https://huggingface.co/papers/2611.08264) （**New**）
+
+*Published: 2026-11-05*
+
+<font color="gray">Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu, Xiaowei Zhou, Hujun Bao, Tengfei Wang, Chunchao Guo, Sida Peng - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/zju3dv/SplatAnything)
+
+---
+
+
+[**TaoMate-FVSR:Audio-Guided Facial Video Restoration**](https://huggingface.co/papers/2611.03393) （**New**）
+
+*Published: 2026-11-02*
+
+<font color="gray">Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
 
 ---
 
