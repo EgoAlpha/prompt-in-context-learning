@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-10
+
+**[Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](https://huggingface.co/papers/2611.06043)** NEW
+
+*Published: 2026-11-04*
+
+*Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng, Yitao Duan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-873-blue)](https://github.com/netease-youdao/Confucius4-R2T2)
+
+---
+
+
+**[Beneath the Surface: What We Overlook When We Talk About Agent Evolution](https://huggingface.co/papers/2611.07624)** NEW
+
+*Published: 2026-11-05*
+
+*Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang, Jun Bai, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Qi Liu, Zilong Zheng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-349-blue)](https://github.com/simple-agent-lab/RSIHub)
+
+---
+
+
+**[AgentBaton: Efficient Model Collaboration in Agentic Tasks](https://huggingface.co/papers/2610.35959)** NEW
+
+*Published: 2026-10-25*
+
+*Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, Hao Zhang, Pavlo Molchanov*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,713-blue)](https://github.com/kyegomez/awesome-multi-agent-papers)
+
+---
+
+
+**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)** NEW
+
+*Published: 2026-11-05*
+
+*Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu, Xiaowei Zhou, Hujun Bao, Tengfei Wang, Chunchao Guo, Sida Peng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/zju3dv/SplatAnything)
+
+---
+
+
+**[TaoMate-FVSR:Audio-Guided Facial Video Restoration](https://huggingface.co/papers/2611.03393)** NEW
+
+*Published: 2026-11-02*
+
+*Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
+
+---
+
+
+
+
 ### 2026-11-09
 
-**[Axion 1.0: Open Agent Foundation Models, Simplified](https://huggingface.co/papers/2611.03233)** NEW
+**[Multi-Token Prediction Done Right](https://huggingface.co/papers/2610.38331)** NEW
 
-*Published: 2026-11-03*
+*Published: 2026-10-28*
 
-*Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu*
+*Jayden Teoh*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
-
----
-
-
-**[Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://huggingface.co/papers/2611.04760)** NEW
-
-*Published: 2026-11-03*
-
-*Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
-
----
-
-
-**[Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927)** NEW
-
-*Published: 2026-10-21*
-
-*Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen, Huan Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/ASTRAL-Group/benchmark-difficulty-measure)
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[Multi-Token Prediction Done Right](https://huggingface.co/papers/2610.38331)** NEW
+**[Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927)** NEW
 
-*Published: 2026-10-28*
+*Published: 2026-10-21*
 
-*Jayden Teoh*
+*Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen, Huan Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
+[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/ASTRAL-Group/benchmark-difficulty-measure)
+
+---
+
+
+**[Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://huggingface.co/papers/2611.04760)** NEW
+
+*Published: 2026-11-03*
+
+*Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
+
+---
+
+
+**[Axion 1.0: Open Agent Foundation Models, Simplified](https://huggingface.co/papers/2611.03233)** NEW
+
+*Published: 2026-11-03*
+
+*Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
 
 ---
 
@@ -100,7 +159,7 @@ Complete history news
 
 *Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, Yu-Lun Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/NTUneillee/PhotoGuider)
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/NTUneillee/PhotoGuider)
 
 ---
 
@@ -111,7 +170,7 @@ Complete history news
 
 *Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu, Rong Shan, Shijian Wang, Hao Wang, Yuan Lu, Weiwen Liu, Weinan Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/DeepExperience/Harness-S)
+[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/DeepExperience/Harness-S)
 
 ---
 
@@ -122,7 +181,7 @@ Complete history news
 
 *ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
+[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
 
 ---
 
@@ -137,7 +196,7 @@ Complete history news
 
 *Hangyi Kuang, Chengzhi Wang, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/ziplab/History-Forcing)
+[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/ziplab/History-Forcing)
 
 ---
 
@@ -148,7 +207,7 @@ Complete history news
 
 *Chaoyun Zhang, Bingxuan Li, Pinxue Guo, Yangfan Gao, Zikun Cai, Tianci Xie, Hui Li, Yuqi Huang, Yifei Cao, Bo Mao, Tian Tang, Qichang Zheng, Tongtong Liu, Xiaoxing Wang, Jinxiu Liu, Lizhi Lin, Zhou Shao, Maosen Zhou, Miao Zheng, Shuo Zhang, Yangji He, Kepeng Lei, Ning Zhao, Wei Shen, Zhenjiang Jin, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/beipo-ai/NorthCUA)
+[![](https://img.shields.io/badge/GitHub%20Stars-108-blue)](https://github.com/beipo-ai/NorthCUA)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah, Nurmukhamed Ubaidullayev, Raman Saparkhan, Dos Baha, Abulhair Saparov*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-111-blue)](https://github.com/nace-ai/drex-decision-models)
+[![](https://img.shields.io/badge/GitHub%20Stars-132-blue)](https://github.com/nace-ai/drex-decision-models)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang, Guodong Lv, Yufan Deng, Junzhe Tang, Liangzhu Yang, Chen Bian, Shukai Gong, Yintianrun Zhang, Zicong Cao, Baohao Zhu, Jianxin Bi, Tengfei Yan, Yinyuan Zhang, Kewei Zhang, Xinglong Chen, Kaiqi Chen, Duomin Wang, Xiaotian Tang, Liang Tan, Li Li, Yuan Xu, Haosen Yang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-306-blue)](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)
+[![](https://img.shields.io/badge/GitHub%20Stars-338-blue)](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-336-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
+[![](https://img.shields.io/badge/GitHub%20Stars-391-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Xingzhi Qian, Sungho Park, Rongyuan Tan, Jianbo Yu, Jue Zhang, Lorenzo Cavallaro, Menglin Xia, Yanzhi Chen, Xinnuo Xu, Yu Kang, Xinran Zheng, Gagan Somashekar, Xuchao Zhang, Chetan Bansal, Qingwei Lin, Victor Rühle*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-250-blue)](https://github.com/microsoft/AutoSaddler/tree/feat/paretosaddler)
-
----
-
-
-
-
-### 2026-11-04
-
-**[F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation](https://huggingface.co/papers/2610.31623)** NEW
-
-*Published: 2026-10-22*
-
-*Jinyu Zhang, Haitao Lin, Jiashu Hou, Xiangyang Xue, Yanwei Fu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-144-blue)](https://github.com/jrryzh/F2G-Pose)
-
----
-
-
-**[CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178)** NEW
-
-*Published: 2026-11-02*
-
-*Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng, Zhuohui Sheng, Guoqiang Wang, Tao Gui, Yutao Zhu, Yujia Chen, Shihong Yi, Binze Hu, Zhixiong Yang, Zhichao Sun, Rui Wang, Han Han, Mingyu Ma, Junhao Huang, Xiaotao Wang, Huicheng Jiang, Yuyang Hu, Xinyu Yang, Wanghan Xu, Yajie Yang, Zhecan Wang, Honglin Guo, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-135-blue)](https://github.com/RUC-NLPIR/CoworkOS)
-
----
-
-
-**[CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126)** NEW
-
-*Published: 2026-11-02*
-
-*Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen, Congcong Wang, Shuai Dong, Zelin Peng, Yuqi Xu, Hongrui Wu, Kaiwen Tuo, Cheng Yang, Kaituo Feng, Yifan Wu, Jiayi Zhang, Dongming Wu, Wenqi Shao, Jiaqi Wang, Xiangyu Yue*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/xlyu0106/CUA-Master)
-
----
-
-
-**[Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859)** NEW
-
-*Published: 2026-10-31*
-
-*Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang, Chuzhi Wang, Jiayang Li, Ruiyang Chen, Chenling Hong, Xu Wang, Zhijie Deng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/SJTU-DENG-Lab/WaveForcing)
-
----
-
-
-**[Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://huggingface.co/papers/2611.01560)** NEW
-
-*Published: 2026-11-01*
-
-*Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang, Kwanyoung Park, Junlin Yang, Tianxiang Zhang, Ruoqu Chen, Yutao Ouyang, Bingxiang He, Xingtai Lv, Hongjin Wu, Jiajun Liu, Jiahao Zhao, Tianwei Luo, Haozhan Li, Cheng Qian, Jiaxin Ge, Huan-ang Gao, Kaisen Yang, Jiaqi Deng, Qixin Xu, Siqiao Huang, Bowen Zhou, Mengdi Xu, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/Open-RUA/uni-robot-agent)
 
 ---
 
