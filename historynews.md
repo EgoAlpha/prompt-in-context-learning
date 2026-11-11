@@ -11,26 +11,85 @@ Complete history news
 
 
 
-### 2026-11-10
+### 2026-11-11
 
-**[Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](https://huggingface.co/papers/2611.06043)** NEW
+**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)** NEW
 
-*Published: 2026-11-04*
+*Published: 2026-11-06*
 
-*Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng, Yitao Duan*
+*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-873-blue)](https://github.com/netease-youdao/Confucius4-R2T2)
+[![](https://img.shields.io/badge/GitHub%20Stars-41,349-blue)](https://github.com/facebookresearch/faiss)
 
 ---
 
 
-**[Beneath the Surface: What We Overlook When We Talk About Agent Evolution](https://huggingface.co/papers/2611.07624)** NEW
+**[InstantHMR : Real-Time Human Mesh Recovery on Your Phone](https://huggingface.co/papers/2611.09195)** NEW
+
+*Published: 2026-11-06*
+
+*Mohamed Adjel, Kahina Chalabi, Vincent Bonnet*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/Naturalpad-studio/InstantHMR)
+
+---
+
+
+**[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771)** NEW
+
+*Published: 2026-11-07*
+
+*Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhua Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-342-blue)](https://github.com/OpenEnvision/WorldFoundry)
+
+---
+
+
+**[PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://huggingface.co/papers/2611.08969)** NEW
+
+*Published: 2026-11-06*
+
+*Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ForeverBlue816/PhysioWave)
+
+---
+
+
+**[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806)** NEW
+
+*Published: 2026-11-09*
+
+*Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xing Zhu, Yujun Shen, Nan Xue, Wei Ning*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/Robbyant/lingbot-touch)
+
+---
+
+
+
+
+### 2026-11-10
+
+**[TaoMate-FVSR:Audio-Guided Facial Video Restoration](https://huggingface.co/papers/2611.03393)** NEW
+
+*Published: 2026-11-02*
+
+*Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
+
+---
+
+
+**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)** NEW
 
 *Published: 2026-11-05*
 
-*Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang, Jun Bai, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Qi Liu, Zilong Zheng*
+*Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu, Xiaowei Zhou, Hujun Bao, Tengfei Wang, Chunchao Guo, Sida Peng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-349-blue)](https://github.com/simple-agent-lab/RSIHub)
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/zju3dv/SplatAnything)
 
 ---
 
@@ -46,24 +105,24 @@ Complete history news
 ---
 
 
-**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)** NEW
+**[Beneath the Surface: What We Overlook When We Talk About Agent Evolution](https://huggingface.co/papers/2611.07624)** NEW
 
 *Published: 2026-11-05*
 
-*Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu, Xiaowei Zhou, Hujun Bao, Tengfei Wang, Chunchao Guo, Sida Peng*
+*Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang, Jun Bai, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Qi Liu, Zilong Zheng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/zju3dv/SplatAnything)
+[![](https://img.shields.io/badge/GitHub%20Stars-350-blue)](https://github.com/simple-agent-lab/RSIHub)
 
 ---
 
 
-**[TaoMate-FVSR:Audio-Guided Facial Video Restoration](https://huggingface.co/papers/2611.03393)** NEW
+**[Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](https://huggingface.co/papers/2611.06043)** NEW
 
-*Published: 2026-11-02*
+*Published: 2026-11-04*
 
-*Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma*
+*Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng, Yitao Duan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
+[![](https://img.shields.io/badge/GitHub%20Stars-874-blue)](https://github.com/netease-youdao/Confucius4-R2T2)
 
 ---
 
@@ -255,7 +314,7 @@ Complete history news
 
 *Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
-
----
-
-
-
-
-### 2026-11-05
-
-**[VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step](https://huggingface.co/papers/2610.40727)** NEW
-
-*Published: 2026-10-29*
-
-*Arbaz Siddiqui*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/arbazsiddiqui/voxlock)
-
----
-
-
-**[What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](https://huggingface.co/papers/2610.34491)** NEW
-
-*Published: 2026-10-25*
-
-*Kaiser Sun, Yongchan Kwon, Zain Hasan, Shang Zhu, Kaitlyn Zhou, Federico Bianchi*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/KaiserWhoLearns/ReasoningEffortLLM)
-
----
-
-
-**[Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** NEW
-
-*Published: 2026-10-19*
-
-*Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ZiiJianLiu/Omni-Woodpecker)
-
----
-
-
-**[SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding](https://huggingface.co/papers/2611.02501)** NEW
-
-*Published: 2026-11-02*
-
-*Kunjun Li, Wenhao Chai, Yihao Liang, Yuezhou Hu, Shuyao Xu, Yi Pan, William X. Zheng, Kannan Ramchandran, Kurt Keutzer, Jiantao Jiao*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/StargazerX0/SpecPilot)
-
----
-
-
-**[ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost](https://huggingface.co/papers/2611.02079)** NEW
-
-*Published: 2026-11-01*
-
-*Xingzhi Qian, Sungho Park, Rongyuan Tan, Jianbo Yu, Jue Zhang, Lorenzo Cavallaro, Menglin Xia, Yanzhi Chen, Xinnuo Xu, Yu Kang, Xinran Zheng, Gagan Somashekar, Xuchao Zhang, Chetan Bansal, Qingwei Lin, Victor Rühle*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-250-blue)](https://github.com/microsoft/AutoSaddler/tree/feat/paretosaddler)
 
 ---
 
