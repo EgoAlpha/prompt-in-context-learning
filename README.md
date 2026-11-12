@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-11]**
+### **[2026-11-12]**
 
-[**e-means: outperforming k-means (in one-tenth the epochs)**](https://huggingface.co/papers/2611.09501) （**New**）
+[**Few-Step Streaming Video Generation via Condition Shifting**](https://huggingface.co/papers/2611.14033) （**New**）
 
-*Published: 2026-11-06*
+*Published: 2026-11-10*
 
-<font color="gray">Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou - [arXiv]</font>
+<font color="gray">Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-41,349-blue)](https://github.com/facebookresearch/faiss)
-
----
-
-
-[**InstantHMR : Real-Time Human Mesh Recovery on Your Phone**](https://huggingface.co/papers/2611.09195) （**New**）
-
-*Published: 2026-11-06*
-
-<font color="gray">Mohamed Adjel, Kahina Chalabi, Vincent Bonnet - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/Naturalpad-studio/InstantHMR)
+[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
 
 ---
 
 
-[**WorldFoundry: Towards Unified Infrastructure for World Intelligence**](https://huggingface.co/papers/2611.10771) （**New**）
-
-*Published: 2026-11-07*
-
-<font color="gray">Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-342-blue)](https://github.com/OpenEnvision/WorldFoundry)
-
----
-
-
-[**PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals**](https://huggingface.co/papers/2611.08969) （**New**）
-
-*Published: 2026-11-06*
-
-<font color="gray">Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ForeverBlue816/PhysioWave)
-
----
-
-
-[**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**](https://huggingface.co/papers/2611.12806) （**New**）
+[**Embodied First Exam**](https://huggingface.co/papers/2611.12177) （**New**）
 
 *Published: 2026-11-09*
 
-<font color="gray">Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xin - [arXiv]</font>
+<font color="gray">Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Ho - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/Robbyant/lingbot-touch)
+[![](https://img.shields.io/badge/GitHub%20Stars-259-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+
+---
+
+
+[**ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents**](https://huggingface.co/papers/2611.05036) （**New**）
+
+*Published: 2026-11-03*
+
+<font color="gray">Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Sh - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
+
+---
+
+
+[**Flide: Accelerating Decision Inference with Exact State Forking**](https://huggingface.co/papers/2610.42148) （**New**）
+
+*Published: 2026-10-30*
+
+<font color="gray">Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-386-blue)](https://github.com/OmniJev/Flide)
+
+---
+
+
+[**MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations**](https://huggingface.co/papers/2611.10649) （**New**）
+
+*Published: 2026-11-07*
+
+<font color="gray">Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/huawei-csl/MACaQ)
 
 ---
 
