@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-11-11
+### 2026-11-12
 
-**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)** NEW
+**[Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** NEW
 
-*Published: 2026-11-06*
+*Published: 2026-11-10*
 
-*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
+*Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-41,349-blue)](https://github.com/facebookresearch/faiss)
-
----
-
-
-**[InstantHMR : Real-Time Human Mesh Recovery on Your Phone](https://huggingface.co/papers/2611.09195)** NEW
-
-*Published: 2026-11-06*
-
-*Mohamed Adjel, Kahina Chalabi, Vincent Bonnet*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/Naturalpad-studio/InstantHMR)
+[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
 
 ---
 
 
-**[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771)** NEW
+**[Embodied First Exam](https://huggingface.co/papers/2611.12177)** NEW
+
+*Published: 2026-11-09*
+
+*Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-259-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+
+---
+
+
+**[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://huggingface.co/papers/2611.05036)** NEW
+
+*Published: 2026-11-03*
+
+*Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
+
+---
+
+
+**[Flide: Accelerating Decision Inference with Exact State Forking](https://huggingface.co/papers/2610.42148)** NEW
+
+*Published: 2026-10-30*
+
+*Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-386-blue)](https://github.com/OmniJev/Flide)
+
+---
+
+
+**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** NEW
 
 *Published: 2026-11-07*
 
-*Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhua Li*
+*Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-342-blue)](https://github.com/OpenEnvision/WorldFoundry)
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/huawei-csl/MACaQ)
+
+---
+
+
+
+
+### 2026-11-11
+
+**[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806)** NEW
+
+*Published: 2026-11-09*
+
+*Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xing Zhu, Yujun Shen, Nan Xue, Wei Ning*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-156-blue)](https://github.com/Robbyant/lingbot-touch)
 
 ---
 
@@ -52,18 +89,40 @@ Complete history news
 
 *Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ForeverBlue816/PhysioWave)
+[![](https://img.shields.io/badge/GitHub%20Stars-247-blue)](https://github.com/ForeverBlue816/PhysioWave)
 
 ---
 
 
-**[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806)** NEW
+**[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771)** NEW
 
-*Published: 2026-11-09*
+*Published: 2026-11-07*
 
-*Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xing Zhu, Yujun Shen, Nan Xue, Wei Ning*
+*Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhua Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/Robbyant/lingbot-touch)
+[![](https://img.shields.io/badge/GitHub%20Stars-346-blue)](https://github.com/OpenEnvision/WorldFoundry)
+
+---
+
+
+**[InstantHMR : Real-Time Human Mesh Recovery on Your Phone](https://huggingface.co/papers/2611.09195)** NEW
+
+*Published: 2026-11-06*
+
+*Mohamed Adjel, Kahina Chalabi, Vincent Bonnet*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-359-blue)](https://github.com/Naturalpad-studio/InstantHMR)
+
+---
+
+
+**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)** NEW
+
+*Published: 2026-11-06*
+
+*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-41,376-blue)](https://github.com/facebookresearch/faiss)
 
 ---
 
@@ -137,7 +196,7 @@ Complete history news
 
 *Jayden Teoh*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
+[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/JaydenTeoh/Soft-MTP)
 
 ---
 
@@ -148,7 +207,7 @@ Complete history news
 
 *Xilin Wei, Shengyuan Ding, Xinyu Fang, Tiancheng Gu, Yuchi Wang, Zhixun Li, Ziyu Liu, Yuhang Zang, Weixiang Yu, Cheng Lu, Chonggao Sun, Tong Zhou, Dahua Lin, Hang Zhang, Shuai Bai, Dayiheng Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/Wiselnn570/Co-Design-Bench)
+[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/Wiselnn570/Co-Design-Bench)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
+[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/bytedance/axion1_0)
 
 ---
 
@@ -196,7 +255,7 @@ Complete history news
 
 *Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang, Yuhe Zhang, Ryan Punamiya, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck, Linxi "Jim" Fan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-97-blue)](https://github.com/NVIDIA/Flora)
+[![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/NVIDIA/Flora)
 
 ---
 
@@ -207,7 +266,7 @@ Complete history news
 
 *Randall Balestriero, Yann LeCun*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-205-blue)](https://github.com/galilai-group/prh-proof)
+[![](https://img.shields.io/badge/GitHub%20Stars-217-blue)](https://github.com/galilai-group/prh-proof)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-391-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
-
----
-
-
-
-
-### 2026-11-06
-
-**[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://huggingface.co/papers/2611.03634)** NEW
-
-*Published: 2026-11-02*
-
-*Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation](https://huggingface.co/papers/2611.06796)** NEW
-
-*Published: 2026-11-04*
-
-*Yihong Luo, Tianyu Pang, Tianyang Hu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-24-blue)](https://github.com/Luo-Yihong/VA-TDM)
-
----
-
-
-**[Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728)** NEW
-
-*Published: 2026-11-04*
-
-*Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao, Hongrui Wu, Haowen Hou, Yongfu Zhu, Xuehui Wang, Ziyue Wang, Wenpu Liu, Weichu Xie, Yuqi Xu, Congcong Wang, Kaiwen Tuo, Caoyuan Ma, Taiqiang Wu, Ji Zhao, Wenzheng Chang, Dianyi Wang, Siyuan Wang, Zhongyu Wei, Yu Qiao, Jiaqi Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/XD111ds/turn-wise-rl)
-
----
-
-
-**[Solv3R: 3D Looped Transformer as a Multi-view Solver](https://huggingface.co/papers/2611.02857)** NEW
-
-*Published: 2026-11-02*
-
-*Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ubc-vision/solv3r)
-
----
-
-
-**[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://huggingface.co/papers/2611.05320)** NEW
-
-*Published: 2026-11-03*
-
-*Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
 
 ---
 
