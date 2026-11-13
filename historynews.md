@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-11-12
+### 2026-11-13
 
-**[Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** NEW
+**[TorchCurves: Differentiable Parametric Curves](https://huggingface.co/papers/2611.14516)** NEW
 
 *Published: 2026-11-10*
 
-*Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
+*Alex Shtoff*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/alexshtf/torchcurves)
 
 ---
 
 
-**[Embodied First Exam](https://huggingface.co/papers/2611.12177)** NEW
+**[World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885)** NEW
 
 *Published: 2026-11-09*
 
-*Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
+*Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-259-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/ArcheOne-AI/RoboScript)
 
 ---
 
 
-**[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://huggingface.co/papers/2611.05036)** NEW
+**[VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing](https://huggingface.co/papers/2611.03404)** NEW
+
+*Published: 2026-11-02*
+
+*Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/LAW1223/VidDub)
+
+---
+
+
+**[NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://huggingface.co/papers/2611.05648)** NEW
 
 *Published: 2026-11-03*
 
-*Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou*
+*Dar-Yen Chen, Yi-Zhe Song*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/ChenDarYen/NitroFusion2)
+
+---
+
+
+**[The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)** NEW
+
+*Published: 2026-11-07*
+
+*Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
+
+---
+
+
+
+
+### 2026-11-12
+
+**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** NEW
+
+*Published: 2026-11-07*
+
+*Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/huawei-csl/MACaQ)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** NEW
+**[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://huggingface.co/papers/2611.05036)** NEW
 
-*Published: 2026-11-07*
+*Published: 2026-11-03*
 
-*Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
+*Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/huawei-csl/MACaQ)
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
+
+---
+
+
+**[Embodied First Exam](https://huggingface.co/papers/2611.12177)** NEW
+
+*Published: 2026-11-09*
+
+*Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-262-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+
+---
+
+
+**[Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** NEW
+
+*Published: 2026-11-10*
+
+*Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
 
 ---
 
@@ -137,7 +196,7 @@ Complete history news
 
 *Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
 
 ---
 
@@ -229,7 +288,7 @@ Complete history news
 
 *Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
+[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/azencot-group/KGO)
 
 ---
 
@@ -277,7 +336,7 @@ Complete history news
 
 *Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, Yu-Lun Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/NTUneillee/PhotoGuider)
+[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/NTUneillee/PhotoGuider)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
-
----
-
-
-
-
-### 2026-11-07
-
-**[History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models](https://huggingface.co/papers/2611.02782)** NEW
-
-*Published: 2026-11-02*
-
-*Hangyi Kuang, Chengzhi Wang, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/ziplab/History-Forcing)
-
----
-
-
-**[NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale](https://huggingface.co/papers/2611.02102)** NEW
-
-*Published: 2026-11-01*
-
-*Chaoyun Zhang, Bingxuan Li, Pinxue Guo, Yangfan Gao, Zikun Cai, Tianci Xie, Hui Li, Yuqi Huang, Yifei Cao, Bo Mao, Tian Tang, Qichang Zheng, Tongtong Liu, Xiaoxing Wang, Jinxiu Liu, Lizhi Lin, Zhou Shao, Maosen Zhou, Miao Zheng, Shuo Zhang, Yangji He, Kepeng Lei, Ning Zhao, Wei Shen, Zhenjiang Jin, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-108-blue)](https://github.com/beipo-ai/NorthCUA)
-
----
-
-
-**[Towards Foundation Decision Models: Drex](https://huggingface.co/papers/2611.07854)** NEW
-
-*Published: 2026-11-05*
-
-*Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah, Nurmukhamed Ubaidullayev, Raman Saparkhan, Dos Baha, Abulhair Saparov*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-132-blue)](https://github.com/nace-ai/drex-decision-models)
-
----
-
-
-**[Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://huggingface.co/papers/2611.06817)** NEW
-
-*Published: 2026-11-05*
-
-*Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang, Guodong Lv, Yufan Deng, Junzhe Tang, Liangzhu Yang, Chen Bian, Shukai Gong, Yintianrun Zhang, Zicong Cao, Baohao Zhu, Jianxin Bi, Tengfei Yan, Yinyuan Zhang, Kewei Zhang, Xinglong Chen, Kaiqi Chen, Duomin Wang, Xiaotian Tang, Liang Tan, Li Li, Yuan Xu, Haosen Yang, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-338-blue)](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)
-
----
-
-
-**[SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373)** NEW
-
-*Published: 2026-11-05*
-
-*Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang, Junwu E, Pengwei Wang, Yan Wang, Shunbo Zhou, Haoang Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-391-blue)](https://github.com/OpenHelix-Team/Spatial-Forcing)
 
 ---
 
