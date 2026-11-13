@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-12]**
+### **[2026-11-13]**
 
-[**Few-Step Streaming Video Generation via Condition Shifting**](https://huggingface.co/papers/2611.14033) （**New**）
+[**TorchCurves: Differentiable Parametric Curves**](https://huggingface.co/papers/2611.14516) （**New**）
 
 *Published: 2026-11-10*
 
-<font color="gray">Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang - [arXiv]</font>
+<font color="gray">Alex Shtoff - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/alexshtf/torchcurves)
 
 ---
 
 
-[**Embodied First Exam**](https://huggingface.co/papers/2611.12177) （**New**）
+[**World In-Context Learning for Agentic Robot Manipulation**](https://huggingface.co/papers/2611.12885) （**New**）
 
 *Published: 2026-11-09*
 
-<font color="gray">Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Ho - [arXiv]</font>
+<font color="gray">Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-259-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/ArcheOne-AI/RoboScript)
 
 ---
 
 
-[**ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents**](https://huggingface.co/papers/2611.05036) （**New**）
+[**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**](https://huggingface.co/papers/2611.03404) （**New**）
+
+*Published: 2026-11-02*
+
+<font color="gray">Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/LAW1223/VidDub)
+
+---
+
+
+[**NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers**](https://huggingface.co/papers/2611.05648) （**New**）
 
 *Published: 2026-11-03*
 
-<font color="gray">Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Sh - [arXiv]</font>
+<font color="gray">Dar-Yen Chen, Yi-Zhe Song - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
-
----
-
-
-[**Flide: Accelerating Decision Inference with Exact State Forking**](https://huggingface.co/papers/2610.42148) （**New**）
-
-*Published: 2026-10-30*
-
-<font color="gray">Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-386-blue)](https://github.com/OmniJev/Flide)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/ChenDarYen/NitroFusion2)
 
 ---
 
 
-[**MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations**](https://huggingface.co/papers/2611.10649) （**New**）
+[**The Surprising Effectiveness of Deleting Weights in LLM Post-Training**](https://huggingface.co/papers/2611.10866) （**New**）
 
 *Published: 2026-11-07*
 
-<font color="gray">Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli - [arXiv]</font>
+<font color="gray">Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/huawei-csl/MACaQ)
+[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
 
 ---
 
