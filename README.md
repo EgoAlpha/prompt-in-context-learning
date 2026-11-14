@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-13]**
+### **[2026-11-14]**
 
-[**TorchCurves: Differentiable Parametric Curves**](https://huggingface.co/papers/2611.14516) （**New**）
+[**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**](https://huggingface.co/papers/2611.08318) （**New**）
 
-*Published: 2026-11-10*
+*Published: 2026-11-05*
 
-<font color="gray">Alex Shtoff - [arXiv]</font>
+<font color="gray">Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si, Rui Ni, Qiang Wang, Shulong Jiang, Yintianrun Zhang, Feixiang Ruan, Kewei Zhang, Ye Huang, Shukai Gong, Daquan Zhou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/alexshtf/torchcurves)
-
----
-
-
-[**World In-Context Learning for Agentic Robot Manipulation**](https://huggingface.co/papers/2611.12885) （**New**）
-
-*Published: 2026-11-09*
-
-<font color="gray">Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/ArcheOne-AI/RoboScript)
+[![](https://img.shields.io/badge/GitHub%20Stars-250-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
 
-[**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**](https://huggingface.co/papers/2611.03404) （**New**）
+[**Video-Coder: Reinforcing Agentic Coding for Video Generation**](https://huggingface.co/papers/2611.09894) （**New**）
 
-*Published: 2026-11-02*
+*Published: 2026-11-06*
 
-<font color="gray">Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang - [arXiv]</font>
+<font color="gray">Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen, Yiyang Zhou, Huaxiu Yao, Yong Jae Lee, Radu Timofte, Yuzhang Shang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/LAW1223/VidDub)
-
----
-
-
-[**NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers**](https://huggingface.co/papers/2611.05648) （**New**）
-
-*Published: 2026-11-03*
-
-<font color="gray">Dar-Yen Chen, Yi-Zhe Song - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/ChenDarYen/NitroFusion2)
+[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/CYWang735/Video-Coder)
 
 ---
 
 
-[**The Surprising Effectiveness of Deleting Weights in LLM Post-Training**](https://huggingface.co/papers/2611.10866) （**New**）
+[**PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?**](https://huggingface.co/papers/2611.08175) （**New**）
 
-*Published: 2026-11-07*
+*Published: 2026-11-05*
 
-<font color="gray">Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren - [arXiv]</font>
+<font color="gray">Yue Zhang, Jilei Sun, Liqiang Jing, Yijie Wei, Ruohan Yang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/chip-ai-agent/PCBRouteAgent)
+
+---
+
+
+[**TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing**](https://huggingface.co/papers/2611.06741) （**New**）
+
+*Published: 2026-11-04*
+
+<font color="gray">Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Lyricccco/tailsteer)
+
+---
+
+
+[**Venus-DefakerOne2: A Vision-Forensics Foundation Model with Broader Coverage**](https://huggingface.co/papers/2610.37918) （**New**）
+
+*Published: 2026-10-27*
+
+<font color="gray">Chenfan Qu, Yachao Liang, Mingqi Fang, Jiangwei Xie, Zhenming Wang, Baoyue Zhang, Changjiang Jiang, Zheng Chang, Fanli Jin, Xuekang Zhu, Kaiwen Feng, Junchi Li, Weihong Zhang, Haoyue Wang, Chenfeng Zh - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-116-blue)](https://github.com/inclusionAI/DefakerOne2)
 
 ---
 
