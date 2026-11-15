@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-14]**
+### **[2026-11-15]**
 
-[**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**](https://huggingface.co/papers/2611.08318) （**New**）
+[**InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure**](https://huggingface.co/papers/2611.11558) （**New**）
 
-*Published: 2026-11-05*
+*Published: 2026-11-08*
 
-<font color="gray">Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si, Rui Ni, Qiang Wang, Shulong Jiang, Yintianrun Zhang, Feixiang Ruan, Kewei Zhang, Ye Huang, Shukai Gong, Daquan Zhou - [arXiv]</font>
+<font color="gray">InfraRSI Team, Yuchuan Tian, Haocheng Mei, Ye Yuan, Chao Xu, Boxun Li, Guohao Dai, Kai Han, Allen Chen, Yunhe Wang, Yu Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-250-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-[**Video-Coder: Reinforcing Agentic Coding for Video Generation**](https://huggingface.co/papers/2611.09894) （**New**）
-
-*Published: 2026-11-06*
-
-<font color="gray">Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen, Yiyang Zhou, Huaxiu Yao, Yong Jae Lee, Radu Timofte, Yuzhang Shang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/CYWang735/Video-Coder)
+[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/TokenRhythm/InfraRSI)
 
 ---
 
 
-[**PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?**](https://huggingface.co/papers/2611.08175) （**New**）
+[**JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation**](https://huggingface.co/papers/2611.10690) （**New**）
 
-*Published: 2026-11-05*
+*Published: 2026-11-07*
 
-<font color="gray">Yue Zhang, Jilei Sun, Liqiang Jing, Yijie Wei, Ruohan Yang - [arXiv]</font>
+<font color="gray">Xiangjun Tang, Jianqi Chen, Peter Wonka - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/chip-ai-agent/PCBRouteAgent)
-
----
-
-
-[**TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing**](https://huggingface.co/papers/2611.06741) （**New**）
-
-*Published: 2026-11-04*
-
-<font color="gray">Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Lyricccco/tailsteer)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/yuyujunjun/JoVox)
 
 ---
 
 
-[**Venus-DefakerOne2: A Vision-Forensics Foundation Model with Broader Coverage**](https://huggingface.co/papers/2610.37918) （**New**）
+[**Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena**](https://huggingface.co/papers/2610.00854) （**New**）
 
-*Published: 2026-10-27*
+*Published: 2026-10-23*
 
-<font color="gray">Chenfan Qu, Yachao Liang, Mingqi Fang, Jiangwei Xie, Zhenming Wang, Baoyue Zhang, Changjiang Jiang, Zheng Chang, Fanli Jin, Xuekang Zhu, Kaiwen Feng, Junchi Li, Weihong Zhang, Haoyue Wang, Chenfeng Zh - [arXiv]</font>
+<font color="gray">Haojian Huang, Pukun Zhao, Zexi Li, Yehang Zhang, Yangkai Wei, Wenqian Li, Han Yang, Kaiwen Zhou, Ying-Cong Chen, Yinchuan Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-116-blue)](https://github.com/inclusionAI/DefakerOne2)
+[![](https://img.shields.io/badge/GitHub%20Stars-118-blue)](https://github.com/embodied-agent-arena/embodied-agent-arena) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**](https://huggingface.co/papers/2610.40799) （**New**）
+
+*Published: 2026-10-29*
+
+<font color="gray">Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu, Jiaxu Wang, Xiangyu Yue - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/waltstephen/CaPtain)
+
+---
+
+
+[**ReLift: Dense 3D Tracking as Lifted Trajectory Repair**](https://huggingface.co/papers/2610.42136) （**New**）
+
+*Published: 2026-10-30*
+
+<font color="gray">Assaf Singer, Maroun Khriesh, Noam Rotstein, Yoni Kasten, Or Litany - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/ReLift3D/ReLift)
 
 ---
 
