@@ -11,26 +11,85 @@ Complete history news
 
 
 
-### 2026-11-15
+### 2026-11-16
 
-**[InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure](https://huggingface.co/papers/2611.11558)** NEW
+**[WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](https://huggingface.co/papers/2611.12527)** NEW
 
-*Published: 2026-11-08*
+*Published: 2026-11-09*
 
-*InfraRSI Team, Yuchuan Tian, Haocheng Mei, Ye Yuan, Chao Xu, Boxun Li, Guohao Dai, Kai Han, Allen Chen, Yunhe Wang, Yu Wang*
+*Sang-Hoon Lee, Ha-Yeong Choi*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/TokenRhythm/InfraRSI)
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/sh-lee-prml/WaveGen)
 
 ---
 
 
-**[JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation](https://huggingface.co/papers/2611.10690)** NEW
+**[WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](https://huggingface.co/papers/2610.38352)** NEW
 
-*Published: 2026-11-07*
+*Published: 2026-10-28*
 
-*Xiangjun Tang, Jianqi Chen, Peter Wonka*
+*Chenyu Mu, Wenming Weng, Qinrui Wang, Xingsong Ye, Hao Yu, Jun He, Chong Sun, Chen Li, Jing Lyu, Erkun Yang, Cheng Deng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/yuyujunjun/JoVox)
+[![](https://img.shields.io/badge/GitHub%20Stars-90-blue)](https://github.com/Tencent/WeVisCut)
+
+---
+
+
+**[Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677)** NEW
+
+*Published: 2026-10-21*
+
+*Meng Luo, Zechen Bai, Shanqing Xu, Yanlin Li, Kaixin Li, Mengchen Qian, Weifeng Lu, Ran Zhang, Yingtian Zou, Ziyang Luo, Wei Chen, Hongzhan Lin*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/Physical2RSI/Awesome-Physical2RSI)
+
+---
+
+
+**[RynnUnify: Towards Unified Embodied Brain](https://huggingface.co/papers/2610.32965)** NEW
+
+*Published: 2026-10-23*
+
+*Minghao Zhu, Bohan Hou, Kun Xiang, Zixuan Wang, Yinzhou Tang, Yifei Yang, Zhikai Wang, Tianyi Zhang, Kehan Li, Haoyu Zhao, Siteng Huang, Leigang Qu, Sicong Leng, Dongchi Huang, Mingxiu Chen, Shijian Lu, Yue Wang, Xiaodan Liang, Zhenyu Zeng, Deli Zhao, Chengju Liu, Jianfei Yang, Xin Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/alibaba-damo-academy/RynnUnify)
+
+---
+
+
+**[Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845)** NEW
+
+*Published: 2026-10-26*
+
+*Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang, Junhao Shen, Zirong Chen, Zhiyuan Yao, Yifu Guo, Yuquan Lu, Jinyang Huang, Zhengxi Lu, Siyi Liu, Ziyu Zheng, Yongqi Zhang, Difan Zou, Weiwen Liu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/EnjunDu/awesome-working-agent)
+
+---
+
+
+
+
+### 2026-11-15
+
+**[ReLift: Dense 3D Tracking as Lifted Trajectory Repair](https://huggingface.co/papers/2610.42136)** NEW
+
+*Published: 2026-10-30*
+
+*Assaf Singer, Maroun Khriesh, Noam Rotstein, Yoni Kasten, Or Litany*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/ReLift3D/ReLift)
+
+---
+
+
+**[CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://huggingface.co/papers/2610.40799)** NEW
+
+*Published: 2026-10-29*
+
+*Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu, Jiaxu Wang, Xiangyu Yue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-101-blue)](https://github.com/waltstephen/CaPtain)
 
 ---
 
@@ -46,24 +105,24 @@ Complete history news
 ---
 
 
-**[CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://huggingface.co/papers/2610.40799)** NEW
+**[JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation](https://huggingface.co/papers/2611.10690)** NEW
 
-*Published: 2026-10-29*
+*Published: 2026-11-07*
 
-*Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu, Jiaxu Wang, Xiangyu Yue*
+*Xiangjun Tang, Jianqi Chen, Peter Wonka*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/waltstephen/CaPtain)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/yuyujunjun/JoVox)
 
 ---
 
 
-**[ReLift: Dense 3D Tracking as Lifted Trajectory Repair](https://huggingface.co/papers/2610.42136)** NEW
+**[InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure](https://huggingface.co/papers/2611.11558)** NEW
 
-*Published: 2026-10-30*
+*Published: 2026-11-08*
 
-*Assaf Singer, Maroun Khriesh, Noam Rotstein, Yoni Kasten, Or Litany*
+*InfraRSI Team, Yuchuan Tian, Haocheng Mei, Ye Yuan, Chao Xu, Boxun Li, Guohao Dai, Kai Han, Allen Chen, Yunhe Wang, Yu Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/ReLift3D/ReLift)
+[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/TokenRhythm/InfraRSI)
 
 ---
 
@@ -137,7 +196,7 @@ Complete history news
 
 *Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
+[![](https://img.shields.io/badge/GitHub%20Stars-102-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
 
 ---
 
@@ -148,7 +207,7 @@ Complete history news
 
 *Dar-Yen Chen, Yi-Zhe Song*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/ChenDarYen/NitroFusion2)
+[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/ChenDarYen/NitroFusion2)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/LAW1223/VidDub)
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/LAW1223/VidDub)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/ArcheOne-AI/RoboScript)
+[![](https://img.shields.io/badge/GitHub%20Stars-272-blue)](https://github.com/ArcheOne-AI/RoboScript)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *Alex Shtoff*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/alexshtf/torchcurves)
+[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/alexshtf/torchcurves)
 
 ---
 
@@ -196,7 +255,7 @@ Complete history news
 
 *Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/huawei-csl/MACaQ)
+[![](https://img.shields.io/badge/GitHub%20Stars-294-blue)](https://github.com/huawei-csl/MACaQ)
 
 ---
 
@@ -229,7 +288,7 @@ Complete history news
 
 *Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-262-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+[![](https://img.shields.io/badge/GitHub%20Stars-277-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
 
 ---
 
@@ -240,7 +299,7 @@ Complete history news
 
 *Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
+[![](https://img.shields.io/badge/GitHub%20Stars-524-blue)](https://github.com/shengshu-ai/Vidu-S)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-41,638-blue)](https://github.com/facebookresearch/faiss)
-
----
-
-
-
-
-### 2026-11-10
-
-**[TaoMate-FVSR:Audio-Guided Facial Video Restoration](https://huggingface.co/papers/2611.03393)** NEW
-
-*Published: 2026-11-02*
-
-*Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
-
----
-
-
-**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)** NEW
-
-*Published: 2026-11-05*
-
-*Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu, Xiaowei Zhou, Hujun Bao, Tengfei Wang, Chunchao Guo, Sida Peng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-209-blue)](https://github.com/zju3dv/SplatAnything)
-
----
-
-
-**[AgentBaton: Efficient Model Collaboration in Agentic Tasks](https://huggingface.co/papers/2610.35959)** NEW
-
-*Published: 2026-10-25*
-
-*Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, Hao Zhang, Pavlo Molchanov*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,714-blue)](https://github.com/kyegomez/awesome-multi-agent-papers)
-
----
-
-
-**[Beneath the Surface: What We Overlook When We Talk About Agent Evolution](https://huggingface.co/papers/2611.07624)** NEW
-
-*Published: 2026-11-05*
-
-*Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang, Jun Bai, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Qi Liu, Zilong Zheng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-363-blue)](https://github.com/simple-agent-lab/RSIHub)
-
----
-
-
-**[Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](https://huggingface.co/papers/2611.06043)** NEW
-
-*Published: 2026-11-04*
-
-*Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng, Yitao Duan*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-889-blue)](https://github.com/netease-youdao/Confucius4-R2T2)
 
 ---
 
