@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-11-16
+### 2026-11-17
 
-**[WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](https://huggingface.co/papers/2611.12527)** NEW
+**[MIRIX-2.0: Multi-Agent Memory System](https://huggingface.co/papers/2611.12068)** NEW
 
 *Published: 2026-11-09*
 
-*Sang-Hoon Lee, Ha-Yeong Choi*
+*Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia, Yu Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/sh-lee-prml/WaveGen)
-
----
-
-
-**[WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](https://huggingface.co/papers/2610.38352)** NEW
-
-*Published: 2026-10-28*
-
-*Chenyu Mu, Wenming Weng, Qinrui Wang, Xingsong Ye, Hao Yu, Jun He, Chong Sun, Chen Li, Jing Lyu, Erkun Yang, Cheng Deng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-90-blue)](https://github.com/Tencent/WeVisCut)
+[![](https://img.shields.io/badge/GitHub%20Stars-3,481-blue)](https://github.com/Mirix-AI/MIRIX)
 
 ---
 
 
-**[Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677)** NEW
+**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** NEW
 
-*Published: 2026-10-21*
+*Published: 2026-11-13*
 
-*Meng Luo, Zechen Bai, Shanqing Xu, Yanlin Li, Kaixin Li, Mengchen Qian, Weifeng Lu, Ran Zhang, Yingtian Zou, Ziyang Luo, Wei Chen, Hongzhan Lin*
+*Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Hangtian Jia, Shuai Yuan, Lvdi Wang, Xiao Liu, Chao Ma, Yuting Zou, Yinhe Zheng, Xiaobo Xia, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/Physical2RSI/Awesome-Physical2RSI)
+[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/RainBowLuoCS/Gamer)
+
+---
+
+
+**[Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://huggingface.co/papers/2611.12304)** NEW
+
+*Published: 2026-11-09*
+
+*Hao Kang, Weili Xu, Ziyang Li, Zheng Du, Hanchen Li, Tian Xia, Song Bian, Tushar Krishna, Huizi Mao, Ion Stoica, Song Han*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/mit-han-lab/EvolvingInfra)
+
+---
+
+
+**[L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614)** NEW
+
+*Published: 2026-10-29*
+
+*Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han, Yoonjin Yoon, Seungryong Kim*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/cvlab-kaist/L3G-World)
+
+---
+
+
+**[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077)** NEW
+
+*Published: 2026-10-26*
+
+*Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/InfRec-Cardinal/The-Trinity)
+
+---
+
+
+
+
+### 2026-11-16
+
+**[Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845)** NEW
+
+*Published: 2026-10-26*
+
+*Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang, Junhao Shen, Zirong Chen, Zhiyuan Yao, Yifu Guo, Yuquan Lu, Jinyang Huang, Zhengxi Lu, Siyi Liu, Ziyu Zheng, Yongqi Zhang, Difan Zou, Weiwen Liu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/EnjunDu/awesome-working-agent)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845)** NEW
+**[Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677)** NEW
 
-*Published: 2026-10-26*
+*Published: 2026-10-21*
 
-*Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang, Junhao Shen, Zirong Chen, Zhiyuan Yao, Yifu Guo, Yuquan Lu, Jinyang Huang, Zhengxi Lu, Siyi Liu, Ziyu Zheng, Yongqi Zhang, Difan Zou, Weiwen Liu*
+*Meng Luo, Zechen Bai, Shanqing Xu, Yanlin Li, Kaixin Li, Mengchen Qian, Weifeng Lu, Ran Zhang, Yingtian Zou, Ziyang Luo, Wei Chen, Hongzhan Lin*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/EnjunDu/awesome-working-agent)
+[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/Physical2RSI/Awesome-Physical2RSI)
+
+---
+
+
+**[WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](https://huggingface.co/papers/2610.38352)** NEW
+
+*Published: 2026-10-28*
+
+*Chenyu Mu, Wenming Weng, Qinrui Wang, Xingsong Ye, Hao Yu, Jun He, Chong Sun, Chen Li, Jing Lyu, Erkun Yang, Cheng Deng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-90-blue)](https://github.com/Tencent/WeVisCut)
+
+---
+
+
+**[WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](https://huggingface.co/papers/2611.12527)** NEW
+
+*Published: 2026-11-09*
+
+*Sang-Hoon Lee, Ha-Yeong Choi*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/sh-lee-prml/WaveGen)
 
 ---
 
@@ -148,7 +207,7 @@ Complete history news
 
 *Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Lyricccco/tailsteer)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/Lyricccco/tailsteer)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Yue Zhang, Jilei Sun, Liqiang Jing, Yijie Wei, Ruohan Yang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/chip-ai-agent/PCBRouteAgent)
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/chip-ai-agent/PCBRouteAgent)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen, Yiyang Zhou, Huaxiu Yao, Yong Jae Lee, Radu Timofte, Yuzhang Shang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/CYWang735/Video-Coder)
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/CYWang735/Video-Coder)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-524-blue)](https://github.com/shengshu-ai/Vidu-S)
-
----
-
-
-
-
-### 2026-11-11
-
-**[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806)** NEW
-
-*Published: 2026-11-09*
-
-*Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xing Zhu, Yujun Shen, Nan Xue, Wei Ning*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-510-blue)](https://github.com/Robbyant/lingbot-touch)
-
----
-
-
-**[PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://huggingface.co/papers/2611.08969)** NEW
-
-*Published: 2026-11-06*
-
-*Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-296-blue)](https://github.com/ForeverBlue816/PhysioWave)
-
----
-
-
-**[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771)** NEW
-
-*Published: 2026-11-07*
-
-*Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhua Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-352-blue)](https://github.com/OpenEnvision/WorldFoundry)
-
----
-
-
-**[InstantHMR : Real-Time Human Mesh Recovery on Your Phone](https://huggingface.co/papers/2611.09195)** NEW
-
-*Published: 2026-11-06*
-
-*Mohamed Adjel, Kahina Chalabi, Vincent Bonnet*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-400-blue)](https://github.com/Naturalpad-studio/InstantHMR)
-
----
-
-
-**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)** NEW
-
-*Published: 2026-11-06*
-
-*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-41,638-blue)](https://github.com/facebookresearch/faiss)
 
 ---
 
