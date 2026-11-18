@@ -11,26 +11,85 @@ Complete history news
 
 
 
-### 2026-11-17
+### 2026-11-18
 
-**[MIRIX-2.0: Multi-Agent Memory System](https://huggingface.co/papers/2611.12068)** NEW
+**[Duo: A Reciprocal World Model for Full-Duplex Interaction](https://huggingface.co/papers/2611.15131)** NEW
 
-*Published: 2026-11-09*
+*Published: 2026-11-11*
 
-*Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia, Yu Wang*
+*Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-3,481-blue)](https://github.com/Mirix-AI/MIRIX)
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/inclusionAI/Duo)
 
 ---
 
 
-**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** NEW
+**[VoxMel TTS Technical Report](https://huggingface.co/papers/2611.20254)** NEW
 
-*Published: 2026-11-13*
+*Published: 2026-11-15*
 
-*Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Hangtian Jia, Shuai Yuan, Lvdi Wang, Xiao Liu, Chao Ma, Yuting Zou, Yinhe Zheng, Xiaobo Xia, etc.*
+*Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu, Wangjin Zhou, Lin Li, Qingyang Hong, Xie Chen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/RainBowLuoCS/Gamer)
+[![](https://img.shields.io/badge/GitHub%20Stars-97-blue)](https://github.com/VoxDance-Lab/VoxMel)
+
+---
+
+
+**[Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** NEW
+
+*Published: 2026-11-11*
+
+*Arpit Jadon, Valentinos Pariza, Jona Ruthardt, Ryousuke Yamada, A. Sophia Koepke, Andrei Bursuc, Yuki M. Asano*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
+
+---
+
+
+**[TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](https://huggingface.co/papers/2611.17331)** NEW
+
+*Published: 2026-11-12*
+
+*Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen, Yu-Chiang Frank Wang, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu, Cheng Sun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/NVlabs/DVSM)
+
+---
+
+
+**[MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://huggingface.co/papers/2611.21339)** NEW
+
+*Published: 2026-11-16*
+
+*Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
+
+---
+
+
+
+
+### 2026-11-17
+
+**[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077)** NEW
+
+*Published: 2026-10-26*
+
+*Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/InfRec-Cardinal/The-Trinity)
+
+---
+
+
+**[L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614)** NEW
+
+*Published: 2026-10-29*
+
+*Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han, Yoonjin Yoon, Seungryong Kim*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-80-blue)](https://github.com/cvlab-kaist/L3G-World)
 
 ---
 
@@ -46,24 +105,24 @@ Complete history news
 ---
 
 
-**[L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614)** NEW
+**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** NEW
 
-*Published: 2026-10-29*
+*Published: 2026-11-13*
 
-*Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han, Yoonjin Yoon, Seungryong Kim*
+*Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Hangtian Jia, Shuai Yuan, Lvdi Wang, Xiao Liu, Chao Ma, Yuting Zou, Yinhe Zheng, Xiaobo Xia, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/cvlab-kaist/L3G-World)
+[![](https://img.shields.io/badge/GitHub%20Stars-225-blue)](https://github.com/RainBowLuoCS/Gamer)
 
 ---
 
 
-**[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077)** NEW
+**[MIRIX-2.0: Multi-Agent Memory System](https://huggingface.co/papers/2611.12068)** NEW
 
-*Published: 2026-10-26*
+*Published: 2026-11-09*
 
-*Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You*
+*Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia, Yu Wang*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/InfRec-Cardinal/The-Trinity)
+[![](https://img.shields.io/badge/GitHub%20Stars-3,485-blue)](https://github.com/Mirix-AI/MIRIX)
 
 ---
 
@@ -89,7 +148,7 @@ Complete history news
 
 *Minghao Zhu, Bohan Hou, Kun Xiang, Zixuan Wang, Yinzhou Tang, Yifei Yang, Zhikai Wang, Tianyi Zhang, Kehan Li, Haoyu Zhao, Siteng Huang, Leigang Qu, Sicong Leng, Dongchi Huang, Mingxiu Chen, Shijian Lu, Yue Wang, Xiaodan Liang, Zhenyu Zeng, Deli Zhao, Chengju Liu, Jianfei Yang, Xin Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/alibaba-damo-academy/RynnUnify)
+[![](https://img.shields.io/badge/GitHub%20Stars-77-blue)](https://github.com/alibaba-damo-academy/RynnUnify)
 
 ---
 
@@ -111,7 +170,7 @@ Complete history news
 
 *Chenyu Mu, Wenming Weng, Qinrui Wang, Xingsong Ye, Hao Yu, Jun He, Chong Sun, Chen Li, Jing Lyu, Erkun Yang, Cheng Deng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-90-blue)](https://github.com/Tencent/WeVisCut)
+[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/Tencent/WeVisCut)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Xiangjun Tang, Jianqi Chen, Peter Wonka*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/yuyujunjun/JoVox)
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/yuyujunjun/JoVox)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *InfraRSI Team, Yuchuan Tian, Haocheng Mei, Ye Yuan, Chao Xu, Boxun Li, Guohao Dai, Kai Han, Allen Chen, Yunhe Wang, Yu Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/TokenRhythm/InfraRSI)
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/TokenRhythm/InfraRSI)
 
 ---
 
@@ -240,7 +299,7 @@ Complete history news
 
 *Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si, Rui Ni, Qiang Wang, Shulong Jiang, Yintianrun Zhang, Feixiang Ruan, Kewei Zhang, Ye Huang, Shukai Gong, Daquan Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-251-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-264-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Alex Shtoff*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/alexshtf/torchcurves)
-
----
-
-
-
-
-### 2026-11-12
-
-**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** NEW
-
-*Published: 2026-11-07*
-
-*Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-294-blue)](https://github.com/huawei-csl/MACaQ)
-
----
-
-
-**[Flide: Accelerating Decision Inference with Exact State Forking](https://huggingface.co/papers/2610.42148)** NEW
-
-*Published: 2026-10-30*
-
-*Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-496-blue)](https://github.com/OmniJev/Flide)
-
----
-
-
-**[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://huggingface.co/papers/2611.05036)** NEW
-
-*Published: 2026-11-03*
-
-*Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-212-blue)](https://github.com/dongguanting/ToolSpace)
-
----
-
-
-**[Embodied First Exam](https://huggingface.co/papers/2611.12177)** NEW
-
-*Published: 2026-11-09*
-
-*Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-277-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
-
----
-
-
-**[Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** NEW
-
-*Published: 2026-11-10*
-
-*Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-524-blue)](https://github.com/shengshu-ai/Vidu-S)
 
 ---
 
