@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-17]**
+### **[2026-11-18]**
 
-[**MIRIX-2.0: Multi-Agent Memory System**](https://huggingface.co/papers/2611.12068) （**New**）
+[**Duo: A Reciprocal World Model for Full-Duplex Interaction**](https://huggingface.co/papers/2611.15131) （**New**）
 
-*Published: 2026-11-09*
+*Published: 2026-11-11*
 
-<font color="gray">Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia, Yu Wang - [arXiv]</font>
+<font color="gray">Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-3,481-blue)](https://github.com/Mirix-AI/MIRIX)
-
----
-
-
-[**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**](https://huggingface.co/papers/2611.18397) （**New**）
-
-*Published: 2026-11-13*
-
-<font color="gray">Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Han - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/RainBowLuoCS/Gamer)
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/inclusionAI/Duo)
 
 ---
 
 
-[**Evolving Infra: Agent-Adaptive LLM Serving at Scale**](https://huggingface.co/papers/2611.12304) （**New**）
+[**VoxMel TTS Technical Report**](https://huggingface.co/papers/2611.20254) （**New**）
 
-*Published: 2026-11-09*
+*Published: 2026-11-15*
 
-<font color="gray">Hao Kang, Weili Xu, Ziyang Li, Zheng Du, Hanchen Li, Tian Xia, Song Bian, Tushar Krishna, Huizi Mao, Ion Stoica, Song Han - [arXiv]</font>
+<font color="gray">Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu, Wangjin Zhou, Lin Li, Qingyang Hong, Xie Chen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/mit-han-lab/EvolvingInfra)
-
----
-
-
-[**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**](https://huggingface.co/papers/2610.40614) （**New**）
-
-*Published: 2026-10-29*
-
-<font color="gray">Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han, Yoonjin Yoon, Seungryong Kim - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/cvlab-kaist/L3G-World)
+[![](https://img.shields.io/badge/GitHub%20Stars-97-blue)](https://github.com/VoxDance-Lab/VoxMel)
 
 ---
 
 
-[**The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents**](https://huggingface.co/papers/2610.36077) （**New**）
+[**Open Vision Banana: A Fully Open Recipe for Generative Visual Perception**](https://huggingface.co/papers/2611.15844) （**New**）
 
-*Published: 2026-10-26*
+*Published: 2026-11-11*
 
-<font color="gray">Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin W - [arXiv]</font>
+<font color="gray">Arpit Jadon, Valentinos Pariza, Jona Ruthardt, Ryousuke Yamada, A. Sophia Koepke, Andrei Bursuc, Yuki M. Asano - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/InfRec-Cardinal/The-Trinity) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
+
+---
+
+
+[**TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models**](https://huggingface.co/papers/2611.17331) （**New**）
+
+*Published: 2026-11-12*
+
+<font color="gray">Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen, Yu-Chiang Frank Wang, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu, Cheng Sun - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/NVlabs/DVSM)
+
+---
+
+
+[**MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos**](https://huggingface.co/papers/2611.21339) （**New**）
+
+*Published: 2026-11-16*
+
+<font color="gray">Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
 
 ---
 
