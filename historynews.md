@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-19
+
+**[$π^4$: A Foundation Model for 4D Scene Geometry and Motion](https://huggingface.co/papers/2611.23144)** NEW
+
+*Published: 2026-11-17*
+
+*Yifan Wang, Weiguang Zhao, Ni Yang, Haoyu Guo, Junting Dong, Weinan Zhang, Chunhua Shen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-192-blue)](https://github.com/yyfz/Pi4)
+
+---
+
+
+**[BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://huggingface.co/papers/2611.09825)** NEW
+
+*Published: 2026-11-06*
+
+*Dayou Du, Woon Yee Ng, Guangming Sheng, Nick Lau, Jianyi Cheng, Luo Mai*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/OpenBitSys/BitDecoding-FP4)
+
+---
+
+
+**[Memory Tax: Dissecting the Net Value of Agent Memory](https://huggingface.co/papers/2610.34073)** NEW
+
+*Published: 2026-10-25*
+
+*Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen, Zhineng Wang, Yuyang Hu, Ke Yang, Yuyu Zhang, Ping Nie, Jiawei Han, ChengXiang Zhai*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/hexuan21/MemoryTax)
+
+---
+
+
+**[WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control](https://huggingface.co/papers/2610.33135)** NEW
+
+*Published: 2026-10-23*
+
+*Lei Cao, Yu Liu, Wenhua Liao, Peng Zhang, Fei Wang, Hao Zhang, Jiajun Le, Daiguo Zhou, Jian Luan, Jiayi Ma*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/PixCtrol/WorldCast)
+
+---
+
+
+**[Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568)** NEW
+
+*Published: 2026-10-24*
+
+*Yihao Hu, Zhihao Wen, Yitong Lin, Siyuan Lu, Pan Wang, Wei Wu, Jiang-Ming Yang, Tao Lin*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-66-blue)](https://github.com/yihaohu0118/Trajectory2Gym)
+
+---
+
+
+
+
 ### 2026-11-18
 
-**[Duo: A Reciprocal World Model for Full-Duplex Interaction](https://huggingface.co/papers/2611.15131)** NEW
+**[MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://huggingface.co/papers/2611.21339)** NEW
 
-*Published: 2026-11-11*
+*Published: 2026-11-16*
 
-*Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan*
+*Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/inclusionAI/Duo)
-
----
-
-
-**[VoxMel TTS Technical Report](https://huggingface.co/papers/2611.20254)** NEW
-
-*Published: 2026-11-15*
-
-*Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu, Wangjin Zhou, Lin Li, Qingyang Hong, Xie Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-97-blue)](https://github.com/VoxDance-Lab/VoxMel)
-
----
-
-
-**[Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** NEW
-
-*Published: 2026-11-11*
-
-*Arpit Jadon, Valentinos Pariza, Jona Ruthardt, Ryousuke Yamada, A. Sophia Koepke, Andrei Bursuc, Yuki M. Asano*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
+[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://huggingface.co/papers/2611.21339)** NEW
+**[Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** NEW
 
-*Published: 2026-11-16*
+*Published: 2026-11-11*
 
-*Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan*
+*Arpit Jadon, Valentinos Pariza, Jona Ruthardt, Ryousuke Yamada, A. Sophia Koepke, Andrei Bursuc, Yuki M. Asano*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
+[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
+
+---
+
+
+**[VoxMel TTS Technical Report](https://huggingface.co/papers/2611.20254)** NEW
+
+*Published: 2026-11-15*
+
+*Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu, Wangjin Zhou, Lin Li, Qingyang Hong, Xie Chen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-106-blue)](https://github.com/VoxDance-Lab/VoxMel)
+
+---
+
+
+**[Duo: A Reciprocal World Model for Full-Duplex Interaction](https://huggingface.co/papers/2611.15131)** NEW
+
+*Published: 2026-11-11*
+
+*Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/inclusionAI/Duo)
 
 ---
 
@@ -78,7 +137,7 @@ Complete history news
 
 *Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/InfRec-Cardinal/The-Trinity)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/InfRec-Cardinal/The-Trinity)
 
 ---
 
@@ -181,7 +240,7 @@ Complete history news
 
 *Sang-Hoon Lee, Ha-Yeong Choi*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/sh-lee-prml/WaveGen)
+[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/sh-lee-prml/WaveGen)
 
 ---
 
@@ -196,7 +255,7 @@ Complete history news
 
 *Assaf Singer, Maroun Khriesh, Noam Rotstein, Yoni Kasten, Or Litany*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/ReLift3D/ReLift)
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/ReLift3D/ReLift)
 
 ---
 
@@ -207,7 +266,7 @@ Complete history news
 
 *Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu, Jiaxu Wang, Xiangyu Yue*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-101-blue)](https://github.com/waltstephen/CaPtain)
+[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/waltstephen/CaPtain)
 
 ---
 
@@ -255,7 +314,7 @@ Complete history news
 
 *Chenfan Qu, Yachao Liang, Mingqi Fang, Jiangwei Xie, Zhenming Wang, Baoyue Zhang, Changjiang Jiang, Zheng Chang, Fanli Jin, Xuekang Zhu, Kaiwen Feng, Junchi Li, Weihong Zhang, Haoyue Wang, Chenfeng Zhang, Yinan Xia, Fangming Cui, Dong Fan, Jingjing Liu, Tianyi Zhang, Luobin Chen, Ji-Zhe Zhou, Sheng Li, Wei Wang, Bin Li, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-147-blue)](https://github.com/inclusionAI/DefakerOne2)
+[![](https://img.shields.io/badge/GitHub%20Stars-181-blue)](https://github.com/inclusionAI/DefakerOne2)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si, Rui Ni, Qiang Wang, Shulong Jiang, Yintianrun Zhang, Feixiang Ruan, Kewei Zhang, Ye Huang, Shukai Gong, Daquan Zhou*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-264-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-
-
-### 2026-11-13
-
-**[The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)** NEW
-
-*Published: 2026-11-07*
-
-*Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-102-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
-
----
-
-
-**[NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://huggingface.co/papers/2611.05648)** NEW
-
-*Published: 2026-11-03*
-
-*Dar-Yen Chen, Yi-Zhe Song*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/ChenDarYen/NitroFusion2)
-
----
-
-
-**[VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing](https://huggingface.co/papers/2611.03404)** NEW
-
-*Published: 2026-11-02*
-
-*Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/LAW1223/VidDub)
-
----
-
-
-**[World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885)** NEW
-
-*Published: 2026-11-09*
-
-*Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-272-blue)](https://github.com/ArcheOne-AI/RoboScript)
-
----
-
-
-**[TorchCurves: Differentiable Parametric Curves](https://huggingface.co/papers/2611.14516)** NEW
-
-*Published: 2026-11-10*
-
-*Alex Shtoff*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/alexshtf/torchcurves)
 
 ---
 
