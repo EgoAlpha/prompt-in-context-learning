@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-20
+
+**[PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation](https://huggingface.co/papers/2611.23236)** NEW
+
+*Published: 2026-08-26*
+
+*Shengxiang Lin, Jiajie Su, Pengyang Zhou, Xiang Chen, Xiaolin Zheng, Feng Tian, Chaochao Chen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-156-blue)](https://github.com/Shengxiang-Lin/PGPO)
+
+---
+
+
+**[Code World Model 2.0: Towards Infinite Controllable Video Generation](https://huggingface.co/papers/2611.22925)** NEW
+
+*Published: 2026-11-18*
+
+*Ruoyu Wang, Hao Zhong, Yanming Yang, Jiahao Tian, Lin Liu, Biao Gong, Guoshan Lu, Yiding Tian, Chunhua Shen, Zhenzhong Lan, Chi Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/inclusionAI/CodeWorldModel)
+
+---
+
+
+**[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://huggingface.co/papers/2611.24651)** NEW
+
+*Published: 2026-11-18*
+
+*Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, Xinji Mai, Haowen Gao, Zhuo Zhang, Xuchen Pan, Mengsu Ding, Jiaji Deng, Yuexiang Xie, Xiaoming Qin, Weirui Kuang, Zhaoyang Liu, Yaliang Li, Bolin Ding, Jingren Zhou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/agentscope-ai/Piccolo)
+
+---
+
+
+**[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://huggingface.co/papers/2611.08483)** NEW
+
+*Published: 2026-11-05*
+
+*Qile Jiang, George Em Karniadakis*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/Qile-J/SwarmEvolve)
+
+---
+
+
+**[Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749)** NEW
+
+*Published: 2026-10-23*
+
+*Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang, Xiaolin Hu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/JusperLee/Falcon)
+
+---
+
+
+
+
 ### 2026-11-19
 
-**[$π^4$: A Foundation Model for 4D Scene Geometry and Motion](https://huggingface.co/papers/2611.23144)** NEW
+**[Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568)** NEW
 
-*Published: 2026-11-17*
+*Published: 2026-10-24*
 
-*Yifan Wang, Weiguang Zhao, Ni Yang, Haoyu Guo, Junting Dong, Weinan Zhang, Chunhua Shen*
+*Yihao Hu, Zhihao Wen, Yitong Lin, Siyuan Lu, Pan Wang, Wei Wu, Jiang-Ming Yang, Tao Lin*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-192-blue)](https://github.com/yyfz/Pi4)
-
----
-
-
-**[BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://huggingface.co/papers/2611.09825)** NEW
-
-*Published: 2026-11-06*
-
-*Dayou Du, Woon Yee Ng, Guangming Sheng, Nick Lau, Jianyi Cheng, Luo Mai*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/OpenBitSys/BitDecoding-FP4)
-
----
-
-
-**[Memory Tax: Dissecting the Net Value of Agent Memory](https://huggingface.co/papers/2610.34073)** NEW
-
-*Published: 2026-10-25*
-
-*Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen, Zhineng Wang, Yuyang Hu, Ke Yang, Yuyu Zhang, Ping Nie, Jiawei Han, ChengXiang Zhai*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/hexuan21/MemoryTax)
+[![](https://img.shields.io/badge/GitHub%20Stars-66-blue)](https://github.com/yihaohu0118/Trajectory2Gym)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568)** NEW
+**[Memory Tax: Dissecting the Net Value of Agent Memory](https://huggingface.co/papers/2610.34073)** NEW
 
-*Published: 2026-10-24*
+*Published: 2026-10-25*
 
-*Yihao Hu, Zhihao Wen, Yitong Lin, Siyuan Lu, Pan Wang, Wei Wu, Jiang-Ming Yang, Tao Lin*
+*Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen, Zhineng Wang, Yuyang Hu, Ke Yang, Yuyu Zhang, Ping Nie, Jiawei Han, ChengXiang Zhai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-66-blue)](https://github.com/yihaohu0118/Trajectory2Gym)
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/hexuan21/MemoryTax)
+
+---
+
+
+**[BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://huggingface.co/papers/2611.09825)** NEW
+
+*Published: 2026-11-06*
+
+*Dayou Du, Woon Yee Ng, Guangming Sheng, Nick Lau, Jianyi Cheng, Luo Mai*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/OpenBitSys/BitDecoding-FP4)
+
+---
+
+
+**[$π^4$: A Foundation Model for 4D Scene Geometry and Motion](https://huggingface.co/papers/2611.23144)** NEW
+
+*Published: 2026-11-17*
+
+*Yifan Wang, Weiguang Zhao, Ni Yang, Haoyu Guo, Junting Dong, Weinan Zhang, Chunhua Shen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-217-blue)](https://github.com/yyfz/Pi4)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Hao Kang, Weili Xu, Ziyang Li, Zheng Du, Hanchen Li, Tian Xia, Song Bian, Tushar Krishna, Huizi Mao, Ion Stoica, Song Han*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/mit-han-lab/EvolvingInfra)
+[![](https://img.shields.io/badge/GitHub%20Stars-162-blue)](https://github.com/mit-han-lab/EvolvingInfra)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *InfraRSI Team, Yuchuan Tian, Haocheng Mei, Ye Yuan, Chao Xu, Boxun Li, Guohao Dai, Kai Han, Allen Chen, Yunhe Wang, Yu Wang*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/TokenRhythm/InfraRSI)
-
----
-
-
-
-
-### 2026-11-14
-
-**[Venus-DefakerOne2: A Vision-Forensics Foundation Model with Broader Coverage](https://huggingface.co/papers/2610.37918)** NEW
-
-*Published: 2026-10-27*
-
-*Chenfan Qu, Yachao Liang, Mingqi Fang, Jiangwei Xie, Zhenming Wang, Baoyue Zhang, Changjiang Jiang, Zheng Chang, Fanli Jin, Xuekang Zhu, Kaiwen Feng, Junchi Li, Weihong Zhang, Haoyue Wang, Chenfeng Zhang, Yinan Xia, Fangming Cui, Dong Fan, Jingjing Liu, Tianyi Zhang, Luobin Chen, Ji-Zhe Zhou, Sheng Li, Wei Wang, Bin Li, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-181-blue)](https://github.com/inclusionAI/DefakerOne2)
-
----
-
-
-**[TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://huggingface.co/papers/2611.06741)** NEW
-
-*Published: 2026-11-04*
-
-*Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/Lyricccco/tailsteer)
-
----
-
-
-**[PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](https://huggingface.co/papers/2611.08175)** NEW
-
-*Published: 2026-11-05*
-
-*Yue Zhang, Jilei Sun, Liqiang Jing, Yijie Wei, Ruohan Yang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/chip-ai-agent/PCBRouteAgent)
-
----
-
-
-**[Video-Coder: Reinforcing Agentic Coding for Video Generation](https://huggingface.co/papers/2611.09894)** NEW
-
-*Published: 2026-11-06*
-
-*Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen, Yiyang Zhou, Huaxiu Yao, Yong Jae Lee, Radu Timofte, Yuzhang Shang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/CYWang735/Video-Coder)
-
----
-
-
-**[Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://huggingface.co/papers/2611.08318)** NEW
-
-*Published: 2026-11-05*
-
-*Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si, Rui Ni, Qiang Wang, Shulong Jiang, Yintianrun Zhang, Feixiang Ruan, Kewei Zhang, Ye Huang, Shukai Gong, Daquan Zhou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-264-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
