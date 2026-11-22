@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-21]**
+### **[2026-11-22]**
 
-[**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**](https://huggingface.co/papers/2611.26603) （**New**）
+[**Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model**](https://huggingface.co/papers/2611.08977) （**New**）
+
+*Published: 2026-11-06*
+
+<font color="gray">William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**LynnReal-Hand: Unlocking World Interaction with Hand Control**](https://huggingface.co/papers/2611.21479) （**New**）
+
+*Published: 2026-11-16*
+
+<font color="gray">Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
+
+---
+
+
+[**InclusionMed: Benchmarking AI for Inclusive Healthcare**](https://huggingface.co/papers/2611.21218) （**New**）
+
+*Published: 2026-11-16*
+
+<font color="gray">InclusionMed Collaboration - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
+
+---
+
+
+[**FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning**](https://huggingface.co/papers/2611.08240) （**New**）
+
+*Published: 2026-11-05*
+
+<font color="gray">Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
+
+---
+
+
+[**WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding**](https://huggingface.co/papers/2611.26409) （**New**）
 
 *Published: 2026-11-19*
 
-<font color="gray">Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun - [arXiv]</font>
+<font color="gray">Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/apple-aiml-research/ml-depth-pro-2)
-
----
-
-
-[**Jeveration: System One Models Now Generate**](https://huggingface.co/papers/2611.24738) （**New**）
-
-*Published: 2026-11-18*
-
-<font color="gray">Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/Carol-lyh/Jeveration)
-
----
-
-
-[**Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement**](https://huggingface.co/papers/2610.40191) （**New**）
-
-*Published: 2026-10-29*
-
-<font color="gray">Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Ale - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
-
----
-
-
-[**Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents**](https://huggingface.co/papers/2610.41432) （**New**）
-
-*Published: 2026-10-30*
-
-<font color="gray">Haoqing Wang, Xiaoyi Zhang, Sicheng Fan, Zhexin Zhang, Xinjie Zhang, Jiahao Li, Bin Li, Yan Lu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/microsoft/Hybrid-Computer-Use)
-
----
-
-
-[**ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence**](https://huggingface.co/papers/2610.34283) （**New**）
-
-*Published: 2026-10-25*
-
-<font color="gray">Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen, Hang Wang, Yiwen Zhao, Deyuan Liu, Yutong Li, Mingda Wan, Yuchen Mao, Tao Lin - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/yihaohu0118/ChronoReplay) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tencent/WeMM-Video)
 
 ---
 
