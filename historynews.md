@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-11-21
+### 2026-11-22
 
-**[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://huggingface.co/papers/2611.26603)** NEW
+**[Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** NEW
+
+*Published: 2026-11-06*
+
+*William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[LynnReal-Hand: Unlocking World Interaction with Hand Control](https://huggingface.co/papers/2611.21479)** NEW
+
+*Published: 2026-11-16*
+
+*Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
+
+---
+
+
+**[InclusionMed: Benchmarking AI for Inclusive Healthcare](https://huggingface.co/papers/2611.21218)** NEW
+
+*Published: 2026-11-16*
+
+*InclusionMed Collaboration*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
+
+---
+
+
+**[FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning](https://huggingface.co/papers/2611.08240)** NEW
+
+*Published: 2026-11-05*
+
+*Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
+
+---
+
+
+**[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://huggingface.co/papers/2611.26409)** NEW
 
 *Published: 2026-11-19*
 
-*Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun*
+*Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/apple-aiml-research/ml-depth-pro-2)
-
----
-
-
-**[Jeveration: System One Models Now Generate](https://huggingface.co/papers/2611.24738)** NEW
-
-*Published: 2026-11-18*
-
-*Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/Carol-lyh/Jeveration)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tencent/WeMM-Video)
 
 ---
 
 
-**[Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement](https://huggingface.co/papers/2610.40191)** NEW
 
-*Published: 2026-10-29*
 
-*Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu*
+### 2026-11-21
 
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
+**[ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283)** NEW
+
+*Published: 2026-10-25*
+
+*Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen, Hang Wang, Yiwen Zhao, Deyuan Liu, Yutong Li, Mingda Wan, Yuchen Mao, Tao Lin*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/yihaohu0118/ChronoReplay)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283)** NEW
+**[Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement](https://huggingface.co/papers/2610.40191)** NEW
 
-*Published: 2026-10-25*
+*Published: 2026-10-29*
 
-*Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen, Hang Wang, Yiwen Zhao, Deyuan Liu, Yutong Li, Mingda Wan, Yuchen Mao, Tao Lin*
+*Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/yihaohu0118/ChronoReplay)
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
+
+---
+
+
+**[Jeveration: System One Models Now Generate](https://huggingface.co/papers/2611.24738)** NEW
+
+*Published: 2026-11-18*
+
+*Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/Carol-lyh/Jeveration)
+
+---
+
+
+**[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://huggingface.co/papers/2611.26603)** NEW
+
+*Published: 2026-11-19*
+
+*Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-185-blue)](https://github.com/apple-aiml-research/ml-depth-pro-2)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Dayou Du, Woon Yee Ng, Guangming Sheng, Nick Lau, Jianyi Cheng, Luo Mai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/OpenBitSys/BitDecoding-FP4)
+[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/OpenBitSys/BitDecoding-FP4)
 
 ---
 
@@ -196,7 +255,7 @@ Complete history news
 
 *Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
+[![](https://img.shields.io/badge/GitHub%20Stars-197-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
 
 ---
 
@@ -207,7 +266,7 @@ Complete history news
 
 *Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen, Yu-Chiang Frank Wang, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu, Cheng Sun*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/NVlabs/DVSM)
+[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/NVlabs/DVSM)
 
 ---
 
@@ -218,7 +277,7 @@ Complete history news
 
 *Arpit Jadon, Valentinos Pariza, Jona Ruthardt, Ryousuke Yamada, A. Sophia Koepke, Andrei Bursuc, Yuki M. Asano*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
+[![](https://img.shields.io/badge/GitHub%20Stars-119-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
 
 ---
 
@@ -229,7 +288,7 @@ Complete history news
 
 *Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu, Wangjin Zhou, Lin Li, Qingyang Hong, Xie Chen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-106-blue)](https://github.com/VoxDance-Lab/VoxMel)
+[![](https://img.shields.io/badge/GitHub%20Stars-204-blue)](https://github.com/VoxDance-Lab/VoxMel)
 
 ---
 
@@ -240,7 +299,7 @@ Complete history news
 
 *Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/inclusionAI/Duo)
+[![](https://img.shields.io/badge/GitHub%20Stars-161-blue)](https://github.com/inclusionAI/Duo)
 
 ---
 
@@ -266,7 +325,7 @@ Complete history news
 
 *Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han, Yoonjin Yoon, Seungryong Kim*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-80-blue)](https://github.com/cvlab-kaist/L3G-World)
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/cvlab-kaist/L3G-World)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia, Yu Wang*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-3,508-blue)](https://github.com/Mirix-AI/MIRIX)
-
----
-
-
-
-
-### 2026-11-16
-
-**[Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845)** NEW
-
-*Published: 2026-10-26*
-
-*Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang, Junhao Shen, Zirong Chen, Zhiyuan Yao, Yifu Guo, Yuquan Lu, Jinyang Huang, Zhengxi Lu, Siyi Liu, Ziyu Zheng, Yongqi Zhang, Difan Zou, Weiwen Liu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-78-blue)](https://github.com/EnjunDu/awesome-working-agent)
-
----
-
-
-**[RynnUnify: Towards Unified Embodied Brain](https://huggingface.co/papers/2610.32965)** NEW
-
-*Published: 2026-10-23*
-
-*Minghao Zhu, Bohan Hou, Kun Xiang, Zixuan Wang, Yinzhou Tang, Yifei Yang, Zhikai Wang, Tianyi Zhang, Kehan Li, Haoyu Zhao, Siteng Huang, Leigang Qu, Sicong Leng, Dongchi Huang, Mingxiu Chen, Shijian Lu, Yue Wang, Xiaodan Liang, Zhenyu Zeng, Deli Zhao, Chengju Liu, Jianfei Yang, Xin Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-77-blue)](https://github.com/alibaba-damo-academy/RynnUnify)
-
----
-
-
-**[Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677)** NEW
-
-*Published: 2026-10-21*
-
-*Meng Luo, Zechen Bai, Shanqing Xu, Yanlin Li, Kaixin Li, Mengchen Qian, Weifeng Lu, Ran Zhang, Yingtian Zou, Ziyang Luo, Wei Chen, Hongzhan Lin*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/Physical2RSI/Awesome-Physical2RSI)
-
----
-
-
-**[WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](https://huggingface.co/papers/2610.38352)** NEW
-
-*Published: 2026-10-28*
-
-*Chenyu Mu, Wenming Weng, Qinrui Wang, Xingsong Ye, Hao Yu, Jun He, Chong Sun, Chen Li, Jing Lyu, Erkun Yang, Cheng Deng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/Tencent/WeVisCut)
-
----
-
-
-**[WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](https://huggingface.co/papers/2611.12527)** NEW
-
-*Published: 2026-11-09*
-
-*Sang-Hoon Lee, Ha-Yeong Choi*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/sh-lee-prml/WaveGen)
 
 ---
 
