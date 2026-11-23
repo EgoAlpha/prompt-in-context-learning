@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-23
+
+**[MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)** NEW
+
+*Published: 2026-11-16*
+
+*Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
+
+---
+
+
+**[FastFrames: Video Generation at Interactive Latency](https://huggingface.co/papers/2611.23226)** NEW
+
+*Published: 2026-11-17*
+
+*Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+
+---
+
+
+**[Weight-Space Programming Doesn't Need Transformers](https://huggingface.co/papers/2611.22055)** NEW
+
+*Published: 2026-11-17*
+
+*Hyunjong Ok, Jaeho Lee*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
+
+---
+
+
+**[ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](https://huggingface.co/papers/2611.21099)** NEW
+
+*Published: 2026-11-16*
+
+*Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen, Mike Zheng Shou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/showlab/ForceHarness)
+
+---
+
+
+**[Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE](https://huggingface.co/papers/2610.27598)** NEW
+
+*Published: 2026-10-20*
+
+*Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou, Yicheng Gu, Hanjing Wang, Qirui Zeng, Ming Zhang, Ning Ding, Qipeng Guo, Youbang Sun, Biqing Qi, Bowen Zhou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/InternLM/Intern-S2-Mobius)
+
+---
+
+
+
+
 ### 2026-11-22
 
-**[Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** NEW
+**[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://huggingface.co/papers/2611.26409)** NEW
 
-*Published: 2026-11-06*
+*Published: 2026-11-19*
 
-*William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
+*Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[LynnReal-Hand: Unlocking World Interaction with Hand Control](https://huggingface.co/papers/2611.21479)** NEW
-
-*Published: 2026-11-16*
-
-*Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
-
----
-
-
-**[InclusionMed: Benchmarking AI for Inclusive Healthcare](https://huggingface.co/papers/2611.21218)** NEW
-
-*Published: 2026-11-16*
-
-*InclusionMed Collaboration*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tencent/WeMM-Video)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://huggingface.co/papers/2611.26409)** NEW
+**[InclusionMed: Benchmarking AI for Inclusive Healthcare](https://huggingface.co/papers/2611.21218)** NEW
 
-*Published: 2026-11-19*
+*Published: 2026-11-16*
 
-*Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu*
+*InclusionMed Collaboration*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tencent/WeMM-Video)
+[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
+
+---
+
+
+**[LynnReal-Hand: Unlocking World Interaction with Hand Control](https://huggingface.co/papers/2611.21479)** NEW
+
+*Published: 2026-11-16*
+
+*Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
+
+---
+
+
+**[Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** NEW
+
+*Published: 2026-11-06*
+
+*William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -89,7 +148,7 @@ Complete history news
 
 *Haoqing Wang, Xiaoyi Zhang, Sicheng Fan, Zhexin Zhang, Xinjie Zhang, Jiahao Li, Bin Li, Yan Lu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/microsoft/Hybrid-Computer-Use)
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/microsoft/Hybrid-Computer-Use)
 
 ---
 
@@ -218,7 +277,7 @@ Complete history news
 
 *Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen, Zhineng Wang, Yuyang Hu, Ke Yang, Yuyu Zhang, Ping Nie, Jiawei Han, ChengXiang Zhai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/hexuan21/MemoryTax)
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/hexuan21/MemoryTax)
 
 ---
 
@@ -240,7 +299,7 @@ Complete history news
 
 *Yifan Wang, Weiguang Zhao, Ni Yang, Haoyu Guo, Junting Dong, Weinan Zhang, Chunhua Shen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-217-blue)](https://github.com/yyfz/Pi4)
+[![](https://img.shields.io/badge/GitHub%20Stars-430-blue)](https://github.com/yyfz/Pi4)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-161-blue)](https://github.com/inclusionAI/Duo)
-
----
-
-
-
-
-### 2026-11-17
-
-**[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077)** NEW
-
-*Published: 2026-10-26*
-
-*Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/InfRec-Cardinal/The-Trinity)
-
----
-
-
-**[L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614)** NEW
-
-*Published: 2026-10-29*
-
-*Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim, Kaeun Han, Yoonjin Yoon, Seungryong Kim*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/cvlab-kaist/L3G-World)
-
----
-
-
-**[Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://huggingface.co/papers/2611.12304)** NEW
-
-*Published: 2026-11-09*
-
-*Hao Kang, Weili Xu, Ziyang Li, Zheng Du, Hanchen Li, Tian Xia, Song Bian, Tushar Krishna, Huizi Mao, Ion Stoica, Song Han*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-162-blue)](https://github.com/mit-han-lab/EvolvingInfra)
-
----
-
-
-**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** NEW
-
-*Published: 2026-11-13*
-
-*Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Guiyu Ma, Tianyu Fan, Longze Chen, Hao Sun, Jiaming Li, Jiaming Yang, Xiaohao Liu, Tao Tan, Minzheng Wang, Hangtian Jia, Shuai Yuan, Lvdi Wang, Xiao Liu, Chao Ma, Yuting Zou, Yinhe Zheng, Xiaobo Xia, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,058-blue)](https://github.com/RainBowLuoCS/Gamer)
-
----
-
-
-**[MIRIX-2.0: Multi-Agent Memory System](https://huggingface.co/papers/2611.12068)** NEW
-
-*Published: 2026-11-09*
-
-*Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia, Yu Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-3,508-blue)](https://github.com/Mirix-AI/MIRIX)
 
 ---
 
