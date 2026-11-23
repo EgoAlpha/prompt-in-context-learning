@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-22]**
+### **[2026-11-23]**
 
-[**Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model**](https://huggingface.co/papers/2611.08977) （**New**）
-
-*Published: 2026-11-06*
-
-<font color="gray">William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**LynnReal-Hand: Unlocking World Interaction with Hand Control**](https://huggingface.co/papers/2611.21479) （**New**）
+[**MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding**](https://huggingface.co/papers/2611.20992) （**New**）
 
 *Published: 2026-11-16*
 
-<font color="gray">Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma - [arXiv]</font>
+<font color="gray">Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
+[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
 
 ---
 
 
-[**InclusionMed: Benchmarking AI for Inclusive Healthcare**](https://huggingface.co/papers/2611.21218) （**New**）
+[**FastFrames: Video Generation at Interactive Latency**](https://huggingface.co/papers/2611.23226) （**New**）
+
+*Published: 2026-11-17*
+
+<font color="gray">Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+
+---
+
+
+[**Weight-Space Programming Doesn't Need Transformers**](https://huggingface.co/papers/2611.22055) （**New**）
+
+*Published: 2026-11-17*
+
+<font color="gray">Hyunjong Ok, Jaeho Lee - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
+
+---
+
+
+[**ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models**](https://huggingface.co/papers/2611.21099) （**New**）
 
 *Published: 2026-11-16*
 
-<font color="gray">InclusionMed Collaboration - [arXiv]</font>
+<font color="gray">Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen, Mike Zheng Shou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
-
----
-
-
-[**FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning**](https://huggingface.co/papers/2611.08240) （**New**）
-
-*Published: 2026-11-05*
-
-<font color="gray">Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/showlab/ForceHarness)
 
 ---
 
 
-[**WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding**](https://huggingface.co/papers/2611.26409) （**New**）
+[**Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE**](https://huggingface.co/papers/2610.27598) （**New**）
 
-*Published: 2026-11-19*
+*Published: 2026-10-20*
 
-<font color="gray">Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu - [arXiv]</font>
+<font color="gray">Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou, Yicheng Gu, Hanjing Wang, Qirui Zeng, Ming Zhang, Ning Ding, Qipeng Guo, Youbang Sun, Biqing Qi, Bowen Zhou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tencent/WeMM-Video)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/InternLM/Intern-S2-Mobius)
 
 ---
 
