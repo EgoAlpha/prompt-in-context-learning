@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-11-23
+### 2026-11-24
 
-**[MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)** NEW
+**[Clover-35B-A3B-Preview Technical Report](https://huggingface.co/papers/2611.24636)** NEW
+
+*Published: 2026-11-18*
+
+*DiffuSpace Technical Team*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/DiffuSpace/Clover-35B-A3B-Preview)
+
+---
+
+
+**[ALIVE: Making Streaming Video Models Interactive](https://huggingface.co/papers/2611.21366)** NEW
 
 *Published: 2026-11-16*
 
-*Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng*
+*Jinzhao Li, Yuan Xu, Jinxuan Wu, Yukun Wang, Yijia Lei, Hanyu Ji, Yinuo Chen, Zining Huang, Chi Zhang, Hang Ye, Yiwu Zhong, Honglei Yan, Panwang Pan, Yizhou Wang, Yin Li, Miao Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
-
----
-
-
-**[FastFrames: Video Generation at Interactive Latency](https://huggingface.co/papers/2611.23226)** NEW
-
-*Published: 2026-11-17*
-
-*Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/lijinzhao30/ALIVE)
 
 ---
 
 
-**[Weight-Space Programming Doesn't Need Transformers](https://huggingface.co/papers/2611.22055)** NEW
+**[AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark](https://huggingface.co/papers/2610.31466)** NEW
 
-*Published: 2026-11-17*
+*Published: 2026-10-22*
 
-*Hyunjong Ok, Jaeho Lee*
+*Ruicong Liu, Liangyang Ouyang, Fengbo Lan, Zhixiang Wang, Kaipeng Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/AlayaLab/AnyGameRenderer)
+
+---
+
+
+**[Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](https://huggingface.co/papers/2610.30755)** NEW
+
+*Published: 2026-10-22*
+
+*Zhengye Bao, Shengtao Zhang, Haokai Zhang, Shiqi Lou, Muning Wen, Minnan Luo*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/Litmeb/RAW-RAG)
+
+---
+
+
+**[Supervising the Visible State: Separating Representation from View Selection in Streaming Video](https://huggingface.co/papers/2610.34926)** NEW
+
+*Published: 2026-10-26*
+
+*Yihao Hu, Pan Wang, Yitong Lin, Zhihao Wen, Deyuan Liu, Hang Wang, Mingda Wan, Yiwen Zhao, Yutong Li, Yuchen Mao, Tao Lin*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/yihaohu0118/ViSS)
+
+---
+
+
+
+
+### 2026-11-23
+
+**[Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE](https://huggingface.co/papers/2610.27598)** NEW
+
+*Published: 2026-10-20*
+
+*Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou, Yicheng Gu, Hanjing Wang, Qirui Zeng, Ming Zhang, Ning Ding, Qipeng Guo, Youbang Sun, Biqing Qi, Bowen Zhou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/InternLM/Intern-S2-Mobius)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE](https://huggingface.co/papers/2610.27598)** NEW
+**[Weight-Space Programming Doesn't Need Transformers](https://huggingface.co/papers/2611.22055)** NEW
 
-*Published: 2026-10-20*
+*Published: 2026-11-17*
 
-*Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou, Yicheng Gu, Hanjing Wang, Qirui Zeng, Ming Zhang, Ning Ding, Qipeng Guo, Youbang Sun, Biqing Qi, Bowen Zhou*
+*Hyunjong Ok, Jaeho Lee*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/InternLM/Intern-S2-Mobius)
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
+
+---
+
+
+**[FastFrames: Video Generation at Interactive Latency](https://huggingface.co/papers/2611.23226)** NEW
+
+*Published: 2026-11-17*
+
+*Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+
+---
+
+
+**[MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)** NEW
+
+*Published: 2026-11-16*
+
+*Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
 
 ---
 
@@ -159,7 +218,7 @@ Complete history news
 
 *Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
+[![](https://img.shields.io/badge/GitHub%20Stars-66-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
 
 ---
 
@@ -170,7 +229,7 @@ Complete history news
 
 *Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/Carol-lyh/Jeveration)
+[![](https://img.shields.io/badge/GitHub%20Stars-146-blue)](https://github.com/Carol-lyh/Jeveration)
 
 ---
 
@@ -196,7 +255,7 @@ Complete history news
 
 *Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang, Xiaolin Hu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/JusperLee/Falcon)
+[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/JusperLee/Falcon)
 
 ---
 
@@ -207,7 +266,7 @@ Complete history news
 
 *Qile Jiang, George Em Karniadakis*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/Qile-J/SwarmEvolve)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/Qile-J/SwarmEvolve)
 
 ---
 
@@ -218,7 +277,7 @@ Complete history news
 
 *Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, Xinji Mai, Haowen Gao, Zhuo Zhang, Xuchen Pan, Mengsu Ding, Jiaji Deng, Yuexiang Xie, Xiaoming Qin, Weirui Kuang, Zhaoyang Liu, Yaliang Li, Bolin Ding, Jingren Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/agentscope-ai/Piccolo)
+[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/agentscope-ai/Piccolo)
 
 ---
 
@@ -229,7 +288,7 @@ Complete history news
 
 *Ruoyu Wang, Hao Zhong, Yanming Yang, Jiahao Tian, Lin Liu, Biao Gong, Guoshan Lu, Yiding Tian, Chunhua Shen, Zhenzhong Lan, Chi Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-139-blue)](https://github.com/inclusionAI/CodeWorldModel)
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/inclusionAI/CodeWorldModel)
 
 ---
 
@@ -240,7 +299,7 @@ Complete history news
 
 *Shengxiang Lin, Jiajie Su, Pengyang Zhou, Xiang Chen, Xiaolin Zheng, Feng Tian, Chaochao Chen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-156-blue)](https://github.com/Shengxiang-Lin/PGPO)
+[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Shengxiang-Lin/PGPO)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Yifan Wang, Weiguang Zhao, Ni Yang, Haoyu Guo, Junting Dong, Weinan Zhang, Chunhua Shen*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-430-blue)](https://github.com/yyfz/Pi4)
-
----
-
-
-
-
-### 2026-11-18
-
-**[MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](https://huggingface.co/papers/2611.21339)** NEW
-
-*Published: 2026-11-16*
-
-*Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-197-blue)](https://github.com/Tencent-Hunyuan/MovieRoll)
-
----
-
-
-**[TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](https://huggingface.co/papers/2611.17331)** NEW
-
-*Published: 2026-11-12*
-
-*Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen, Yu-Chiang Frank Wang, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu, Cheng Sun*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-75-blue)](https://github.com/NVlabs/DVSM)
-
----
-
-
-**[Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** NEW
-
-*Published: 2026-11-11*
-
-*Arpit Jadon, Valentinos Pariza, Jona Ruthardt, Ryousuke Yamada, A. Sophia Koepke, Andrei Bursuc, Yuki M. Asano*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-119-blue)](https://github.com/OpenVisionBanana/OpenVisionBanana)
-
----
-
-
-**[VoxMel TTS Technical Report](https://huggingface.co/papers/2611.20254)** NEW
-
-*Published: 2026-11-15*
-
-*Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu, Wangjin Zhou, Lin Li, Qingyang Hong, Xie Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-204-blue)](https://github.com/VoxDance-Lab/VoxMel)
-
----
-
-
-**[Duo: A Reciprocal World Model for Full-Duplex Interaction](https://huggingface.co/papers/2611.15131)** NEW
-
-*Published: 2026-11-11*
-
-*Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-161-blue)](https://github.com/inclusionAI/Duo)
 
 ---
 
