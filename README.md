@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-24]**
+### **[2026-11-25]**
 
-[**Clover-35B-A3B-Preview Technical Report**](https://huggingface.co/papers/2611.24636) （**New**）
+[**3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets**](https://huggingface.co/papers/2611.30013) （**New**）
+
+*Published: 2026-11-23*
+
+<font color="gray">Bohan Zeng, Kaixin Zhu, Yifan Yang, Dongge Yu, Zihao Wu, Yifan Dai, Zhou Liu, Junbo Niu, Xiaochen Ma, Shiran Ge, Zimo Meng, Junzhu Liang, Huanyao Zhang, Jinhang Liu, Tianqi Xiao, Jinhao Zhang, Tianyi  - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,380-blue)](https://github.com/OpenDCAI/GameFactory-3A)
+
+---
+
+
+[**ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents**](https://huggingface.co/papers/2611.31198) （**New**）
+
+*Published: 2026-11-23*
+
+<font color="gray">Rui Sun, Junhua Huang, Luca Zancato, Md Mofijul Islam, Kai-Wei Chang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-597-blue)](https://github.com/uclanlp/OpenVLHarness)
+
+---
+
+
+[**Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain**](https://huggingface.co/papers/2611.26511) （**New**）
+
+*Published: 2026-11-19*
+
+<font color="gray">Shuang Wu, Jiachen Qian, Youtian Lin, Feihu Zhang, Philip Torr, Yao Yao, Xun Cao - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/DreamTechAI/Direct3D-V3)
+
+---
+
+
+[**Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU**](https://huggingface.co/papers/2611.25279) （**New**）
 
 *Published: 2026-11-18*
 
-<font color="gray">DiffuSpace Technical Team - [arXiv]</font>
+<font color="gray">Jaafar Mahmoud, Arthur Movsesyan, Cuong Huynh, Mikhail Iumanov, Sergey Zagoruyko, Sergey Kolyubin - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/DiffuSpace/Clover-35B-A3B-Preview)
+[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/be2rlab/ACCORD)
 
 ---
 
 
-[**ALIVE: Making Streaming Video Models Interactive**](https://huggingface.co/papers/2611.21366) （**New**）
+[**WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection**](https://huggingface.co/papers/2611.21373) （**New**）
 
 *Published: 2026-11-16*
 
-<font color="gray">Jinzhao Li, Yuan Xu, Jinxuan Wu, Yukun Wang, Yijia Lei, Hanyu Ji, Yinuo Chen, Zining Huang, Chi Zhang, Hang Ye, Yiwu Zhong, Honglei Yan, Panwang Pan, Yizhou Wang, Yin Li, Miao Liu - [arXiv]</font>
+<font color="gray">Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun, Chen Li, Jing Lyu, Ying Tai - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/lijinzhao30/ALIVE)
-
----
-
-
-[**AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark**](https://huggingface.co/papers/2610.31466) （**New**）
-
-*Published: 2026-10-22*
-
-<font color="gray">Ruicong Liu, Liangyang Ouyang, Fengbo Lan, Zhixiang Wang, Kaipeng Zhang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/AlayaLab/AnyGameRenderer)
-
----
-
-
-[**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought**](https://huggingface.co/papers/2610.30755) （**New**）
-
-*Published: 2026-10-22*
-
-<font color="gray">Zhengye Bao, Shengtao Zhang, Haokai Zhang, Shiqi Lou, Muning Wen, Minnan Luo - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/Litmeb/RAW-RAG)
-
----
-
-
-[**Supervising the Visible State: Separating Representation from View Selection in Streaming Video**](https://huggingface.co/papers/2610.34926) （**New**）
-
-*Published: 2026-10-26*
-
-<font color="gray">Yihao Hu, Pan Wang, Yitong Lin, Zhihao Wen, Deyuan Liu, Hang Wang, Mingda Wan, Yiwen Zhao, Yutong Li, Yuchen Mao, Tao Lin - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/yihaohu0118/ViSS)
+[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/Tencent/WeVisForensics)
 
 ---
 
