@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-25]**
+### **[2026-11-26]**
 
-[**3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets**](https://huggingface.co/papers/2611.30013) （**New**）
-
-*Published: 2026-11-23*
-
-<font color="gray">Bohan Zeng, Kaixin Zhu, Yifan Yang, Dongge Yu, Zihao Wu, Yifan Dai, Zhou Liu, Junbo Niu, Xiaochen Ma, Shiran Ge, Zimo Meng, Junzhu Liang, Huanyao Zhang, Jinhang Liu, Tianqi Xiao, Jinhao Zhang, Tianyi  - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,380-blue)](https://github.com/OpenDCAI/GameFactory-3A)
-
----
-
-
-[**ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents**](https://huggingface.co/papers/2611.31198) （**New**）
-
-*Published: 2026-11-23*
-
-<font color="gray">Rui Sun, Junhua Huang, Luca Zancato, Md Mofijul Islam, Kai-Wei Chang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-597-blue)](https://github.com/uclanlp/OpenVLHarness)
-
----
-
-
-[**Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain**](https://huggingface.co/papers/2611.26511) （**New**）
+[**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**](https://huggingface.co/papers/2611.26414) （**New**）
 
 *Published: 2026-11-19*
 
-<font color="gray">Shuang Wu, Jiachen Qian, Youtian Lin, Feihu Zhang, Philip Torr, Yao Yao, Xun Cao - [arXiv]</font>
+<font color="gray">Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie, Zehao Chen, Fuzhen Zhuang, Kaixuan Wang, Xiaozhi Chen, Yikun Ban, Deqing Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/DreamTechAI/Direct3D-V3)
-
----
-
-
-[**Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU**](https://huggingface.co/papers/2611.25279) （**New**）
-
-*Published: 2026-11-18*
-
-<font color="gray">Jaafar Mahmoud, Arthur Movsesyan, Cuong Huynh, Mikhail Iumanov, Sergey Zagoruyko, Sergey Kolyubin - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-79-blue)](https://github.com/be2rlab/ACCORD)
+[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/hzx122/ZeroVLN)
 
 ---
 
 
-[**WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection**](https://huggingface.co/papers/2611.21373) （**New**）
+[**Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness**](https://huggingface.co/papers/2611.31201) （**New**）
 
-*Published: 2026-11-16*
+*Published: 2026-11-23*
 
-<font color="gray">Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun, Chen Li, Jing Lyu, Ying Tai - [arXiv]</font>
+<font color="gray">Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang, Mingqian Zhou, Nuo Chen, Ziming Li, Yihang Luo, Rui Li, Zhonghua Wu, Tianyu Xie, Xiawu Zheng, Zhongang Cai, Zhi Hou, Chen Change Loy - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/Tencent/WeVisForensics)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/DravenALG/Embo-Harness)
+
+---
+
+
+[**Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding**](https://huggingface.co/papers/2611.12901) （**New**）
+
+*Published: 2026-10-14*
+
+<font color="gray">Zhongxing Xu, Zhonghua Wang, Zhe Qian, Shiyan Su, Ming Hu, Xiaocheng Zou, Wei Feng, Mingquan Lin, Yuyin Zhou, Yifan Peng, Hamid Rezatofighi, Zongyuan Ge - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/mdlm-steprefine/mdlm-steprefine)
+
+---
+
+
+[**Duopra: From Full-Duplex Conversation to Full-Duplex Agency**](https://huggingface.co/papers/2611.25773) （**New**）
+
+*Published: 2026-11-19*
+
+<font color="gray">Chiyu Chen, Pengzhou Cheng, Yuezhao Ma, Xiaocheng Li, Can Liu, Haonan Hu, Yao Yao, Yifei Yang, Yijie Lu, Taolei Wang, Yansi Li, Muhuan Wu, Chenglu Sun, Gongshen Liu, Zhuosheng Zhang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/cyChen2003/duopra)
+
+---
+
+
+[**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**](https://huggingface.co/papers/2611.26444) （**New**）
+
+*Published: 2026-11-19*
+
+<font color="gray">Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang, Ziyi Xiong, Yang Li, Zhengwei Xie, Zhimin Wang, Zhen Liu, Jiazhen Huang, Yuzheng Zhang, Yuche Liu, Hongyi Yang, Chen Tang, Shixiang Tang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/Mind2Act/Mind2Act_World)
 
 ---
 
