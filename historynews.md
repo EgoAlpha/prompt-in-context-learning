@@ -11,37 +11,74 @@ Complete history news
 
 
 
-### 2026-11-25
+### 2026-11-26
 
-**[3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets](https://huggingface.co/papers/2611.30013)** NEW
-
-*Published: 2026-11-23*
-
-*Bohan Zeng, Kaixin Zhu, Yifan Yang, Dongge Yu, Zihao Wu, Yifan Dai, Zhou Liu, Junbo Niu, Xiaochen Ma, Shiran Ge, Zimo Meng, Junzhu Liang, Huanyao Zhang, Jinhang Liu, Tianqi Xiao, Jinhao Zhang, Tianyi Bai, Zhixiong Zeng, Penghao Zhao, Yuanbo Peng, Key Zhang, Wentao Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,380-blue)](https://github.com/OpenDCAI/GameFactory-3A)
-
----
-
-
-**[ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents](https://huggingface.co/papers/2611.31198)** NEW
-
-*Published: 2026-11-23*
-
-*Rui Sun, Junhua Huang, Luca Zancato, Md Mofijul Islam, Kai-Wei Chang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-597-blue)](https://github.com/uclanlp/OpenVLHarness)
-
----
-
-
-**[Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://huggingface.co/papers/2611.26511)** NEW
+**[ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](https://huggingface.co/papers/2611.26414)** NEW
 
 *Published: 2026-11-19*
 
-*Shuang Wu, Jiachen Qian, Youtian Lin, Feihu Zhang, Philip Torr, Yao Yao, Xun Cao*
+*Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie, Zehao Chen, Fuzhen Zhuang, Kaixuan Wang, Xiaozhi Chen, Yikun Ban, Deqing Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/DreamTechAI/Direct3D-V3)
+[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/hzx122/ZeroVLN)
+
+---
+
+
+**[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://huggingface.co/papers/2611.31201)** NEW
+
+*Published: 2026-11-23*
+
+*Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang, Mingqian Zhou, Nuo Chen, Ziming Li, Yihang Luo, Rui Li, Zhonghua Wu, Tianyu Xie, Xiawu Zheng, Zhongang Cai, Zhi Hou, Chen Change Loy*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/DravenALG/Embo-Harness)
+
+---
+
+
+**[Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding](https://huggingface.co/papers/2611.12901)** NEW
+
+*Published: 2026-10-14*
+
+*Zhongxing Xu, Zhonghua Wang, Zhe Qian, Shiyan Su, Ming Hu, Xiaocheng Zou, Wei Feng, Mingquan Lin, Yuyin Zhou, Yifan Peng, Hamid Rezatofighi, Zongyuan Ge*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/mdlm-steprefine/mdlm-steprefine)
+
+---
+
+
+**[Duopra: From Full-Duplex Conversation to Full-Duplex Agency](https://huggingface.co/papers/2611.25773)** NEW
+
+*Published: 2026-11-19*
+
+*Chiyu Chen, Pengzhou Cheng, Yuezhao Ma, Xiaocheng Li, Can Liu, Haonan Hu, Yao Yao, Yifei Yang, Yijie Lu, Taolei Wang, Yansi Li, Muhuan Wu, Chenglu Sun, Gongshen Liu, Zhuosheng Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/cyChen2003/duopra)
+
+---
+
+
+**[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://huggingface.co/papers/2611.26444)** NEW
+
+*Published: 2026-11-19*
+
+*Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang, Ziyi Xiong, Yang Li, Zhengwei Xie, Zhimin Wang, Zhen Liu, Jiazhen Huang, Yuzheng Zhang, Yuche Liu, Hongyi Yang, Chen Tang, Shixiang Tang, Hakan Aktas, Adam Wu, Duo Wu, Kangye Ji, Shuzhao Xie, Huanan Liu, Weijue Bu, Chenxin Li, Xinyuan Wang, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/Mind2Act/Mind2Act_World)
+
+---
+
+
+
+
+### 2026-11-25
+
+**[WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://huggingface.co/papers/2611.21373)** NEW
+
+*Published: 2026-11-16*
+
+*Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun, Chen Li, Jing Lyu, Ying Tai*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/Tencent/WeVisForensics)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://huggingface.co/papers/2611.21373)** NEW
+**[Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain](https://huggingface.co/papers/2611.26511)** NEW
 
-*Published: 2026-11-16*
+*Published: 2026-11-19*
 
-*Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun, Chen Li, Jing Lyu, Ying Tai*
+*Shuang Wu, Jiachen Qian, Youtian Lin, Feihu Zhang, Philip Torr, Yao Yao, Xun Cao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/Tencent/WeVisForensics)
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/DreamTechAI/Direct3D-V3)
+
+---
+
+
+**[ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents](https://huggingface.co/papers/2611.31198)** NEW
+
+*Published: 2026-11-23*
+
+*Rui Sun, Junhua Huang, Luca Zancato, Md Mofijul Islam, Kai-Wei Chang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-606-blue)](https://github.com/uclanlp/OpenVLHarness)
+
+---
+
+
+**[3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets](https://huggingface.co/papers/2611.30013)** NEW
+
+*Published: 2026-11-23*
+
+*Bohan Zeng, Kaixin Zhu, Yifan Yang, Dongge Yu, Zihao Wu, Yifan Dai, Zhou Liu, Junbo Niu, Xiaochen Ma, Shiran Ge, Zimo Meng, Junzhu Liang, Huanyao Zhang, Jinhang Liu, Tianqi Xiao, Jinhao Zhang, Tianyi Bai, Zhixiong Zeng, Penghao Zhao, Yuanbo Peng, Key Zhang, Wentao Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,389-blue)](https://github.com/OpenDCAI/GameFactory-3A)
 
 ---
 
@@ -207,7 +266,7 @@ Complete history news
 
 *Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
+[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
 
 ---
 
@@ -218,7 +277,7 @@ Complete history news
 
 *InclusionMed Collaboration*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
+[![](https://img.shields.io/badge/GitHub%20Stars-77-blue)](https://github.com/panuvi/inclusionmed)
 
 ---
 
@@ -229,7 +288,7 @@ Complete history news
 
 *Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
+[![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/LynnReal-AI/LynnReal)
 
 ---
 
@@ -240,7 +299,7 @@ Complete history news
 
 *William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-694-blue)](https://github.com/apple-aiml-research/ml-depth-pro-2)
-
----
-
-
-
-
-### 2026-11-20
-
-**[Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749)** NEW
-
-*Published: 2026-10-23*
-
-*Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang, Xiaolin Hu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/JusperLee/Falcon)
-
----
-
-
-**[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://huggingface.co/papers/2611.08483)** NEW
-
-*Published: 2026-11-05*
-
-*Qile Jiang, George Em Karniadakis*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/Qile-J/SwarmEvolve)
-
----
-
-
-**[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://huggingface.co/papers/2611.24651)** NEW
-
-*Published: 2026-11-18*
-
-*Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, Xinji Mai, Haowen Gao, Zhuo Zhang, Xuchen Pan, Mengsu Ding, Jiaji Deng, Yuexiang Xie, Xiaoming Qin, Weirui Kuang, Zhaoyang Liu, Yaliang Li, Bolin Ding, Jingren Zhou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/agentscope-ai/Piccolo)
-
----
-
-
-**[Code World Model 2.0: Towards Infinite Controllable Video Generation](https://huggingface.co/papers/2611.22925)** NEW
-
-*Published: 2026-11-18*
-
-*Ruoyu Wang, Hao Zhong, Yanming Yang, Jiahao Tian, Lin Liu, Biao Gong, Guoshan Lu, Yiding Tian, Chunhua Shen, Zhenzhong Lan, Chi Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/inclusionAI/CodeWorldModel)
-
----
-
-
-**[PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation](https://huggingface.co/papers/2611.23236)** NEW
-
-*Published: 2026-08-26*
-
-*Shengxiang Lin, Jiajie Su, Pengyang Zhou, Xiang Chen, Xiaolin Zheng, Feng Tian, Chaochao Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Shengxiang-Lin/PGPO)
 
 ---
 
