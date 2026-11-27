@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-26]**
+### **[2026-11-27]**
 
-[**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**](https://huggingface.co/papers/2611.26414) （**New**）
+[**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**](https://huggingface.co/papers/2611.34907) （**New**）
 
-*Published: 2026-11-19*
+*Published: 2026-11-25*
 
-<font color="gray">Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie, Zehao Chen, Fuzhen Zhuang, Kaixuan Wang, Xiaozhi Chen, Yikun Ban, Deqing Wang - [arXiv]</font>
+<font color="gray">Shaoteng Liu, Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/hzx122/ZeroVLN)
-
----
-
-
-[**Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness**](https://huggingface.co/papers/2611.31201) （**New**）
-
-*Published: 2026-11-23*
-
-<font color="gray">Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang, Mingqian Zhou, Nuo Chen, Ziming Li, Yihang Luo, Rui Li, Zhonghua Wu, Tianyu Xie, Xiawu Zheng, Zhongang Cai, Zhi Hou, Chen Change Loy - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/DravenALG/Embo-Harness)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,913-blue)](https://github.com/NVlabs/LongLive)
 
 ---
 
 
-[**Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding**](https://huggingface.co/papers/2611.12901) （**New**）
+[**Letting Models Manage Their Own Context: Where We Stand**](https://huggingface.co/papers/2611.34147) （**New**）
 
-*Published: 2026-10-14*
+*Published: 2026-11-25*
 
-<font color="gray">Zhongxing Xu, Zhonghua Wang, Zhe Qian, Shiyan Su, Ming Hu, Xiaocheng Zou, Wei Feng, Mingquan Lin, Yuyin Zhou, Yifan Peng, Hamid Rezatofighi, Zongyuan Ge - [arXiv]</font>
+<font color="gray">Alessio Devoto, Avinash Vem, Tara Safavi, Sanjay Kariyappa, Yu-Hsuan Tseng, Paul Furgale, Ricardo Silveira Cabral - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/mdlm-steprefine/mdlm-steprefine)
-
----
-
-
-[**Duopra: From Full-Duplex Conversation to Full-Duplex Agency**](https://huggingface.co/papers/2611.25773) （**New**）
-
-*Published: 2026-11-19*
-
-<font color="gray">Chiyu Chen, Pengzhou Cheng, Yuezhao Ma, Xiaocheng Li, Can Liu, Haonan Hu, Yao Yao, Yifei Yang, Yijie Lu, Taolei Wang, Yansi Li, Muhuan Wu, Chenglu Sun, Gongshen Liu, Zhuosheng Zhang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/cyChen2003/duopra)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,333-blue)](https://github.com/nvidia-nemo/labs-OO-Agents)
 
 ---
 
 
-[**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**](https://huggingface.co/papers/2611.26444) （**New**）
+[**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**](https://huggingface.co/papers/2611.33144) （**New**）
 
-*Published: 2026-11-19*
+*Published: 2026-11-24*
 
-<font color="gray">Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang, Ziyi Xiong, Yang Li, Zhengwei Xie, Zhimin Wang, Zhen Liu, Jiazhen Huang, Yuzheng Zhang, Yuche Liu, Hongyi Yang, Chen Tang, Shixiang Tang - [arXiv]</font>
+<font color="gray">Feixiang Ruan, Guodong Lv, Kewei Zhang, Wenbo Huang, Yintianrun Zhang, Qiang Wang, Ruiyang Si, Shunyu Yang, Shulong Jiang, Weicheng Duan, Rui Ni, Jianxin Bi, Lekai Wang, Yuze Fan, Haobo Li, Zeliang Fu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/Mind2Act/Mind2Act_World)
+[![](https://img.shields.io/badge/GitHub%20Stars-296-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex)
+
+---
+
+
+[**Mixture-of-Loops Transformer**](https://huggingface.co/papers/2611.34923) （**New**）
+
+*Published: 2026-11-25*
+
+<font color="gray">Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai, Bo Wang, Xiang Bai - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/hustvl/MoLT)
+
+---
+
+
+[**Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents**](https://huggingface.co/papers/2611.17167) （**New**）
+
+*Published: 2026-11-12*
+
+<font color="gray">Haochen Liu, Qianhao Zhu, Zixuan Wang, Dingming Li, Tongbo Chen, Peng Qiu, Yingqi Qu, Weiming Lu, Jun Xiao, Yongliang Shen - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/ZJU-REAL/decision-agents)
 
 ---
 
