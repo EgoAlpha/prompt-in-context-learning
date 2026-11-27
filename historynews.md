@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-27
+
+**[Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation](https://huggingface.co/papers/2611.34907)** NEW
+
+*Published: 2026-11-25*
+
+*Shaoteng Liu, Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,913-blue)](https://github.com/NVlabs/LongLive)
+
+---
+
+
+**[Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)** NEW
+
+*Published: 2026-11-25*
+
+*Alessio Devoto, Avinash Vem, Tara Safavi, Sanjay Kariyappa, Yu-Hsuan Tseng, Paul Furgale, Ricardo Silveira Cabral*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,333-blue)](https://github.com/nvidia-nemo/labs-OO-Agents)
+
+---
+
+
+**[PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://huggingface.co/papers/2611.33144)** NEW
+
+*Published: 2026-11-24*
+
+*Feixiang Ruan, Guodong Lv, Kewei Zhang, Wenbo Huang, Yintianrun Zhang, Qiang Wang, Ruiyang Si, Shunyu Yang, Shulong Jiang, Weicheng Duan, Rui Ni, Jianxin Bi, Lekai Wang, Yuze Fan, Haobo Li, Zeliang Fu, Jiankun Zhang, Duomin Wang, Enze Xie, Daquan Zhou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-296-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex)
+
+---
+
+
+**[Mixture-of-Loops Transformer](https://huggingface.co/papers/2611.34923)** NEW
+
+*Published: 2026-11-25*
+
+*Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai, Bo Wang, Xiang Bai*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/hustvl/MoLT)
+
+---
+
+
+**[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://huggingface.co/papers/2611.17167)** NEW
+
+*Published: 2026-11-12*
+
+*Haochen Liu, Qianhao Zhu, Zixuan Wang, Dingming Li, Tongbo Chen, Peng Qiu, Yingqi Qu, Weiming Lu, Jun Xiao, Yongliang Shen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/ZJU-REAL/decision-agents)
+
+---
+
+
+
+
 ### 2026-11-26
 
-**[ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](https://huggingface.co/papers/2611.26414)** NEW
+**[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://huggingface.co/papers/2611.26444)** NEW
 
 *Published: 2026-11-19*
 
-*Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie, Zehao Chen, Fuzhen Zhuang, Kaixuan Wang, Xiaozhi Chen, Yikun Ban, Deqing Wang*
+*Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang, Ziyi Xiong, Yang Li, Zhengwei Xie, Zhimin Wang, Zhen Liu, Jiazhen Huang, Yuzheng Zhang, Yuche Liu, Hongyi Yang, Chen Tang, Shixiang Tang, Hakan Aktas, Adam Wu, Duo Wu, Kangye Ji, Shuzhao Xie, Huanan Liu, Weijue Bu, Chenxin Li, Xinyuan Wang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/hzx122/ZeroVLN)
-
----
-
-
-**[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://huggingface.co/papers/2611.31201)** NEW
-
-*Published: 2026-11-23*
-
-*Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang, Mingqian Zhou, Nuo Chen, Ziming Li, Yihang Luo, Rui Li, Zhonghua Wu, Tianyu Xie, Xiawu Zheng, Zhongang Cai, Zhi Hou, Chen Change Loy*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/DravenALG/Embo-Harness)
-
----
-
-
-**[Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding](https://huggingface.co/papers/2611.12901)** NEW
-
-*Published: 2026-10-14*
-
-*Zhongxing Xu, Zhonghua Wang, Zhe Qian, Shiyan Su, Ming Hu, Xiaocheng Zou, Wei Feng, Mingquan Lin, Yuyin Zhou, Yifan Peng, Hamid Rezatofighi, Zongyuan Ge*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/mdlm-steprefine/mdlm-steprefine)
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/Mind2Act/Mind2Act_World)
 
 ---
 
@@ -57,13 +94,35 @@ Complete history news
 ---
 
 
-**[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://huggingface.co/papers/2611.26444)** NEW
+**[Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding](https://huggingface.co/papers/2611.12901)** NEW
+
+*Published: 2026-10-14*
+
+*Zhongxing Xu, Zhonghua Wang, Zhe Qian, Shiyan Su, Ming Hu, Xiaocheng Zou, Wei Feng, Mingquan Lin, Yuyin Zhou, Yifan Peng, Hamid Rezatofighi, Zongyuan Ge*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/mdlm-steprefine/mdlm-steprefine)
+
+---
+
+
+**[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://huggingface.co/papers/2611.31201)** NEW
+
+*Published: 2026-11-23*
+
+*Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang, Mingqian Zhou, Nuo Chen, Ziming Li, Yihang Luo, Rui Li, Zhonghua Wu, Tianyu Xie, Xiawu Zheng, Zhongang Cai, Zhi Hou, Chen Change Loy*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/DravenALG/Embo-Harness)
+
+---
+
+
+**[ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](https://huggingface.co/papers/2611.26414)** NEW
 
 *Published: 2026-11-19*
 
-*Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang, Ziyi Xiong, Yang Li, Zhengwei Xie, Zhimin Wang, Zhen Liu, Jiazhen Huang, Yuzheng Zhang, Yuche Liu, Hongyi Yang, Chen Tang, Shixiang Tang, Hakan Aktas, Adam Wu, Duo Wu, Kangye Ji, Shuzhao Xie, Huanan Liu, Weijue Bu, Chenxin Li, Xinyuan Wang, etc.*
+*Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie, Zehao Chen, Fuzhen Zhuang, Kaixuan Wang, Xiaozhi Chen, Yikun Ban, Deqing Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/Mind2Act/Mind2Act_World)
+[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/hzx122/ZeroVLN)
 
 ---
 
@@ -300,65 +359,6 @@ Complete history news
 *William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-
-
-### 2026-11-21
-
-**[ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283)** NEW
-
-*Published: 2026-10-25*
-
-*Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen, Hang Wang, Yiwen Zhao, Deyuan Liu, Yutong Li, Mingda Wan, Yuchen Mao, Tao Lin*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/yihaohu0118/ChronoReplay)
-
----
-
-
-**[Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://huggingface.co/papers/2610.41432)** NEW
-
-*Published: 2026-10-30*
-
-*Haoqing Wang, Xiaoyi Zhang, Sicheng Fan, Zhexin Zhang, Xinjie Zhang, Jiahao Li, Bin Li, Yan Lu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/microsoft/Hybrid-Computer-Use)
-
----
-
-
-**[Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement](https://huggingface.co/papers/2610.40191)** NEW
-
-*Published: 2026-10-29*
-
-*Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-66-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
-
----
-
-
-**[Jeveration: System One Models Now Generate](https://huggingface.co/papers/2611.24738)** NEW
-
-*Published: 2026-11-18*
-
-*Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-146-blue)](https://github.com/Carol-lyh/Jeveration)
-
----
-
-
-**[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://huggingface.co/papers/2611.26603)** NEW
-
-*Published: 2026-11-19*
-
-*Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-694-blue)](https://github.com/apple-aiml-research/ml-depth-pro-2)
 
 ---
 
