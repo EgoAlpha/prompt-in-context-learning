@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-11-27]**
+### **[2026-11-28]**
 
-[**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**](https://huggingface.co/papers/2611.34907) （**New**）
-
-*Published: 2026-11-25*
-
-<font color="gray">Shaoteng Liu, Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,913-blue)](https://github.com/NVlabs/LongLive)
-
----
-
-
-[**Letting Models Manage Their Own Context: Where We Stand**](https://huggingface.co/papers/2611.34147) （**New**）
+[**OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms**](https://huggingface.co/papers/2611.34232) （**New**）
 
 *Published: 2026-11-25*
 
-<font color="gray">Alessio Devoto, Avinash Vem, Tara Safavi, Sanjay Kariyappa, Yu-Hsuan Tseng, Paul Furgale, Ricardo Silveira Cabral - [arXiv]</font>
+<font color="gray">Hui Shen, Yunta Hsieh, Jianing Ma, Zhuoran Yin, Zhuhan Bao, Ziyuan Liu, Qi Han, Xiuqi Xu, Xianbang Wang, Wenhao Chai, Sihan Xu, Chenyang Zhao, Yanheng Shang, Dongfu Jiang, Rui Sun, Xingzhi Li, Chenqi  - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,333-blue)](https://github.com/nvidia-nemo/labs-OO-Agents)
-
----
-
-
-[**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**](https://huggingface.co/papers/2611.33144) （**New**）
-
-*Published: 2026-11-24*
-
-<font color="gray">Feixiang Ruan, Guodong Lv, Kewei Zhang, Wenbo Huang, Yintianrun Zhang, Qiang Wang, Ruiyang Si, Shunyu Yang, Shulong Jiang, Weicheng Duan, Rui Ni, Jianxin Bi, Lekai Wang, Yuze Fan, Haobo Li, Zeliang Fu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-296-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex)
+[![](https://img.shields.io/badge/GitHub%20Stars-106-blue)](https://github.com/OS-Copilot/OS-Omni)
 
 ---
 
 
-[**Mixture-of-Loops Transformer**](https://huggingface.co/papers/2611.34923) （**New**）
+[**Restoring Diversity in Distilled Image and Video Generators by Probing Activations**](https://huggingface.co/papers/2611.18550) （**New**）
 
-*Published: 2026-11-25*
+*Published: 2026-11-13*
 
-<font color="gray">Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai, Bo Wang, Xiang Bai - [arXiv]</font>
+<font color="gray">Furkan Horoz, Ozgur Kara, Kaan Oktay, Adil Kaan Akan, Atakan Kara, Anand Bhattad, James Matthew Rehg - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/hustvl/MoLT)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/H-furkan/rediverse)
 
 ---
 
 
-[**Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents**](https://huggingface.co/papers/2611.17167) （**New**）
+[**AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher**](https://huggingface.co/papers/2611.26510) （**New**）
 
-*Published: 2026-11-12*
+*Published: 2026-11-19*
 
-<font color="gray">Haochen Liu, Qianhao Zhu, Zixuan Wang, Dingming Li, Tongbo Chen, Peng Qiu, Yingqi Qu, Weiming Lu, Jun Xiao, Yongliang Shen - [arXiv]</font>
+<font color="gray">Guoxin Chen, Shuang Sun, Fanzhe Meng, Xinyu Tang, Ruihua Song, Wayne Xin Zhao - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/ZJU-REAL/decision-agents)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/RUCAIBox/AutoMaster)
+
+---
+
+
+[**R$^2$Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop**](https://huggingface.co/papers/2610.22740) （**New**）
+
+*Published: 2026-10-22*
+
+<font color="gray">Mingda Zhang, Yun Huang, Qiang Huang, Yanjin Li, Rui Qian, Qichao Zhao, Tiesunlong Shen, Na Zhao, Jian Wang, Xiaoying Tang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/beita6969/R2Orch)
+
+---
+
+
+[**Training Foundation Models with a Single Algorithm**](https://huggingface.co/papers/2610.40564) （**New**）
+
+*Published: 2026-10-29*
+
+<font color="gray">Yuda Song, Alvin Zhang, Fahim Tajwar, Daman Arora, Jeff Schneider, Daniel Khashabi, Ruslan Salakhutdinov, J. Andrew Bagnell, Aarti Singh, Andrea Zanette - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/yudasong/unified-training)
 
 ---
 
