@@ -11,37 +11,74 @@ Complete history news
 
 
 
+### 2026-11-28
+
+**[OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)** NEW
+
+*Published: 2026-11-25*
+
+*Hui Shen, Yunta Hsieh, Jianing Ma, Zhuoran Yin, Zhuhan Bao, Ziyuan Liu, Qi Han, Xiuqi Xu, Xianbang Wang, Wenhao Chai, Sihan Xu, Chenyang Zhao, Yanheng Shang, Dongfu Jiang, Rui Sun, Xingzhi Li, Chenqi Yin, Zesen Zhao, Boyuan Zheng, Jisen Li, Xiaoxia Wu, Ruoyan Zhang, Ruiyao Liu, Jing Xiong, He Xiao, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-106-blue)](https://github.com/OS-Copilot/OS-Omni)
+
+---
+
+
+**[Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://huggingface.co/papers/2611.18550)** NEW
+
+*Published: 2026-11-13*
+
+*Furkan Horoz, Ozgur Kara, Kaan Oktay, Adil Kaan Akan, Atakan Kara, Anand Bhattad, James Matthew Rehg*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/H-furkan/rediverse)
+
+---
+
+
+**[AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher](https://huggingface.co/papers/2611.26510)** NEW
+
+*Published: 2026-11-19*
+
+*Guoxin Chen, Shuang Sun, Fanzhe Meng, Xinyu Tang, Ruihua Song, Wayne Xin Zhao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/RUCAIBox/AutoMaster)
+
+---
+
+
+**[R$^2$Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://huggingface.co/papers/2610.22740)** NEW
+
+*Published: 2026-10-22*
+
+*Mingda Zhang, Yun Huang, Qiang Huang, Yanjin Li, Rui Qian, Qichao Zhao, Tiesunlong Shen, Na Zhao, Jian Wang, Xiaoying Tang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/beita6969/R2Orch)
+
+---
+
+
+**[Training Foundation Models with a Single Algorithm](https://huggingface.co/papers/2610.40564)** NEW
+
+*Published: 2026-10-29*
+
+*Yuda Song, Alvin Zhang, Fahim Tajwar, Daman Arora, Jeff Schneider, Daniel Khashabi, Ruslan Salakhutdinov, J. Andrew Bagnell, Aarti Singh, Andrea Zanette*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/yudasong/unified-training)
+
+---
+
+
+
+
 ### 2026-11-27
 
-**[Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation](https://huggingface.co/papers/2611.34907)** NEW
+**[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://huggingface.co/papers/2611.17167)** NEW
 
-*Published: 2026-11-25*
+*Published: 2026-11-12*
 
-*Shaoteng Liu, Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen*
+*Haochen Liu, Qianhao Zhu, Zixuan Wang, Dingming Li, Tongbo Chen, Peng Qiu, Yingqi Qu, Weiming Lu, Jun Xiao, Yongliang Shen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,913-blue)](https://github.com/NVlabs/LongLive)
-
----
-
-
-**[Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)** NEW
-
-*Published: 2026-11-25*
-
-*Alessio Devoto, Avinash Vem, Tara Safavi, Sanjay Kariyappa, Yu-Hsuan Tseng, Paul Furgale, Ricardo Silveira Cabral*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,333-blue)](https://github.com/nvidia-nemo/labs-OO-Agents)
-
----
-
-
-**[PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://huggingface.co/papers/2611.33144)** NEW
-
-*Published: 2026-11-24*
-
-*Feixiang Ruan, Guodong Lv, Kewei Zhang, Wenbo Huang, Yintianrun Zhang, Qiang Wang, Ruiyang Si, Shunyu Yang, Shulong Jiang, Weicheng Duan, Rui Ni, Jianxin Bi, Lekai Wang, Yuze Fan, Haobo Li, Zeliang Fu, Jiankun Zhang, Duomin Wang, Enze Xie, Daquan Zhou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-296-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/ZJU-REAL/decision-agents)
 
 ---
 
@@ -52,18 +89,40 @@ Complete history news
 
 *Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai, Bo Wang, Xiang Bai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-70-blue)](https://github.com/hustvl/MoLT)
+[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/hustvl/MoLT)
 
 ---
 
 
-**[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://huggingface.co/papers/2611.17167)** NEW
+**[PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://huggingface.co/papers/2611.33144)** NEW
 
-*Published: 2026-11-12*
+*Published: 2026-11-24*
 
-*Haochen Liu, Qianhao Zhu, Zixuan Wang, Dingming Li, Tongbo Chen, Peng Qiu, Yingqi Qu, Weiming Lu, Jun Xiao, Yongliang Shen*
+*Feixiang Ruan, Guodong Lv, Kewei Zhang, Wenbo Huang, Yintianrun Zhang, Qiang Wang, Ruiyang Si, Shunyu Yang, Shulong Jiang, Weicheng Duan, Rui Ni, Jianxin Bi, Lekai Wang, Yuze Fan, Haobo Li, Zeliang Fu, Jiankun Zhang, Duomin Wang, Enze Xie, Daquan Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/ZJU-REAL/decision-agents)
+[![](https://img.shields.io/badge/GitHub%20Stars-298-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex)
+
+---
+
+
+**[Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)** NEW
+
+*Published: 2026-11-25*
+
+*Alessio Devoto, Avinash Vem, Tara Safavi, Sanjay Kariyappa, Yu-Hsuan Tseng, Paul Furgale, Ricardo Silveira Cabral*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,335-blue)](https://github.com/nvidia-nemo/labs-OO-Agents)
+
+---
+
+
+**[Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation](https://huggingface.co/papers/2611.34907)** NEW
+
+*Published: 2026-11-25*
+
+*Shaoteng Liu, Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,919-blue)](https://github.com/NVlabs/LongLive)
 
 ---
 
@@ -266,7 +325,7 @@ Complete history news
 
 *Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen, Mike Zheng Shou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/showlab/ForceHarness)
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/showlab/ForceHarness)
 
 ---
 
@@ -277,7 +336,7 @@ Complete history news
 
 *Hyunjong Ok, Jaeho Lee*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/effl-lab/Weight-Space-Programming)
 
 ---
 
@@ -288,7 +347,7 @@ Complete history news
 
 *Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+[![](https://img.shields.io/badge/GitHub%20Stars-200-blue)](https://github.com/apple-aiml-research/ml-fastframes)
 
 ---
 
@@ -299,66 +358,7 @@ Complete history news
 
 *Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
-
----
-
-
-
-
-### 2026-11-22
-
-**[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://huggingface.co/papers/2611.26409)** NEW
-
-*Published: 2026-11-19*
-
-*Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-149-blue)](https://github.com/Tencent/WeMM-Video)
-
----
-
-
-**[FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning](https://huggingface.co/papers/2611.08240)** NEW
-
-*Published: 2026-11-05*
-
-*Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-99-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
-
----
-
-
-**[InclusionMed: Benchmarking AI for Inclusive Healthcare](https://huggingface.co/papers/2611.21218)** NEW
-
-*Published: 2026-11-16*
-
-*InclusionMed Collaboration*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-77-blue)](https://github.com/panuvi/inclusionmed)
-
----
-
-
-**[LynnReal-Hand: Unlocking World Interaction with Hand Control](https://huggingface.co/papers/2611.21479)** NEW
-
-*Published: 2026-11-16*
-
-*Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/LynnReal-AI/LynnReal)
-
----
-
-
-**[Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** NEW
-
-*Published: 2026-11-06*
-
-*William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-316-blue)](https://github.com/zfkarl/MedJev)
 
 ---
 
